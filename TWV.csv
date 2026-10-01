@@ -1,4 +1,4 @@
-﻿Catalogue,Title,Type,Key,Movement,Instrumentation,Note
+Catalogue,Title,Type,Key,Movement,Instrumentation,Note
 TWV 1:1,Abscheuliche Tiefe des großen Verderbens,Cantata,,,,Sunday after Christmas
 TWV 1:10,"Ach Gott, dein Zion klagt und weint",Cantata,,,,10th Sunday after Trinity
 TWV 1:100,Auf Gott will ich mich stets verlassen,Cantata,,,,Cantates diverses
@@ -2030,7 +2030,7 @@ TWV 12:4,Unare Freude wohnt in dir,,,,"SATB avec 2 piccolo, 2 bassons, 2 violons
 TWV 12:5,Erheitre dich mit guldnen Strahlen,,,,,"[composition non conservée]
 Musique de réjouissance lors de l'anniversaire de naissance du doyen Seelmann"
 TWV 12:6,Erklingt durch gedopelt annehmliche Tone,,,,"SATB avec 2 hautbois, 2 violons, alto, violoncelle et continuo",
-TWV 12:7,"Kommt mit mir, ihr sussen Freuden",Serenata,,,"SATB avec flûte douce, 2 hautbois, 2 bassons, 2 cors, 2 violons, alto, violoncelle et continuo",Sérénade "Le Plaisir"
+TWV 12:7,"Kommt mit mir, ihr sussen Freuden",Serenata,,,"SATB avec flûte douce, 2 hautbois, 2 bassons, 2 cors, 2 violons, alto, violoncelle et continuo","Sérénade ""Le Plaisir"""
 TWV 12:8,Ich will dem Herrn singen mein Lebelang,Cantata,,,"SATB avec 2 hautbois, 2 violons, alto, violoncelle et continuo",Cantate pour l'anniversaire de naissance de la souveraine d'Eisenach
 TWV 12:9,...,Cantata,,,[perdu],Cantate pour l'anniversaire de naissance du roi Christian du Danemark
 TWV 12:deest,"Herr, Herr, lass meinem Mund deines Ruhms",,,,,"Included in 12:deest Geburtstagsmusik Seelmann, Petrus Theodor"
@@ -2348,7 +2348,7 @@ TWV 24:2,Hamburg steht und bluht im Segen,Serenata,,,,sérénade pour un banquet
 TWV 24:3a,"Freuet euch, ihr Ober-Alten, Gott hat diese Stadt erhalten",oratorio,,,,oratorium pour le 200è anniversaire du collège des Ober-Alten de l'état d'Hambourg (réforme - 1728); [composition non conversée]
 TWV 24:3b,Das angensches Wieder-Sachen tragt itzt ein bunten Kleid,Serenata,,,,sérénade pour le 200è anniversaire du collège des Ober-Alten de l'état d'Hambourg (réforme - 1728); [composition non conversée]
 TWV 24:4,Symphonie pour la sérénade,oratorio,,,,fête anniversaire du collège de commerce de Hambourg (1765)
-TWV 24:5,Durch des Krieges Trutz und Macht,oratorio,,,"Solo Bass, Violin, Basso Continuo",composition pour un "Kaufmannschaft" [fragment]
+TWV 24:5,Durch des Krieges Trutz und Macht,oratorio,,,"Solo Bass, Violin, Basso Continuo","composition pour un ""Kaufmannschaft"" [fragment]"
 TWV 25:110,Muffel singt zu ganzen Tagen,,,,"Solo Soprano, Continuo",mélodie incluse dans une ode
 TWV 25:111,Heraclid gleicht stumpfen Greisen,,,,"Solo Soprano, Continuo",mélodie incluse dans une ode
 TWV 25:112,Amor sangt zu Cythere,,,,"Solo Soprano, Continuo",mélodie incluse dans une ode
@@ -4608,7 +4608,7 @@ TWV 44:10,"Quintet, en fa majeur, pour 2 hautbois, 2 cors de chasse et basson",S
 II. Passepied
 III. Sarabande
 IV. Rigaudon
-V. Le Plaisir","2 oboes, 2 natural horns, bassoon",[Ouverture "La Chasse" - Classified by Hoffmann as 55:F9]
+V. Le Plaisir","2 oboes, 2 natural horns, bassoon","[Ouverture ""La Chasse"" - Classified by Hoffmann as 55:F9]"
 TWV 44:11,"Quintet, en fa majeur, pour 2 violons, 2 violes et basse continue",Sonata à 5,F major,"I. Affettuoso
 II. Allegro
 III. Adagio (la mineur)
@@ -4698,11 +4698,11 @@ II. Chasse
 III. Menuet
 IV. La Joye
 V. Sarabande
-VI. Loure","2 oboe / violins, 2 natural horns, bassoon",[Ouverture "La Joie" - Classified by Hoffmann as 55:F5]
+VI. Loure","2 oboe / violins, 2 natural horns, bassoon","[Ouverture ""La Joie"" - Classified by Hoffmann as 55:F5]"
 TWV 44:9,"Quintet, en fa majeur, pour 2 hautbois, 2 cors de chasse et basse continue",Sonata à 5,F major,"I. Ouverture
 II. Rondeau
 III. Menuet
-IV. Gigue","2 oboes, 2 natural horns, basso continuo",[Ouverture "La Fortune" - Classified by Hoffmann as 55:F8]
+IV. Gigue","2 oboes, 2 natural horns, basso continuo","[Ouverture ""La Fortune"" - Classified by Hoffmann as 55:F8]"
 TWV 45:1,"Danse polonaise, en ré majeur",Dance,D major,,/,
 TWV 45:10,"Danse polonaise, en sol majeur",Dance,G major,,/,
 TWV 45:11,"Danse polonaise, en sol majeur",Dance,G major,,/,
@@ -5911,7 +5911,7 @@ IV. Ses Soupirs amoureux après la Princesse Dulcinée
 V. Sanche Panse berné
 VI. Le Galope de Rosinante
 VII. Celui d'Ane de Sanche
-VIII. Le Couché de Quichotte","strings, basso continuo",Quichotte" "Burlesque
+VIII. Le Couché de Quichotte","strings, basso continuo","Quichotte"" ""Burlesque"
 TWV 55:G11,"Ouverture, en sol majeur, pour cordes et basse continue",Ouverture-Suite,G major,"I. Ouverture
 II. Preludio. Siciliana
 III. Aria I. Allegro
@@ -6139,9 +6139,9 @@ TWV 8:6,Der Herr ist Konig,Motet,,,"Soprano, Alto, Tenor, Bass",
 TWV 8:7,Ein feste Burg ist unser Gott,Motet,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
 TWV 8:8,Es segne uns Gott unser Herr,Motet,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
 TWV 8:9,"Halt, was du hast, dass niemand deine Krone nehme",Motet,,,"2 Sopranos, 2 Altos, 2 Tenors, 2 Basses, Basso Continuo",
-TWV 9:1,Messe sur "Ach Gott vom Himmel sieh darein",Mass,,,"Soprano, Alto, Tenor, Bass",
-TWV 9:10,Messe sur "Komm heiliger Geist",Mass,,,"Soprano, Alto, Tenor, Bass",
-TWV 9:11,Messe sur "Komm heiliger Geist",Mass,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
+TWV 9:1,"Messe sur ""Ach Gott vom Himmel sieh darein""",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:10,"Messe sur ""Komm heiliger Geist""",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:11,"Messe sur ""Komm heiliger Geist""",Mass,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
 TWV 9:12,Messe alla siciliana,Mass,,,"Soprano, Alto, Tenor, Bass, 2 Violins, Basso Continuo",
 TWV 9:13,Messe,Mass,,,"Soprano, Alto, Tenor, Bass, (Bassoon, Oboe taille), 2 Violins, Viola, Cello, Basso Continuo",
 TWV 9:14,Messe,Mass,,,"Solo Alto, basson, 2 Violins, Cello, Basso Continuo",
@@ -6150,15 +6150,15 @@ TWV 9:16,Messe,Mass,,,"Soprano, Alto, Tenor, Bass, 3 Clairons, Timpani, 2 Violin
 TWV 9:17,Magnificat anima mea,Magnificat,,,"Soprano, Alto, Tenor, BassB, 3 Clairons, Timpani, 2 Violins, Viola, Cello, Basso Continuo",
 TWV 9:18,Meine Seele erhebet den Herrn,Mass,,,"Soprano, Alto, Tenor, Bass, 2 Flutes dolce, 2 Oboe, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Magnificat allemand
 TWV 9:19,Amen,Mass,,,"Soprano, Alto, Tenor, Bass, 2 Clairons, 2 Violins, Viola, Cello, Basso Continuo",
-TWV 9:2,Messe sur "Allein Gott in der Hoh sei Ehr",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:2,"Messe sur ""Allein Gott in der Hoh sei Ehr""",Mass,,,"Soprano, Alto, Tenor, Bass",
 TWV 9:20,"Lobet den Herrn alle Heiden, Halleluja",Mass,,,"Soprano, Alto, Tenor, Bass, 2 Violins, Viola, Cello, Basso Continuo",
-TWV 9:3,Messe sur "Christ lag in Todesbanden",Mass,,,"Soprano, Alto, Tenor, Bass",
-TWV 9:4,Messe sur "Durch Adams Fall ist ganz verderbt",Mass,,,"Soprano, Alto, Tenor, Bass",
-TWV 9:5,Messe sur "Ein Kindelein so lobelich",Mass,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
+TWV 9:3,"Messe sur ""Christ lag in Todesbanden""",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:4,"Messe sur ""Durch Adams Fall ist ganz verderbt""",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:5,"Messe sur ""Ein Kindelein so lobelich""",Mass,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
 TWV 9:6,"Messe sur ""Erbarm dich mein, o Herre Gott""",Mass,,,"Soprano, Alto, Tenor, Bass, Basso Continuo",
-TWV 9:7,Messe sur "Es wird schier der letzte Tag kommen",Mass,,,"Soprano, Alto, 2 Tenors, Bass, (2 Oboes), 2 Violins, Viola, Cello, Basso Continuo",
-TWV 9:8,Messe sur "Es woll uns Gott genadig sein",Mass,,,"Soprano, Alto, Tenor, Bass",
-TWV 9:9,Messe sur "Gott der Vater wohn uns bei",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:7,"Messe sur ""Es wird schier der letzte Tag kommen""",Mass,,,"Soprano, Alto, 2 Tenors, Bass, (2 Oboes), 2 Violins, Viola, Cello, Basso Continuo",
+TWV 9:8,"Messe sur ""Es woll uns Gott genadig sein""",Mass,,,"Soprano, Alto, Tenor, Bass",
+TWV 9:9,"Messe sur ""Gott der Vater wohn uns bei""",Mass,,,"Soprano, Alto, Tenor, Bass",
 TWV 9:deest,Kyrie/Gloria [Missa brevis],Mass,,,,17th Sunday after Trinity
 TWV Anh 32:1,Ouvertüre Es-Dur für Tasteninstrument,Ouverture-Suite,E-flat major,,Keyboard,"version of TWV 55:Es4, for Keyboard"
 TWV Anh. 32:3,Suite B-Dur für Cembalo,Suite,B-flat major,,harpsichord,"Christian Pezold's work
@@ -6236,7 +6236,7 @@ TWV Anh. 42:g,"Sonate, en sol mineur, pour 2 flûtes et basse continue",Sonata,G
 TWV Anh. 42:G[a],"Concerto, en sol majeur, pour hautbois d'amour, flûte traversière et basse",Concerto,G major,,"oboe d'amore, transverse flute, basse",[transposition of 42:A9]
 TWV Anh. 42:G[b],"Trio, en sol majeur, pour 2 flûtes traversières / violons et violoncelle ou basson",Trio,G major,,"2 transverse flutes / violins, cello or bassoon",[alternative version of 43:G3]
 TWV Anh. 42:g1,"Cantate, en sol mineur, pour hautbois, violon et basse continue",Cantata,G minor,"I. Cantata
-II. Aria","oboe, violin, basso continuo",Aria 1 et 2 de la cantate "Schmeckt und sehet unsers Gottes Freundlichkeit"
+II. Aria","oboe, violin, basso continuo","Aria 1 et 2 de la cantate ""Schmeckt und sehet unsers Gottes Freundlichkeit"""
 TWV Anh. 42:G1,"Tempo de Gavotte, en sol majeur, pour 2 instruments et basse continue",Dance,G major,,"2 instruments, basso continuo",
 TWV Anh. 43:A1,"Quatuor, en la majeur, pour 2 violons, alto et violoncelle",Sonata à 4,A major,,"2 violins, viola, cello",[For 4 instruments without basso continuo]
 TWV Anh. 43:B1,"Sonate, en si bémol majeur, pour 3 violons et basse continue",Concerto,B-flat major,,"3 violins, basso continuo","Classified as a concerto due to the leading role of the first violin and the pronounced solo-tutti contrast, with TWV 51:B2 cited as a reference."

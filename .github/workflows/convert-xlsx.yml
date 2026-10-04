@@ -1,0 +1,36 @@
+name: Convert XLSX to CSV
+
+on:
+  push:
+    paths:
+      - 'xlsx/*.xlsx'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Convert XLSX to CSV
+        run: node scripts/convert-xlsx-to-csv.mjs
+
+      - name: Commit and push CSV files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add csv/*.csv
+          git diff --staged --quiet || git commit -m "chore: auto-convert XLSX to CSV"
+          git push

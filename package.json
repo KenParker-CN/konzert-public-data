@@ -1,0 +1,12 @@
+{
+  "name": "konzert-public-data",
+  "version": "1.0.0",
+  "description": "Composer catalog data for konzert",
+  "scripts": {
+    "convert:csv": "node scripts/convert-xlsx-to-csv.mjs"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {}
+}

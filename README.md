@@ -16,6 +16,19 @@ Public composer catalog data for the konzert application.
 - **CPE** - C.P.E. Bach (Wotquenne/Helm catalog)
 - **BWV** - J.S. Bach (Bach-Werke-Verzeichnis)
 - **HWV** - Handel (Händel-Werke-Verzeichnis)
+- **Hob** - Haydn (Hoboken catalogue)
+
+## Planned Catalog Systems
+
+These systems are on the roadmap but have no XLSX source yet. To add one, drop
+`xlsx/<CATALOG>.xlsx` into the `xlsx/` directory with a header row plus one row
+per work — the conversion workflow will generate `csv/<CATALOG>.csv` on push.
+
+- **BuxWV** - Buxtehude (Buxtehude-Werke-Verzeichnis)
+- **Marnaut** - Ravel (Marnaut thematic catalogue)
+- **DWV** - Dvořák (Dvořák-Werke-Verzeichnis)
+- **S.** - Schubert (Deutsch catalogue)
+- **Wq.** - C.P.E. Bach (Werkverzeichnis) — supplemental to the existing CPE columns
 
 ## Workflow
 
@@ -34,8 +47,8 @@ To test the conversion locally:
 # Install dependencies
 npm install
 
-# Convert a specific file
-npm run convert:csv xlsx/Hob.xlsx
+# Convert a specific file (path is relative to xlsx/)
+npm run convert:csv Hob.xlsx
 
 # Convert all XLSX files
 npm run convert:csv

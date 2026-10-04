@@ -2,7 +2,7 @@
 
 import { readFile, writeFile, mkdir } from 'fs/promises';
 import { existsSync } from 'fs';
-import { join, dirname } from 'path';
+import { join, dirname, basename, isAbsolute } from 'path';
 import { fileURLToPath } from 'url';
 import xlsx from 'xlsx';
 
@@ -55,8 +55,8 @@ async function main() {
   if (xlsxFiles.length > 0) {
     // Convert specified files
     for (const xlsxFile of xlsxFiles) {
-      const xlsxPath = xlsxFile.startsWith('/') ? xlsxFile : join(xlsxDir, xlsxFile);
-      const fileName = xlsxPath.split('/').pop().replace('.xlsx', '');
+      const xlsxPath = isAbsolute(xlsxFile) ? xlsxFile : join(xlsxDir, xlsxFile);
+      const fileName = basename(xlsxFile).replace('.xlsx', '');
       const csvPath = join(csvDir, `${fileName}.csv`);
       await convertXlsxToCsv(xlsxPath, csvPath);
     }

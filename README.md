@@ -25,8 +25,7 @@ These systems are on the roadmap but have no XLSX source yet. To add one, drop
 per work — the conversion workflow will generate `csv/<CATALOG>.csv` on push.
 
 - **BuxWV** - Buxtehude (Buxtehude-Werke-Verzeichnis)
-- **Marnaut** - Ravel (Marnaut thematic catalogue)
-- **DWV** - Dvořák (Dvořák-Werke-Verzeichnis)
+- **Marnat** - Ravel (Marnat thematic catalogue)
 - **S.** - Schubert (Deutsch catalogue)
 - **Wq.** - C.P.E. Bach (Werkverzeichnis) — supplemental to the existing CPE columns
 

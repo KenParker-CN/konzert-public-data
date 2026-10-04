@@ -9,6 +9,36 @@ import xlsx from 'xlsx';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 /**
+ * Clamp a worksheet's declared range to the cells that actually hold data.
+ * Excel frequently reports a bloated !ref (e.g. A1:XFB1046 after a
+ * Ctrl+Shift+Right), which sheet_to_csv would turn into thousands of
+ * empty trailing columns.
+ * @param {object} worksheet - Worksheet to trim in place
+ * @returns {object} The same worksheet
+ */
+function trimToUsedRange(worksheet) {
+  if (!worksheet || !worksheet['!ref']) return worksheet;
+
+  const range = xlsx.utils.decode_range(worksheet['!ref']);
+  let maxCol = range.s.c;
+  let maxRow = range.s.r;
+
+  for (const address of Object.keys(worksheet)) {
+    if (address[0] === '!') continue;
+    const cell = worksheet[address];
+    if (!cell || cell.v === undefined || cell.v === null || cell.v === '') continue;
+    const { c, r } = xlsx.utils.decode_cell(address);
+    if (c > maxCol) maxCol = c;
+    if (r > maxRow) maxRow = r;
+  }
+
+  range.e.c = maxCol;
+  range.e.r = maxRow;
+  worksheet['!ref'] = xlsx.utils.encode_range(range);
+  return worksheet;
+}
+
+/**
  * Convert XLSX file to CSV
  * @param {string} xlsxPath - Path to XLSX file
  * @param {string} csvPath - Path to output CSV file
@@ -18,7 +48,7 @@ async function convertXlsxToCsv(xlsxPath, csvPath) {
     console.log(`Reading XLSX file: ${xlsxPath}`);
     const workbook = xlsx.readFile(xlsxPath);
     const sheetName = workbook.SheetNames[0];
-    const worksheet = workbook.Sheets[sheetName];
+    const worksheet = trimToUsedRange(workbook.Sheets[sheetName]);
     const csv = xlsx.utils.sheet_to_csv(worksheet);
 
     // Ensure output directory exists

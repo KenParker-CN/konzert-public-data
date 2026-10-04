@@ -1708,7 +1708,10 @@ BWV 1058,,Concerto,G minor,"1. Allegro
 BWV 1059,,Concerto,D minor,,"Harpsichord, Oboe, 2 Violins, Viola, Basso Continuo","Adaptation partielle de Sinfonia # 1, Aria # 2 de BWV 35"
 BWV 1060,,Concerto,C minor,"1. Allegro
 2. Adagio (mi bémol majeur)
-3. Allegro","2 Harpsichords, 2 Violins, Viola, Basso Continuo","Récupération d'un concerto perdu pour 2 Violins ou Oboes, Violin"
+3. Allegro","2 Harpsichords, 2 Violins, Viola, Basso Continuo","Based on a lost concerto, possibly for oboe and violin or two violins"
+BWV 1060R,,Concerto,C minor,"1. Allegro
+2. Adagio (mi bémol majeur)
+3. Allegro","Solo Oboe, Solo Violin, 2 Violins, Viola, Basso Continuo",Reconstruction of the lost original concerto
 BWV 1061,,Concerto,C major,"1. Allegro
 2. Adagio ovvero Largo (la mineur)
 3. Fuga","2 Harpsichords, 2 Violins, Viola, Basso Continuo",
@@ -1858,38 +1861,37 @@ BWV 1087,14 Canons sur les 8 premières notes fondamentales de l'Air des Variati
 14. Canon à 4 per Augmentationem, Diminutionem",,
 BWV 1088,So heb ich denn mein Auge sehnlich auf,Aria,G minor/E-flat major,,B,d'une Passion-pastiche d'après Carl Heinrich Graun
 BWV 1089,Da Jesus an dem Kreutze stund,Choralvorspiel,A minor,,SATB,
-BWV 1090,Wir Christenleut',,G minor,,,
-BWV 1090-1120,Préludes de chorals pour orgue,,,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
-BWV 1091,Das alte Jahr vergangen ist,,A minor,,,
-BWV 1092,"Herr Gott, nun schleuss den Himmel auf",,A minor,,,
-BWV 1093,"Herzliebster Jesu, was hast du verbrochen",,G minor,,,
-BWV 1094,"O Jesu, wie ist dein Gestalt",,D minor,,,
-BWV 1095,O Lamm Gottes unschuldig,,F major,,,
-BWV 1096,"Christe, der du bist Tag und Licht / oder / Wir danken dir, Herr Jesu Christ",,A minor,,,
-BWV 1097,"Ehre sei dir, Christe, der du leidest Not",,D major,,,
-BWV 1098,Wir glauben all an einen Gott,,D minor,,Organ,
-BWV 1099,Aus tiefer Not schrei' ich zu dir,,G major,,,
-BWV 1100,"Allein zu dir, Herr Jesu Christ",,C major,,,
-BWV 1101,Durch Adams Fall ist ganz verderbt,,G major,,,
-BWV 1102,"Du Friedefürst, Herr Jesu Christ",,B-flat major,,,
-BWV 1103,"Erhalt uns, Herr, bei deinem Wort",,D minor,,,
-BWV 1104,Wenn dich Unglück tut greifen,,E minor,,,
-BWV 1105,"Jesu, meine Freude",,D minor,,,
-BWV 1106,"Gott ist mein Heil, Hilf und Trost",,G major,,,
-BWV 1107,"Jesu, meines Lebens Leben",,G major,,,
-BWV 1108,Als Jesus Christus in der Nacht,,G major,,,
-BWV 1109,"Ach Gott, tu dich erbarmen",,A minor,,,
-BWV 1110,"O Herre Gott, dein göttlich Wort",,F major,,,
-BWV 1111,Nun lasset uns den Leib begrab'n,,G major,,,
-BWV 1112,"Christus, der ist mein Leben",,F major,,,
-BWV 1113,Ich hab mein Sach Gott heimgestellt,,B minor,,,
-BWV 1114,"Herr Jesu Christ, du höchstes Gut",,F minor,,,
-BWV 1115,"Herzlich lieb hab ich dich, o Herr",,C major,,,
-BWV 1116,"Was Gott tut, das ist wohlgetan",,G major,,,
-BWV 1117,Alle Menschen müssen sterben,,B-flat major,,,
-BWV 1118,"Werde munter, mein Gemüte",,D major,,,
-BWV 1119,Wie nach einer Wasserquelle,,A minor,,,
-BWV 1120,"Christ, der du bist der helle Tag",,E minor,,,
+BWV 1090,Wir Christenleut',,G minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1091,Das alte Jahr vergangen ist,,A minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1092,"Herr Gott, nun schleuss den Himmel auf",,A minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1093,"Herzliebster Jesu, was hast du verbrochen",,G minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1094,"O Jesu, wie ist dein Gestalt",,D minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1095,O Lamm Gottes unschuldig,,F major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1096,"Christe, der du bist Tag und Licht / oder / Wir danken dir, Herr Jesu Christ",,A minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1097,"Ehre sei dir, Christe, der du leidest Not",,D major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1098,Wir glauben all an einen Gott,,D minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1099,Aus tiefer Not schrei' ich zu dir,,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1100,"Allein zu dir, Herr Jesu Christ",,C major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1101,Durch Adams Fall ist ganz verderbt,,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1102,"Du Friedefürst, Herr Jesu Christ",,B-flat major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1103,"Erhalt uns, Herr, bei deinem Wort",,D minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1104,Wenn dich Unglück tut greifen,,E minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1105,"Jesu, meine Freude",,D minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1106,"Gott ist mein Heil, Hilf und Trost",,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1107,"Jesu, meines Lebens Leben",,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1108,Als Jesus Christus in der Nacht,,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1109,"Ach Gott, tu dich erbarmen",,A minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1110,"O Herre Gott, dein göttlich Wort",,F major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1111,Nun lasset uns den Leib begrab'n,,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1112,"Christus, der ist mein Leben",,F major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1113,Ich hab mein Sach Gott heimgestellt,,B minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1114,"Herr Jesu Christ, du höchstes Gut",,F minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1115,"Herzlich lieb hab ich dich, o Herr",,C major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1116,"Was Gott tut, das ist wohlgetan",,G major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1117,Alle Menschen müssen sterben,,B-flat major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1118,"Werde munter, mein Gemüte",,D major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1119,Wie nach einer Wasserquelle,,A minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
+BWV 1120,"Christ, der du bist der helle Tag",,E minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
 BWV 1121,,Fantasia,C minor,,Organ,Anciennement Anh 205
 BWV 1122,"Denket doch, Ihr Menschenkinder",,,,SATB,"texte: Johann Hübner
 d'après une copie de J.L. Dietel"

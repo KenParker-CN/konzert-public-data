@@ -25,7 +25,7 @@ SORT,Series,No.,Catalogue,Opus,Date,Title,Type,Key,Movement,Instrumentation,Note
 2. Recitativo: Adagio (C minor); Allegro; Adagio
 3. Adagio (G major)
 4. Menuetto (C major), Trio
-5. Finale: Allegro (C major)","2 Flutes, 2 Oboes, Bassoon, 2 Horns, Violin I concertant, Violin II concertant, Cello obligé,2 Violins, Viola, Cello, Basso",
+5. Finale: Allegro (C major)","2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Concertante Violins, Cello obligé,2 Violins, Viola, Cello, Basso",
 1,Hob. I,8,Hob. I:8,,1761,Le Soir,Symphony,G major,"1. Allegro molto (G major)
 2. Andante (C major)
 3. Menuetto (G major), Trio (C major)
@@ -427,10 +427,10 @@ alternatif","2 English Horns, 2 Horns, 2 Violins, Viola, Cello, Basso",
 1,Hob. I,105,Hob. I:105,,1792,,Symphony,B-flat major,"1. Allegro (B-flat major)
 2. Andante (F major)
 3. Allegro con spirito (B-flat major)","2 Oboes, Bassoon, Violin, Cello, Flute, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I,106,Hob. I:106,,,,Symphony,D major,1. Allegro,Orchestra,Seule une partie existe
+1,Hob. I,106,Hob. I:106,,,,Symphony,D major,1. Allegro,Orchestra,
 1,Hob. I,107,Hob. I:107,,1762,Sinfonia A,Symphony,B-flat major,"1. Allegro (B-flat major)
 2. Andante (E-flat major)
-3. Allegro molto (B-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso","[version authentique du Quatuor pour Strings, Op. 1, # 5 - Hob. III:5]"
+3. Allegro molto (B-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso","[version authentique du Quatuor, op. 1, # 5 - Hob. III:5]"
 1,Hob. I,108,Hob. I:108,,1765,Sinfonia B,Symphony,B-flat major,"1. Allegro molto moderato (B-flat major)
 2. Menuetto (B-flat major), Trio (E-flat major)
 3. Adagio (G minor)
@@ -652,7 +652,7 @@ Additions selon H.C. Robbins Landon"
 4. Adagio (C major)
 5. Menuett II (G major) avec Trio (G minor)
 6. Finale. Presto (G major)","2 Violins, 2 Violas, Basso",
-2,Hob. II,3,Hob. II:3,,1766,,Divertimento,G major,1. Allegro (G major),"2 hautbois, 2 bassons, 2 cors","[Lost, redécouvert par H.C. Robbins Landon]"
+2,Hob. II,3,Hob. II:3,,1766,,Divertimento,G major,1. Allegro (G major),"2 hautbois, 2 Bassoons, 2 Horns","[Lost, redécouvert par H.C. Robbins Landon]"
 2,Hob. II,4,Hob. II:4,,,,Divertimento,F major,1. Allegro non troppo (F major),"2 Clarinets, Bassoon, 2 Horns",[Lost]
 2,Hob. II,5,Hob. II:5,,,,Divertimento,F major,1. Adagio (F major)[see H 10:10],"2 Clarinets, Bassoon, 2 Horns",
 2,Hob. II,6,Hob. II:6,,1765,,Divertimento,E-flat major,"1. Presto (E-flat major)
@@ -664,7 +664,7 @@ Additions selon H.C. Robbins Landon"
 2. Menuett I (C major) avec Trio
 3. Adagio (C major)
 4. Menuett II (C major) avec Trio (C minor)
-5. Finale. Presto (C major)","2 hautbois, 2 bassons, 2 cors",
+5. Finale. Presto (C major)","2 hautbois, 2 Bassoons, 2 Horns",
 2,Hob. II,8,Hob. II:8,,1767,,Divertimento,D major,"1. Allegro (D major)
 2. Menuett I (D major) avec Trio (G major)
 3. Adagio (G major)
@@ -693,7 +693,7 @@ Additions selon H.C. Robbins Landon"
 2. Menuett (F major) avec Trio (B-flat major)
 3. Adagio (F major)
 4. Menuett (F major) avec Trio
-5. Finale. Presto (F major)","2 hautbois, 2 bassons, 2 cors",
+5. Finale. Presto (F major)","2 hautbois, 2 Bassoons, 2 Horns",
 2,Hob. II,16,Hob. II:16,,1767,Divertimento (Feld Parthie),Divertimento,F major,"1. Allegro (F major)
 2. Menuett moderato (F major) avec Trio
 3. Adagio (F major)
@@ -719,17 +719,17 @@ Additions selon H.C. Robbins Landon"
 2. Menuetto (E-flat major) avec Trio (C minor)
 3. Adagio (B-flat major)
 4. Menuetto (E-flat major) avec Trio et 3 variations
-5. Finale. Allegro (E-flat major)","2 cors, 2 violons, alto, basse","[version du quatuor pour cordes, Hob. III:9, Op. 2 # 3]"
+5. Finale. Allegro (E-flat major)","2 Horns, 2 Violins, Viola, Basso","[version du quatuor pour Strings, Hob. III:9, Op. 2 # 3]"
 2,Hob. II,22,Hob. II:22,,1765,,Divertimento,D major,"1. Presto (D major)
 2. Menuetto (D major) avec Trio (D minor)
 3. Largo cantabile alla Breve (G major)
 4. Menuetto (D major) avec Trio
-5. Finale. Presto (D major)","2 cors, 2 violons, alto, basse","[version du quatuor pour cordes, Hob. III:11, Op. 2 # 5]"
+5. Finale. Presto (D major)","2 Horns, 2 Violins, Viola, Basso","[version du quatuor pour Strings, Hob. III:11, Op. 2 # 5]"
 2,Hob. II,23,Hob. II:23,,1775,,Divertimento,F major,"1. Allegro (F major)
 2. Menuet (F major) avec Trio
 3. Adagio (F major)
 4. Menuet (F major) avec Trio [see H 1:45 (Trio)]
-5. Finale. Presto (F major)","2 hautbois, 2 bassons, 2 cors",
+5. Finale. Presto (F major)","2 hautbois, 2 Bassoons, 2 Horns",
 2,Hob. II,24,Hob. II:24,,1775,,Divertimento,E-flat major,"1. Variation I (E-flat major)
 2. Variation II (B-flat major)
 3. Variation III (E-flat major)
@@ -789,41 +789,41 @@ Additions selon H.C. Robbins Landon"
 5. Presto (E-flat major)",2 Groups of 2 Violins and Basso,Doubtful
 2,Hob. II,40,Hob. II:40,,1781,Divertimento (Sextet),Divertimento,E-flat major,"1. Grazioso (E-flat major)
 2. Larghetto (E-flat major)
-3. Menuetto (E-flat major) avec Trio I et Trio II (C minor)","hautbois, basson, cor, violon, alto, basse",Doubtful
+3. Menuetto (E-flat major) avec Trio I et Trio II (C minor)","hautbois, Bassoon, Horn, Violin, Viola, Basso",Doubtful
 2,Hob. II,41,Hob. II:41,,,Divertimento (Feld Parthie),Divertimento,E-flat major,"1. Allegro non molto (E-flat major)
 2. Adagio en Rondo (E-flat major)
 3. Menuetto (E-flat major) avec Trio
-4. Scherzando (E-flat major)","2 hautbois, 2 clarinettes, 2 bassons, 2 cors/trompettes",Doubtful
+4. Scherzando (E-flat major)","2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns/trompettes",Doubtful
 2,Hob. II,42,Hob. II:42,,,Divertimento (Feld Parthie),Divertimento,B-flat major,"1. Marcia con spirito (B-flat major)
 2. Delcema l'amour. Allegretto (B-flat major)
 3. Menuetto (B-flat major) avec Trio
 4. Andantino (B-flat major)
-5. Allemande (B-flat major)","2 hautbois, 2 clarinettes, 2 bassons, 2 cors/trompettes",Doubtful
+5. Allemande (B-flat major)","2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns/trompettes",Doubtful
 2,Hob. II,43,Hob. II:43,,,Divertimento (Feld Parthie),Divertimento,B-flat major,"1. Allegro comodo (B-flat major)
 2. Andante moderato (B-flat major)
 3. Menuetto (B-flat major) avec Trio
-4. Rondo. Allegretto (B-flat major)","2 hautbois, 2 clarinettes, 2 bassons, 2 cors/trompettes",Doubtful
+4. Rondo. Allegretto (B-flat major)","2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns/trompettes",Doubtful
 2,Hob. II,44,Hob. II:44,,,Divertimento (Feld Parthie),Divertimento,F major,"1. Marche con spirito (F major)
 2. Adagio piu Andante (F major)
 3. Menuetto (F major)
-4. Scherzo (F major)v","2 hautbois, 2 bassons obligés, basson continu, serpent, 2 cors",Doubtful
+4. Scherzo (F major)v","2 hautbois, 2 Bassoons obligés, Bassoon continu, serpent, 2 Horns",Doubtful
 2,Hob. II,45,Hob. II:45,,,Divertimento (Feld Parthie),Divertimento,F major,"1. Marcia maestoso (F major)
 2. Aria la vierge Marie (B-flat major)
 3. Menuetto (F major) avec Trio
-4. Rondo. Allegro (F major)","2 hautbois, 2 bassons obligés, basson continu, serpent, 2 cors",Doubtful
+4. Rondo. Allegro (F major)","2 hautbois, 2 Bassoons obligés, Bassoon continu, serpent, 2 Horns",Doubtful
 2,Hob. II,46,Hob. II:46,,,"Divertimento (Feld Parthie) ""St. Anthony""",Divertimento,B-flat major,"1. Allegro con spirito (B-flat major)
 2. Chorale St. Antoni (B-flat major)
 3. Menuetto (B-flat major) avec Trio
-4. Rondo. Allegretto (B-flat major)","2 hautbois, 2 bassons obligés, basson continu, serpent, 2 cors",Doubtful
+4. Rondo. Allegretto (B-flat major)","2 hautbois, 2 Bassoons obligés, Bassoon continu, serpent, 2 Horns",Doubtful
 2,Hob. II,47,Hob. II:47,,,Kinder / Berchtolsgadener,Symphony,D major,"1. Allegro (C major)
 2. Menuett (C major) avec Trio (F major)
 3. Presto (C major)","7 Children's Instruments, 2 Violins, Basso",Doubtful
 2,Hob. II,20a,Hob. II:20a,,,Divertimento (Feld Parthie),Divertimento,A major,,,[Lost]
-2,Hob. II,24a,Hob. II:24a,,,Menuet avec variations,Dance,D major,,"2 flûtes, 2 hautbois, 2 cors, 2 violons, alto, basse",[Lost]
-2,Hob. II,24b,Hob. II:24b,,,Menuet avec variations,Dance,A major,,"2 flûtes, 2 hautbois, 2 cors, 2 violons, alto, basse",[Lost]
+2,Hob. II,24a,Hob. II:24a,,,Menuet avec variations,Dance,D major,,"2 Flutes, 2 hautbois, 2 Horns, 2 Violins, Viola, Basso",[Lost]
+2,Hob. II,24b,Hob. II:24b,,,Menuet avec variations,Dance,A major,,"2 Flutes, 2 hautbois, 2 Horns, 2 Violins, Viola, Basso",[Lost]
 2,Hob. II,C1,Hob. II:C1,,,Divertimento (Nocturno),Divertimento,C major,1. Allegro moderato (C major),"Flute, 2 Horns, 2 Violins, Viola, Basso",
 2,Hob. II,C10,Hob. II:C10,,,Divertimento (Cassation),Divertimento,C major,1. Adagio (C major) / Allegro,"2 Trumpets ad lib, Strings",
-2,Hob. II,C11,Hob. II:C11,,,,Divertimento,C major,1. Allegro (C major),"2 Violins, Viola, Basso continue",
+2,Hob. II,C11,Hob. II:C11,,,,Divertimento,C major,1. Allegro (C major),"2 Violins, Viola, Basso Continuo",
 2,Hob. II,C2,Hob. II:C2,,,Divertimento (Quintet),Divertimento,C major,1. Maestoso allabreve (C major),"1. 2 Violins, 2 Violas, Basso
 2. 3 Violins, Viola, Basso",
 2,Hob. II,C3,Hob. II:C3,,,Divertimento (Cassation),Divertimento,C major,1. … (C major),"2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Basso",
@@ -893,400 +893,400 @@ Additions selon H.C. Robbins Landon"
 2,Hob. II,G4,Hob. II:G4,,,Divertimento (Quatuor),Divertimento,G major,1. Presto assai (G major),"Flute, Violin, Viola, Basso",
 2,Hob. II,G5,Hob. II:G5,,,Divertimento (Quintet),Divertimento,G major,1. Moderato (G major),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",
 2,Hob. II,,Hob. II,,1761/5,,Cassation,D major,,"4 Horns, Violin, Viola, Basso",Additions selon H.C. Robbins Landon [Série DM 66]
-2,Hob. II,,Hob. II,,1760,,Divertimento,D major,,"2 hautbois, 2 bassons, 2 cors",Additions selon H.C. Robbins Landon [Série DM 86]
-2,Hob. II,,Hob. II,,1760,,Divertimento,G major,,"2 hautbois, 2 bassons, 2 cors",Additions selon H.C. Robbins Landon [Série DM 85]
+2,Hob. II,,Hob. II,,1760,,Divertimento,D major,,"2 hautbois, 2 Bassoons, 2 Horns",Additions selon H.C. Robbins Landon [Série DM 86]
+2,Hob. II,,Hob. II,,1760,,Divertimento,G major,,"2 hautbois, 2 Bassoons, 2 Horns",Additions selon H.C. Robbins Landon [Série DM 85]
 3,Hob. III,1,Hob. III:1,op. 1/1,1762,La chasse,Quartet,B-flat major,"1. Presto (B-flat major)
 2. Menuetto (B-flat major) avec Trio (E-flat major)
 3. Adagio (E-flat major)
 4. Menuetto (B-flat major) avec Trio (B-flat major)
-5. Presto (B-flat major)","Strings (2 Violins, Viola, Cello)",
+5. Presto (B-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,2,Hob. III:2,op. 1/2,1762,,Quartet,E-flat major,"1. Allegro molto (E-flat major)
 2. Menuetto (E-flat major) avec Trio (B-flat major)
 3. Adagio (B-flat major)
 4. Menuetto (E-flat major) avec Trio
-5. Presto (E-flat major)","Strings (2 Violins, Viola, Cello)",
+5. Presto (E-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,3,Hob. III:3,op. 1/3,1762,,Quartet,D major,"1. Adagio (D major)
 2. Menuetto (D major) avec Trio (G major)
 3. Presto (D major)
 4. Menuetto (D major) avec Trio (D minor)
-5. Prseto (D major)","Strings (2 Violins, Viola, Cello)",
+5. Prseto (D major)","2 Violins, Viola, Cello",
 3,Hob. III,4,Hob. III:4,op. 1/4,1764,,Quartet,G major,"1. Presto (G major)
 2. Menuetto (G major) avec Trio (G minor)
 3. Adagio (C major)
 4. Menuetto (G major) avec Trio (G minor)
-5. Presto (G major)","Strings (2 Violins, Viola, Cello)",
+5. Presto (G major)","2 Violins, Viola, Cello",
 3,Hob. III,5,Hob. III:5,op. 1/5,1762,,Quartet,B-flat major,"1. Allegro (B-flat major)
 2. Andante (E-flat major)
-3. Allegro molto (B-flat major)","Strings (2 Violins, Viola, Cello)","[originalement une symphonie, I.107]"
+3. Allegro molto (B-flat major)","2 Violins, Viola, Cello","[originalement une symphonie, I.107]"
 3,Hob. III,6,Hob. III:6,op. 1/6,1762,,Quartet,C major,"1. Presto (C major)
 2. Menuetto (C major) avec Trio (F major)
 3. Adagio (G major)
 4. Menuetto (C major) avec Trio (G minor)
-5. Finale. Presto (C major)","Strings (2 Violins, Viola, Cello)",
+5. Finale. Presto (C major)","2 Violins, Viola, Cello",
 3,Hob. III,83,Hob. III:83,op. 103,1803,,Quartet,D minor,"1. Andante grazioso (D minor)
 2. Menuetto ma non troppo Presto (D minor) avec Trio (D major)
-3.… (fa dièse mineur)","Strings (2 Violins, Viola, Cello)",[incomplet]
+3.… (fa dièse mineur)","2 Violins, Viola, Cello",[incomplet]
 3,Hob. III,25,Hob. III:25,op. 17/1,1771,,Quartet,E major,"1. Moderato (E major)
 2. Menuet (E major) avec Trio (G major)
 3. Adagio (E minor)
-4. Finale. Presto (E major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (E major)","2 Violins, Viola, Cello",
 3,Hob. III,26,Hob. III:26,op. 17/2,1771,,Quartet,F major,"1. Moderato (F major)
 2. Menuet poco Allegretto (F major) avec Trio
 3. Adagio (B-flat major)
-4. Finale. Allegro di molto (F major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Allegro di molto (F major)","2 Violins, Viola, Cello",
 3,Hob. III,27,Hob. III:27,op. 17/3,1771,,Quartet,E-flat major,"1. Andante grazioso (E-flat major)
 [avec 4 variations]
 2. Menuet. Allegretto (E-flat major) avec Trio
 3. Adagio (la bémol majeur)
-4. Allegro di molto (E-flat major)","Strings (2 Violins, Viola, Cello)",
+4. Allegro di molto (E-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,28,Hob. III:28,op. 17/4,1771,,Quartet,C minor,"1. Moderato (C minor)
 2. Menuet. Allegretto (C major) avec Trio (C minor)
 3. Adagio Cantabile (E-flat major)
-4. Finale. Allegro (C minor)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Allegro (C minor)","2 Violins, Viola, Cello",
 3,Hob. III,29,Hob. III:29,op. 17/5,1771,,Quartet,G major,"1. Moderato (G major)
 2. Menuetto (G major) avec Trio (G minor)
 3. Adagio (G minor)
-4. Presto (G major)","Strings (2 Violins, Viola, Cello)",
+4. Presto (G major)","2 Violins, Viola, Cello",
 3,Hob. III,30,Hob. III:30,op. 17/6,1771,,Quartet,D major,"1. Presto (D major)
 2. Menuet (D major) avec Trio
 3. Largo (G major)
-4. Finale. Allegro (D major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Allegro (D major)","2 Violins, Viola, Cello",
 3,Hob. III,7,Hob. III:7,op. 2/1,1763,,Quartet,A major,"1. Allegro (A major)
 2. Menuetto (A major) avec Trio (la mineur)
 3. Poco Adagio (D major)
 4. Menuetto (A major) avec Trio
-5. Allegro molto (A major)","Strings (2 Violins, Viola, Cello)",
+5. Allegro molto (A major)","2 Violins, Viola, Cello",
 3,Hob. III,8,Hob. III:8,op. 2/2,1765,,Quartet,E major,"1. Allegro (E major)
 2. Menuetto (E major) avec Trio (E minor)
 3. Adagio (A major)
 4. Menuetto (E major) avec Trio (E minor)
-5. Finale. Presto (E major)","Strings (2 Violins, Viola, Cello)",
+5. Finale. Presto (E major)","2 Violins, Viola, Cello",
 3,Hob. III,9,Hob. III:9,op. 2/3,1763,,Quartet,E-flat major,"1. Allegro molto (E-flat major)
 2. Menuetto (E-flat major) avec Trio
 3. Adagio (B-flat major)
 4. Menuetto (E-flat major) avec Trio
-5. Finale. Allegro (E-flat major)","Strings (2 Violins, Viola, Cello)","[originalement un divertimento avec 2 cors, II.21]"
+5. Finale. Allegro (E-flat major)","2 Violins, Viola, Cello","[originalement un divertimento avec 2 Horns, II.21]"
 3,Hob. III,10,Hob. III:10,op. 2/4,1762,,Quartet,F major,"1. Presto (F major)
 2. Menuetto (F major) avec Trio (B-flat major)
 3. Adagio non troppo (F minor)
 4. Menuetto (F major) avec Trio (B-flat major)
-5. Allegro (F major)","Strings (2 Violins, Viola, Cello)",
+5. Allegro (F major)","2 Violins, Viola, Cello",
 3,Hob. III,11,Hob. III:11,op. 2/5,1764,,Quartet,D major,"1. Presto (D major)
 2. Menuetto (D major) avec Trio (D minor)
 3. Largo cantabile alla Breve (G major)
 4. Menuetto (D major) avec Trio
-5. Finale. Presto (D major)","Strings (2 Violins, Viola, Cello)","[originalement un divertimento avec 2 cors, II.22]"
+5. Finale. Presto (D major)","2 Violins, Viola, Cello","[originalement un divertimento avec 2 Horns, II.22]"
 3,Hob. III,12,Hob. III:12,op. 2/6,1762,,Quartet,B-flat major,"1. Adagio (B-flat major)
 [avec 4 variations]
 2. Menuetto (B-flat major) avec Trio (E-flat major)
 3. Presto (E-flat major)
 4. Menuetto (B-flat major) avec Trio
-5. Presto (B-flat major)","Strings (2 Violins, Viola, Cello)",
+5. Presto (B-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,31,Hob. III:31,op. 20/1,1772,Quatuor du soleil 1,Quartet,E-flat major,"1. Allegro moderato (E-flat major)
 2. Menuet un poco Allegretto (E-flat major) avec Trio
 3. Affettuoso e sostenuto (la bémol majeur)
-4. Finale. Presto (E-flat major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (E-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,32,Hob. III:32,op. 20/2,1772,Quatuor du soleil 2,Quartet,C major,"1. Moderato (C major)
 2. Capriccio. Adagio (C minor) / Cantabile (E-flat major)
 3. Menuet. Allegretto (C major) avec Trio (C minor)
-4. Fuga a quattro soggetti. Allegro (C major)","Strings (2 Violins, Viola, Cello)",
+4. Fuga a quattro soggetti. Allegro (C major)","2 Violins, Viola, Cello",
 3,Hob. III,33,Hob. III:33,op. 20/3,1772,Quatuor du soleil 3,Quartet,G minor,"1. Allegro con spirito (G minor)
 2. Menuet. Allegretto (G minor) avec Trio (E-flat major)
 3. Poco Adagio (G major)
-4. Allegro molto (G minor)","Strings (2 Violins, Viola, Cello)",
+4. Allegro molto (G minor)","2 Violins, Viola, Cello",
 3,Hob. III,34,Hob. III:34,op. 20/4,1772,Quatuor du soleil 4,Quartet,D major,"1. Allegro di molto (D major)
 2. Un poco Adagio e affettuoso (D minor)
 [avec 4 variations]
 3. Menuet alla Zingarese (D major) avec Trio
-4. Presto e Scherzando (D major)","Strings (2 Violins, Viola, Cello)",
+4. Presto e Scherzando (D major)","2 Violins, Viola, Cello",
 3,Hob. III,35,Hob. III:35,op. 20/5,1772,Quatuor du soleil 5,Quartet,F minor,"1. Moderato (F minor)
 2. Menuet (F minor) avec Trio (F major)
 3. Adagio (F major)
-4. Finale. Fuga a due soggetti (F minor)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Fuga a due soggetti (F minor)","2 Violins, Viola, Cello",
 3,Hob. III,36,Hob. III:36,op. 20/6,1772,Quatuor du soleil 6,Quartet,A major,"1. Allegro di molto e scherzando (A major)
 2. Adagio (E major)
 3. Menuet (A major) avec Trio
-4. Fuga con tre soggetti (A major)","Strings (2 Violins, Viola, Cello)",
+4. Fuga con tre soggetti (A major)","2 Violins, Viola, Cello",
 3,Hob. III,13,Hob. III:13,op. 3/1,1777,,Quartet,E major,"1. Allegro molto (E major)
 2. Menuetto (E major) avec Trio
 3. Andantino grazioso (A major)
-4. Presto (E major)","Strings (2 Violins, Viola, Cello)",[oeuvre de Roman Hofstetter]
+4. Presto (E major)","2 Violins, Viola, Cello",[oeuvre de Roman Hofstetter]
 3,Hob. III,14,Hob. III:14,op. 3/2,1777,,Quartet,C major,"1. Fantasia. Andante (C major)
 [avec 5 variations]
 2. Menuetto (C major) avec Trio (G major)
-3. Presto (C major)","Strings (2 Violins, Viola, Cello)",[oeuvre de Roman Hofstetter]
+3. Presto (C major)","2 Violins, Viola, Cello",[oeuvre de Roman Hofstetter]
 3,Hob. III,15,Hob. III:15,op. 3/3,1777,,Quartet,G major,"1. Presto (G major)
 2. Largo (C major)
 3. Menuetto (G major) avec Trio (E minor)
-4. Presto (G major)","Strings (2 Violins, Viola, Cello)",[oeuvre de Roman Hofstetter]
+4. Presto (G major)","2 Violins, Viola, Cello",[oeuvre de Roman Hofstetter]
 3,Hob. III,16,Hob. III:16,op. 3/4,1777,,Quartet,B-flat major,"1. Allegro moderato (B-flat major)
-2. Adagio (E-flat major) / Presto","Strings (2 Violins, Viola, Cello)",[oeuvre de Roman Hofstetter]
+2. Adagio (E-flat major) / Presto","2 Violins, Viola, Cello",[oeuvre de Roman Hofstetter]
 3,Hob. III,17,Hob. III:17,op. 3/5,1777,,Quartet,F major,"1. Presto (F major)
 2. Andante cantabile (C major)
 3. Menuetto (en F major) avec Trio (B-flat major)
-4. Scherzando (F major)","Strings (2 Violins, Viola, Cello)",[oeuvre de Roman Hofstetter]
+4. Scherzando (F major)","2 Violins, Viola, Cello",[oeuvre de Roman Hofstetter]
 3,Hob. III,18,Hob. III:18,op. 3/6,1777,,Quartet,A major,"1. Presto (A major)
 2. Adagio (E major)
 3. Menuetto (A major) avec Trio (D major)
-4. Scherzando (A major)","Strings (2 Violins, Viola, Cello)",[oeuvre de Roman Hofstetter]
+4. Scherzando (A major)","2 Violins, Viola, Cello",[oeuvre de Roman Hofstetter]
 3,Hob. III,37,Hob. III:37,op. 33/1,1778-81,,Quartet,B minor,"1. Allegro moderato (B minor)
 2. Menuetto (B minor) avec Trio (B major)
 3. Andante (D major)
-4. Finale. Presto (B minor)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (B minor)","2 Violins, Viola, Cello",
 3,Hob. III,38,Hob. III:38,op. 33/2,1778-81,The Joke,Quartet,E-flat major,"1. Allegro moderato (E-flat major)
 2. Scherzando (E-flat major) avec Trio
 3. Largo (C minor))
-4. Finale. Presto (E-flat major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (E-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,39,Hob. III:39,op. 33/3,1778-81,The Bird,Quartet,C major,"1. Allegro moderato (C major)
 2. Scherzo (C major) avec Trio
 3. Adagio (F major)
-4. Finale. Rondo. Presto (C major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Rondo. Presto (C major)","2 Violins, Viola, Cello",
 3,Hob. III,40,Hob. III:40,op. 33/4,1778-81,,Quartet,B-flat major,"1. Allegro moderato (B-flat major)
 2. Scherzo (B-flat major / si bémol mineur)
 3. Largo (E-flat major)
-4. Presto (B-flat major)","Strings (2 Violins, Viola, Cello)",
+4. Presto (B-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,41,Hob. III:41,op. 33/5,1778-81,How do you do?,Quartet,G major,"1. Vivace assai (G major)
 2. Largo cantabile (G minor)
 3. Scherzo (G major) avec Trio
-4. Finale. Allegretto (G major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Allegretto (G major)","2 Violins, Viola, Cello",
 3,Hob. III,42,Hob. III:42,op. 33/6,1778-81,,Quartet,D major,"1. Vivace assai (D major)
 2. Andante (D minor)
 3. Scherzo. Allegro (D major) avec Trio (G major)
-4. Finale. Allegretto (D major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Allegretto (D major)","2 Violins, Viola, Cello",
 3,Hob. III,43,Hob. III:43,op. 42,1785,,Quartet,D minor,"1. Andante ed Innocentemente (D minor)
 2. Menuet (D major) avec Trio (F major)
 3. Adagio e cantabile (B-flat major)
-4. Finale. Presto (D minor)","Strings (2 Violins, Viola, Cello)",
-3,Hob. III,A1,Hob. III:A1,,,,Quartet,A major,1. Moderato (la majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,A2,Hob. III:A2,,,,Quartet,A major,1. Allegro assai (la majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,A3,Hob. III:A3,,,,Quartet,A major,1. Allegro (la majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,A4,Hob. III:A4,,,,Quartet,A major,1. Allegro (la majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,A5,Hob. III:A5,,,,Quartet,A major,1. Allegro (la majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,A6,Hob. III:A6,,,,Quartet,A major,1. … (la majeur),"Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (D minor)","2 Violins, Viola, Cello",
+3,Hob. III,A1,Hob. III:A1,,,,Quartet,A major,1. Moderato (la majeur),"2 Violins, Viola, Cello",
+3,Hob. III,A2,Hob. III:A2,,,,Quartet,A major,1. Allegro assai (la majeur),"2 Violins, Viola, Cello",
+3,Hob. III,A3,Hob. III:A3,,,,Quartet,A major,1. Allegro (la majeur),"2 Violins, Viola, Cello",
+3,Hob. III,A4,Hob. III:A4,,,,Quartet,A major,1. Allegro (la majeur),"2 Violins, Viola, Cello",
+3,Hob. III,A5,Hob. III:A5,,,,Quartet,A major,1. Allegro (la majeur),"2 Violins, Viola, Cello",
+3,Hob. III,A6,Hob. III:A6,,,,Quartet,A major,1. … (la majeur),"2 Violins, Viola, Cello",
 3,Hob. III,B1,Hob. III:B1,,,,Quartet,B-flat major,"1. Allegro molto (si bémol majeur)
 2. Menuetto I (mi bémol majeur) / Menuetto II (si bémol majeur)
 3. Andante (si bémol majeur)
-4. Scherzando (si bémol majeur)","Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B10,Hob. III:B10,,,,Quartet,B-flat major,1. Allegro non molto (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B2,Hob. III:B2,,,,Quartet,B-flat major,1. Allegro moderato (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B3,Hob. III:B3,,,,Quartet,B-flat major,1. Allegro (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B4,Hob. III:B4,,,,Quartet,B-flat major,1. Moderato (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B5,Hob. III:B5,,,,Quartet,B-flat major,1. Allegro (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B6,Hob. III:B6,,,,Quartet,B-flat major,1. Allegro moderato (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B7,Hob. III:B7,,,,Quartet,B-flat major,1. Andante (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B8,Hob. III:B8,,,,Quartet,B-flat major,1. Allegro (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,B9,Hob. III:B9,,,,Quartet,B-flat major,1. Allegro moderato (si bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C1,Hob. III:C1,,,,Quartet,C major,1. Allegro (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C10,Hob. III:C10,,,,Quartet,C major,1. Marcia maestoso (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C11,Hob. III:C11,,,,Quartet,C major,1. Allegro (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C12,Hob. III:C12,,,,Quartet,C major,1. Vivace (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C2,Hob. III:C2,,,,Quartet,C major,1. Allegro moderato (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C3,Hob. III:C3,,,,Quartet,C major,1. Vivace (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C4,Hob. III:C4,,,,Quartet,C major,1. Allegro moderato (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C5,Hob. III:C5,,,,Quartet,C major,1. Allegro con spirito (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C6,Hob. III:C6,,,,Quartet,C major,1. Andantissimo (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C7,Hob. III:C7,,,,Quartet,C major,1. Allegro moderato (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C8,Hob. III:C8,,,,Quartet,C major,1. Andante (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,C9,Hob. III:C9,,,,Quartet,C major,1. ... (do majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D1,Hob. III:D1,,,,Quartet,D major,1. Allegro moderato (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,d1,Hob. III:d1,,,,Quartet,D minor,1. Moderato (ré mineur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D2,Hob. III:D2,,,,Quartet,D major,1. Vivace (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D3,Hob. III:D3,,,,Quartet,D major,1. Adagio (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D4,Hob. III:D4,,,,Quartet,D major,1. … (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D5,Hob. III:D5,,,,Quartet,D major,1. … (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D6,Hob. III:D6,,,,Quartet,D major,1. … (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D7,Hob. III:D7,,,,Quartet,D major,1. Allegro (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,D8,Hob. III:D8,,,,Quartet,D major,1. Adagio non molto (ré majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,E1,Hob. III:E1,,,,Quartet,E major,1. Allegro moderato (mi majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,E2,Hob. III:E2,,,,Quartet,E major,1. Allegro (mi majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,E3,Hob. III:E3,,,,Quartet,E major,1. Allegro moderato (mi majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es1,Hob. III:Es1,,,,Quartet,E-flat major,1. Presto (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es10,Hob. III:Es10,,,,Quartet,E-flat major,1. Allegro (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es11,Hob. III:Es11,,,,Quartet,E-flat major,1. Allegro spiritoso (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es2,Hob. III:Es2,,,,Quartet,E-flat major,1. Moderato (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es3,Hob. III:Es3,,,,Quartet,E-flat major,1. Vivace (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es4,Hob. III:Es4,,,,Quartet,E-flat major,1. Allegro molto (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es5,Hob. III:Es5,,,,Quartet,E-flat major,1. Allegro moderato (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es6,Hob. III:Es6,,,,Quartet,E-flat major,1. Allegro (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es7,Hob. III:Es7,,,,Quartet,E-flat major,1. Adagio (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es8,Hob. III:Es8,,,,Quartet,E-flat major,1. Un poco Allegro (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,Es9,Hob. III:Es9,,,,Quartet,E-flat major,1. Allegro (mi bémol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,F1,Hob. III:F1,,,,Quartet,F major,1. Allegro molto (fa majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,F2,Hob. III:F2,,,,Quartet,F major,1. Vivace (fa majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,F3,Hob. III:F3,,,,Quartet,F major,1. Presto (fa majeur),"Strings (2 Violins, Viola, Cello)",
+4. Scherzando (si bémol majeur)","2 Violins, Viola, Cello",
+3,Hob. III,B10,Hob. III:B10,,,,Quartet,B-flat major,1. Allegro non molto (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B2,Hob. III:B2,,,,Quartet,B-flat major,1. Allegro moderato (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B3,Hob. III:B3,,,,Quartet,B-flat major,1. Allegro (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B4,Hob. III:B4,,,,Quartet,B-flat major,1. Moderato (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B5,Hob. III:B5,,,,Quartet,B-flat major,1. Allegro (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B6,Hob. III:B6,,,,Quartet,B-flat major,1. Allegro moderato (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B7,Hob. III:B7,,,,Quartet,B-flat major,1. Andante (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B8,Hob. III:B8,,,,Quartet,B-flat major,1. Allegro (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,B9,Hob. III:B9,,,,Quartet,B-flat major,1. Allegro moderato (si bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C1,Hob. III:C1,,,,Quartet,C major,1. Allegro (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C10,Hob. III:C10,,,,Quartet,C major,1. Marcia maestoso (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C11,Hob. III:C11,,,,Quartet,C major,1. Allegro (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C12,Hob. III:C12,,,,Quartet,C major,1. Vivace (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C2,Hob. III:C2,,,,Quartet,C major,1. Allegro moderato (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C3,Hob. III:C3,,,,Quartet,C major,1. Vivace (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C4,Hob. III:C4,,,,Quartet,C major,1. Allegro moderato (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C5,Hob. III:C5,,,,Quartet,C major,1. Allegro con spirito (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C6,Hob. III:C6,,,,Quartet,C major,1. Andantissimo (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C7,Hob. III:C7,,,,Quartet,C major,1. Allegro moderato (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C8,Hob. III:C8,,,,Quartet,C major,1. Andante (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,C9,Hob. III:C9,,,,Quartet,C major,1. ... (do majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D1,Hob. III:D1,,,,Quartet,D major,1. Allegro moderato (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,d1,Hob. III:d1,,,,Quartet,D minor,1. Moderato (ré mineur),"2 Violins, Viola, Cello",
+3,Hob. III,D2,Hob. III:D2,,,,Quartet,D major,1. Vivace (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D3,Hob. III:D3,,,,Quartet,D major,1. Adagio (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D4,Hob. III:D4,,,,Quartet,D major,1. … (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D5,Hob. III:D5,,,,Quartet,D major,1. … (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D6,Hob. III:D6,,,,Quartet,D major,1. … (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D7,Hob. III:D7,,,,Quartet,D major,1. Allegro (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,D8,Hob. III:D8,,,,Quartet,D major,1. Adagio non molto (ré majeur),"2 Violins, Viola, Cello",
+3,Hob. III,E1,Hob. III:E1,,,,Quartet,E major,1. Allegro moderato (mi majeur),"2 Violins, Viola, Cello",
+3,Hob. III,E2,Hob. III:E2,,,,Quartet,E major,1. Allegro (mi majeur),"2 Violins, Viola, Cello",
+3,Hob. III,E3,Hob. III:E3,,,,Quartet,E major,1. Allegro moderato (mi majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es1,Hob. III:Es1,,,,Quartet,E-flat major,1. Presto (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es10,Hob. III:Es10,,,,Quartet,E-flat major,1. Allegro (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es11,Hob. III:Es11,,,,Quartet,E-flat major,1. Allegro spiritoso (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es2,Hob. III:Es2,,,,Quartet,E-flat major,1. Moderato (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es3,Hob. III:Es3,,,,Quartet,E-flat major,1. Vivace (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es4,Hob. III:Es4,,,,Quartet,E-flat major,1. Allegro molto (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es5,Hob. III:Es5,,,,Quartet,E-flat major,1. Allegro moderato (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es6,Hob. III:Es6,,,,Quartet,E-flat major,1. Allegro (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es7,Hob. III:Es7,,,,Quartet,E-flat major,1. Adagio (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es8,Hob. III:Es8,,,,Quartet,E-flat major,1. Un poco Allegro (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,Es9,Hob. III:Es9,,,,Quartet,E-flat major,1. Allegro (mi bémol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,F1,Hob. III:F1,,,,Quartet,F major,1. Allegro molto (fa majeur),"2 Violins, Viola, Cello",
+3,Hob. III,F2,Hob. III:F2,,,,Quartet,F major,1. Vivace (fa majeur),"2 Violins, Viola, Cello",
+3,Hob. III,F3,Hob. III:F3,,,,Quartet,F major,1. Presto (fa majeur),"2 Violins, Viola, Cello",
 3,Hob. III,F4,Hob. III:F4,,,,Quartet,F major,"1. … (fa majeur)
-[voir I/F 7, 2è mouvement]","Strings (2 Violins, Viola, Cello)",
-3,Hob. III,F5,Hob. III:F5,,,,Quartet,F major,1. Allegro (fa majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,F6,Hob. III:F6,,,,Quartet,F major,1. Presto (fa majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,F7,Hob. III:F7,,,,Quartet,F major,1. Allegro molto (fa majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G1,Hob. III:G1,,,,Quartet,G major,1. Allegro assai (sol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,g1,Hob. III:g1,,,,Quartet,G major,1. Vivace (sol mineur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G2,Hob. III:G2,,,,Quartet,G major,1. Allegro grazioso (sol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G3,Hob. III:G3,,,,Quartet,G major,1. Vivace (sol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G4,Hob. III:G4,,,,Quartet,G major,1. Allegro (sol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G5,Hob. III:G5,,,,Quartet,G major,1. Allegro (sol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G6,Hob. III:G6,,,,Quartet,G major,1. Allegro (sol majeur),"Strings (2 Violins, Viola, Cello)",
-3,Hob. III,G7,Hob. III:G7,,,,Quartet,G major,1. … (sol majeur),"Strings (2 Violins, Viola, Cello)",
+[voir I/F 7, 2è mouvement]","2 Violins, Viola, Cello",
+3,Hob. III,F5,Hob. III:F5,,,,Quartet,F major,1. Allegro (fa majeur),"2 Violins, Viola, Cello",
+3,Hob. III,F6,Hob. III:F6,,,,Quartet,F major,1. Presto (fa majeur),"2 Violins, Viola, Cello",
+3,Hob. III,F7,Hob. III:F7,,,,Quartet,F major,1. Allegro molto (fa majeur),"2 Violins, Viola, Cello",
+3,Hob. III,G1,Hob. III:G1,,,,Quartet,G major,1. Allegro assai (sol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,g1,Hob. III:g1,,,,Quartet,G major,1. Vivace (sol mineur),"2 Violins, Viola, Cello",
+3,Hob. III,G2,Hob. III:G2,,,,Quartet,G major,1. Allegro grazioso (sol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,G3,Hob. III:G3,,,,Quartet,G major,1. Vivace (sol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,G4,Hob. III:G4,,,,Quartet,G major,1. Allegro (sol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,G5,Hob. III:G5,,,,Quartet,G major,1. Allegro (sol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,G6,Hob. III:G6,,,,Quartet,G major,1. Allegro (sol majeur),"2 Violins, Viola, Cello",
+3,Hob. III,G7,Hob. III:G7,,,,Quartet,G major,1. … (sol majeur),"2 Violins, Viola, Cello",
 3,Hob. III,44,Hob. III:44,op. 50/1,1787,,Quartet,B-flat major,"1. Allegro (B-flat major)
 2. Adagio non lento (E-flat major)
 3. Menuetto (B-flat major) avec Trio
-4. Finale. Vivace (B-flat major)","Strings (2 Violins, Viola, Cello)",Prussien 1
+4. Finale. Vivace (B-flat major)","2 Violins, Viola, Cello",Prussien 1
 3,Hob. III,45,Hob. III:45,op. 50/2,1787,,Quartet,C major,"1. Vivace (C major)
 2. Adagio cantabile (F major)
 3. Menuetto (C major) avec Trio
-4. Finale. Vivace assai (C major)","Strings (2 Violins, Viola, Cello)",Prussien 2
+4. Finale. Vivace assai (C major)","2 Violins, Viola, Cello",Prussien 2
 3,Hob. III,46,Hob. III:46,op. 50/3,1787,,Quartet,E-flat major,"1. Allegro con brio (E-flat major)
 2. Andante piu tosto Allegretto (B-flat major)
 3. Menuetto (E-flat major) avec Trio
-4. Finale. Presto (E-flat major)","Strings (2 Violins, Viola, Cello)",Prussien 3
+4. Finale. Presto (E-flat major)","2 Violins, Viola, Cello",Prussien 3
 3,Hob. III,47,Hob. III:47,op. 50/4,1787,,Quartet,F-sharp minor,"1. Allegro spirituoso (fa dièse mineur)
 2. Andante (fa dièse mineur)
 3. Menuetto (fa dièse majeur) avec Trio (fa dièse mineur)
-4. Fuga. Allegro moderato (fa dièse mineur)","Strings (2 Violins, Viola, Cello)",Prussien 4
+4. Fuga. Allegro moderato (fa dièse mineur)","2 Violins, Viola, Cello",Prussien 4
 3,Hob. III,48,Hob. III:48,op. 50/5,1787,"""Le rêve""",Quartet,F major,"1. Allegro moderato (F major)
 2. Poco Adagio (B-flat major)
 3. Menuetto (F major) avec Trio (F minor)
-4. Finale. Vivace (F major)","Strings (2 Violins, Viola, Cello)",Prussien 5
+4. Finale. Vivace (F major)","2 Violins, Viola, Cello",Prussien 5
 3,Hob. III,49,Hob. III:49,op. 50/6,1787,La grenouille,Quartet,D major,"1. Allegro (D major)
 2. Poco Adagio (D minor)
 3. Menuetto. Allegretto (D major) avec Trio
-4. Finale. Allegro con spirito (D major)","Strings (2 Violins, Viola, Cello)",Prussien 6
-3,Hob. III,50,Hob. III:50,op. 51/1,,,Quartet,B-flat major,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.1]"
-3,Hob. III,51,Hob. III:51,op. 51/2,,,Quartet,C minor,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.2]"
-3,Hob. III,52,Hob. III:52,op. 51/3,,,Quartet,E major,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.3]"
-3,Hob. III,53,Hob. III:53,op. 51/4,,,Quartet,F minor,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.4]"
-3,Hob. III,54,Hob. III:54,op. 51/5,,,Quartet,A major,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.5]"
-3,Hob. III,55,Hob. III:55,op. 51/6,,,Quartet,G minor,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.6]"
-3,Hob. III,56,Hob. III:56,op. 51/7,,,Quartet,E-flat major,,"Strings (2 Violins, Viola, Cello)","[Sept paroles du Christ, XX.7]"
+4. Finale. Allegro con spirito (D major)","2 Violins, Viola, Cello",Prussien 6
+3,Hob. III,50,Hob. III:50,op. 51/1,,,Quartet,B-flat major,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.1]"
+3,Hob. III,51,Hob. III:51,op. 51/2,,,Quartet,C minor,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.2]"
+3,Hob. III,52,Hob. III:52,op. 51/3,,,Quartet,E major,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.3]"
+3,Hob. III,53,Hob. III:53,op. 51/4,,,Quartet,F minor,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.4]"
+3,Hob. III,54,Hob. III:54,op. 51/5,,,Quartet,A major,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.5]"
+3,Hob. III,55,Hob. III:55,op. 51/6,,,Quartet,G minor,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.6]"
+3,Hob. III,56,Hob. III:56,op. 51/7,,,Quartet,E-flat major,,"2 Violins, Viola, Cello","[Sept paroles du Christ, XX.7]"
 3,Hob. III,58,Hob. III:58,op. 54/1,1788?,,Quartet,G major,"1. Allegro con brio (G major)
 2. Allegretto (C major)
 3. Menuetto (G major) avec Trio
-4. Finale. Presto (G major)","Strings (2 Violins, Viola, Cello)",Tost I-2
+4. Finale. Presto (G major)","2 Violins, Viola, Cello",Tost I-2
 3,Hob. III,57,Hob. III:57,op. 54/2,1788?,,Quartet,C major,"1. Vivace (C major)
 2. Adagio (C minor)
 3. Menuetto (C major) avec Trio (C minor)
-4. Adagio (C major) / Presto","Strings (2 Violins, Viola, Cello)",Tost I-1
+4. Adagio (C major) / Presto","2 Violins, Viola, Cello",Tost I-1
 3,Hob. III,59,Hob. III:59,op. 54/3,1788?,,Quartet,E major,"1. Allegro (E major)
 2. Largo cantabile (A major)
 3. Menuetto (E major) avec Trio
-4. Finale. Presto (E major)","Strings (2 Violins, Viola, Cello)",Tost I-3
+4. Finale. Presto (E major)","2 Violins, Viola, Cello",Tost I-3
 3,Hob. III,60,Hob. III:60,op. 55/1,1788?,,Quartet,A major,"1. Allegro (A major)
 2. Adagio cantabile (D major)
 3. Menuetto (A major) avec Trio
-4. Finale. Vivace (A major)","Strings (2 Violins, Viola, Cello)",Tost II-1
+4. Finale. Vivace (A major)","2 Violins, Viola, Cello",Tost II-1
 3,Hob. III,61,Hob. III:61,op. 55/2,1788?,Le rasoir,Quartet,F minor,"1. Andante piu tosto Allegretto (F minor)
 2. Allegro (F minor)
 3. Menuetto (F major) avec Trio (F minor)
-4. Finale. Presto (F major)","Strings (2 Violins, Viola, Cello)",Tost II-2
+4. Finale. Presto (F major)","2 Violins, Viola, Cello",Tost II-2
 3,Hob. III,62,Hob. III:62,op. 55/3,1788?,,Quartet,B-flat major,"1. Vivace assai (B-flat major)
 2. Adagio ma non troppo (E-flat major)
 3. Menuetto (B-flat major) avec Trio
-4. Finale. Presto (B-flat major)","Strings (2 Violins, Viola, Cello)",Tost II-3
+4. Finale. Presto (B-flat major)","2 Violins, Viola, Cello",Tost II-3
 3,Hob. III,63,Hob. III:63,op. 55/4,1790,L'alouette,Quartet,D major,"1. Allegro moderato (D major)
 2. Adagio (A major)
 3. Menuet. Allegretto (D major) avec Trio (D minor)
-4. Finale. Vivace (D major)","Strings (2 Violins, Viola, Cello)",Tost III-1
+4. Finale. Vivace (D major)","2 Violins, Viola, Cello",Tost III-1
 3,Hob. III,64,Hob. III:64,op. 55/5,1790,,Quartet,E-flat major,"1. Allegro (E-flat major)
 2. Andante (B-flat major)
 3. Menuetto. Allegretto (E-flat major) avec Trio
-4. Finale. Presto (E-flat major)","Strings (2 Violins, Viola, Cello)",Tost III-2
+4. Finale. Presto (E-flat major)","2 Violins, Viola, Cello",Tost III-2
 3,Hob. III,65,Hob. III:65,op. 64/1,1790,,Quartet,C major,"1. Allegro moderato (C major)
 2. Menuet. Allegro ma non troppo (C major) avec Trio (C minor)
 3. Allegretto scherzando (F major)
-4. Finale. Presto ( C major)","Strings (2 Violins, Viola, Cello)",Tost III-3
+4. Finale. Presto ( C major)","2 Violins, Viola, Cello",Tost III-3
 3,Hob. III,68,Hob. III:68,op. 64/2,1790,,Quartet,B minor,"1. Allegro spirituoso (B minor)
 2. Adagio ma non troppo (B major)
 3. Menuetto (B minor) avec Trio (B major)
-4. Finale. Presto (B minor)","Strings (2 Violins, Viola, Cello)",Tost III-6
+4. Finale. Presto (B minor)","2 Violins, Viola, Cello",Tost III-6
 3,Hob. III,67,Hob. III:67,op. 64/3,1790,,Quartet,B-flat major,"1. Vivace assai (B-flat major)
 2. Adagio (E-flat major)
 3. Menuet. Allegretto (B-flat major) avec Trio
-4. Finale. Allegro con spirito (B-flat major)","Strings (2 Violins, Viola, Cello)",Tost III-5
+4. Finale. Allegro con spirito (B-flat major)","2 Violins, Viola, Cello",Tost III-5
 3,Hob. III,66,Hob. III:66,op. 64/4,1790,,Quartet,G major,"1. Allegro con brio (G major)
 2. Menuetto (G major) avec Trio
 3. Adagio cantabile sostenuto (C major)
-4. Finale. Presto (G major)","Strings (2 Violins, Viola, Cello)",Tost III-4
+4. Finale. Presto (G major)","2 Violins, Viola, Cello",Tost III-4
 3,Hob. III,69,Hob. III:69,op. 71/1,1793,,Quartet,B-flat major,"1. Allegro (B-flat major)
 2. Adagio (F major)
 3. Menuet. Allegretto (B-flat major) avec Trio
-4. Finale. Vivace (B-flat major)","Strings (2 Violins, Viola, Cello)",Apponyi 1
+4. Finale. Vivace (B-flat major)","2 Violins, Viola, Cello",Apponyi 1
 3,Hob. III,70,Hob. III:70,op. 71/2,1793,,Quartet,D major,"1. Adagio (D major) / Allegro
 2. Adagio (A major)
 3. Menuet. Allegretto (D major) avec Trio
-4. Finale. Allegretto (D major)","Strings (2 Violins, Viola, Cello)",Apponyi 2
+4. Finale. Allegretto (D major)","2 Violins, Viola, Cello",Apponyi 2
 3,Hob. III,71,Hob. III:71,op. 71/3,1793,,Quartet,E-flat major,"1. Vivace (E-flat major)
 2. Andante con moto (B-flat major)
 3. Menuet (E-flat major) avec Trio
-4. Finale. Vivace (E-flat major)","Strings (2 Violins, Viola, Cello)",Apponyi 3
+4. Finale. Vivace (E-flat major)","2 Violins, Viola, Cello",Apponyi 3
 3,Hob. III,72,Hob. III:72,op. 74/1,1793,,Quartet,C major,"1. Allegro (C major)
 2. Andantino (G major)
 3. Menuet. Allegro (C major) avec Trio (A major)
-4. Finale. Vivace (C major)","Strings (2 Violins, Viola, Cello)",Apponyi 4
+4. Finale. Vivace (C major)","2 Violins, Viola, Cello",Apponyi 4
 3,Hob. III,73,Hob. III:73,op. 74/2,1793,,Quartet,F major,"1. Allegro spiritoso (F major)
 2. Andante grazioso (B-flat major)
 3. Menuet (F major) avec Trio (ré bémol majeur)
-4. Finale. Presto (F major)","Strings (2 Violins, Viola, Cello)",Apponyi 5
+4. Finale. Presto (F major)","2 Violins, Viola, Cello",Apponyi 5
 3,Hob. III,74,Hob. III:74,op. 74/3,1793,Le cavelier,Quartet,G minor,"1. Allegro (G minor)
 2. Largo assai (E major)
 3. Menuet. Allegretto (G major) avec Trio (G minor)
-4. Finale. Allegro con brio (G minor)","Strings (2 Violins, Viola, Cello)",Apponyi 6
+4. Finale. Allegro con brio (G minor)","2 Violins, Viola, Cello",Apponyi 6
 3,Hob. III,75,Hob. III:75,op. 76/1,1797,,Quartet,G major,"1. Allegro con spirito (G major)
 2. Adagio sostenuto (C major)
 3. Menuet. Presto (G major) avec Trio
-4. Finale. Allegro ma non troppo (G minor)","Strings (2 Violins, Viola, Cello)",Erdody 1
+4. Finale. Allegro ma non troppo (G minor)","2 Violins, Viola, Cello",Erdody 1
 3,Hob. III,76,Hob. III:76,op. 76/2,1797,Les quintes,Quartet,D minor,"1. Allegro (D minor)
 2. Andante o piu tosto Allegretto (D major)
 3. Menuetto (D minor) avec Trio (D major)
-4. Finale. Vivace assai (D minor)","Strings (2 Violins, Viola, Cello)",Erdody 2
+4. Finale. Vivace assai (D minor)","2 Violins, Viola, Cello",Erdody 2
 3,Hob. III,77,Hob. III:77,op. 76/3,1797,Empereur,Quartet,C major,"1. Allegro (C major)
 2. Poco Adagio. Cantabile (G major)
 3. Menuetto (C major) avec Trio
-4. Finale. Presto (C minor)","Strings (2 Violins, Viola, Cello)",Erdody 3
+4. Finale. Presto (C minor)","2 Violins, Viola, Cello",Erdody 3
 3,Hob. III,78,Hob. III:78,op. 76/4,1797,Lever du soleil,Quartet,B-flat major,"1. Allegro con spirito (B-flat major)
 2. Adagio (E-flat major)
 3. Menuet. Allegro (B-flat major) avec Trio
-4. Finale. Allegro ma non troppo (B-flat major)","Strings (2 Violins, Viola, Cello)",Erdody 4
+4. Finale. Allegro ma non troppo (B-flat major)","2 Violins, Viola, Cello",Erdody 4
 3,Hob. III,79,Hob. III:79,op. 76/5,1797,,Quartet,D major,"1. Allegro (D major)
 2. Largo cantabile e mesto (fa dièse majeur)
 3. Menuetto (D major) avec Trio (D minor)
-4. Finale. Presto (D major)","Strings (2 Violins, Viola, Cello)",Erdody 5
+4. Finale. Presto (D major)","2 Violins, Viola, Cello",Erdody 5
 3,Hob. III,80,Hob. III:80,op. 76/6,1797,,Quartet,E-flat major,"1. Allegretto (E-flat major)
 2. Fantasia. Adagio (B minor)
 3. Menuetto (E-flat major) avec Alternativo
-4. Finale. Allegro spirituoso (E-flat major)","Strings (2 Violins, Viola, Cello)",Erdody 6
+4. Finale. Allegro spirituoso (E-flat major)","2 Violins, Viola, Cello",Erdody 6
 3,Hob. III,81,Hob. III:81,op. 77/1,1799,,Quartet,G major,"1. Allegro moderato (G major)
 2. Adagio (E-flat major)
 3. Menuet. Presto (G major) avec Trio (E-flat major)
-4. Finale. Presto (G major)","Strings (2 Violins, Viola, Cello)",Lobkowitz 1
+4. Finale. Presto (G major)","2 Violins, Viola, Cello",Lobkowitz 1
 3,Hob. III,82,Hob. III:82,op. 77/2,1799,,Quartet,F major,"1. Allegro moderato (F major)
 2. Menuet. Prsto (F major) avec Trio (F minor)
 3. Andante (D major)
-4. Finale. Vivace assai (F major)","Strings (2 Violins, Viola, Cello)",Lobkowitz 2
+4. Finale. Vivace assai (F major)","2 Violins, Viola, Cello",Lobkowitz 2
 3,Hob. III,19,Hob. III:19,op. 9/1,1769,,Quartet,C major,"1. Moderato (C major)
 2. Menuetto (C major) avec Trio (C minor)
 3. Adagio (F major)
-4. Finale. Presto (C major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (C major)","2 Violins, Viola, Cello",
 3,Hob. III,20,Hob. III:20,op. 9/2,1769,,Quartet,E-flat major,"1. Moderato (E-flat major)
 2. Menuetto (E-flat major) et Trio
 3. Adagio (C minor) / Cantabile
-4. Allegro molto (E-flat major)","Strings (2 Violins, Viola, Cello)",
+4. Allegro molto (E-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,21,Hob. III:21,op. 9/3,1769,,Quartet,G major,"1. Allegro moderato (G major)
 2. Menuetto (G major) avec Trio
 3. Largo (C major)
-4. Finale. Presto (G major)","Strings (2 Violins, Viola, Cello)",
+4. Finale. Presto (G major)","2 Violins, Viola, Cello",
 3,Hob. III,22,Hob. III:22,op. 9/4,1769,,Quartet,D minor,"1. Allegro moderato (D minor)
 2. Menuetto (D minor) avec Trio (D major)
 3. Adagio cantabile (B-flat major)
-4. Presto (D minor)","Strings (2 Violins, Viola, Cello)",
+4. Presto (D minor)","2 Violins, Viola, Cello",
 3,Hob. III,23,Hob. III:23,op. 9/5,1769,,Quartet,B-flat major,"1. Poco Adagio (B-flat major)
 [avec 4 variations]
 2. Menuetto (B-flat major) avec Trio
 3. Largo Cantabile (B-flat major)
-4. Presto (B-flat major)","Strings (2 Violins, Viola, Cello)",
+4. Presto (B-flat major)","2 Violins, Viola, Cello",
 3,Hob. III,24,Hob. III:24,op. 9/6,1769,,Quartet,A major,"1. Presto (A major)
 2. Menuetto (A major) avec Trio (la mineur)
 3. Adagio (E major)
-4. Allegro (A major)","Strings (2 Violins, Viola, Cello)",
+4. Allegro (A major)","2 Violins, Viola, Cello",
 4,Hob. IV,1,Hob. IV:1,,1794,,Divertimento,C major,"1. Allegro moderato (C major)
 2. Andante (G major)
 3. Finale. Vivace (C major)","(2 Flutes, Cello)",
@@ -1302,7 +1302,7 @@ Additions selon H.C. Robbins Landon"
 [see H 28/7, 2e acte: Zwischenspiel]
 
 2. Allegro (D major)
-[see H 28/7, 2e acte: Sinfonia e Coro]
+[see H 28/7, 2e acte: Sinfonia e Horno]
 
 3. Tempo di Menuetto (D major)","[2 Violins]/[Flute, Violin], Cello",Partial arrangement of other works
 4,Hob. IV,7,Hob. IV:7,,1784,,Divertimento,G major,"1. Allegro (G major)
@@ -1490,11 +1490,11 @@ Additions selon H.C. Robbins Landon"
 6,Hob. VI,G4,Hob. VI:G4,,,,Duo,G major,1. …,2 Violins,
 7,Hob. VIIa,1,Hob. VIIa:1,,1765,,Concerto,C major,"1. Allegro moderato
 2. Adagio (F major)
-3. Finale. Presto","Violin, Strings (2 Violins, Viola, Basso)",
-7,Hob. VIIa,2,Hob. VIIa:2,,1765,,Concerto,D major,1. ...,"Violin, Orchestra (2 Oboes, 2 Horns, 2 Violins, Viola, Basso)",[Lost]
+3. Finale. Presto","Violin, 2 Violins, Viola, Basso",
+7,Hob. VIIa,2,Hob. VIIa:2,,1765,,Concerto,D major,1. ...,"Violin, 2 Oboes, 2 Horns, 2 Violins, Viola, Basso",[Lost]
 7,Hob. VIIa,3,Hob. VIIa:3,,1770,,Concerto,A major,"1. Moderato
 2. Adagio moderato (D major)
-3. Allegro","Violin, Orchestra (? 2 Oboes, 2 Horns, 2 Violins, Viola, viole)",
+3. Allegro","Violin, ? 2 Oboes, 2 Horns, 2 Violins, Viola, Viol",
 7,Hob. VIIa,4,Hob. VIIa:4,,1769,,Concerto,G major,"1. Allegro moderato
 2. Adagio (C major)
 3. Allegro","Violin, Strings (2 Violins, Viola, Basso)",
@@ -1515,19 +1515,19 @@ Additions selon H.C. Robbins Landon"
 2. Andante (E-flat major)
 3. Allegretto vivace","Cello, Orchestra",[esquisse]
 7,Hob. VIIb,g1,Hob. VIIb:g1,,,,Concerto,G minor,1. …,"Cello, Strings (2 Violins, Viola, Basso)",[Lost]
-7,Hob. VIIc,1,Hob. VIIc:1,,?,,Concerto,D major,1. …,"Contrebasse, …",[Lost]
+7,Hob. VIIc,1,Hob. VIIc:1,,?,,Concerto,D major,1. …,"ContreBasso, …",[Lost]
 7,Hob. VIId,1,Hob. VIId:1,,1765,,Concerto,D major,1. …,"Horn, Orchestra",[Lost]
 7,Hob. VIId,2,Hob. VIId:2,,?,,Concerto,E-flat major,1. …,"2 Horns, …",[Lost]
 7,Hob. VIId,3,Hob. VIId:3,,1762,,Concerto,D major,"1. Allegro
 2. Adagio (A major)
-3. Allegro","Horn, Orchestra (2 Oboes, 2 Violins, Viola, Basso)",[Concerto # 1]
+3. Allegro","Horn, 2 Oboes, 2 Violins, Viola, Basso",[Concerto # 1]
 7,Hob. VIId,4,Hob. VIId:4,,1781,,Concerto,D major,"1. Allegro moderato
 2. Adagio
-3. Allegro","Horn, Strings (2 Violins, Viola, Basso)",[Concerto # 2 - Unestablished]
+3. Allegro","Horn, 2 Violins, Viola, Basso",[Concerto # 2 - Unestablished]
 7,Hob. VIIe,1,Hob. VIIe:1,,1796,,Concerto,E-flat major,,"Trumpet, 2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Basso",
 7,Hob. VIIf,1,Hob. VIIf:1,,1780?,,Concerto,D major,1. …,"Flute, …",[Lost]
 7,Hob. VIIf,D1,Hob. VIIf:D1,,,,Concerto,D major,1. Allegro moderato,"Flute, Strings (2 Violins, Viola, Basso)",[œuvre de Leopold Hoffmann]
-7,Hob. VIIg,C1,Hob. VIIg:C1,,,,Concerto,C major,,"Oboe, Orchestra (2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Basso)",Doubtful
+7,Hob. VIIg,C1,Hob. VIIg:C1,,,,Concerto,C major,,"Solo Oboe, 2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Basso",Doubtful
 7,Hob. VIIh,1,Hob. VIIh:1,,1786,,Concerto,C major,"1. Allegro con spirito
 2. Andante (G major)
 3. Finale. Allegro con brio","2 Lira organizzata, 2 Horns, 2 Violins, 2 Violas, Basso",
@@ -1543,19 +1543,19 @@ Additions selon H.C. Robbins Landon"
 7,Hob. VIIh,5,Hob. VIIh:5,,1786,,Concerto,F major,"1. (Allegro)
 2. Andante (C major)
 3. Finale","2 Lira organizzata, 2 Horns, 2 Violins, 2 Violas, Basso",
-8,Hob. VIII,1,Hob. VIII:1,,1795,,March,E-flat major,1. …,"(2 clarinettes, 2 bassons, serpentin, 2 cors et trompette)",[Derbyshire # 1]
-8,Hob. VIII,2,Hob. VIII:2,,1795,,March,C major,1. …,"(2 clarinettes, 2 bassons, serpentin, 2 cors et trompette)",[Derbyshire # 2]
-8,Hob. VIII,3,Hob. VIII:3,,1792,,March,E-flat major,1. Marche / Trio,"(2 clarinettes, 2 bassons, serpentin, 2 cors et trompette)",[Pour le Prince de Galles]
-8,Hob. VIII,4,Hob. VIII:4,,1802,,March,E-flat major,1. Allegretto,"(2 hautbois, 2 clarinettes, 2 bassons, 2 cors et trompette)",[Marche nationale hongroise]
-8,Hob. VIII,5,Hob. VIII:5,,,,March,C major,1. …,"(2 hautbois, 2 bassons, timbales, 2 violons, violoncelle et basse)","[provient de ""Il monde della luna"", H 28:7]"
-8,Hob. VIII,6,Hob. VIII:6,,1793,,March,E-flat major,1. …,"(2 clarinettes, 2 bassons et 2 cors)",
-8,Hob. VIII,7,Hob. VIII:7,,?1792,,March,E-flat major,1. …,"(2 clarinettes, 2 bassons, serpentin, 2 cors et trompette)",
-8,Hob. VIII,3b,Hob. VIII:3b,,1792,,March,E-flat major,1. Marche / Trio,"(flûte, 2 clarinettes, 2 bassons, serpentin, 2 cors, 2 trompettes, 2 violons, alto et basse)","[version de la précédente, pour la Société Royale des Musiciens]"
+8,Hob. VIII,1,Hob. VIII:1,,1795,,March,E-flat major,1. …,"(2 clarinettes, 2 Bassoons, serpentin, 2 Horns et trompette)",[Derbyshire # 1]
+8,Hob. VIII,2,Hob. VIII:2,,1795,,March,C major,1. …,"(2 clarinettes, 2 Bassoons, serpentin, 2 Horns et trompette)",[Derbyshire # 2]
+8,Hob. VIII,3,Hob. VIII:3,,1792,,March,E-flat major,1. Marche / Trio,"(2 clarinettes, 2 Bassoons, serpentin, 2 Horns et trompette)",[Pour le Prince de Galles]
+8,Hob. VIII,4,Hob. VIII:4,,1802,,March,E-flat major,1. Allegretto,"(2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns et trompette)",[Marche nationale hongroise]
+8,Hob. VIII,5,Hob. VIII:5,,,,March,C major,1. …,"(2 hautbois, 2 Bassoons, timbales, 2 Violins, Violincelle et Basso)","[provient de ""Il monde della luna"", H 28:7]"
+8,Hob. VIII,6,Hob. VIII:6,,1793,,March,E-flat major,1. …,"(2 clarinettes, 2 Bassoons et 2 Horns)",
+8,Hob. VIII,7,Hob. VIII:7,,?1792,,March,E-flat major,1. …,"(2 clarinettes, 2 Bassoons, serpentin, 2 Horns et trompette)",
+8,Hob. VIII,3b,Hob. VIII:3b,,1792,,March,E-flat major,1. Marche / Trio,"(Flute, 2 clarinettes, 2 Bassoons, serpentin, 2 Horns, 2 trompettes, 2 Violins, Viola et Basso)","[version de la précédente, pour la Société Royale des Musiciens]"
 8,Hob. VIII,C1,Hob. VIII:C1,,,,March,C major,1. …,Orchestra,[Marche brillante de la 66e brigade des Chasseurs]
 8,Hob. VIII,C2,Hob. VIII:C2,,,,March,C major,1. …,Orchestra,[Marche de Napoléon]
 8,Hob. VIII,D1,Hob. VIII:D1,,,,March,D major,1. …,Orchestra,[Marche pour le régiment d'infanterie Coloredo]
 8,Hob. VIII,Es1,Hob. VIII:Es1,,,,March,E-flat major,1.Marche / Trio (si bémol majeur),Orchestra,[Marche pour la victoire de Napoléon]
-8,Hob. VIII,,Hob. VIII,,1772,,March,G major,1. ...,"(2 hautbois, 2 cors, 2 bassons)",[Marche Regimento de Marshall]
+8,Hob. VIII,,Hob. VIII,,1772,,March,G major,1. ...,"(2 hautbois, 2 Horns, 2 Bassoons)",[Marche Regimento de Marshall]
 9,Hob. IX,1,Hob. IX:1,,1760,12 Menuets,Dance,,"1. C major, Trio C minor
 2. G major
 3. D major
@@ -2413,7 +2413,7 @@ Partial Lost (Trio, Finale)"
 15,Hob. XV,16,Hob. XV:16,op. 67/2,1790,,Trio,D major,,"Piano, Flute, Cello",
 15,Hob. XV,14,Hob. XV:14,op. 68,1790,,Sonata,A-flat major,,"Piano, Violin, Cello",
 15,Hob. XV,17,Hob. XV:17,op. 73,1790,,Trio,F major,,"Piano, Flute, Cello",
-15,Hob. XV,32,Hob. XV:32,op. 75,1793/4,,Sonata,G major,,"Piano, Violin, Cello",[provient d'une sonate pour piano et violon]
+15,Hob. XV,32,Hob. XV:32,op. 75,1793/4,,Sonata,G major,,"Piano, Violin, Cello",[provient d'une sonate pour piano et Violin]
 15,Hob. XV,18,Hob. XV:18,op. 78/1,1794,,Sonata,A major,,"Piano, Violin, Cello",
 15,Hob. XV,19,Hob. XV:19,op. 78/2,1794,,Sonata,G major,,"Piano, Violin, Cello",
 15,Hob. XV,20,Hob. XV:20,op. 78/3,1794,,Sonata,B-flat major,,"Piano, Violin, Cello",
@@ -2640,35 +2640,35 @@ Partial Lost (Trio, Finale)"
 17,Hob. XVIIa,C1,Hob. XVIIa:C1,,,Grande sonate,Sonata,C major,1. Allegro,Piano Four Hands,
 18,Hob. XVIII,1,Hob. XVIII:1,,1756,"[Concerto # 1] ""Concerto per l'Organo""",Concerto,C major,"1. Allegro moderato
 2. Largo (fa majeur)
-3. Allegro molto","clavier et orchestre (2 violons, alto, basse, 2 hautbois - 2 trompettes, timbales?)",
+3. Allegro molto","clavier et orchestre (2 Violins, Viola, Basso, 2 hautbois - 2 trompettes, timbales?)",
 18,Hob. XVIII,2,Hob. XVIII:2,,1767,,Concerto,D major,"1. Allegro moderato
 2. Adagio (sol majeur)
-3. Allegro","clavier et orchestre (2 violons, alto, basse avec 2 hautbois et 2 cors ou 2 trompettes et timbales)",
+3. Allegro","clavier et orchestre (2 Violins, Viola, Basso avec 2 hautbois et 2 Horns ou 2 trompettes et timbales)",
 18,Hob. XVIII,3,Hob. XVIII:3,,1765,,Concerto,F major,"1. Allegretto
 2. Largo (do majeur)
-3. Presto","clavier et orchestre (2 violons, alto, basse)",
+3. Presto","clavier et orchestre (2 Violins, Viola, Basso)",
 18,Hob. XVIII,4,Hob. XVIII:4,,1782,,Concerto,G major,"1. Allegro moderato
 2. Adagio (do majeur)
-3. Rondo. Presto","clavier et orchestre (2 violons, alto, basse, 2 hautbois, 2 cors)",
-18,Hob. XVIII,5,Hob. XVIII:5,,1763,,Concerto,C major,1. …,"clavier et orchestre (2 violons, alto, basse ?)","[perdu]
+3. Rondo. Presto","clavier et orchestre (2 Violins, Viola, Basso, 2 hautbois, 2 Horns)",
+18,Hob. XVIII,5,Hob. XVIII:5,,1763,,Concerto,C major,1. …,"clavier et orchestre (2 Violins, Viola, Basso ?)","[perdu]
 [probablement authentique - aussi attribué à Wagenseil]"
 18,Hob. XVIII,6,Hob. XVIII:6,,1766,,Concerto,F major,"1. Allegro moderato
 2. Largo (do majeur)
-3. Allegro","violon et clavecin avec orchestre (2 violons, alto, basse)",
+3. Allegro","Violin et clavecin avec orchestre (2 Violins, Viola, Basso)",
 18,Hob. XVIII,7,Hob. XVIII:7,,1766,,Concerto,F major,"1. Moderato
 [voir H 15/40 (1)]
 2. Adagio (ré mineur)
-3. Allegro","clavier et orchestre (2 violons, alto?, basse)",
+3. Allegro","clavier et orchestre (2 Violins, Viola?, Basso)",
 18,Hob. XVIII,8,Hob. XVIII:8,,1766,[Concerto # 2],Concerto,C major,"1. Allegro moderato
 2. Adagio (sol majeur)
-3. Finale. Allegro","clavier et orchestre (2 violons, basse, 2 cors ou 2 trompettes - timbales)",[probablement authentique - originalement attribué à Leopold Hofmann]
+3. Finale. Allegro","clavier et orchestre (2 Violins, Basso, 2 Horns ou 2 trompettes - timbales)",[probablement authentique - originalement attribué à Leopold Hofmann]
 18,Hob. XVIII,9,Hob. XVIII:9,,1767,,Concerto,G major,"1. Allegro
 2. Adagio (sol mineur)
-3. Tempo di Minuetto","clavier et orchestre (2 violons, 2 altos?, basse)",[authenticité douteuse]
-18,Hob. XVIII,10,Hob. XVIII:10,,1771,Concerto (Concertino),Concerto,C major,,"clavier et orchestre (2 violons, basse)",
+3. Tempo di Minuetto","clavier et orchestre (2 Violins, 2 Violas?, Basso)",[authenticité douteuse]
+18,Hob. XVIII,10,Hob. XVIII:10,,1771,Concerto (Concertino),Concerto,C major,,"clavier et orchestre (2 Violins, Basso)",
 18,Hob. XVIII,11,Hob. XVIII:11,,1782,,Concerto,D major,"1. Vivace
 2. Un poco Adagio (la majeur)
-3. Rondo all'Ungarese. Allegro assai","clavier et orchestre (2 violons, alto, basse, 2 hautbois, 2 cors)",
+3. Rondo all'Ungarese. Allegro assai","clavier et orchestre (2 Violins, Viola, Basso, 2 hautbois, 2 Horns)",
 18,Hob. XVIII,Es1,Hob. XVIII:Es1,,,,Concerto,E-flat major,1. Allegro moderato,"Harpsichord, 2 Violins, Viola, Basso",
 18,Hob. XVIII,F1,Hob. XVIII:F1,,,,Concerto,F major,1. Allegro moderato,"Harpsichord, Orchestra (2 Violins, Viola, Basso, 2 Flutes)",[composition de G.J. Vogler]
 18,Hob. XVIII,F2,Hob. XVIII:F2,,,Concertino,Concerto,F major,1. Moderato,"Harpsichord, Orchestra (2 Violins, Basso)",
@@ -2871,7 +2871,7 @@ B, Strings, 2 Oboes, Organ
 Allegretto (C major)
 T, Strings, 2 Oboes, Organ
 
-13. Quando corpus morietur / Fac ut animae donetur / Paradisi gloria
+13. Quando Hornpus morietur / Fac ut animae donetur / Paradisi gloria
 Largo assai (G minor) / … / Alla breve (G major)
 S / A / Choir, Strings, 2 Oboes, Organ","S, A, T, B, SATB Choir, 2 Violins, Viola, Cello, Bass, 2 Oboes/English Horns, Organ",
 21,Hob. XXI,1,Hob. XXI:1,,1775,Il Ritorno di Tobia,Oratorio,,,"S1, S2, A, T, B, SATB Choir, 2 Violins, Viola, Cello, Bass, 2 Flutes, 2 Oboes, 2 English Horns, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani",Libretto: Giovanni Gastone Boccherini
@@ -3163,34 +3163,34 @@ Andante (E-flat major)",,
 Adagio (E-flat major)",,
 22,Hob. XXIIb,Es3,Hob. XXIIb:Es3,,,,Libera,E-flat major,"1. Libera me
 Adagio (E-flat major)",,
-28,Hob. XXVIII,1,Hob. XXVIII:1,,1762,Acide e Galatea,Opera,,fête théâtrale en un acte,"solistes: (S: Galatea, Glauce; A: Tétide; T: Acide; B: Polyfemo), cordes, 2 flûtes, 2 hautbois, (2 cors anglais), (2 bassons), 2 cors",Libretto by Giovanni Battista Migliavacca
-28,Hob. XXVIII,2,Hob. XXVIII:2,,1766,La Canterina,Opera,,"intermezzo musical, en deux actes","solistes (S: Gasperina, Apollonia, Don Ettore; T: Don Plagio), cordes, 2 flûtes, 2 hautbois, 2 cors anglais, 2 cors",
-28,Hob. XXVIII,3,Hob. XXVIII:3,,1768,Lo speziale (Der Apotheker),Opera,,"dramma giocoso, en 3 actes","solistes (S: Grilletta, Volpino; T: Sempronio, Mengone), cordes, 2 flûtes, 2 hautbois, basson, 2 cors",Libretto by Carlo Goldoni
-28,Hob. XXVIII,4,Hob. XXVIII:4,,1769,Le Pescatrici,Opera,,"dramma giocoso, en 3 actes","soliates (S: Lesbina, Nerina; A: Eurilda; T: Burlotto, Frisellino; B: Lindoro, Mastricco) et choeur, cordes, 2 flûtes, 2 hautbois, 2 cors anglais, 2 bassons, 2 cors",Libretto by Carlo Goldoni
-28,Hob. XXVIII,5,Hob. XXVIII:5,,1773,L'infedelta delusa,Opera,,"burletta musicale, en 2 actes","solistes (S: Vespina, Sandrina; T: Filippo, Nencio; B: Nanni), cordes, 2 hautbois, basson, 2 cors, timbales",Libretto by Marco Coltellini
-28,Hob. XXVIII,6,Hob. XXVIII:6,,1775,L'Incontro improvviso,Opera,,"dramma giocoso, en 3 actes","solistes (S: Rezia, Balkis, Dardane; T: Ali, Osmin; B: Calandro) et figurants (T: Offizier, B: Sultan, 3 Calandri), 2 violons, alto, violoncelle, basse, flûte, 2 hautbois, 2 cors anglais, 2 bassons, 2 trompettes, timbales, tambour, cymbales, triangle","Libretto by Karl Friberth, d'après La Rencontre imprévue de Dancourt"
-28,Hob. XXVIII,7,Hob. XXVIII:7,,1777,Il Mondo della Luna,Opera,,"dramma giocoso, en 3 actes","solistes (S: Clarice, Flaminia, Lisette; A: Ernesto; T: Ecclitico, Cecco; B: Buonafede) et figurants (B: Schüler/Cavaliers), cordes, 2 flûtes, 2 hautbois, 2 bassons, 2 cors, 2 trompettes, 2 cors, timbales",Libretto by Carlo Goldoni: Lustspiel
-28,Hob. XXVIII,8,Hob. XXVIII:8,,1777/8,La vera Costanza,Opera,,"dramma giocoso, en 3 actes","solistes (S: Rosina, Baronessa Irene/Marchesa, Lisetta; T: Conte Errico, marchese Ernesto, Masino; B: Villotto), cordes, 2 flûtes, 2 hautbois, 2 bassons, 2 cors, timbales",Libretto by Francesco Puttini et Pietro Travaglia
-28,Hob. XXVIII,9,Hob. XXVIII:9,,1779,L'Isola disabitata,Opera,,"azione teatrale, en 2 parties","solistes (S: Costanza, Silvia; T: Gernando; B: Enrico), cordes, flûte, 2 hautbois, basson, 2 cors, timbales",Libretto by Pietro Metastasio
-28,Hob. XXVIII,10,Hob. XXVIII:10,,1780,La Fedelta premiata,Opera,,"dramma giocoso, en 3 actes","solistes (S: Amaranta, Nerina, Fillide/Celia, Diana; T: Lindoro, Fileno; B: Perruchetto, Melibeo), cordes, flûte, 2 hautbois, 2 bassons, 2 cors, 2 trompettes, timbales",Libretto by Giovanni Barttista Lorenzi: L'Infedelta fedele
-28,Hob. XXVIII,11,Hob. XXVIII:11,,1782,Orlando Paladino,Opera,,"dramma eroicomico, en 3 actes","solistes (S: Angelica, Eurilla, Alcina; T: Orlando, Pasquale, Medoro, Licone; B: Rodomonte, Caronte), cordes, flûte, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales",Libretto by Nunziato Porta
-28,Hob. XXVIII,12,Hob. XXVIII:12,,1783,Armida,Opera,,"dramma eroica, en 3 actes","solistes (S: Armida, Zelmire; T: Rinaldo, Ubaldo, Clotarco; B: Idreno), cordes, flûte, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors",Libretto by Jacopo Durandi
-28,Hob. XXVIII,13,Hob. XXVIII:13,,1791,L'Anima del Filosofo (Orfeo ed Euridice),Opera,,"drame per musica, en 4 actes","solistes (S: Euridice, Genio; T: Orfeo; B: Creonte, Pluto, Coristo) et chœur à 4 voix mixtes, cordes, 2 flûtes, 2 hautbois/cors anglais, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales",Libretto by Carlo Francesco Badini
+28,Hob. XXVIII,1,Hob. XXVIII:1,,1762,Acide e Galatea,Opera,,fête théâtrale en un acte,"solistes: (S: Galatea, Glauce; A: Tétide; T: Acide; B: Polyfemo), Strings, 2 Flutes, 2 hautbois, (2 Horns anglais), (2 Bassoons), 2 Horns",Libretto by Giovanni Battista Migliavacca
+28,Hob. XXVIII,2,Hob. XXVIII:2,,1766,La Canterina,Opera,,"intermezzo musical, en deux actes","solistes (S: Gasperina, Apollonia, Don Ettore; T: Don Plagio), Strings, 2 Flutes, 2 hautbois, 2 Horns anglais, 2 Horns",
+28,Hob. XXVIII,3,Hob. XXVIII:3,,1768,Lo speziale (Der Apotheker),Opera,,"dramma giocoso, en 3 actes","solistes (S: Grilletta, Volpino; T: Sempronio, Mengone), Strings, 2 Flutes, 2 hautbois, Bassoon, 2 Horns",Libretto by Carlo Goldoni
+28,Hob. XXVIII,4,Hob. XXVIII:4,,1769,Le Pescatrici,Opera,,"dramma giocoso, en 3 actes","soliates (S: Lesbina, Nerina; A: Eurilda; T: Burlotto, Frisellino; B: Lindoro, Mastricco) et choeur, Strings, 2 Flutes, 2 hautbois, 2 Horns anglais, 2 Bassoons, 2 Horns",Libretto by Carlo Goldoni
+28,Hob. XXVIII,5,Hob. XXVIII:5,,1773,L'infedelta delusa,Opera,,"burletta musicale, en 2 actes","solistes (S: Vespina, Sandrina; T: Filippo, Nencio; B: Nanni), Strings, 2 hautbois, Bassoon, 2 Horns, timbales",Libretto by Marco Coltellini
+28,Hob. XXVIII,6,Hob. XXVIII:6,,1775,L'Incontro improvviso,Opera,,"dramma giocoso, en 3 actes","solistes (S: Rezia, Balkis, Dardane; T: Ali, Osmin; B: Calandro) et figurants (T: Offizier, B: Sultan, 3 Calandri), 2 Violins, Viola, Violincelle, Basso, Flute, 2 hautbois, 2 Horns anglais, 2 Bassoons, 2 trompettes, timbales, tambour, cymbales, triangle","Libretto by Karl Friberth, d'après La Rencontre imprévue de Dancourt"
+28,Hob. XXVIII,7,Hob. XXVIII:7,,1777,Il Mondo della Luna,Opera,,"dramma giocoso, en 3 actes","solistes (S: Clarice, Flaminia, Lisette; A: Ernesto; T: Ecclitico, Cecco; B: Buonafede) et figurants (B: Schüler/Cavaliers), Strings, 2 Flutes, 2 hautbois, 2 Bassoons, 2 Horns, 2 trompettes, 2 Horns, timbales",Libretto by Carlo Goldoni: Lustspiel
+28,Hob. XXVIII,8,Hob. XXVIII:8,,1777/8,La vera Costanza,Opera,,"dramma giocoso, en 3 actes","solistes (S: Rosina, Baronessa Irene/Marchesa, Lisetta; T: Conte Errico, marchese Ernesto, Masino; B: Villotto), Strings, 2 Flutes, 2 hautbois, 2 Bassoons, 2 Horns, timbales",Libretto by Francesco Puttini et Pietro Travaglia
+28,Hob. XXVIII,9,Hob. XXVIII:9,,1779,L'Isola disabitata,Opera,,"azione teatrale, en 2 parties","solistes (S: Costanza, Silvia; T: Gernando; B: Enrico), Strings, Flute, 2 hautbois, Bassoon, 2 Horns, timbales",Libretto by Pietro Metastasio
+28,Hob. XXVIII,10,Hob. XXVIII:10,,1780,La Fedelta premiata,Opera,,"dramma giocoso, en 3 actes","solistes (S: Amaranta, Nerina, Fillide/Celia, Diana; T: Lindoro, Fileno; B: Perruchetto, Melibeo), Strings, Flute, 2 hautbois, 2 Bassoons, 2 Horns, 2 trompettes, timbales",Libretto by Giovanni Barttista Lorenzi: L'Infedelta fedele
+28,Hob. XXVIII,11,Hob. XXVIII:11,,1782,Orlando Paladino,Opera,,"dramma eroicomico, en 3 actes","solistes (S: Angelica, Eurilla, Alcina; T: Orlando, Pasquale, Medoro, Licone; B: Rodomonte, Caronte), Strings, Flute, 2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns, 2 trompettes, timbales",Libretto by Nunziato Porta
+28,Hob. XXVIII,12,Hob. XXVIII:12,,1783,Armida,Opera,,"dramma eroica, en 3 actes","solistes (S: Armida, Zelmire; T: Rinaldo, Ubaldo, Clotarco; B: Idreno), Strings, Flute, 2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns",Libretto by Jacopo Durandi
+28,Hob. XXVIII,13,Hob. XXVIII:13,,1791,L'Anima del Filosofo (Orfeo ed Euridice),Opera,,"drame per musica, en 4 actes","solistes (S: Euridice, Genio; T: Orfeo; B: Creonte, Pluto, Hornisto) et chœur à 4 voix mixtes, Strings, 2 Flutes, 2 hautbois/cors anglais, 2 clarinettes, 2 Bassoons, 2 Horns, 2 trompettes, timbales",Libretto by Carlo Francesco Badini
 29,Hob. XXIX,A,Hob. XXIX:A,,c1775/8,Die Feuersbrunst (L'incendie),Operetta,,opérette en deux actes,"1. Ouverture.  Allegro (do majeur) / Andante (fa majeur) / Presto (do majeur) [voir H 1a/1 (3)]
 2. Aria O meiner Augenweide Leander. Adagio (mi bémol majeur) [voir H 26a/1]",
 29,Hob. XXIX,B,Hob. XXIX:B,,c1778/9,Le Glorieux oder Der Grosssprecher,Opera,,,,[perdu]
 29,Hob. XXIX,C,Hob. XXIX:C,,1768,Die Hochzeit auf der Alm,Opera,,,,[composition de Michael Haydn]
 29,Hob. XXIX,D,Hob. XXIX:D,,1783,L'isola di Calypso abbandonata,Opera,,,,[composition de Luigi Bologna]
 29,Hob. XXIX,E,Hob. XXIX:E,,c1786/88,Grün und Rosenfarb,Operetta,,opérette en un acte,,[perdu]
-29,Hob. XXIXa,1,Hob. XXIXa:1,,1773,Philemon und Baucis,Opera,,,"opéra pour marionettes, pour 2 sopranos (Baucis, Narcissa), 2 ténos (Philemon, Aret), 2 récitants (Jupiter, Merkur) et chœur avec orchestre (cordes, 2 hautbois, 2 cors)",[voir H 29b/2]
+29,Hob. XXIXa,1,Hob. XXIXa:1,,1773,Philemon und Baucis,Opera,,,"opéra pour marionettes, pour 2 sopranos (Baucis, Narcissa), 2 ténors (Philemon, Aret), 2 récitants (Jupiter, Merkur) et chœur avec orchestre (Strings, 2 hautbois, 2 Horns)",[voir H 29b/2]
 29,Hob. XXIXa,2,Hob. XXIXa:2,,1773,Der Hexenschabbas,Opera,,,opéra pour marionettes,[perdu]
 29,Hob. XXIXa,3,Hob. XXIXa:3,,1776,Didone abbandonata (Dido),Opera,,,"opéra pour marionettes, pour 7 personnages (Dido, Selene, Eneas, Jarbas, Araspes, Osmidas, Overpriester des Neptun) et chœur avec orchestre","Texte: Philipp Georg Bader
 [perdu]"
 29,Hob. XXIXa,4,Hob. XXIXa:4,,,Das abgebrannte Haus,Opera,,,opéra comique,"[perdu, non entièrement identifié, voir H 29b/A]]"
 29,Hob. XXIXa,5,Hob. XXIXa:5,,1777,Genovevens (4è livre),Opera,,,,"Texte: Joseph Karl von Pauersbach
 [perdu]"
-29,Hob. XXIXa,1a,Hob. XXIXa:1a,,1773,"Der Götterrat, oder Jupiters Reise auf der Erde",Opera,,,"prélude à Philemon und Baucis, our 9 dieux et déesses, solistes et chœur avec orchestre (cordes, 2 hautbois, 2 cors)",[perdu]
-29,Hob. XXIXb,2,Hob. XXIXb:2,,1777,Philemon und Baucis,Operetta,,,"2 sopranos, 2 ténors, 2 récitants, et chœur avec orchestre (cordes, 2 flûtes, 2 hautbois, 2 bassons, 2 cors, 2 trompettes, timbales)",[adaptation de H 29a/1]
+29,Hob. XXIXa,1a,Hob. XXIXa:1a,,1773,"Der Götterrat, oder Jupiters Reise auf der Erde",Opera,,,"prélude à Philemon und Baucis, our 9 dieux et déesses, solistes et chœur avec orchestre (Strings, 2 hautbois, 2 Horns)",[perdu]
+29,Hob. XXIXb,2,Hob. XXIXb:2,,1777,Philemon und Baucis,Operetta,,,"S1, S2, T1, T2, 2 Reciters, Choir, Strings, 2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani",[adaptation de H 29a/1]
 29,Hob. XXIXb,1a,Hob. XXIXb:1a,,1751,Der krumme Teufel,Operetta,,,,"Texte: Johann Joseph Felix Kurz
 [perdu]"
 29,Hob. XXIXb,1b,Hob. XXIXb:1b,,1758,Der neue krumme Teufel,Operetta,,,,"Texte: Johann Joseph Felix Kurz
@@ -3202,29 +3202,26 @@ Adagio (E-flat major)",,
 5. Aria ""Non o genio con amore non mi voglio maritar"" / Allegro molto (B-flat major) / Soprano (Scanarello), Strings, 2 Oboes, 2 Horns
 6. Aria ""Se non mi credi se non m'intendi"" / (A major) / Soprano, Strings, Flutes/Oboes, 2 Horns
 7. Aria ""Se credesse che un visetto ne volesse contentar"" / Andante (G major) / Soprano (Pantalone), Strings, 2 Oboes, 2 Horns
-8. Aria ""Se non son bella tanto, al meno o il cor sincero"" / Andante (E major) / Soprano (Augusta), Strings, 2 Horns",,"Text: Nicolaus Esterhazy
+8. Aria ""Se non son bella tanto, al meno o il Horn sincero"" / Andante (E major) / Soprano (Augusta), Strings, 2 Horns",,"Text: Nicolaus Esterhazy
 Surviving numbers: 8"
 30,Hob. XXX,2,Hob. XXX:2,,1774,Die Feuersbrunst,,,,,"[perdu]
 Texte: ? Grossmann"
 30,Hob. XXX,3,Hob. XXX:3,,,Der Zerstreute (Le distrait),,,musique d'entracte,,"Texte: Regnard: Le distrait
 [perdu, parties incorporées à la symphonie H 1/60 - Il distratto]"
-30,Hob. XXX,4,Hob. XXX:4,,1793,Musique pour opérette (sans titre),,,"1. Recitative ""Fatal amour cruel vainqueur"" / Presto (F major) /
+30,Hob. XXX,4,Hob. XXX:4,,1793,Musique pour opérette (sans titre),Scena,,"1. Recitative ""Fatal amour cruel vainqueur"" / Presto (F major) /
 2. Aria ""L'objet qui régna"" / Andante (D major) / [See Hob. XIX:26 (Allegro)]
-3. Chanson ""Si jamais ne prends un époux, je veux que l'amour me le donne"" / Andante (E-flat major) /","scène pour soprano avec orchestre (cordes, flûte, 2 hautbois, basson, 2 cors) et un récitant",[pour une pièce en français]
+3. Chanson ""Si jamais ne prends un époux, je veux que l'amour me le donne"" / Andante (E-flat major) /","S, Strings, Flute, 2 Oboes, Bassoon, 2 Horns) et un récitant",[pour une pièce en français]
 30,Hob. XXX,5,Hob. XXX:5,,1796,"Alfred Konig der Angelsachsen, oder der patriotische Konig",,,,,"Texte: Alexander Bicknell: The Patriotic King or Alfred and Elvida [Traduit par J.W. Cowmeadow]
 [voir H 30/5a,b,c]"
 30,Hob. XXX,5a,Hob. XXX:5a,,1796,Triumph dir Haldane,,C major,"Triumph dir Haldane
 Allegro assai (do majeur)
 chœur de danois (STB)
-cordes, 2 hautbois, 2 bassons, 2 trompettes, timbales",,"chœur des danois (STB) avec orchestre de l'opérette ""Alfred"" (acte I, scène 1)"
-30,Hob. XXX,5b,Hob. XXX:5b,,1796,"Ausgesandt vom Strahlenthrone, ",,E-flat major,"Ausgesandt vom Strahlenthrone
-Adagio (mi bémol majeur)
-aria pour soprano
-2 clarinettes, 2 bassons, 2 cors",,"air des génies pour soprano et orchestre de l'opérette ""Alfred"" (Acte II, scène 4)"
+Strings, 2 hautbois, 2 Bassoons, 2 trompettes, timbales",,"chœur des danois (STB) avec orchestre de l'opérette ""Alfred"" (acte I, scène 1)"
+30,Hob. XXX,5b,Hob. XXX:5b,,1796,Ausgesandt vom Strahlenthrone,Aria,E-flat major,(Adagio),"S, 2 Clarinets, 2 Bassoons, 2 Horns","air des génies de l'opérette ""Alfred"" (Acte II, scène 4)"
 30,Hob. XXX,5c,Hob. XXX:5c,,1796,Der Morgen graut,,F major,"Der Morgen graut, es ruft der Hahn
 Adagio (fa majeur)
 duet pour 2 ténors (Alfred, Odun)
-cordes, violon principale, harpe",,"duet pour 2 ténors avec orchestre de l'opérette ""Alfred"" (Acte V, scène 4)"
+Strings, Violin principale, harpe",,"duet pour 2 ténors avec orchestre de l'opérette ""Alfred"" (Acte V, scène 4)"
 30,Hob. XXX,A,Hob. XXX:A,,1806,Musique pour König Lear,,,,,"Texte: Shakespeare
 [perdu/non authentifié, voir Ouverture H 1a/9]"
 30,Hob. XXX,B,Hob. XXX:B,,c1774/6,Musique d'entracte pour Hamlet,,,,,"Texte: Shakespeare
@@ -3233,9 +3230,9 @@ cordes, violon principale, harpe",,"duet pour 2 ténors avec orchestre de l'opé
 [perdu/non authentifié]"
 30,Hob. XXX,D,Hob. XXX:D,,c1777,Musique pour Soliman II,,,,,"Texte: Charles Simon Favart: Les trois sultanes
 [perdu/non authentifié]"
-32,Hob. XXXII,1,Hob. XXXII:1,,1789,"La Circe, ossia L'isola incantata",Pasticcio,,"1. Scène ""Son due ore che giro Pedriollo"" / cordes, flûte, 2 hautbois, 2 bassons
-2. Aria ""Son pierosa, son bonina Lindora ""Andante (mi majeur) / Allegro di molto / cordes, flûtes, 2 hautbois, 2 bassons, 2 cors
-3. Trio ""Levatevi presto vedete qu'il vaso Teodora, Brunoro, Corrado"" Allegro con brio (mi bémol majeur) / Vivace assai / cordes, flûte, 2 hautbois, 2 bassons, 2 cors","solistes (SS,TTT,B) avec orchestre","[musique tirée de l'opéra ""L'ipocondriaco"" de J.G. Naumann et un autre opéra inconnu et arrangée avec ajouts par Haydn]"
+32,Hob. XXXII,1,Hob. XXXII:1,,1789,"La Circe, ossia L'isola incantata",Pasticcio,,"1. Scène ""Son due ore che giro Pedriollo"" / Strings, Flute, 2 hautbois, 2 Bassoons
+2. Aria ""Son pierosa, son bonina Lindora ""Andante (mi majeur) / Allegro di molto / Strings, Flutes, 2 hautbois, 2 Bassoons, 2 Horns
+3. Trio ""Levatevi presto vedete qu'il vaso Teodora, Brunoro, Hornrado"" Allegro con brio (mi bémol majeur) / Vivace assai / Strings, Flute, 2 hautbois, 2 Bassoons, 2 Horns","S1, S2, T1, T2, T3, B, Orchestra","[musique tirée de l'opéra ""L'ipocondriaco"" de J.G. Naumann et un autre opéra inconnu et arrangée avec ajouts par Haydn]"
 32,Hob. XXXII,2,Hob. XXXII:2,,1788,Der Freybrief,Pasticcio,,pièce burlesque avec chant en un acte,,"[perdu]
 [coontribution de Haydn]"
 32,Hob. XXXII,3,Hob. XXXII:3,,1790,Alessandro il Grande,Pasticcio,,"12a. Récitatif Poro
@@ -3251,5 +3248,5 @@ Adagio (mi bémol majeur) / Vivace [H 28/11 (14)]
 18. Air Barac
 Allegro (do majeur) [H 28/12 (10)]
 19. Air Timagene
-Allegretto (sol majeur) [H 28/12 (9)]","solistes (SS,TTT,B) et orchestre",[contribution de Haydn]
+Allegretto (sol majeur) [H 28/12 (9)]","S1, S2, T1, T2, T3, B, Orchestra",[contribution de Haydn]
 32,Hob. XXXII,4,Hob. XXXII:4,,1781,Der Apfeldieb,Pasticcio,,opérette comique en un acte,,[contribution de Haydn]

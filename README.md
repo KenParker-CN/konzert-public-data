@@ -34,9 +34,26 @@ per work — the conversion workflow will generate `csv/<CATALOG>.csv` on push.
 ### Editing Data
 
 1. Edit XLSX files in the `xlsx/` directory using Excel or Google Sheets
-2. Commit and push changes to GitHub
-3. GitHub Actions automatically converts XLSX to CSV
-4. The konzert application reads CSV files from this repository
+2. Double-click `commit-xlsx.bat` at the repository root
+3. The script regenerates the affected CSVs, stages `xlsx/` and `csv/`, shows
+   the staged files and asks for a commit message
+4. Type your own message and press Enter, or press Enter again to accept the
+   suggested one (`data: update Hob`); type `q` to abort without committing
+5. The commit is pushed to `origin/main`, which triggers the GitHub Actions
+   conversion; the konzert application then reads the new CSVs
+
+`commit-xlsx.bat` only stages `xlsx/` and `csv/`; anything else you have edited
+is listed at the end of the run and left untouched. If there is nothing new to
+commit but commits are still unpushed, running it again pushes them.
+
+```bash
+npm run commit:xlsx                        # commit (with prompt) and push
+npm run commit:xlsx -- --no-push           # skip the push
+npm run commit:xlsx -- --message "data: add Hob opus 108"
+npm run commit:xlsx -- --ask               # force the prompt when piping input
+```
+
+To commit from a terminal without the batch file, use the npm script above.
 
 ### Local Testing
 

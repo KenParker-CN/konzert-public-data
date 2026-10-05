@@ -8,6 +8,10 @@ Date,Wotquenne,Helm,Title,Type,Key,Movement,Instrumentation,Note
 1746,Wq. 19,H. 422,,Concerto,A major,"1. Allegro (la majeur)
 2. Andante (la mineur)
 3. Allegro assai (la majeur)","Harpsichord, 2 Violins, Viola, Basso",Attribué à Johann Friedrich Bach
+1753,Wq. 29,H. 437,,Concerto,A major,"1. Allegro (la majeur)
+2. Largo mesto (la mineur)
+3. Allegro (la majeur)","Harpsichord, 2 Violins, Viola, Basso","Aussi version pour flûte traversière et cordes (Wq 168/H 438);
+violoncelle et cordes (Wq 172/H 439)"
 1753,Wq. 168,H. 438,,Concerto,A major,"1. Allegro (la majeur)
 2. Largo mesto (la mineur)
 3. Allegro (mi majeur)","Transverse Flute, 2 Violins, Viola, Basso","Aussi version pour clavecin et cordes (Wq 29/H 437);
@@ -16,13 +20,17 @@ violoncelle et cordes (Wq 172/H 439)"
 2. Largo mesto (la mineur)
 3. Allegro (mi majeur)","Cello, 2 Violins, Viola, Basso","Aussi version pour clavecin et cordes (Wq 29/H 437);
 flûte traversière et cordes (Wq 168/H 438)"
-1753,Wq. 29,H. 437,,Concerto,A major,"1. Allegro (la majeur)
-2. Largo mesto (la mineur)
-3. Allegro (la majeur)","Harpsichord, 2 Violins, Viola, Basso","Aussi version pour flûte traversière et cordes (Wq 168/H 438);
-violoncelle et cordes (Wq 172/H 439)"
 1733,Wq. 1,H. 403,,Concerto,A minor,"1. Allegretto (la mineur)
 2. Andante (fa majeur)
 3. Presto (la mineur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1744
+1747,Wq. 21,H. 424,,Concerto,A minor,"1. Allegro (la mineur)
+2. Adagio (fa majeur)
+3. Allegro con spirito (la mineur)","Harpsichord, 2 Violins, Viola, Basso",
+1750,Wq. 26,H. 430,,Concerto,A minor,"1. Allegro assai (la mineur)
+2. Andante (do majeur)
+3. Allegro assai (la mineur)","Harpsichord, 2 Violins, Viola, Basso","Aussi version pour flûte traversière et cordes (Wq 166/H 431);
+violoncelle et cordes (Wq 170/H 432)
+Aussi arrangé pour 2 clavecins"
 1750,Wq. 166,H. 431,,Concerto,A minor,"1. Allegro assai (la mineur)
 2. Andante (do majeur)
 3. Allegro assai (la mineur)","Transverse Flute, 2 Violins, Viola, Basso","Aussi version pour clavecin et cordes (Wq 26/H 430);
@@ -31,14 +39,6 @@ violoncelle et cordes (Wq 170/H 432)"
 2. Andante (do majeur)
 3. Allegro assai (la mineur)","Cello, 2 Violins, Viola, Basso","Aussi version pour clavecin et cordes (Wq 26/H 430);
 flûte traversière et cordes (Wq 166/H 431)"
-1750,Wq. 26,H. 430,,Concerto,A minor,"1. Allegro assai (la mineur)
-2. Andante (do majeur)
-3. Allegro assai (la mineur)","Harpsichord, 2 Violins, Viola, Basso","Aussi version pour flûte traversière et cordes (Wq 166/H 431);
-violoncelle et cordes (Wq 170/H 432)
-Aussi arrangé pour 2 clavecins"
-1747,Wq. 21,H. 424,,Concerto,A minor,"1. Allegro (la mineur)
-2. Adagio (fa majeur)
-3. Allegro con spirito (la mineur)","Harpsichord, 2 Violins, Viola, Basso",
 1753,Wq. 30,H. 440,,Concerto,B minor,"1. Allegro di molto (si mineur)
 2. Adagio (sol majeur)
 3. Allegro (si mineur)","Harpsichord, 2 Violins, Viola, Basso",
@@ -48,13 +48,13 @@ Aussi arrangé pour 2 clavecins"
 1749,Wq. 25,H. 429,,Concerto,B-flat major,"1. Allegro di molto (si bémol majeur)
 2. Largo mesto (ré mineur)
 3. Prestissimo (si bémol majeur)","Harpsichord, 2 Violins, Viola, Basso",Aussi arrangé pour 2 clavecins
-1751,Wq. 167,H. 435,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
-2. Adagio (sol mineur)
-3. Allegro assai (si bémol majeur)","Transverse Flute, 2 Violins, Viola, Basso","Aussi version pour clavecin et cordes (Wq 28/H 434);
-violoncelle et cordes (Wq 171/H 436)"
 1751,Wq. 28,H. 434,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
 2. Adagio (sol mineur)
 3. Allegro assai (si bémol majeur)","Harpsichord, 2 Violins, Viola, Basso","Aussi version pour flûte traversière et cordes (Wq 167/H 435);
+violoncelle et cordes (Wq 171/H 436)"
+1751,Wq. 167,H. 435,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
+2. Adagio (sol mineur)
+3. Allegro assai (si bémol majeur)","Transverse Flute, 2 Violins, Viola, Basso","Aussi version pour clavecin et cordes (Wq 28/H 434);
 violoncelle et cordes (Wq 171/H 436)"
 1753,Wq. 171,H. 436,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
 2. Adagio (sol mineur)
@@ -63,12 +63,12 @@ flûte traversière et cordes (Wq 167/H 435)"
 1762,Wq. 36,H. 447,,Concerto,B-flat major,"1. Allegro (si bémol majeur)
 2. Poco Adagio (mi bémol majeur)
 3. Allegro assai (si bémol majeur)","Harpsichord, 2 Violins, Viola, Basso",
-1765,Wq. 164,H. 466,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
-2. Largo e mesto (sol mineur)
-3. Allegro moderato (si bémol majeur)","Oboe, 2 Violins, Viola, Basso",Aussi version pour clavecin et cordes (Wq 39/H 465)
 1765,Wq. 39,H. 465,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
 2. Largo e mesto (sol mineur)
 3. Allegro moderato (si bémol majeur)","2 Solo Violins, Viola, Basso",Aussi version pour hautbois et cordes (Wq 164/H 466)
+1765,Wq. 164,H. 466,,Concerto,B-flat major,"1. Allegretto (si bémol majeur)
+2. Largo e mesto (sol mineur)
+3. Allegro moderato (si bémol majeur)","Oboe, 2 Violins, Viola, Basso",Aussi version pour clavecin et cordes (Wq 39/H 465)
 1746,Wq. 20,H. 423,,Concerto,C major,"1. Allegretto (do majeur)
 2. Adagio ma non troppo (do mineur)
 3. Allegro assai (do majeur)","Harpsichord, 2 Violins, Viola, Basso",
@@ -76,6 +76,9 @@ flûte traversière et cordes (Wq 167/H 435)"
 1771,Wq. 43/6,H. 476,,Concerto,C major,"1. Allegro di molto (do majeur)
 2. Larghetto (ré mineur)
 3. Allegro (do majeur)","2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
+1739,Wq. 5,H. 407,,Concerto,C minor,"1. Moderato (do mineur)
+2. Adagio non molto (mi bémol majeur)
+3. Vivace (do mineur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1762
 1753,Wq. 31,H. 441,,Concerto,C minor,"1. Allegro di molto (do mineur)
 2. Adagio (la bémol majeur)
 3. Allegretto (do mineur)","Harpsichord, 2 Violins, Viola, Basso",
@@ -86,9 +89,6 @@ flûte traversière et cordes (Wq 167/H 435)"
 2. Poco Adagio (sol mineur)
 3. Tempo di Minuetto (mi bémol majeur)
 4. Allegro assai (do mineur)","Harpsichord, 2 Flutes adlib, 2 Violins, Viola, Basso",Aussi arrangé pour 2 clavecins solo
-1739,Wq. 5,H. 407,,Concerto,C minor,"1. Moderato (do mineur)
-2. Adagio non molto (mi bémol majeur)
-3. Vivace (do mineur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1762
 1743,Wq. 11,H. 414,,Concerto,D major,"1. Allegro di molto (ré majeur)
 2. Adagio non molto (ré mineur)
 3. Allegro (ré majeur)","Harpsichord, 2 Violins, Viola, Basso",Aussi version avec ajout de 2 trompettes et timbales ad lib
@@ -129,15 +129,18 @@ flûte traversière et cordes (Wq 167/H 435)"
 ,Wq. 481.5,,,Concerto,E minor,"1. Allegretto (mi mineur)
 2. Adagio (si mineur)
 3. Presto (mi mineur)",,Possiblement authentique
+1734,Wq. 2,H. 404,,Concerto,E-flat major,"1. Allegro non molto (mi bémol majeur)
+2. Largo (do mineur)
+3. Allegro assai (mi bémol majeur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1743
 1759,Wq. 35,H. 446,,Concerto,E-flat major,"1. Allegro ma non troppo (mi bémol majeur)
 2. Adagio sostenuto (la bémol majeur)
 3. Allegro assai (mi bémol majeur)","Organ/Harpsicord, 2 Horns, 2 Violins, Viola, Basso",Originalement pour orgue; autre version sans cors
-1765,Wq. 165,H. 468,,Concerto,E-flat major,"1. Allegro (mi bémol majeur)
-2. Adagio ma non troppo (do mineur)
-3. Allegro ma non troppo (mi bémol majeur)","Oboe, 2 Violins, Viola, Basso",Aussi version pour clavecin et cordes (Wq 40/H 467)
 1765,Wq. 40,H. 467,,Concerto,E-flat major,"1. Allegro (mi bémol majeur)
 2. Adagio ma non troppo (do mineur)
 3. Allegro ma non troppo (mi bémol majeur)","Harpsichord, 2 Violins, Viola, Basso",Aussi version pour hautbois et cordes (Wq 165/H 468)
+1765,Wq. 165,H. 468,,Concerto,E-flat major,"1. Allegro (mi bémol majeur)
+2. Adagio ma non troppo (do mineur)
+3. Allegro ma non troppo (mi bémol majeur)","Oboe, 2 Violins, Viola, Basso",Aussi version pour clavecin et cordes (Wq 40/H 467)
 1769,Wq. 41,H. 469,,Concerto,E-flat major,"1. Largo (mi bémol majeur) / Prestissimo
 2. Largo (do majeur)
 3. Ziemlich geschwinde (mi bémol majeur)","Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
@@ -147,9 +150,6 @@ flûte traversière et cordes (Wq 167/H 435)"
 1788,Wq. 47,H. 479,Concerto doppio,Concerto,E-flat major,"1. Allegro di molto (mi bémol majeur)
 2. Larghetto (do majeur)
 3. Presto (mi bémol majeur)","Harpsichord, Pianoforte, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",Aussi arrangé pour 2 claviers solo ainsi que pour 3 pianos solo
-1734,Wq. 2,H. 404,,Concerto,E-flat major,"1. Allegro non molto (mi bémol majeur)
-2. Largo (do mineur)
-3. Allegro assai (mi bémol majeur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1743
 1740,Wq. 46,H. 408,Concerto doppio,Concerto,F major,"1. Allegro (fa majeur)
 2. Largo (fa mineur)
 3. Allegro assai (fa majeur)","2 Harpsichords, 2 Horns, 2 Violins, Viola, Basso",2e version sans cors - ausi arrangé pour 2 clavecins solo
@@ -168,6 +168,9 @@ flûte traversière et cordes (Wq 167/H 435)"
 1771,Wq. 43/1,H. 471,,Concerto,F major,"1. Allegro di molto (fa majeur)
 2. Andante (fa mineur)
 3. Prestissimo (fa majeur)","2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
+1737,Wq. 3,H. 405,,Concerto,G major,"1. Allegro di molto (sol majeur)
+2. Adagio (sol mineur)
+3. Allegro (sol majeur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1745
 1738,Wq. 4,H. 406,,Concerto,G major,"1. Allegro (sol majeur)
 2. Adagio (sol mineur)
 3. Allegro (sol majeur)","Harpsichord, 2 Violins, Viola, Basso",
@@ -177,20 +180,17 @@ flûte traversière et cordes (Wq 167/H 435)"
 1745,Wq. 16,H. 419,,Concerto,G major,"1. Allegro (sol majeur)
 2. Adagio (do majeur)
 3. Allegretto (sol majeur)","Harpsichord, 2 Violins, Viola, Basso",? Révision d'une version datant de 1738
-1755,Wq. 169,H. 445,,Concerto,G major,"1. Allegro di molto (sol majeur)
-2. Largo (mi mineur)
-3. Presto (sol majeur)","Transverse Flute, 2 Violins, Viola, Basso",Aussi version pour orgue/clavecin et cordes (Wq 34/H 444)
 1755,Wq. 34,H. 444,,Concerto,G major,"1. Allegro di molto (sol majeur)
 2. Largo (mi mineur)
 3. Presto (sol majeur)","Harpsichord, 2 Violins, Viola, Basso",Aussi version pour flûte traversière et cordes (Wq 169/H 445)
+1755,Wq. 169,H. 445,,Concerto,G major,"1. Allegro di molto (sol majeur)
+2. Largo (mi mineur)
+3. Presto (sol majeur)","Transverse Flute, 2 Violins, Viola, Basso",Aussi version pour orgue/clavecin et cordes (Wq 34/H 444)
 1771,Wq. 43/5,H. 475,,Concerto,G major,"1. Adagio (sol majeur) / Presto
 2. Allegro (do majeur)","2 Flutes, 2 Horns, 2 Violins, Viola, Basso",Aussi arrangé pour 2 clavecins solo
 1778,Wq. 44,H. 477,,Concerto,G major,"1. Allegretto (sol majeur)
 2. Andantino (si mineur)
 3. Allegro (sol majeur)","Harpsichord, 2 Horns, 2 Violins, Viola, Basso",
-1737,Wq. 3,H. 405,,Concerto,G major,"1. Allegro di molto (sol majeur)
-2. Adagio (sol mineur)
-3. Allegro (sol majeur)","Harpsichord, 2 Violins, Viola, Basso",revised in 1745
 1740,Wq. 6,H. 409,,Concerto,G minor,"1. ... (sol mineur)
 2. Largo (mi bémol majeur)
 3. Allegro (sol mineur)","Harpsichord, 2 Violins, Viola, Basso",
@@ -280,9 +280,9 @@ s.d.,Wq. 116/41,H. 315,Polonoise,Dance,F major,,Clavier,
 1781,Wq. 118/8,H. 275,Canzonetta con 6 variazioni,Keyboard Variations,F major,,Clavier,
 1766,Wq. 118/6,H. 226,Romance con 12 variazioni (12),Keyboard Variations,G major,,Clavier,
 ,Wq. 270,,Les Folies d'Espagne avec 12 variations,Keyboard Variations,,,,
+1755,Wq. 119/4,H. 101,Fugue à 3 avec Anmerkungen,Klavierstück,A major,,Clavier,
 1755,Wq. 116/16,H. 338/1,[no title],Klavierstück,A major,,Clavier,
 1755,Wq. 117/34,H. 96,La Philippine,Klavierstück,A major,,Clavier,
-1755,Wq. 119/4,H. 101,Fugue à 3 avec Anmerkungen,Klavierstück,A major,,Clavier,
 1765,Wq. 113/8,H. 200,[no title],Klavierstück,A major,,Clavier,
 1766,Wq. 117/4,H. 222,Solfeggio,Klavierstück,A major,,Clavier,
 1767,Wq. 114/9,H. 236,[no title],Klavierstück,A major,,Clavier,
@@ -346,8 +346,8 @@ s.d.,Wq. 116/37,H. 311,[no title],Klavierstück,E major,,Clavier,
 s.d.,Wq. 116/52,H. 326,[no title],Klavierstück,E-flat major,,Clavier,
 s.d.,Wq. 116/55,H. 329,[no title],Klavierstück,E-flat major,,Clavier,
 1754,Wq. 117/37,H. 82,La Gause,Klavierstück,F major,,Clavier,
-1755,Wq. 117/21,H. 91,La Prinzette,Klavierstück,F major,,Clavier,
 1755,Wq. 119/3,H. 100,Fugue à 3,Klavierstück,F major,,Clavier,
+1755,Wq. 117/21,H. 91,La Prinzette,Klavierstück,F major,,Clavier,
 1756,Wq. 116/18,H. 108,[no title],Klavierstück,F major,,Clavier,
 1775,Wq. 116/24,H. 250,[no title],Klavierstück,F major,,Clavier,
 1779,Wq. 57/5,H. 266,Rondo,Klavierstück,F major,,Clavier,
@@ -356,9 +356,9 @@ s.d.,Wq. 116/19,H. 301,[no title],Klavierstück,F major,,Clavier,
 1754,Wq. 117/17,H. 79,La Borchward: polonoise,Klavierstück,G major,,Clavier,
 1755,Wq. 116/17,H. 338/2,[no title],Klavierstück,G major,,Clavier,
 1756,Wq. 117/31,H. 111,L'irrésolue,Klavierstück,G major,,Clavier,
-1759,Wq. 112/18,H. 149,Solfeggio,Klavierstück,G major,,Clavier,
 1759,Wq. 112/4,H. 145,Solfeggio,Klavierstück,G major,,Clavier,
 1759,Wq. 117/5,H. 145,Solfeggio,Klavierstück,G major,,Clavier,
+1759,Wq. 112/18,H. 149,Solfeggio,Klavierstück,G major,,Clavier,
 1759,Wq. 117/7,H. 149,Solfeggio,Klavierstück,G major,,Clavier,
 1765,Wq. 113/1,H. 193,[no title],Klavierstück,G major,,Clavier,
 1775,Wq. 116/26,H. 252,[no title],Klavierstück,G major,,Clavier,
@@ -366,8 +366,8 @@ s.d.,Wq. 116/19,H. 301,[no title],Klavierstück,F major,,Clavier,
 1780,Wq. 57/3,H. 271,Rondo,Klavierstück,G major,,Clavier,
 s.d.,Wq. 116/54,H. 328,[no title],Klavierstück,G major,,Clavier,
 1755,Wq. 112/19,H. 101.5,Fugue à 3,Klavierstück,G minor,,Clavier,
-1755,Wq. 117/23,H. 92,L'Hermann,Klavierstück,G minor,,Clavier,
 1755,Wq. 119/5,H. 101.5,Fugue à 3,Klavierstück,G minor,,Clavier,
+1755,Wq. 117/23,H. 92,L'Hermann,Klavierstück,G minor,,Clavier,
 1765,Wq. 113/9,H. 201,[no title],Klavierstück,G minor,,Clavier,
 ,Wq. 271,,Solfeggio,Klavierstück,,,Harpsichord,
 1754.5,Wq. 119,,Pièces pour clavecin ou orgue,Klavierstücke,,,Harpsichord/Organ,
@@ -462,9 +462,9 @@ s.d.,Wq. 116/47,H. 321,,Menuet,C major,,Clavier,
 3. ... (do majeur)
 reprise du premier Menuet.","2 Recorders, 2 Bassoons, 2 Trumpetss, Timpani, 2 Violins, Basso","[Variante de Wq 116/15, H 159]"
 1762.5,Wq. 112/3,H. 165,,Menuet,D major,,Clavier,
+1762.5,Wq. 116/9,H. 165,,Menuet,D major,,Clavier,
 1762.5,Wq. 112/9,H. 167,,Menuet,D major,,Clavier,
 1762.5,Wq. 116/11,H. 167,,Menuet,D major,,Clavier,
-1762.5,Wq. 116/9,H. 165,,Menuet,D major,,Clavier,
 1762.5,Wq. 189/1,H. 602,,Menuet,D major,,"2 Flutes, 2 Clarinetts, 2 Violins, Basso",
 1762.5,Wq. 189/2,H. 603,,Menuet,D major,,"2 Flutes, 2 Clarinetts, 2 Violins, Basso",
 1766,Wq. 116/3,H. 214,,Menuet,D major,,Clavier,
@@ -593,6 +593,7 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 1773-1774,Wq. 196/2,H. 733/2,Psaume 4: Wenn iczu dir in meinen Aengsten flehe,Psaume,,,,
 1773-1774,Wq. 196/20,H. 733/20,"Psaume 88: Tag und Nacht, du Heil der Frommen",Psaume,,,,
 1773-1774,Wq. 196/21,H. 733/21,"Psaume 90: Herr, unser Gott, du warst, du bist zu",Psaume,,,,
+1773-1774,Wq. 196/33,H. 733/22,"Psaume 91: Wie selig ist, der Gott vertraut",Psaume,,,,
 1773-1774,Wq. 196/23,H. 733/23,"Psaume 93: Jehova herrscht, ein König über alle",Psaume,,,,
 1773-1774,Wq. 196/24,H. 733/24,Psaume 96: Erhebet Gott durcneue Lieder,Psaume,,,,
 1773-1774,Wq. 196/25,H. 733/25,Psaume 97: Jehova regieret: Es jauchze die Erde,Psaume,,,,
@@ -604,7 +605,6 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 1773-1774,Wq. 196/30,H. 733/30,"Psaume 110: Jehova spraczu Gott, dem Sohne",Psaume,,,,
 1773-1774,Wq. 196/31,H. 733/31,Psaume 111: Gelobt sey Gott! Ihm will icfröhlich,Psaume,,,,
 1773-1774,Wq. 196/32,H. 733/32,"Psaume 116: Dess freu icmich, dass Gott zu meinen",Psaume,,,,
-1773-1774,Wq. 196/33,H. 733/22,"Psaume 91: Wie selig ist, der Gott vertraut",Psaume,,,,
 1773-1774,Wq. 196/33,H. 733/33,"Psaume 119: Heil denen, welche sicunsträflich",Psaume,,,,
 1773-1774,Wq. 196/34,H. 733/34,"Psaume 121: Sieh, mein Auge, nacden Bergen",Psaume,,,,
 1773-1774,Wq. 196/35,H. 733/35,Psaume 128: Die Gnade Gottes sey mit allen,Psaume,,,,
@@ -650,10 +650,12 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 2. Allegro (sol mineur)
 3. Vivace (sol mineur)","Oboe, Basso",
 1740,Wq. 138,H. 557,,Solo,G minor,1. … (sol mineur),"Cello, Basso","[perdu], revised in 1769"
+1731,Wq. 146,H. 570,,Sonata,A major,,"Flute, Violin, Basso",revised in 1747
+1738,Wq. 65/10,H. 19,,Sonata,A major,,Clavier,revised in 1743
 1742,Wq. 48/6,H. 29,,Sonata,A major,,Clavier,
 1753,Wq. 63/3,H. 72,,Sonata,A major,,Clavier,
-1758,Wq. 65/32,H. 135,,Sonata,A major,,Clavier,
 1758,Wq. 70/1,H. 133,,Sonata,A major,,Organ,
+1758,Wq. 65/32,H. 135,,Sonata,A major,,Clavier,
 1763,Wq. 65/37,H. 174,,Sonata,A major,,Clavier,
 1765,Wq. 55/4,H. 186,,Sonata,A major,,Clavier,
 1765.6,Wq. 65/43,H. 192,,Sonata,A major,,Clavier,
@@ -661,8 +663,8 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 1775,Wq. 184/5,H. 633,,Sonata,A major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1775.6,Wq. 89/3,H. 527,,Sonata,A major,,"Violin, Cello, Harpsichord/Pianoforte",
 1780,Wq. 56/6,H. 270,,Sonata,A major,,Clavier,
-1731,Wq. 146,H. 570,,Sonata,A major,,"Flute, Violin, Basso",revised in 1747
-1738,Wq. 65/10,H. 19,,Sonata,A major,,Clavier,revised in 1743
+1732,Wq. 65/2,H. 4,,Sonata,A minor,,Clavier,revised in 1744
+1735,Wq. 148,H. 572,,Sonata,A minor,,"Flute, Violin, Basso",revised in 1747
 1740,Wq. 128,H. 555,,Sonata,A minor,,"Transverse Flute, Basso",
 1742,Wq. 49/1,H. 30,,Sonata,A minor,,Clavier,
 1747,Wq. 132,H. 562,,Sonata,A minor,"1. Poco Adagio (la mineur)
@@ -676,9 +678,8 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 1774,Wq. 57/2,H. 247,,Sonata,A minor,,Clavier,
 1775,Wq. 90/1,H. 522,,Sonata,A minor,,"Violin, Cello, Harpsichord",
 1788,Wq. 93,H. 537,,Sonata,A minor,,"Transverse Flute, Viola da Gamba, [Cello], Harpsichord",
-1732,Wq. 65/2,H. 4,,Sonata,A minor,,Clavier,revised in 1744
-1735,Wq. 148,H. 572,,Sonata,A minor,,"Flute, Violin, Basso",revised in 1747
 1742,Wq. 49/2,H. 31,,Sonata,A-flat major,,Clavier,
+1731,Wq. 143,H. 567,,Sonata,B minor,,"Flute, Violin, Basso",revised in 1747
 1743,Wq. 65/13,H. 32.5,,Sonata,B minor,,Clavier,
 1744,Wq. 49/6,H. 36,,Sonata,B minor,,Clavier,
 1753,Wq. 63/4,H. 73,,Sonata,B minor,,Clavier,
@@ -690,7 +691,8 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 4. Presto (ré majeur)","Transverse Flute, Basso",Possiblement authentique
 1764,Wq. 53/4,H. 182,,Sonata,B minor,,Clavier,
 1774,Wq. 55/3,H. 245,,Sonata,B minor,,Clavier,
-1731,Wq. 143,H. 567,,Sonata,B minor,,"Flute, Violin, Basso",revised in 1747
+1731,Wq. 62/1,H. 2,,Sonata,B-flat major,,Clavier,revised in 1744
+1737,Wq. 65/9,H. 18,,Sonata,B-flat major,,Clavier,revised in 1743
 1738,Wq. 125,H. 552,,Sonata,B-flat major,,"Transverse Flute, Basso",
 1740,Wq. 48/2,H. 25,,Sonata,B-flat major,,Clavier,
 1742,Wq. 49/4,H. 32,,Sonata,B-flat major,,Clavier,
@@ -712,18 +714,18 @@ LVI. Choral „Icdanke dir von Herzen“ (d-Moll)","2 Sopranos, 2 Tenors, 3 Bass
 1767,Wq. 92/6,H. 521,,Sonata,B-flat major,,"Clarinet, Bassoon, Harpsichord",
 1775.6,Wq. 89/1,H. 525,,Sonata,B-flat major,,"Violin, Cello, Harpsichord/Pianoforte",
 1784,Wq. 59/3,H. 282,,Sonata,B-flat major,,Clavier,
-1731,Wq. 62/1,H. 2,,Sonata,B-flat major,,Clavier,revised in 1744
-1737,Wq. 65/9,H. 18,,Sonata,B-flat major,,Clavier,revised in 1743
 1731,,H. 564.5,,Sonata,C major,"1. Andante (do majeur)
 2. Allegro (do majeur)
 3. Menuetto I (do majeur)
 4. Adagio (la mineur)
 5. Menuetto II (do majeur)","Transverse Flute, Basso","[arrangement de la sonate pour flûte solo, BWV 1033, de J.S. Bach]
 Possiblement authentique"
+1731,Wq. 147,H. 571,,Sonata,C major,,"Flute, Violin, Basso",revised in 1747
+1737,Wq. 65/8,H. 17,,Sonata,C major,,Clavier,revised in 1743
 1741,Wq. 48/5,H. 28,,Sonata,C major,,Clavier,
 1744,Wq. 62/7,H. 41,,Sonata,C major,,Clavier,
-1745,Wq. 149,H. 573,,Sonata,C major,,"Flute, Violin, Basso",
 1745,Wq. 73,H. 504,,Sonata,C major,,"Violin, Harpsichord",
+1745,Wq. 149,H. 573,,Sonata,C major,,"Flute, Violin, Basso",
 1746,Wq. 65/16,H. 46,,Sonata,C major,,Clavier,
 1749,Wq. 62/10,H. 59,,Sonata,C major,,Clavier,
 1749,Wq. 65/25,H. 61,,Sonata,C major,,Clavier,
@@ -738,13 +740,11 @@ Possiblement authentique"
 1766,Wq. 54/2,H. 205,,Sonata,C major,,Clavier,
 1766,Wq. 87,H. 515,,Sonata,C major,,"Flute, Harpsichord",
 1773,Wq. 55/1,H. 244,,Sonata,C major,,Clavier,
-1775,Wq. 184/6,H. 634,,Sonata,C major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1775,Wq. 65/47,H. 248,,Sonata,C major,,Clavier,
 1775,Wq. 90/3,H. 524,,Sonata,C major,,"Violin, Cello, Harpsichord",
+1775,Wq. 184/6,H. 634,,Sonata,C major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1775.6,Wq. 89/2,H. 526,,Sonata,C major,,"Violin, Cello, Harpsichord/Pianoforte",
 1777,Wq. 91/4,H. 534,,Sonata,C major,,"Violin, Cello, Harpsichord/Pianoforte",
-1731,Wq. 147,H. 571,,Sonata,C major,,"Flute, Violin, Basso",revised in 1747
-1737,Wq. 65/8,H. 17,,Sonata,C major,,Clavier,revised in 1743
 1741,Wq. 48/4,H. 27,,Sonata,C minor,,Clavier,
 1749,Wq. 161/1,H. 579,,Sonata,C minor,,"2 Violins, Basso",
 1757,Wq. 65/31,H. 121,,Sonata,C minor,,Clavier,
@@ -752,12 +752,13 @@ Possiblement authentique"
 1759,Wq. 50/6,H. 140,,Sonata,C minor,,Clavier,
 1763,Wq. 78,H. 514,,Sonata,C minor,,"Violin, Harpsichord",
 1766,Wq. 60,H. 209,,Sonata,C minor,,Harpsichord,
+1731,Wq. 71,H. 502,,Sonata,D major,,"Violin, Harpsichord",revised in 1746
 1738,Wq. 126,H. 553,,Sonata,D major,,"Transverse Flute, Basso",
-1740,Wq. 129,H. 556,,Sonata,D major,,"Transverse Flute, Basso",
 1740,Wq. 62/3,H. 22,,Sonata,D major,,Clavier,
+1740,Wq. 129,H. 556,,Sonata,D major,,"Transverse Flute, Basso",
 1744,Wq. 65/14,H. 42,,Sonata,D major,,Clavier,
-1747,Wq. 151,H. 575,,Sonata,D major,,"Flute, Violin, Basso",
 1747,Wq. 83,H. 505,,Sonata,D major,,"Flute, Harpsichord",
+1747,Wq. 151,H. 575,,Sonata,D major,,"Flute, Violin, Basso",
 1752,Wq. 62/13,H. 67,,Sonata,D major,,Clavier,
 1754,Wq. 74,H. 507,Sonate o vero sinfonia,Sonata,D major,,"Violin, Harpsichord",
 1755,Wq. 70/5,H. 86,,Sonata,D major,,Organ,
@@ -768,7 +769,13 @@ Possiblement authentique"
 1777,Wq. 91/3,H. 532,,Sonata,D major,,"Violin, Cello, Harpsichord/Pianoforte",
 1785,Wq. 61/2,H. 286,,Sonata,D major,,Clavier,
 1788,Wq. 94,H. 538,,Sonata,D major,,"Transverse Flute, Viola da Gamba, [Cello], Harpsichord",
-1731,Wq. 71,H. 502,,Sonata,D major,,"Violin, Harpsichord",revised in 1746
+1731,Wq. 72,H. 503,,Sonata,D minor,,"Violin, Harpsichord",revised in 1747
+1731,Wq. 145,H. 569,,Sonata,D minor,"1. Allegretto (ré mineur)
+[variante du 2e mouvement de BWV 1036]
+2. Largo (fa majeur)
+[variante du 3e mouvement de BWV 1036]
+3. Allegro (ré mineur)","Flute, Violin, Basso",revised in 1747
+1732,Wq. 65/3,H. 5,,Sonata,D minor,,Clavier,revised in 1744
 1744,Wq. 62/4,H. 38,,Sonata,D minor,,Clavier,
 1747,Wq. 69,H. 53,,Sonata,D minor,,2 Harpsichords,
 1748,Wq. 65/23,H. 57,,Sonata,D minor,,Clavier,
@@ -781,21 +788,17 @@ Possiblement authentique"
 1763,Wq. 112/7,H. 179,,Sonata,D minor,,Clavier,
 1765,Wq. 54/3,H. 184,,Sonata,D minor,,Clavier,
 1766,Wq. 57/4,H. 208,,Sonata,D minor,,Clavier,
-1731,Wq. 145,H. 569,,Sonata,D minor,"1. Allegretto (ré mineur)
-[variante du 2e mouvement de BWV 1036]
-2. Largo (fa majeur)
-[variante du 3e mouvement de BWV 1036]
-3. Allegro (ré mineur)","Flute, Violin, Basso",revised in 1747
-1731,Wq. 72,H. 503,,Sonata,D minor,,"Violin, Harpsichord",revised in 1747
-1732,Wq. 65/3,H. 5,,Sonata,D minor,,Clavier,revised in 1744
 1741,Wq. 48/3,H. 26,,Sonata,E major,,Clavier,
 1744,Wq. 62/5,H. 39,,Sonata,E major,,Clavier,
-1749,Wq. 162,H. 580,,Sonata,E major,,"2 Flutes, Basso",
 1749,Wq. 84,H. 506,,Sonata,E major,,"Flute, Harpsichord",
+1749,Wq. 162,H. 580,,Sonata,E major,,"2 Flutes, Basso",
 1755,Wq. 65/29,H. 83,,Sonata,E major,,Clavier,
 1757,Wq. 62/17,H. 117,,Sonata,E major,,Clavier,
 1762,Wq. 52/5,H. 161,,Sonata,E major,,Clavier,
 1766,Wq. 65/46,H. 213,,Sonata,E major,,Clavier,
+1731,Wq. 144,H. 568,,Sonata,E minor,,"Flute, Violin, Basso",revised in 1747
+1733,Wq. 65/4,H. 6,,Sonata,E minor,,Clavier,revised in 1744
+1735,Wq. 65/5,H. 13,,Sonata,E minor,,Clavier,revised in 1743
 1737,Wq. 124,H. 551,,Sonata,E minor,,"Transverse Flute, Basso",
 1743,Wq. 49/3,H. 33,,Sonata,E minor,,Clavier,
 1747,Wq. 155,H. 577,,Sonata,E minor,,"2 Violins, Basso",
@@ -807,9 +810,7 @@ Possiblement authentique"
 1775.6,Wq. 89/5,H. 529,,Sonata,E minor,,"Violin, Cello, Harpsichord/Pianoforte",
 1777,Wq. 91/1,H. 531,,Sonata,E minor,,"Violin, Cello, Harpsichord/Pianoforte",
 1784,Wq. 59/1,H. 281,,Sonata,E minor,,Clavier,
-1731,Wq. 144,H. 568,,Sonata,E minor,,"Flute, Violin, Basso",revised in 1747
-1733,Wq. 65/4,H. 6,,Sonata,E minor,,Clavier,revised in 1744
-1735,Wq. 65/5,H. 13,,Sonata,E minor,,Clavier,revised in 1743
+1736,Wq. 65/7,H. 16,,Sonata,E-flat major,,Clavier,revised in 1744
 1743,Wq. 49/5,H. 34,,Sonata,E-flat major,,Clavier,
 1747,Wq. 52/1,H. 50,,Sonata,E-flat major,,Clavier,
 1753,Wq. 63/5,H. 74,,Sonata,E-flat major,,Clavier,
@@ -822,12 +823,12 @@ Possiblement authentique"
 1775,Wq. 184/4,H. 632,,Sonata,E-flat major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1775.6,Wq. 89/4,H. 528,,Sonata,E-flat major,,"Violin, Cello, Harpsichord/Pianoforte",
 1786,Wq. 65/49,H. 298,,Sonata,E-flat major,,Clavier,
-1736,Wq. 65/7,H. 16,,Sonata,E-flat major,,Clavier,revised in 1744
+1731,Wq. 65/1,H. 3,,Sonata,F major,,Clavier,revised in 1744
 1740,Wq. 48/1,H. 24,,Sonata,F major,,Clavier,
 1746,Wq. 65/18,H. 48,,Sonata,F major,,Clavier,
 1746,Wq. 65/19,H. 49,,Sonata,F major,,Clavier,
-1747,Wq. 154,H. 576,,Sonata,F major,,"2 Violins, Basso",
 1747,Wq. 65/21,H. 52,,Sonata,F major,,Clavier,
+1747,Wq. 154,H. 576,,Sonata,F major,,"2 Violins, Basso",
 1748,Wq. 62/8,H. 55,,Sonata,F major,,Clavier,
 1749,Wq. 62/9,H. 58,,Sonata,F major,,Clavier,
 1755,Wq. 163,H. 588,,Sonata,F major,,"Viola da Gamba, Flute, Harpsichord",
@@ -844,27 +845,27 @@ Possiblement authentique"
 1775,Wq. 184/2,H. 630,,Sonata,F major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1777,Wq. 91/3,H. 533,,Sonata,F major,,"Violin, Cello, Harpsichord/Pianoforte",
 1780,Wq. 56/4,H. 269,,Sonata,F major,,Clavier,
-1731,Wq. 65/1,H. 3,,Sonata,F major,,Clavier,revised in 1744
 1744,Wq. 62/6,H. 40,,Sonata,F minor,,Clavier,
 1753,Wq. 63/6,H. 75,,Sonata,F minor,,Clavier,
 1763,Wq. 57/6,H. 173,,Sonata,F minor,,Clavier,
 1744,Wq. 52/4,H. 37,,Sonata,F-sharp minor,,Clavier,
-1735,Wq. 123,H. 550,,Sonata,G major,,"Transverse Flute, Basso",
 1735,Wq. 134,H. 548,,Sonata,G major,,"Transverse Flute, Basso",
-1739,Wq. 127,H. 554,,Sonata,G major,,"Transverse Flute, Basso",
+1735,Wq. 123,H. 550,,Sonata,G major,,"Transverse Flute, Basso",
+1736,Wq. 65/6,H. 15,,Sonata,G major,,Clavier,revised in 1743
 1739,Wq. 62/2,H. 20,,Sonata,G major,,Clavier,
+1739,Wq. 127,H. 554,,Sonata,G major,,"Transverse Flute, Basso",
 1740,Wq. 65/12,H. 23,,Sonata,G major,,Clavier,
 1745,Wq. 65/15,H. 43,,Sonata,G major,,Clavier,
 1747,Wq. 150,H. 574,,Sonata,G major,,"Flute, Violin, Basso",
 1748,Wq. 65/22,H. 56,,Sonata,G major,,Clavier,
 1750,Wq. 62/11,H. 63,,Sonata,G major,,Clavier,
 1750,Wq. 65/26,H. 64,,Sonata,G major,,Clavier,
+1754,Wq. 85,H. 508,,Sonata,G major,,"Flute, Harpsichord",
 1754,Wq. 152,H. 581,"Trio, en sol majeur, pour flûte, violon et basse",Sonata,G major,,"Flute, Violin, Basso",
 1754,Wq. 157,H. 583,,Sonata,G major,,"2 Violins, Basso",
 1754,Wq. 62/14,H. 77,,Sonata,G major,,Clavier,
-1754,Wq. 85,H. 508,,Sonata,G major,,"Flute, Harpsichord",
-1755,Wq. 153,H. 586,,Sonata,G major,,"Flute, Violin, Basso",
 1755,Wq. 86,H. 509,,Sonata,G major,,"Flute, Harpsichord",
+1755,Wq. 153,H. 586,,Sonata,G major,,"Flute, Violin, Basso",
 1757,Wq. 62/19,H. 119,,Sonata,G major,,Clavier,
 1759,Wq. 50/2,H. 137,,Sonata,G major,,Clavier,
 1763,,H. 565/1,,Sonata,G major,"1. Affetuoso (sol majeur)
@@ -872,15 +873,14 @@ Possiblement authentique"
 3. Tempo di Menuet (sol majeur)","Transverse Flute, Basso",Possiblement authentique
 1765,Wq. 55/6,H. 187,,Sonata,G major,,Clavier,
 1774,Wq. 56/2,H. 246,,Sonata,G major,,Clavier,
-1775,Wq. 184/3,H. 631,,Sonata,G major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1775,Wq. 90/2,H. 523,,Sonata,G major,,"Violin, Cello, Harpsichord",
+1775,Wq. 184/3,H. 631,,Sonata,G major,,"2 Flutes, 2 Clarinetts, Bassoon, 2 Horns",
 1781,Wq. 58/2,H. 273,,Sonata,G major,,Clavier,
 1783,Wq. 65/48,H. 280,,Sonata,G major,,Clavier,
 1785,Wq. 61/5,H. 287,,Sonata,G major,,Clavier,
-1786,Wq. 133,H. 564,,Sonata,G major,,"Transverse Flute, Basso",
 1786,Wq. 65/50,H. 299,,Sonata,G major,,Clavier,
+1786,Wq. 133,H. 564,,Sonata,G major,,"Transverse Flute, Basso",
 1788,Wq. 95,H. 539,,Sonata,G major,,"Transverse Flute, Viola da Gamba, [Cello], Harpsichord",
-1736,Wq. 65/6,H. 15,,Sonata,G major,,Clavier,revised in 1743
 1739,Wq. 65/11,H. 21,,Sonata,G minor,,Clavier,
 1746,Wq. 65/17,H. 47,,Sonata,G minor,,Clavier,
 1750,Wq. 51/6,H. 62,,Sonata,G minor,,Clavier,
@@ -918,30 +918,30 @@ Possiblement authentique"
 1734,Wq. 64/3,H. 9,,Sonatina,A minor,,Clavier,revised in 1744
 1763,Wq. 110,H. 459,,Sonatina,B-flat major,,"2 Harpsichords, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1786,Wq. 63/10,H. 295,,Sonatina,B-flat major,,Clavier,
-1763,Wq. 101,H. 460,,Sonatina,C major,,"Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1763,Wq. 103,H. 457,,Sonatina,C major,,"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1763,Wq. 106,H. 458,,Sonatina,C major,,"2 Transverse Fluts, 2 Violins, Viola, Basso",
-1762,Wq. 109,H. 453,,Sonatina,D major,,"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
+1763,Wq. 101,H. 460,,Sonatina,C major,,"Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
+1734,Wq. 64/5,H. 11,,Sonatina,D major,,Clavier,revised in 1744
 1762,Wq. 96,H. 449,,Sonatina,D major,,"Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
+1762,Wq. 109,H. 453,,Sonatina,D major,,"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1763,Wq. 102,H. 456,,Sonatina,D major,,"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1786,Wq. 63/9,H. 294,,Sonatina,D major,,Clavier,
-1734,Wq. 64/5,H. 11,,Sonatina,D major,,Clavier,revised in 1744
 1764,Wq. 107,H. 461,,Sonatina,D minor,,"Harpsicord, 2 Transverse Fluts, 2 Violins, Viola, Basso",
 1786,Wq. 63/12,H. 297,,Sonatina,D minor,,Clavier,
 1763,Wq. 100,H. 455,,Sonatina,E major,,"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1786,Wq. 63/8,H. 293,,Sonatina,E major,,Clavier,
 1734,Wq. 64/4,H. 10,,Sonatina,E minor,,Clavier,revised in 1744
+1734,Wq. 64/6,H. 12,,Sonatina,E-flat major,,Clavier,revised in 1744
 1764,Wq. 105,H. 464,,Sonatina,E-flat major,,"Harpsicord, 2 Transverse Fluts, 2 Violins, Viola, Basso",
 1764.5,Wq. 108,H. 462,,Sonatina,E-flat major,,"Harpsicord, 2 Transverse Fluts, 2 Violins, Viola, Basso",
-1734,Wq. 64/6,H. 12,,Sonatina,E-flat major,,Clavier,revised in 1744
+1734,Wq. 64/1,H. 7,,Sonatina,F major,,Clavier,revised in 1744
 1762,Wq. 99,H. 452,,Sonatina,F major,,"Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1764,Wq. 104,H. 463,,Sonatina,F major,,"Harpsicord, 2 Transverse Fluts, 2 Violins, Viola, Basso",
 1786,Wq. 63/11,H. 296,,Sonatina,F major,,Clavier,
-1734,Wq. 64/1,H. 7,,Sonatina,F major,,Clavier,revised in 1744
+1734,Wq. 64/2,H. 8,,Sonatina,G major,,Clavier,revised in 1744
 1762,Wq. 97,H. 450,,Sonatina,G major,,"Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1762,Wq. 98,H. 451,,Sonatina,G major,,"Harpsichord, 2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1786,Wq. 63/7,H. 292,,Sonatina,G major,,Clavier,
-1734,Wq. 64/2,H. 8,,Sonatina,G major,,Clavier,revised in 1744
 1734,Wq. 64,,6 Sonatinas,Sonatina,,,Harpsichord,
 1755,Wq. 174,H. 649,,Symphony,C major,,"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
 1755,Wq. 176,H. 651,,Symphony,D major,,"2 Flutes, 2 Oboes, 2 Horns, 3 Trumpets, Timpani, 2 Violins, Viola, Basso",
@@ -1005,14 +1005,14 @@ Possiblement authentique"
 1743,Wq. 199/10,H. 671,Der Zufriedne: Entfernt von Gram und Sorgen erwach,,,,,
 1743,Wq. 199/12,H. 672,Die verliebte Verzweifelung: Ihr misvergnugten Stunden,,,,,
 1748.9,Wq. 161,,Trios pour divers instruments,,,,Various Instruments,
-1754,Wq. 199/1,H. 677,"Die sächsische Helene: Herr Brüder, meine Schöne",,,,,
 1754,Wq. 199/14,H. 676,"Die märkische Helene: Ehret, Brüder,meine Schöne",,,,,
-1756,Wq. 199/13,H. 682,"Die Küsse: Ein Küsschen, das ein Kind mit schenket",,,,,
+1754,Wq. 199/1,H. 677,"Die sächsische Helene: Herr Brüder, meine Schöne",,,,,
 1756,Wq. 199/6,H. 680,Der Morgen: Uns lockt die Morgenröthe,,,,,
 1756,Wq. 199/9,H. 681,Die Biene: Als Amot in den Guldnen Zeiten,,,,,
+1756,Wq. 199/13,H. 682,"Die Küsse: Ein Küsschen, das ein Kind mit schenket",,,,,
 1756,Wq. 244,H. 803,Gott hat den,,,,,
-1757,Wq. 199/15,H. 684,"Serin: Serin, der hochberühmte Mann",,,,,
 1757,Wq. 199/8,H. 683,Der Stoiker: Ein fauler Feind der Fröchlichkeit auf Erden,,,,,
+1757,Wq. 199/15,H. 684,"Serin: Serin, der hochberühmte Mann",,,,,
 1758,Wq. 199/20,H. 687,Herausforderungslied vor der Schlacht bey Rossbach: Heraus aus deiner Wolfesgruft,,,,,
 1760,Wq. 202a,H. 688,"Sans titre: Freude, du Lust der Götter und Menschen",,,,,
 1760,Wq. 220,H. 855,"Veni, Sancte Spiritus",,,,,
@@ -1026,17 +1026,17 @@ Possiblement authentique"
 1764,Wq. 195/6,H. 696/6,"Die Zufriedenheit in Gott: Was ists, das mein vergnügt Gemüthe",,,,,
 1764,Wq. 195/8,H. 696/8,An Gott: Erheb auf micdein Angesicht Und lass mich,,,,,
 1765,Wq. 232,H. 697,Phillis und Thirsis,,,,,
-1766,Wq. 201,H. 699,"Der Wirtund die Gäste: Brüder, unser Brüder lebe, diese gute",,,,,
 1766,Wq. 202d,H. 698,Bachus und Venus: Amor ist mein lied! Schön ist er bekränzt,,,,,
+1766,Wq. 201,H. 699,"Der Wirtund die Gäste: Brüder, unser Brüder lebe, diese gute",,,,,
 1767,Wq. 186,H. 620,2 Petits mouvements,,,,"2 Clarinetts, 2 Horns, Basso",
 1767,Wq. 200/10,H. 700,"Belise and Thyrsis: Belise starb, und spracim",,,,,
+1767,Wq. 200/20,H. 701,"An eine kleine Schöne: Kleine Schöne, küsse mich",,,,,
+1767,Wq. 200/6,H. 702,"An die Natur: Holde, gütige Natur, Milder als",,,,,
+1767,Wq. 200/8,H. 703,"An meine Ruhestätte: Sey mir gegrüsst, du Ziel von meinen Sorgen",,,,,
 1767,Wq. 200/11,H. 704,"An den Schlaf: Komm, süsser Freund der Müden",,,,,
 1767,Wq. 200/12,H. 705,Die Zufriedenheit: Immer auf der Blumenbahn Goldne,,,,,
 1767,Wq. 200/17,H. 707,"Auf den Geburtstag eines Freundes: Holde Freude, senke dicVon dem",,,,,
 1767,Wq. 200/19,H. 708,"Sans titre: Freunde, Freunde, kommt docin die nahen Wälder",,,,,
-1767,Wq. 200/20,H. 701,"An eine kleine Schöne: Kleine Schöne, küsse mich",,,,,
-1767,Wq. 200/6,H. 702,"An die Natur: Holde, gütige Natur, Milder als",,,,,
-1767,Wq. 200/8,H. 703,"An meine Ruhestätte: Sey mir gegrüsst, du Ziel von meinen Sorgen",,,,,
 1767,Wq. 207,H. 825,"Veni, Sancte Spiritus",,,,,
 1767,Wq. 208/1,H. 826/1,"Trost der Erlosung: Gedanke, der uns Leben",,,,,
 1767,Wq. 208/2,H. 826/2,Der Kanpf der Tugend: Oft klagt dein Herz wie schwer es sey,,,,,
@@ -1046,12 +1046,14 @@ Possiblement authentique"
 1768,Wq. 202c/1,H. 709,Der Umberständige: Verlieben sollt icmich?,,,,,
 1768,Wq. 202c/2,H. 710,Phyllis: Icwill nicht mehr der Liebe fröhnen,,,,,
 1768,Wq. 202c/3,H. 711,An die Liebe: Tochter der Natur,,,,,
+1769,Wq. 82,H. 628,12 Petits mouvements,,,,"2-3 Voices: 2 Flutes  / 2 Violins, Harpsichord",
 1769,Wq. 202c/4,H. 712,"Weihnachtlied: Er kommt, er kommt, der grosse Held",,,,,
 1769,Wq. 202c/5,H. 713,Vom Leiden des Erlösers: Erhebe vom Geräuscder Welt,,,,,
 1769,Wq. 202c/6,H. 714,Klagen einer Schäferinn: Wo fliest du hin aus meinem Herzen,,,,,
 1769,Wq. 202c/7,H. 715,Ode auf die Gegenwart Sr. Kayserlichen Majestät in Rom: Gott und den Kaiser zu verehren,,,,,
 1769,Wq. 202c/8,H. 716,Auf die Auferstehung des Erlösers: Triumph! Triumph! Und Lob und Dank!,,,,,
 1769,Wq. 202c/9,H. 717,"Ode am Communion-Tage: Tag, den mir der Herr gemacht",,,,,
+1769,Wq. 238,H. 775,Die Israeliten in der Wüste,,,,,
 1769,Wq. 233,H. 776,Die letzten Leiden des erlosers,,,"I. Rezitativ – Accompagnato „Du Gottlicher!“ (Es-Dur) Molto Adagio – Adagio · für Sopran
 II. Chor „Fürwahr, er trug unsre Krankheit“ (d-Moll) Andantino
 III. Rezitativ „Sht ihn, gebeugt liegt er“ · für Bass
@@ -1085,9 +1087,7 @@ XXVII. Chor „Preiset ihn erlöste Sünder“ (F-Dur)Allegro ma non tanto
 XXVIII. Choral „Herr, stärke micdein Leiden zu bedenken“ (b-Moll)Inserted before No. 1.
 XXIX. Choral „Icfühle Herr voll Reu und Schmerz“ (G-Dur)Inserted after No. 10.
 XXX. Choral „Du schenkst mir täglicso viel Schuld“ (F-Dur)Inserted after No. 16.","2 Sopranos, Alto, Tenor, Bass, SATB, 2 Flutes, 2 Oboes, 2 Bassoons, 3 Horns, Timpani, 2 Violins, Viola, Basso",cantate sur la passion
-1769,Wq. 238,H. 775,Die Israeliten in der Wüste,,,,,
 1769,Wq. 248,H. 809,Den Engeln gleicerhebt zum,,,,,
-1769,Wq. 82,H. 628,12 Petits mouvements,,,,"2-3 Voices: 2 Flutes  / 2 Violins, Harpsichord",
 1770,Wq. 202c/11,H. 719,Bey dem Grabe des verstorbenen Mechanicus Hohlfeld: Der du wie duft von WeyraucKohlen,,,,,
 1770,Wq. 216,H. 829,Spiega Hammonia fortunata,,,,,
 1771,Wq. 221,H. 830,"Mein Heiland, meine Zuversicht!",,,,,
@@ -1153,9 +1153,9 @@ Variante de Wq 115/3, H 612; Wq 116/50, H 324; et Wq 186/1, H H 620/1]
 [Variante de Wq 116/51, H 325]
 30. Presto, en si bémol majeur, pour horloge mécanique
 [Variante du 3e mouvement de Wq 53/1, H 162]","Flutes, Clarinetts, Harp, Positive Organ",
+1775,Wq. 236,H. 739,Selma,,,,,
 1775,Wq. 202i/2,H. 739.5,Selma,,,,,
 1775,Wq. 212,H. 812,"Sing ihm voll Ruhrung, o Zion, wie flossen",,,,,
-1775,Wq. 236,H. 739,Selma,,,,,
 1775,Wq. 247,H. 812,Siehe! Siehe! Icbegehre,,,,,
 1775,Wq. 249,H. 815,Auf schicke dicrecht feyerlich,,,,,
 1775,Wq. 251,H. 821g,Der Herr lebet und gelobet sey mein Hort,,,,,
@@ -1215,17 +1215,17 @@ Variante de Wq 115/3, H 612; Wq 116/50, H 324; et Wq 186/1, H H 620/1]
 1781,Wq. 202l/2,H. 754,"Das Milchmädchen: Mädchen, nehmt die Eimer schnell",,,,,
 1781,Wq. 208/4,H. 826/4,"Menschenliebe Jesu: Dicbet ican, Herr Jesu Christ",,,,,
 1781.2,Wq. 230,H. 795,Wenn der Erde Grunde beben Und in Todten,,,,,
-1782,Wq. 200/16,H. 759,"Mittel, freudliczu werden: Mein Vater küsst die Mutter",,,,,
 1782,Wq. 200/4,H. 757,Das mitleidige Mädchen: Der fromme Damon dauert micVon ganzen,,,,,
 1782,Wq. 200/7,H. 758,"Bevelise und Lysidor: Der Mann, der nacden Flitterwochen",,,,,
+1782,Wq. 200/16,H. 759,"Mittel, freudliczu werden: Mein Vater küsst die Mutter",,,,,
 1783,Wq. 226,H. 834,"Amen, Amen. Lob und Preis",,,,,
 1783,Wq. 227,H. 835,Leite micnacdeinem Willen,,,,,
 1783,Wq. 228,H. 836,Meine Lebenszeit verstreicht,,,,,
 1784,Wq. 243,H. 807,Musique pour le temps de Pâques,,,,,
 1785,Wq. 200/18,H. 760,Sans titre / Elise: Ichodd aucGott mit festem Muth,,,,,
+1785,Wq. 214,H. 761,F¨rrsten sind am Lebensziele: Fürsten sind am Lebensziele,,,,,
 1785,Wq. 204/1,H. 780/1,Ewiger! Erbarme dich!,,,,,
 1785,Wq. 204/2,H. 780/2,Ewiger! Erbarme dich!,,,,,
-1785,Wq. 214,H. 761,F¨rrsten sind am Lebensziele: Fürsten sind am Lebensziele,,,,,
 1785,Wq. 246,H. 814,Der Frevler mag die Wahrheit schmah¨'n,,,,,
 1785,Wq. 250,H. 821l,"Gnädig und barmherzig ist der Herr, Geduldig",,,,,
 1785,Wq. 253,H. 821m,"Herr Gott, du bist unser Zuflucht für and für",,,,,
@@ -1253,8 +1253,8 @@ Variante de Wq 115/3, H 612; Wq 116/50, H 324; et Wq 186/1, H H 620/1]
 1788,Wq. 202n/5,H. 764/5,"Auf das Fest des heiligen Johannis: Ickomme vom Johannis her, Er war ein lieber Mann",,,,,
 1788,Wq. 202n/7,H. 764/7,"Auf das Vermählungsfest unsers Meisters vom Stuhle: Singt begeistert heute, Brüder",,,,,
 1788,Wq. 229,H. 837,Meinen Leib wird man begraben,,,,,
-1750-1753,Wq. 199/11,H. 675,Amint: Sie fliehet fort! Es ist um micgeschehen,,,,,
 1750-1753,Wq. 199/4,H. 673,"Die Küsse: Dass ich, bey meiner Lust, durckeinen Zwang",,,,,
+1750-1753,Wq. 199/11,H. 675,Amint: Sie fliehet fort! Es ist um micgeschehen,,,,,
 1754-1755,Wq. 199/7,H. 678,Dorinde: Amot sagte zur Cythere,,,,,
 1757-1758,Wq. 194,H. 686,55 Odes et Lieders religieux,,,,,
 1757-1758,Wq. 194/11,H. 686/11,Der thätige Glaube: Wer Gottes Wort nicht hält und spricht,,,,,
@@ -1320,30 +1320,30 @@ Variante de Wq 115/3, H 612; Wq 116/50, H 324; et Wq 186/1, H H 620/1]
 1775-1776,Wq. 202o/4,H. 743,Da Schlägt des Abschieds Stunde (Die Trennung): Da schlägt des Abschieds Stunde,,,,,
 1777-1782,Wq. 200/14,H. 747,Aus einer Ode zum neuen Jahr: Der Weise blickt zur Ewigkeit hin über,,,,,
 1778-1782,Wq. 200/5,H. 748,"An die Grazien und Musen: Ihr Musen, seht den Amor, seht, Ihr Grazien",,,,,
+,Wq. 81,H. 600,12 Petits mouvements,,,,"2-3 Voices: 2 Flutes  / 2 Violins, Harpsichord",
+,Wq. 199/16,H. 685.5,Auf den Namenstag der Mademoiselle S / Ernestine: Das Fest der holden Ernestinen,,,,,
+,Wq. 112/6,H. 693,Das Privilegium (Etwas lebhaft),,,,,
 ,Wq. 112/12,H. 694,Die Landschaft (Etwas lebhaft),,,,,
 ,Wq. 112/14,H. 695,Belinde (Etwas lebhaft),,,,,
-,Wq. 112/6,H. 693,Das Privilegium (Etwas lebhaft),,,,,
+,Wq. 264,H. 699,Der Wirtund die Gaste,,,,,
+,Wq. 202o/3,H. 765,"Aus den 107 Psalm: Kommt, lasst uns seine Huld besingen",,,,,
+,Wq. 202o/5,H. 766,Sans titre: Die schönste soll bey Sonnenschein',,,,,
+,Wq. 213,H. 767,Eine italiänische Ariette: D'amor per te languisco,,,,,
+,Wq. 263,H. 776,Die letxten Leiden des Erlosers,,,,,
+,Wq. 209,H. 839,Et cum spiritu,,,,,
+,Wq. 210,H. 840,Amen,,,,,
 ,Wq. 121,H. 867,Miscellanea musica (exercices techniques),,,,,
+,Wq. 254,H. 868,"Versucuber die wahre Art das Clavier zu spielen, mit exempeln und 18 Probe-Stucken in 6 Sonaten erlautert",,,,,
+,Wq. 257,H. 869,"Einfall einen doppelten Contrapunct in der Octave von 6 Tacten zu machen, ohne die Regeln davon zu wissen",,,,,
+,Wq. 255,H. 870,Versucuber die wahre Art das Clavier zu spielen (zweiter theil) in welchem die Lehre von den Accompagnement und der fryen Fantaisie abgehandelt wird,,,,,
+,Wq. 256,H. 873,"Von der Fingersetzung, der Manieren und der freyen Fantaisie",,,,,
+,Wq. 258,H. 874,"Kurze Anweisung zum general-bass, mit exempeln uber jeden accord",,,,,
 ,Wq. 199,,Odes,,,,,
-,Wq. 199/16,H. 685.5,Auf den Namenstag der Mademoiselle S / Ernestine: Das Fest der holden Ernestinen,,,,,
 ,Wq. 202,,Odes et Lieders religieux et profanes,,,,,
 ,Wq. 202m,,"Sans titre: Nein, nein die ernste",,,,,
 ,Wq. 202o,,Morceaux inédits,,,,,
-,Wq. 202o/3,H. 765,"Aus den 107 Psalm: Kommt, lasst uns seine Huld besingen",,,,,
-,Wq. 202o/5,H. 766,Sans titre: Die schönste soll bey Sonnenschein',,,,,
-,Wq. 209,H. 839,Et cum spiritu,,,,,
-,Wq. 210,H. 840,Amen,,,,,
-,Wq. 213,H. 767,Eine italiänische Ariette: D'amor per te languisco,,,,,
-,Wq. 254,H. 868,"Versucuber die wahre Art das Clavier zu spielen, mit exempeln und 18 Probe-Stucken in 6 Sonaten erlautert",,,,,
-,Wq. 255,H. 870,Versucuber die wahre Art das Clavier zu spielen (zweiter theil) in welchem die Lehre von den Accompagnement und der fryen Fantaisie abgehandelt wird,,,,,
-,Wq. 256,H. 873,"Von der Fingersetzung, der Manieren und der freyen Fantaisie",,,,,
-,Wq. 257,H. 869,"Einfall einen doppelten Contrapunct in der Octave von 6 Tacten zu machen, ohne die Regeln davon zu wissen",,,,,
-,Wq. 258,H. 874,"Kurze Anweisung zum general-bass, mit exempeln uber jeden accord",,,,,
 ,Wq. 259,,"Anfangsstucke mit einer Anleitung den Gebraucdieser Stucke, dir Bachsche Fingersetzung, die Manieren und den Vortrag betreffend",,,,,
-,Wq. 263,H. 776,Die letxten Leiden des Erlosers,,,,,
-,Wq. 264,H. 699,Der Wirtund die Gaste,,,,,
 ,Wq. 265,,Prélude et sonates,,,,Organ,
 ,Wq. 267,,Kleine leichte Klavierstucke mit der Findersetzung fur Anfanger. Neueste in den Violin-Schlussel ubersetzte Auflage.,,,,,
 ,Wq. 268,,Grande sonate pour le clavecin,,,,,
 ,Wq. 272,,La Bataille de Bergen: sonate pour clavecin ou harpe,,,,Harpsichord,
-,Wq. 81,H. 600,12 Petits mouvements,,,,"2-3 Voices: 2 Flutes  / 2 Violins, Harpsichord",

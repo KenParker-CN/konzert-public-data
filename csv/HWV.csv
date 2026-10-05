@@ -1,5 +1,5 @@
 Catalogue,Opus,Date,Title,Type,Key,Movements,Instrumentation,Note
-HWV 1,,1704,"Der in Kronen erglangte Gluckwechsel/Almira, Konigin von Kastillien",Opera,,,"STB), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Trumpets, Principal Trumpet, Timpani, 3 Violins, Solo Viola, Viola, Cello, Basso Continuo","Libretto by Giulio Pancieri, traduit par Friedrich Christian Feustking"
+HWV 1,,1704,"Der in Kronen erglangte Gluckwechsel/Almira, Konigin von Kastillien",Opera,,,"S, T, B, SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Trumpets, Principal Trumpet, Timpani, 3 Violins, Solo Viola, Viola, Cello, Basso Continuo","Libretto by Giulio Pancieri, traduit par Friedrich Christian Feustking"
 HWV 2,,1705,Die durch Blut und Mord erlangte Liebe/Nero,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue]
 Libretto by Friedrich Christian Feustking"
 HWV 3,,1706,Der begluckte Florindo,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue sauf quelques fragments]
@@ -14,8 +14,8 @@ HWV 7b,,1731,Rinaldo,Opera,,,"S: Almirena, Donna, Sirene, MS: Rinaldo, Armida, A
 Libretto by Giacomo Rossi after un scénario de Aaron Hill"
 HWV 8a,,1712,Il Pastor fido,Opera,,,"S: Mirtillo, Amarilli, Eurilla, A: Silvio, Dorinda, B: Tirenio), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Violins, Viola, Cello, Basso Continuo","(1ère version)
 Libretto by Giacomo Rossi after une tragicomédie pastorale de Battista Guarini"
-HWV 8b,,1734,Terpsicore,Prologue,,,"S, A), SATB Choir, Ballet, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
-HWV 8c,,1734,Il Pastor fido,Opera,,,"S: Amarilli, Eurilla, A: Mirtillo, Dorinda, T: Silvio, B:Tirenio), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, bass continue","(2è, 3è versions)
+HWV 8b,,1734,Terpsicore,Prologue,,,"S, A, SATB Choir, Ballet, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
+HWV 8c,,1734,Il Pastor fido,Opera,,,"S: Amarilli, Eurilla, A: Mirtillo, Dorinda, T: Silvio, B:Tirenio, SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, bass continue","(2è, 3è versions)
 Libretto by Giacomo Rossi after une tragicommédie pastorale de Battista Guarini"
 HWV 9,,1712,Tesco,Opera,,,"S: Teseo, Agilea, Medea, Clizia, Fedra, A: Arcane, Egeo, B: Ministro di Minerva), SATB Choir, 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Violins, 2 Violas, Cello, Basso Continuo",Libretto by Niccolo Francesco Haym after une tragédie lyrique de Philippe Quinault
 HWV 10,,1713,Lucio Cornelio Silla,Opera,,,"S, MS, B), 2 Flutes, 2 Oboes, Bassoon, Trumpet, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
@@ -146,7 +146,7 @@ HWV 74,,1713/4,Eternal source of light divine,Serenata,,,"S, A/T, B), Choir I (S
 Texte: Ambrose Philips"
 HWV 75,,1736,Alexander's Feast or the Power of Musick,Ode,,,"SATB), SSATTBB Choir, 2 Flutes, 2 Oboes, 3 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, 2 Violas, Cello, Organ, Basso Continuo","En l'honneur de Ste-Cécile
 Texte: John Dryden"
-HWV 76,,1739,"From Harmony, from heav'nly Harmony",Ode,,,"ST), SATB Choir, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, Tambourine, 2 Violins, Viola, Cello, Double Bass, Lute, Organ","Pour le jour de la fête de Ste-Cécile
+HWV 76,,1739,"From Harmony, from heav'nly Harmony",Ode,,,"S, T, SATB Choir, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, Tambourine, 2 Violins, Viola, Cello, Double Bass, Lute, Organ","Pour le jour de la fête de Ste-Cécile
 Texte: John Dryden"
 HWV 77,,,Ah! che pur troppo e vero,Cantata,,,"S, Basso Continuo",
 HWV 78,,,"Ah! crudel, nel pianto mio",Cantata,,,"S, 2 Oboes, 2 Violins, Viola, Basso Continuo",
@@ -154,7 +154,7 @@ HWV 79,,,Diana cacciatrice: Alla caccia,Cantata,,,"S, S Choir, Trumpet, 2 Violin
 HWV 80,,,Allor ch'io dissi addio,Cantata,,,"S, Basso Continuo",
 HWV 81,,,Alpestre monte,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
 HWV 82,,,Il Duello amoroso/Daliso ed Amarilli: Amarilli vezzosa,Cantata,,,"S, A, Strings (2 Violins), Basso Continuo",
-HWV 83,,,Amiante e Fillide: Arrista il passo,Cantata,,,"S1, S2), Strings (3 Violins, Viola), Basso Continuo",
+HWV 83,,,Amiante e Fillide: Arrista il passo,Cantata,,,"S1, S2, Strings (3 Violins, Viola), Basso Continuo",
 HWV 84,,,"Aure soavi, e lieti",Cantata,,,"S, Basso Continuo",
 HWV 85,,,Venus and Adonis: Behold where Venus weeping stands,Cantata,,,"S, Violin, Basso Continuo",
 HWV 86,,,Bella ma ritrosetta,Cantata,,,"S, Basso Continuo",
@@ -168,7 +168,7 @@ HWV 92,,,"Clori, mia bella Clori",Cantata,,,"S, Strings (2 Violins), Basso Conti
 HWV 93,,,"Clori, ove sei?",Cantata,,,"S, Basso Continuo",
 HWV 94,,,"Clori, si, ch'io t'adoro",Cantata,,,"S, Basso Continuo",
 HWV 95,,,"Clori, vezzosa Clori",Cantata,,,"S, Basso Continuo",
-HWV 96,,,"Clori, Tirsi e Fileno: Cor fedele in vano speri",Cantata,,,"S1, S2, A), 2 Flutes, 2 Oboes, Violin obbligato, 2 Violins, 2 Violas, Lute, Basso Continuo",
+HWV 96,,,"Clori, Tirsi e Fileno: Cor fedele in vano speri",Cantata,,,"S1, S2, A, 2 Flutes, 2 Oboes, Violin obbligato, 2 Violins, 2 Violas, Lute, Basso Continuo",
 HWV 100,,,Da sete ardente afflitto,Cantata,,,"S, Basso Continuo",
 HWV 101a,,,Dal fatale momento,Cantata,,,"S, Basso Continuo",[1st version]
 HWV 101b,,,Del fatale momento,Cantata,,,"B, Basso Continuo",[2nd version]
@@ -192,12 +192,12 @@ HWV 115,,,Fra pensieri quel pensiero,Cantata,,,"A, Basso Continuo",
 HWV 116,,,Fra tante pene,Cantata,,,"S, Basso Continuo",
 HWV 117,,,"Hendel, non puo mia Musa",Cantata,,,"S, Basso Continuo",texte: Benedetto Pamphilj
 HWV 118,,,Ho fuggito Amore anch'io,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
-HWV 119,,,"(Io languisco fra le goije). Echeggiate, festeggiate, Numi eterni",Cantata,,,"S1, S2, S3, A, B), Flute, 2 Oboes, 2 Violins, Viola, Cello, Basso Continuo",[fragment]
+HWV 119,,,"(Io languisco fra le goije). Echeggiate, festeggiate, Numi eterni",Cantata,,,"S1, S2, S3, A, B, Flute, 2 Oboes, 2 Volins, Viola, Cello, Basso Continuo",[fragment]
 HWV 120a,,,"Irene, idolo mio",Cantata,,,"S, Basso Continuo",[1st version]
 HWV 120b,,,"Irene, idolo mio",Cantata,,,"A, Basso Continuo",[2nd version]
 HWV 121a,,,"La Solitudine: L'aure grate, il fresco rio",Cantata,,,"A, Basso Continuo","[1ère version, fragment]"
 HWV 121b,,,"La Solitudine: L'aure grate, il fresco rio",Cantata,,,"A, Basso Continuo",[2nd version]
-HWV 122,,,"Appolo, Dafne: La terra e liberata",Cantata,,,"S, B), Transverse Flute, 2 Oboes, Bassoon, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo",
+HWV 122,,,"Appolo, Dafne: La terra e liberata",Cantata,,,"S, B, Transverse Flute, 2 Oboes, Bassoon, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo",
 HWV 123,,,Languia di bocca lusinghiera,Cantata,,,"S, Oboe, Violin, Basso Continuo",
 HWV 124,,,"(The Praise od Harmony): Look down, harmonius Saint",Cantata,,,"T, Strings (2 Violins, Viola), Basso Continuo",texte: Newburg Hamilton
 HWV 125a,,,Lungi da me pensier tiranno,Cantata,,,"S, Basso Continuo",[1st version]
@@ -230,7 +230,7 @@ HWV 139c,,,Ninfe e pastori,Cantata,,,"S, Basso Continuo",[3rd version]
 HWV 140,,,No se emendera jamas,Cantata,,,"S, Guitar, Basso Continuo",
 HWV 141,,,"Non sospirar, non piangere",Cantata,,,"S, Basso Continuo",
 HWV 142,,,Notte placida e cheta,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-HWV 143,,,"Olinto pastore, Tebro fiume, Gloria: Oh come chiare e belle",Cantata,,,"S1, S2, A), Trumpet, 2 Concertante Violins, 2 Violins, Basso Continuo",
+HWV 143,,,"Olinto pastore, Tebro fiume, Gloria: Oh come chiare e belle",Cantata,,,"S1, S2, A, Trumpet, 2 Concertante Violins, 2 Violins, Basso Continuo",
 HWV 144,,,"O lucenti, o sereni occhi",Cantata,,,"S, Basso Continuo",
 HWV 145,,,La Lucrezia: Oh Numi eterni,Cantata,,,"S, Basso Continuo",
 HWV 146,,,Occhi miei che faceste?,Cantata,,,"S, Basso Continuo",
@@ -278,11 +278,11 @@ trio, en fa majeur, pour 2 sopranos, basse, Basso Continuo
 
 
 2 L'occaso ha nell'aurora
-trio, en ré mineur, pour 2 sopranos, basse, Basso Continuo","S1, S2, B), Basso Continuo",[trio # 2]
+trio, en ré mineur, pour 2 sopranos, basse, Basso Continuo","S1, S2, B, Basso Continuo",[trio # 2]
 HWV 201,,,Se tu non lasci amore,Terzett,,"1 Se tu non lasci amore
 trio en sol mineur, pour 2 sopranos, basse, Basso Continuo
 2 Quando non ho piu core
-trio, en do mineur, pour 2 sopranos, basse, Basso Continuo","S1, S2, B), Basso Continuo",[trio # 1 - 2 versions]
+trio, en do mineur, pour 2 sopranos, basse, Basso Continuo","S1, S2, B, Basso Continuo",[trio # 1 - 2 versions]
 HWV 202,,,Kunft'ger Zeiten eitler Kummer,Aria,E-flat major,,"S, Basso Continuo",texte: Barthold Heinrich Brockes
 HWV 203,,,Das zitternde Glanzen,Aria,E-flat major,,"S, Basso Continuo",texte: Bathold Heinrich Brockes
 HWV 204,,,Susser Blumen Ambraflocken,Aria,G minor,[Andante],"S, Basso Continuo",texte: Bathold Heinrich Brockes
@@ -347,9 +347,9 @@ HWV 230,,,Ah! che troppo inegnali / O del ciel! Maria Regina,,,,"récitatif et a
 HWV 231,,,Coelestis dum spirat aura,Motet,,,motet pour soprano avec cordes (2 violons) et basse continue,"pour la fête de St. Antoine de Padoue
 texte: inconnu"
 HWV 232,,,Dixit Dominus Domino meo,,,,"concert spirituel pour solistes SA), chœur (SSATB) avec cordes (2 violons, 2 altos, violoncelle) et basse continue",[Psaume 109]
-HWV 233,,,"Donna, che in ciel di tanta luce splendi",,,,"cantate pour soprano solo, choeur (SATB) avec cordes (2 violons, alto) et basse continue","pour l'anniversaire de la libération de Rome d'un tremblement de terre pour la journée de la Purification de la Sainte-Vierge
+HWV 233,,,"Donna, che in ciel di tanta luce splendi",Cantata,,,"cantate pour soprano solo, choeur (SATB) avec cordes (2 violons, alto) et basse continue","pour l'anniversaire de la libération de Rome d'un tremblement de terre pour la journée de la Purification de la Sainte-Vierge
 texte: inconnu"
-HWV 234,,,Il Pianto di Maria: Giunta l'ora fatal,,,,"cantate sacrée pour soprano solo avec cordes (4 violons, alto) et basse continue","[pour être exécuté devant le Saint-Sépulcre]
+HWV 234,,,Il Pianto di Maria: Giunta l'ora fatal,Cantata,,,"cantate sacrée pour soprano solo avec cordes (4 violons, alto) et basse continue","[pour être exécuté devant le Saint-Sépulcre]
 texte: inconnu
 [Authenticité faible]"
 HWV 235,,,Haec est Regina Virginum,Antienne,G major,,"antienne, en sol majeur, pour soprano solo avec cordes (2 violons, alto) et orgue",texte: inconnu

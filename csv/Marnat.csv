@@ -1,4 +1,4 @@
-Catalogue,Date,Title,Key,Part,Instrumentation,Note
+Catalogue,Date,Title,Key,Workpart,Instrumentation,Note
 1,1888,Mouvement de sonate,,,Piano,"Exercice pour les cours de Charles-René, [perdu]"
 2,1888,Variations sur un thème de Grieg,,,Piano,"Exercice pour les cours de Charles-René, ""La mort d'Aase"", extrait de la musique de scène pour le Peer Gynt d'Ibsen"
 3,1888,Variations sur un thème de Schumann,,,Piano,"Exercice pour les cours de Charles-René, Choral ""Freu dich, o meine Seele"" de l'Album pour la jeunesse (Op. 68)"
@@ -6,8 +6,8 @@ Catalogue,Date,Title,Key,Part,Instrumentation,Note
 5,1892-1893,Sérénade grotesque,,Très rude (f♯),Solo Piano,
 6,1895,Un grand sommeil noir: Un grand sommeil noir,,Lent et sourd mais jamais très marqué (c♯),"Low Voice, Piano",Texte: Paul Verlaine
 7,1895,Menuet antique,F-sharp minor,Maestoso (f♯),Solo Piano,"arrangement for orchestra, Ravel, 1929 (Piccolo, 2 Flutes, 2 Oboes, English Horn, 2 Clarinets, Bass Clarinet, 2 Bassoon, Contrebassoon, 4 Horns, 3 Trumpets, 2 Trombones, Tuba, 2 Timpani, Harp, 2 Violins, Viola, Cello, Double Bass)"
-8,1895,Habanera,,En demi-teinte et d'un rythme las (f♯),2 Pianos,"Sites auriculaires, ♯ 1
-transcription pour orchestre: 3è partie de la Rhapsodie espagnole ,1907 (voir ♯ 54 ci-dessous)"
+8,1895,Habanera,,En demi-teinte et d'un rythme las (f♯),2 Pianos,"Sites auriculaires, #1
+transcription pour orchestre: 3è partie de la Rhapsodie espagnole ,1907 (voir #54 ci-dessous)"
 9,1896,Sainte: À la fenêtre recélant,G minor,Liturgiquement (g),"Violin, Piano",Texte: Stéphane Mallarmé
 10,1896,D'Anne jouant de l'espinette: Lorsque je voy en ordre la brunette,C-sharp minor,Très léger et d'un rythme précis (c♯),"Voice, Harsichord/Piano","Texte:Clément Marot: Épigramme II, #22"
 11,1896,La parade,,"[2 valses, 2 marches, 1 mazurka]",Piano,Esquisse de ballet d'après un livret d'Antonine Meunier

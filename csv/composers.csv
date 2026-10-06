@@ -1,11 +1,19 @@
-Name,Sort Name,Birth,Died,Era,Nationality,Nationality_2,alias_org,alias_en,alias_de,alias_fr,alias_jp,alias_cn
-Dieterich Buxtehude,"Buxtehude, Dieterich",1637 c.,1707. 5. 9,Middle Baroque,DK,,Diderich Hansen Buxtehude,,,,ディートリヒ・ブクステフーデ,迪特里希·布克斯特胡德
-Antonio Vivaldi,"Vivaldi, Antonio",1678. 3. 4,1741. 7. 28,Late Baroque,IT,,,,,,アントニオ・ヴィヴァルディ,安东尼奥·维瓦尔第
-Georg Philipp Telemann,"Telemann, Georg Philipp",1681. 3. 14,1767. 6. 25,Late Baroque,DE,,,,,,ゲオルク・フィリップ・テレマン,格奥尔格·菲利普·泰勒曼
-George Frideric Handel,"Handel, George Frideric",1685. 2. 23,1759. 4. 14,Late Baroque,DE,UK,George Frideric Händel,,,,ゲオルク・フリードリヒ・ヘンデル,乔治·弗里德里希·亨德尔
-Johann Sebastian Bach,"Bach, Johann Sebastian",1685. 3. 31,1750. 7. 28,Late Baroque,DE,,,,,,ヨハン・ゼバスティアン・バッハ,约翰·塞巴斯蒂安·巴赫
-Carl Philipp Emanuel Bach,"Bach, Carl Philipp Emanuel",1714. 3. 8,1788. 12. 14,Early Classical,DE,,,,,,カール・フィリップ・エマヌエル・バッハ,卡尔·菲利普·埃马努埃尔·巴赫
-Joseph Haydn,"Haydn, Joseph",1732. 3. 31,1809. 5. 31,Classical,AT,,,,,,ヨーゼフ・ハイドン,约瑟夫·海顿
-Wolfgang Amadeus Mozart,"Mozart, Wolfgang Amadeus",1756. 1. 27,1791. 12. 5,Classical,AT,,,,,,ヴォルフガング・アマデウス・モーツァルト,沃尔夫冈·阿马德乌斯·莫扎特
-Felix Mendelssohn,"Mendelssohn, Felix",1809. 2. 3,1847. 11. 4,Early Romantic,DE,,Jakob Ludwig Felix Mendelssohn Bartholdy,,,,フェリックス・メンデルスゾーン,费利克斯·门德尔松
-Maurice Ravel,"Ravel, Maurice",1875. 3. 7,1937. 12. 28,Early Modern,FR,,,,,,モーリス・ラヴェル,莫里斯·拉威尔
+Name,Sort Name,Birth,Died,Era,Nationality,Nationality_2,alias_org,alias_de,alias_fr,alias_jp,alias_cn
+Jean-Baptiste Lully,"Lully, Jean-Baptiste",1632/11/28,1687/3/22,Middle Baroque,IT,FR,Giovanni Battista Lulli,,,ジャン＝バティスト・リュリ,让-巴蒂斯特·吕利
+Dieterich Buxtehude,"Buxtehude, Dieterich",1637c.,1707/5/9,Middle Baroque,DK,DE,Diderich Hansen Buxtehude,,,ディートリヒ・ブクステフーデ,迪特里希·布克斯特胡德
+Arcangelo Corelli,"Corelli, Arcangelo",1653/2/17,1713/1/8,Middle Baroque,IT,,,,,アルカンジェロ・コレッリ,阿尔坎杰罗·科雷利
+Antonio Vivaldi,"Vivaldi, Antonio",1678/3/4,1741/7/28,Late Baroque,IT,,,,,アントニオ・ヴィヴァルディ,安东尼奥·维瓦尔第
+Jan Dismas Zelenka,"Zelenka, Jan Dismas",1679/10/16,1745/12/23,Late Baroque,CZ,,,,,ヤン・ディスマス・ゼレンカ,扬·迪斯马斯·泽伦卡
+Georg Philipp Telemann,"Telemann, Georg Philipp",1681/3/14,1767/6/25,Late Baroque,DE,,,,,ゲオルク・フィリップ・テレマン,格奥尔格·菲利普·泰勒曼
+Jean-Philippe Rameau,"Rameau, Jean-Philippe",1683/9/25,1764/9/12,Late Baroque,FR,,,,,ジャン＝フィリップ・ラモー,让-菲利普·拉莫
+George Frideric Handel,"Handel, George Frideric",1685/2/23,1759/4/14,Late Baroque,DE,UK,George Frideric Händel,,,ゲオルク・フリードリヒ・ヘンデル,乔治·弗里德里希·亨德尔
+Johann Sebastian Bach,"Bach, Johann Sebastian",1685/3/31,1750/7/28,Late Baroque,DE,,,,,ヨハン・ゼバスティアン・バッハ,约翰·塞巴斯蒂安·巴赫
+Carl Philipp Emanuel Bach,"Bach, Carl Philipp Emanuel",1714/3/8,1788/12/14,Early Classical,DE,,,,,カール・フィリップ・エマヌエル・バッハ,卡尔·菲利普·埃马努埃尔·巴赫
+Joseph Haydn,"Haydn, Joseph",1732/3/31,1809/5/31,Classical,AT,,,,,ヨーゼフ・ハイドン,约瑟夫·海顿
+Wolfgang Amadeus Mozart,"Mozart, Wolfgang Amadeus",1756/1/27,1791/12/5,Classical,AT,,,,,ヴォルフガング・アマデウス・モーツァルト,沃尔夫冈·阿马德乌斯·莫扎特
+Ludwig van Beethoven,"Beethoven, Ludwig van",1770/12/17,1827/3/26,Classical,DE,,,,,ルートヴィヒ・ヴァン・ベートーヴェン,路德维希·范·贝多芬
+Franz Schubert,"Schubert, Franz",1797/1/31,1828/11/19,Early Romantic,AT,,Franz Schubert,,,フランツ・シューベルト,弗朗茨·舒伯特
+Felix Mendelssohn,"Mendelssohn, Felix",1809/2/3,1847/11/4,Early Romantic,DE,,Jakob Ludwig Felix Mendelssohn Bartholdy,,,フェリックス・メンデルスゾーン,费利克斯·门德尔松
+Robert Schumann,"Schumann, Robert",1810/6/8,1856/7/29,Early Romantic,DE,,,,,ロベルト・シューマン,罗伯特·舒曼
+Pyotr Ilyich Tchaikovsky,"Tchaikovsky, Pyotr Ilyich",1840/5/7,1893/11/6,Romantic,RU,,Пётр Ильич Чайковский,Pjotr Iljitsch Tschaikowski,Piotr Ilitch Tchaïkovski,ピョートル・イリイチ・チャイコフスキー,彼得·伊里奇·柴可夫斯基
+Maurice Ravel,"Ravel, Maurice",1875/3/7,1937/12/28,Early Modern,FR,,,,,モーリス・ラヴェル,莫里斯·拉威尔

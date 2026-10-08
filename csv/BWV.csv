@@ -513,17 +513,283 @@ Choral, en fa majeur, pour choeur , tous les instruments
 soprano -> trpte, htb1, htb2, vln1; Viola -> htb3, vln3; ténor -> Viola
 [Voir # 7 ci-devant]","A, T, B, SATB , Trumpet, 3 Oboes, 2 Violins, Viola, Basso Continuo","1er dimanche après la Trinité
 [BWV 60 porte le même titre, utilise le même cantique]"
-217,,BWV 217,"Gedenke, Herr, wie es uns gehet",Cantata,,,"cantate pour solistes (S,A,T,B), SATB, flûte traversière, 2 violons, alto, continuo","1er dimanche après l'Épiphanie
-[Compositeur inconnu]"
-218,,BWV 218,Gott der Hoffnung erfülle euch,Cantata,,,"cantate pour solistes (S,A,T,B), SATB, 2 cors, 2 violons, alto, continuo","1er jour de la fête de la Pentecôte
+21,,BWV 21,Ich hatte viel Bekümmerniss,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 3 trompettes, timbales, 4 trombones, hautbois, basson, 2 violons, alto, orgue et continuo",3è dimanche après la Trinité
+22,,BWV 22,Jesus nahm zu sich die Zwölfe,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec hautbois, 2 violons, alto et continuo",dimanche de la Quinquagésime (Estomihi)
+23,,BWV 23,Du wahrer Gott und Davids Sohn,Cantata,,,"solistes (S,A,T) et choeur (SATB) avec cornet, 3 trombones, 2 hautbois, 2 violons, alto et continuo",dimanche de la Quinquagésime (Estomihi)
+24,,BWV 24,Ein ungefärbt Gemüte,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec clairon, 2 hautbois, 2 hautbois d'amour, 2 violons, alto et continuo",4è dimanche après la Trinité
+25,,BWV 25,Es ist nichts Gesundes an meinem Liebe,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec cornet, 3 trombones, 3 flûtes à bec, 2 hautbois, 2 violons, alto et continuo",14è dimanche après la Trinité
+26,,BWV 26,"Ach wie flüchtig, ach wie nichtig",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, flûte traversière, 3 hautbois, violon solo, 2 violons, alto et continuo (orgue)",24è dimanche après la Trinité
+27,,BWV 27,"Wer weiss, wie nahe mir meine Ende",Cantata,,,"solistes (S,A,T,B) et choeur (SATB/SSATB) avec cor, 2 hautbois, cor anglais, orgue obligé, 2 violons, alto et continuo",16è dimanche après la Trinité
+28,,BWV 28,Gottlob! Nun geht das Jahr zu Ende,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cornet, 3 trombones, 2 hautbois, cor anglais, 2 violons, alto et continuo",dimanche après Noël
+29,,BWV 29,"Wir danken dir Gott, wir danken dir",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, orgue obligé, violon solo, 2 violons, alto et continuo",élection du conseil municipal de Leipzig (1731)
+30,,BWV 30,"Freue dich, erlöste Schar",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, hautbois d'amour, 2 violons, alto, orgue, et continuo",fête de St-Jean-Baptiste
+30.1,,BWV 30a,Angenehmes Wiederau,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, hautbois d'amour, 2 violons, alto et continuo",hommage à Johann Christian von Hinnecke auf Wiedreau (1737)
+31,,BWV 31,"Der Himmel lacht, die Erde jubilieret",Cantata,,,"solistes (S,T,B) et choeur (SSATB) avec 3 trompettes, timbales, 3 hautbois, cor anglais, basson, 2 violons, 2 altos, 2 violoncelles et continuo",1er jour de la fête de Pâques
+32,,BWV 32,"Liebster Jesu, mein Verlangen",Cantata,,,"solistes (S,B) et choeur (SATB) avec hautbois, violon solo, 2 violons, alto et continuo",1er dimanche après l'Épiphanie
+33,,BWV 33,"Allein zu dir, Herr Jesu Christ",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo (orgue)",13è dimanche après la Trinité
+34,,BWV 34,"O ewiges Feuer, o Ursprung der Liebe",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",1er jour de la fête de la Pentecôte
+34.1,,BWV 34a,"O ewiges Feuer, o Ursprung der Liebe",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",mariage
+35,,BWV 35,Geist und Seele wird verwirret,Cantata,,,"soliste (A) avec 2 hautbois, cor anglais, orgue obligé, 2 violons, alto et continuo",12è dimanche après la Trinité
+36,,BWV 36,Schwingt freudig euch empor,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 violons, alto et continuo (orgue)",1er dimanche de l'Avent
+36.1,,BWV 36a,Steigt freudig in die Luft,#N/A,,,anniversaire de Charlotte Fridericke Wilhelmine (1726),Musique perdue
+36.2,,BWV 36b,Die Freude reget sich,Cantata,,,"solistes (S,A,T) et choeur (SATB) avec flûte traversière, hautbois d'amour, 2 violons, alto et continuo",anniversaire de Johann Florens Rivinus
+36.3,,BWV 36c,Schwingt freudig euch empor,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec hautbois d'amour, viole d'amour, 2 violons, alto et continuo",anniversaire pour un professeur de l'Université de Leipzig
+37,,BWV 37,Wer da gläubet und getauft wird,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 violons, alto et continuo",fête de l'Ascension
+38,,BWV 38,Aus tiefer Not schrei ich zu dir,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 4 trombones, 2 hautbois, 2 violons, alto et continuo",21è dimanche après la Trinité
+39,,BWV 39,Brich dem Hungrigen dein Brot,Cantata,,,"solistes (S,A,B) et choeur (SATB) avec 2 flûtes à bec, 2 hautbois, 2 violons, alto et continuo",1er dimanche après la Trinité
+40,,BWV 40,Dazu ist erschienen der Sohn Gottes,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 cors, 2 hautbois, 2 violons, alto et continuo",2è jour de la fête de Noël
+41,,BWV 41,"Jesu, nun sei gepreiset",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 3 hautbois, violoncelle piccolo solo, 2 violons, alto et continuo (orgue)",fête de la Circoncision (Nouvel An)
+42,,BWV 42,Am Abend aber desselbigen Sabbats,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, basson, 2 violons, alto, violoncelle et continuo (orgue)",1er dimanche après Pâques (Quasimodo)
+43,,BWV 43,Gott fähret auf mit Jauchzen,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, 2 violons, alto et continuo",fête de l'Ascension
+44,,BWV 44,Sie werden euch in den Bann tun,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, basson, 2 violons, alto et continuo","6è dimanche après Pâques (Exaudi)
+[BWV 183 porte le même titre et pour la même occasion]"
+45,,BWV 45,"Es ist dir gesagt, Mensch, was gut ist",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",8è dimanche après la Trinité
+46,,BWV 46,"Schauet doch und sehet, ob irgend ein Schmerz sei",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec trompette ou cor, 2 flûtes à bec, 2 cors anglais, 2 violons, alto et continuo",10è dimanche après la Trinité
+47,,BWV 47,"Wer sich selbst erhöhet, der soll erniedriget werden",Cantata,,,"solistes (S,B) et choeur (SATB) avec 2 hautbois, orgue obligé, 2 violons, alto et continuo",17è dimanche après la Trinité
+48,,BWV 48,"Ich elender Mensch, wer wird mich erlösen",Cantata,,,"solistes (A,T) et choeur (SATB) avec trompette, hautbois solo, 2 hautbois, 2 violons, alto et continuo",19è dimanche après la Trinité
+49,,BWV 49,Ich geh' und suche mit Verlangen,Cantata,,,"solistes (S,B) avec hautbois d'amour, 2 violons, alto, violoncelle piccolo, orgue obligé et continuo",20è dimanche après la Trinité
+50,,BWV 50,"Nun ist das Heil, und die Kraft",Cantata,,,"choeur (SSAATTBB) avec 3 trompettes, timbales, 3 hautbois, 2 violons, alto et continuo (orgue)","fête de St-Michel
+[Fragment d'une cantate perdue]"
+51,,BWV 51,Jauchzet Gott in allen Landen,Cantata,,,"soliste (S) avec trompette, 2 violons, alto et continuo",15è dimanche après la Trinité et pour tous les temps
+52,,BWV 52,"Falsche Welt, dir trau' ich nicht",Cantata,,,"soliste (S) et choeur (SATB) avec 2 cors, 3 hautbois, basson, 2 violons, alto et continuo (orgue)",23è dimanche après la Trinité
+53,,BWV 53,"Schlage doch, gewünschte Stunde",Cantata,,,"soliste (A) avec 2 violons, alto, 2 clochettes et continuo","cantate funèbre
+[Composition de Georg Melchior Hoffmann]"
+54,,BWV 54,Widerstehe doch der Sünde,Cantata,,,"soliste (A) avec 2 violons, 2 altos et continuo",7è dimanche après la Trinité / non spécifié
+55,,BWV 55,"Ich armer Mensch, ich Sündenknecht",Cantata,,,"soliste (T) et choeur (SATB) avec flûte traversière, hautbois d'amour, 2 violons, alto et continuo",22è dimanche après la Trinité
+56,,BWV 56,Ich will den Kreuzstab gerne tragen,Cantata,,,"soliste (B) et choeur (SATB) avec hautbois solo, 2 hautbois, cor anglais, 2 violons, alto, violoncelle et continuo",19è dimanche après la Trinité
+57,,BWV 57,Selig ist der Mann,Cantata,,,"solistes (S,B) et choeur (SATB) avec 2 hautbois, cor anglais, violon solo, 2 violons, alto et continuo (orgue)",2è jour de la fête de Noël
+58,,BWV 58,"Ach Gott, wie manches Herzeleid",Cantata,,,"solistes (S,B) avec 2 hautbois, cor anglais, violon solo, 2 violons, alto et continuo","dimanche après le Nouvel An
+[BWV 3 porte le même titre]"
+59,,BWV 59,"Wer mich liebet, der wird mein Wort halten",Cantata,,,"solistes (S,B) et choeur (SATB) avec 2 trompettes, timbales, 2 violons, alto et continuo","1er jour de la fête de la Pentecôte
+[BWV 74 porte le même titre]"
+60,,BWV 60,"O Ewigkeit, du Donnerwort",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec cor, 2 hautbois d'amour, 2 violons, alto et continuo","24è dimanche après la Trinité
+[BWV 20 porte le même titre et reprend le même cantique]"
+61,,BWV 61,"Nun komm, der Heiden Heiland",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 2 violons, 2 altos, violoncelle et continuo (basson, orgue)","1er dimanche de l'Avent
+[BWV 62 porte le même titre]"
+62,,BWV 62,"Nun komm, der Heiden Heiland",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, 2 hautbois, 2 violons, alto, violoncelle et continuo","1er dimanche de l'Avent
+[BWV 61 porte le même titre]"
+63,,BWV 63,"Christen, ätzet diesen Tag",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 4 trompettes, timbales, 3 hautbois, basson, 2 violons, alto, violoncelle et continuo (orgue)",1er jour de la fête de Noël
+64,,BWV 64,"Sehet, welch eine Liebe hat uns der Vater erzeiget",Cantata,,,"solistes (S,A,B) et choeur (SATB) avec cornet, 3 trombones, hautbois d'amour, 2 violons, alto, violoncelle, orgue et continuo",3è jour de la fête de Noël
+65,,BWV 65,Sie werden aus Saba alle kommen,Cantata,,,"solistes (T,B) et choeur (SATB) avec 2 cors, 2 flûtes à bec, 2 cors anglais, 2 violons, alto et continuo",fête de l'Épiphanie
+66,,BWV 66,"Erfreut euch, ihr Herzen",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec trompette, 2 hautbois, basson, violon solo, 2 violons, alto et continuo",2è jour de la fête de Pâques
+66.1,,BWV 66a,Der Himmel dacht auf Anhalts Ruhm und Glück,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, 2 hautbois, basson, 2 violons, alto et continuo",anniversaire du Prince Leopold d'Anhalt-Cothen
+67,,BWV 67,Halt im Gedächtnis Jesum Christ,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec cor, flûte traversière, 2 hautbois d'amour, 2 violons, alto et continuo (orgue)",1er dimanche après Pâques (Quasimodo)
+68,,BWV 68,Also hat Gott die Welt geliebt,Cantata,,,"solistes (S,B) et choeur (SATB) avec cor, cornet, 3 trombones, 2 hautbois, cor anglais, 2 violons, alto, violoncelle piccolo, basse et continuo",2è jour de la fête de la Pentecôte
+69,,BWV 69,"Lobe den Herrn, meine Seele",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 3 hautbois, hautbois d'amour, basson, 2 violons, alto, violoncelle et continuo","élection du conseil municipal de Leipzig (1730)
+[BWV 69a et 143 portent le même titre]"
+69.1,,BWV 69a,"Lobe den Herrn, meine Seele",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, flûte à bec, 3 hautbois, cor anglais, basson, 2 violons, alto et continuo","12è dimanche après la Trinité
+[BWV 69 et 143 portent le même titre]"
+70,,BWV 70,"Wachet, betet, seid bereit allezeit",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, hautbois, basson, violoncelle obligé, 2 violons, alto et continuo",26è dimanche après la Trinité
+70.1,,BWV 70a,"Wachet, betet, seid bereit allezeit",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, hautbois, basson, violoncelle obligé, 2 violons, alto, continuo",2è dimanche de l'Avent
+71,,BWV 71,Gott ist mein König,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes à bec, 2 hautbois, basson, 2 violons, alto, violoncelle, violone et orgue",élection du conseil municipal de Mulhausen (1708)
+72,,BWV 72,Alles nur nach Gottes Willen,Cantata,,,"solistes (S,A,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo",3è dimanche après l'Épiphanie
+73,,BWV 73,"Herr, wie du willt, so schicks mit mir",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec cor, orgue obligé, 2 hautbois, 2 violons, alto et continuo",3è dimanche après l'Épiphanie
+74,,BWV 74,"Wer mich liebet, der wird mein Wort halten",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, cor anglais, violon solo, 2 violons, alto et continuo","1er jour de la fête de la Pentecôte
+[BWV 59 porte le même titre]"
+75,,BWV 75,Die Elenden sollen essen,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, 2 hautbois, hautbois d'amour, basson, 2 violons, alto, violoncelle et continuo",1er dimanche après la Trinité
+76,,BWV 76,Die Himmel erzählen die Ehre Gottes,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, 2 hautbois, hautbois d'amour, viole de gambe, violon solo, 2 violons, alto et continuo",2è dimanche après la Trinité
+77,,BWV 77,"Du sollst Gott, deinem Herren, lieben",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, 2 hautbois, 2 violons, alto et continuo",13è dimanche après la Trinité
+78,,BWV 78,"Jesu, der du meine Seele",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, flûte traversière, 2 hautbois, 2 violons, alto, violoncelle, violone, orgue et continuo",14è dimanche après la Trinité
+79,,BWV 79,"Gott, der Herr, ist Sonn' und Schild",Cantata,,,"solistes (S,A,B) et choeur (SATB) avec 2 cors, timbales, 2 flûtes traversières, hautbois solo, 2 hautbois, 2 violons, alto et continuo",fête de la Réformation
+80,,BWV 80,Ein' feste Burg ist unser Gott,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, 2 hautbois d'amour, cor anglais, 2 violons, alto, violoncelle, violone, orgue et contiuo","fête de la Réformation (1730)
+[Adaptation de la cantate BWV 80a]"
+80.1,,BWV 80a,"Alles, was von Gott geboren",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, cor anglais, 2 violons, alto, violoncelle, orgue et continuo",3è dimanche du Carême (Oculi)
+81,,BWV 81,"Jesus schläft, was soll ich hoffen?",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 flûtes à bec, 2 hautbois d'amour, 2 violons, alto et continuo",4è dimanche après l'Épiphanie
+82,,BWV 82,Ich habe genug,Cantata,,,"soliste (B) avec hautbois, 2 violons, alto, orgue et continuo",fête de la Purification de Marie
+83,,BWV 83,Erfreute Zeit im neuen Bunde,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 cors, 2 hautbois, violon solo, 2 violons, alto et continuo",fête de la Purification de Marie
+84,,BWV 84,Ich bin vergnügt mit meinem Glücke,Cantata,,,"soliste (S) et choeur (SATB) avec hautbois, violon solo, 2 violons, alto et continuo",dimanche de la Septuagésime
+85,,BWV 85,Ich bin ein guter Hirt,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto, violoncelle piccolo et continuo",2è dimanche après Pâques (Misericordias)
+86,,BWV 86,"Wahrlich, wahrlich, ich sage euch",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, violon solo, 2 violons, alto et continuo",5è dimanche après Pâques (Rogate)
+87,,BWV 87,Bisher habt ihr nichts gebeten in meinem Namen,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 hautbois, 2 cor anglais, 2 violons, alto et continuo",5è dimanche après Pâques (Rogate)
+88,,BWV 88,"Siehe, ich will viel Fischer aussenden, spricht der Herr",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 cors, 2 hautbois d'amour, cor anglais, 2 violons, alto et continuo",5è dimanche après la Trinité
+89,,BWV 89,"Was soll ich aus dir machen, Ephraïm?",Cantata,,,"solistes (S,A,B) et choeur (SATB) avec cor, 2 hautbois, 2 violons, alto et continuo",22è dimanche après la Trinité
+90,,BWV 90,Es reifet euch ein schrecklich Ende,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec trompette, 2 violons, alto et continuo",25è dimanche après la Trinité
+91,,BWV 91,"Gelobet seist du, Jesu Christ",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 cors, timbales, 3 hautbois, 2 violons, alto et continuo",1er jour de la fête de Noël
+92,,BWV 92,Ich hab' in Gottes Herz und Sinn,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 violons, alto et continuo",dimanche de la Septuagésime
+93,,BWV 93,Wer nur den lieben Gott lässt walten,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo",5è dimanche après la Trinité
+94,,BWV 94,Was frag' ich nach der Welt,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec flûte traversière, 2 hautbois, hautbois d'amour, 2 violons, alto, orgue et continuo",9è dimanche après la Trinité
+95,,BWV 95,"Christus, der ist mein Leben",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec cor, 2 hautbois / 2 hautbois d'amour, 2 violons, alto et continuo",16è dimanche après la Trinité
+96,,BWV 96,"Herr Christ, der ein'ge Gottes-Sohn",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, trompette, flûte piccolo, flûte traversière solo, 2 hautbois, 2 violons, alto et continuo",18è dimanche après la Trinité
+97,,BWV 97,In allen meinen Taten,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, basson, violon solo, 2 violons, alto, violoncelle, violone, orgue et continuo",occasion non précisée
+98,,BWV 98,"Was Gott tut, das ist wohlgetan",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec hautbois solo, 2 hautbois, cor anglais, 2 violons, alto et continuo","21è dimanche après la Trinité
+[BWV 99 et 100 portent le même titre]"
+99,,BWV 99,"Was Gott tut, das ist wohlgetan",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, flûte traversière, hautbois d'amour, 2 violons, alto et continuo","15è dimanche après la Trinité
+[BWV 98 et 100 portent le même titre]"
+100,,BWV 100,"Was Gott tut, das ist wohlgetan",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 cors, timbales, flûte traversière solo, hautbois d'amour, 2 violons, alto, violoncelle, violone et continuo (orgue)","15è dimanche après la Trinité et pour tous les temps
+[BWV 98 et 99 portent le même titre]"
+101,,BWV 101,"Nimm von uns, Herr, du treuer Gott",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cornet, 3 trombones, flûte traversière, 2 hautbois, cor anglais, violon solo, 2 violons, alto, violoncelle, violone et continuo",10è dimanche après la Trinité
+102,,BWV 102,"Herr, deine Augen sehen nach dem Glauben",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec flûte traversière solo, 2 hautbois, 2 violons, alto et continuo",10è dimanche après la Trinité
+103,,BWV 103,Ihr werdet weinen und heulen,Cantata,,,"solistes (A,T) et choeur (SATB) avec trompette, piccolo, flûte traversière, 2 hautbois d'amour, 2 violons, alto et continuo",3è dimanche après Pâques (Jubilate)
+104,,BWV 104,"Du Hirte Israel, höre",Cantata,,,"solistes (T,B) et choeur (SATB) avec 2 hautbois, 2 hautbois d'amour, cor anglais, 2 violons, alto et continuo",2è dimanche après Pâques (Misericordias)
+105,,BWV 105,"Herr, gehe nicht in's Gericht",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, 2 hautbois, 2 violons, alto et continuo",9è dimanche après la Trinité
+106,,BWV 106,Gottes Zeit ist die allerbeste Zeit,Cantata,,,"solistes (A,B) et choeur (SATB) avec 2 flûtes à bec, 2 violes de gambe et continuo",cantate funèbre - Actus tragicus
+107,,BWV 107,Was willst du dich betrüben,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec cor, 2 flûtes traversières, 2 hautbois d'amour, 2 violons, alto et continuo (orgue)",7è dimanche après la Trinité
+108,,BWV 108,"Es ist euch gut, dass ich hingehe",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 hautbois d'amour, violon solo, 2 violons, alto et continuo",4è dimanche après Pâques (Cantate)
+109,,BWV 109,"Ich glaube, lieber Herr, hilf meimem Unglauben",Cantata,,,"solistes (A,T) et choeur (SATB) avec cor, 2 hautbois, 2 violons, alto et continuo",21è dimanche après la Trinité
+110,,BWV 110,Unser Mund sei voll Lachens,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 3 hautbois, hautbois d'amour, cor anglais, basson, 2 violons, alto, orgue et continuo",1er jour de la fête de Noël
+111,,BWV 111,"Was mein Gott will, das g'scheh' allzeit",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo",3è dimanche après l'Épiphanie
+112,,BWV 112,Der Herr ist mein getreuer Hirt,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 cors, 2 hautbois d'amour, 2 violons, alto et continuo",2è dimanche après Pâques
+113,,BWV 113,"Herr Jesu Christ, du höchstes Gut",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec flûte traversière, 2 hautbois ou 2 hautbois d'amour, 2 violons, alto et continuo",11è dimanche après la Trinité
+114,,BWV 114,"Ach, lieben Christen, seid getrost",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, flûte traversière solo, 2 hautbois, 2 violons, alto et continuo",17è dimanche après la Trinité
+115,,BWV 115,"Mache dich, mein Geist, bereit",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, flûte traversière, hautbois d'amour, 2 violons, alto, violoncelle piccolo et continuo",22è dimanche après la Trinité
+116,,BWV 116,"Du Friedefürst, Herr Jesu Christ",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, 2 hautbois d'amour, 2 violons, alto et continuo",25è dimanche après la Trinité
+117,,BWV 117,Sei Lob' und Ehr' dem höchsten Gut,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 flûtes traversières, 2 hautbois, 2 hautbois d'amour, 2 violons, alto et continuo",occasion non précisée
+118,,BWV 118,"O Jesu Christ, mein's Lebens Licht",Cantata,,,"choeur (SATB) avec 2 cors, cornet et 3 trombones / 2 cors, 2 violons et alto / 2 luths, cornet et 3 trombones / 3 hautbois et basson",motet pour le décès de Joachim Friedrich von Flemming (1740)
+119,,BWV 119,"Preise, Jerusalem, den Herrn",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 4 trompettes, timbales, 2 flûtes à bec, 3 hautbois, 2 cors anglais, 2 violons, alto et continuo",élection du conseil municipal de Leipzig (1723)
+120,,BWV 120,"Gott, man lobet dich in der Stille",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois d'amour, violon solo, 2 violons, alto et continuo",élection du conseil municipal de Leipzig (1728 ou 1729)
+120.1,,BWV 120a,"Herr Gott, Beherrscher aller Dinge",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, 2 hautbois d'amour, orgue, violon solo, 2 violons, alto et continuo","mariage
+[Adaptation de la cantate BWV 120]"
+120.2,,BWV 120b,"Gott, man lobet dich in der Stille",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois d'amour, 2 violons, alto et continuo","200e anniversaire de la Confession d'Augsburger
+[Arrangement de la cantate BWV 120]"
+121,,BWV 121,Christum wir sollen loben schon,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cornet, 3 trombones, hautbois d'amour, 2 violons, alto et continuo",2è jour de la fête de Noël
+122,,BWV 122,Das neugebor'ne Kindelein,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 flûtes à bec, 2 hautbois, cor anglais, 2 violons, alto et continuo",dimanche après Noël
+123,,BWV 123,"Liebster Immanuel, Herzog der Frommen",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 flûtes traversières, 2 hautbois d'amour, 2 violons, alto et continuo",fête de l'Épiphanie
+124,,BWV 124,Meinen Jesum lass' ich nicht,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cor, hautbois d'amour, 2 violons, alto et continuo",1er dimanche après l'Épiphanie
+125,,BWV 125,Mit Fried' und Freud' ich fahr' dahin,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec cor, flûte traversière, hautbois, hautbois d'amour, 2 violons, alto et continuo",fête de la Purification de Marie
+126,,BWV 126,"Erhalt' uns, Herr, bei deinem Wort",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec trompette, 2 hautbois, 2 violons, alto et continuo",dimanche de la Sexagésime
+127,,BWV 127,"Herr Jesu Christ, wahr'r Mensch und Gott",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec trompette, 2 flûtes à bec, 2 hautbois, 2 violons, alto et continuo",dimanche de la Quinquagésime (Estomihi)
+128,,BWV 128,Auf Christi Himmelfahrt allein,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec trompette, 2 cors, 2 hautbois, hautbois d'amour, cor anglais, 2 violons, alto et continuo",fête de l'Ascension
+129,,BWV 129,"Gelobet sei der Herr, mein Gott",Cantata,,,"solistes (S,A,B) et choeur (SATB) avec 3 trompettes, timbales, flûte traversière, 2 hautbois, hautbois d'amour, 2 violons, alto et continuo",fête de la Trinité
+130,,BWV 130,"Herr Gott, dich loben alle wir",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, flûte traversière, 3 hautbois, 2 violons, alto et continuo",fête de St-Michel
+131,,BWV 131,"Aus der Tiefe rufe ich, Herr, zu dir",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec hautbois, basson, violon, 2 altos et continuo",occasion non précisée; probablement pour des funérailles
+131.1,,BWV 131a,Fuge in g-moll,,,,,
+132,,BWV 132,"Bereitet die Wege, bereitet die Bahn",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec hautbois, basson, 2 violons, alto, violoncelle et continuo",4è dimanche de l'Avent
+133,,BWV 133,Ich freue mich in dir,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec cornet, 2 hautbois d'amour, 2 violons, alto et continuo",3è jour de la fête de Noël
+134,,BWV 134,"Ein Herz, das seinen Jesum lebend weiss",Cantata,,,"solistes (A,T) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo","3è jour de la fête de Pâques
+[Réutilisation de la cantate BWV 134a]"
+134.1,,BWV 134a,"Die Zeit, die Tag und Jahre macht",Cantata,,,"solistes (A,T) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo",voeux du nouvel an à la Maison d'Anhalt-Cothen (1719)
+135,,BWV 135,"Ach Herr, mich armer Sünder",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec cornet, trombone, 2 hautbois, 2 violons, alto et continuo",3è dimanche après la Trinité
+136,,BWV 136,"Erforsche mich, Gott, und erfahre mein Herz",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec cor, 2 hautbois d'amour, 2 violons, alto et continuo",8è dimanche après la Trinité
+137,,BWV 137,"Lobe den Herren, den mächtigen König der Ehren",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, 2 violons, alto et continuo",12è dimanche après la Trinité
+138,,BWV 138,"Warum betrübst du dich, mein Herz",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 violons, alto et continuo",15è dimanche après la Trinité
+139,,BWV 139,"Wohl dem, der sich auf seinen Gott",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 violons, alto et continuo (orgue)",23è dimanche après la Trinité
+140,,BWV 140,"Wachet auf, ruft und die Stimme",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec cor, 2 hautbois, cor anglais, 2 violons, alto, violoncelle piccolo et continuo",27è dimanche après la Trinité
+141,,BWV 141,Das ist je gewisslich wahr,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo","3è dimanche de l'Avent
 [Composition de Georg Philip Telemann]"
-219,,BWV 219,"Siehe, es hat überwunden der Löwe",Cantata,,,"cantate pour solistes (S,A,B), SATB, 2 trompettes, 2 violons, alto, continuo","fête de St-Michel
+142,,BWV 142,Uns ist ein Kind geboren,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 flûtes à bec, 2 hautbois, 2 violons, alto et continuo","1er jour de la fête de Noël
+[Composition de Johann Kuhnau]"
+143,,BWV 143,"Lobe den Herrn, meine Seele",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 3 cors, timbales, basson, 2 violons, alto et continuo","circoncision (Nouvel An)
+[BWV 69 et 69a portent le même titre]"
+144,,BWV 144,"Nimm, was dein ist, und gehe hin",Cantata,,,"solistes (S,A,T) et choeur (SATB) avec hautbois d'amour, 2 violons, alto et continuo",dimanche de la Septuagésime
+145,,BWV 145,"Auf, mein Herz! Des Herren Tag (So du mit deinem Munde bekennest)",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec trompette, flûte traversière, 2 hautbois d'amour, 2 violons, alto et continuo",fête de Pâques
+146,,BWV 146,Wir müssen durch viel Trübsal in das Reich Gottes eingehen,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec flûte traversière, 2 hautbois, 2 hautbois d'amour, cor anglais, orgue concertant, 2 violons, alto et continuo",3è dimanche après Pâques (Jubilate)
+147,,BWV 147,Herz und Mund und Tat und Leben,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, 2 hautbois, hautbois d'amour, 2 cors anglais, basson, 2 violons, alto, violone et continuo",fête de la Visitation de Marie
+147.1,,BWV 147a,Herz und Mund und Tat und Lebem,Cantata,,,"solistes (S,A,T) et choeur (SATB) avec trompette, 2 hautbois, hautbois d'amour, 2 cors anglais, basson, 2 violons, alto, violoncelle et continuo",4è dimanche de l'Avent
+148,,BWV 148,Bringet dem Herrn Ehre seines Namens,Cantata,,,"solistes (A,T) et choeur (SATB) avec trompette, 3 hautbois, 2 violons, alto et continuo",17è dimanche après la Trinité
+149,,BWV 149,Man singet mir Freuden vom Sieg,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 3 hautbois, basson, 2 violons, alto et continuo",fête de St-Michel
+150,,BWV 150,"Nach dir, Herr, verlanget mich",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec basson, 2 violons et continuo",occasion non spécifiée; probablement pour des funérailles
+151,,BWV 151,"Süsser Trost, mein Jesus kömmt",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec flûte traversière, hautbois d'amour, 2 violons, alto et continuo",3è jour de la fête de Noël
+152,,BWV 152,Tritt auf die Glaubensbahn,Cantata,,,"solistes (S,B) avec flûte à bec, hautbois, viole d'amour, viole de gambe et continuo",dimanche après Noël
+153,,BWV 153,"Schau', lieber Gott, wie meine Feind'",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 violons, alto et continuo",dimanche après le Nouvel An
+154,,BWV 154,Mein liebster Jesus ist verloren,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 hautbois, 2 hautbois d'amour, 2 violons, alto et continuo",1er dimanche après l'Épiphanie
+155,,BWV 155,"Mein Gott, wie lang', ach lange?",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec basson, 2 violons, alto et continuo",2è dimanche après l'Épiphanie
+156,,BWV 156,Ich steh' mit einem Fuss im Grabe,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec hautbois, 2 violons, alto et continuo",3è dimanche après l'Épiphanie
+157,,BWV 157,"Ich lasse dich nicht, du segnest mich denn",Cantata,,,"solistes (T,B) et choeur (SATB) avec flûte traversière, hautbois, hautbois d'amour, violon solo, 2 violons, alto/violetta et continuo","fête de la Purification de Marie
+[Cantate funèbre pour Johann Christoph von Ponickau (1726)]"
+158,,BWV 158,Der Friede sei mit dir,Cantata,,,"solistes (S,B) et choeur (SATB) avec hautbois, violon solo et continuo",3è jour de la fête de Pâques et de la Purification de Marie
+159,,BWV 159,"Sehet, wir geh'n hinauf gen Jerusalem",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec hautbois, 2 violons, alto, basson et continuo",dimanche de la Quinquagésime (Estomihi)
+160,,BWV 160,"Ich weiss, dass mein Erlöser lebt",Cantata,,,"soliste (T) avec violon, basson et continuo","1er jour de la fête de Pâques
 [Composition de Georg Philip Telemann]"
-220,,BWV 220,Lobt ihn Herz und Munde,Cantata,,,"cantate pour solistes (A,T,B), SATB, flûte traversière, 2 hautbois, 2 violons, alto, continuo","fête de St-Jean-Baptiste
+161,,BWV 161,"Komm, du süsse Todesstunde",Cantata,,,"solistes (A,T) et choeur (SATB) avec 2 flûtes à bec, 2 violons, alto, orgue et continuo",16è dimanche après la Trinité et Visitation de Marie
+162,,BWV 162,"Ach!, ich sehe, itzt da ich zur Hochzeit gehe",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, basson, 2 violons, alto et continuo",20è dimanche après la Trinité
+163,,BWV 163,Nur jedem das Seine,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec hautbois d'amour, violons, alto, 2 violoncelles et continuo",23è dimanche après la Trinité
+164,,BWV 164,"Ihr, die ihr euch von Christo nennet",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",13è dimanche après la Trinité
+165,,BWV 165,O heil'ges Geist- und Wasserbad,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec basson, 2 violons, alto et continuo",fête de la Trinité
+166,,BWV 166,Wo gehest du hin?,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec hautbois, 2 violons, alto et continuo",4è dimanche après Pâques (Cantate)
+167,,BWV 167,"Ihr Menschen, rühmet Gottes Liebe",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, hautbois, cor anglais, 2 violons, alto, continuo",fête de St-Jean-Baptiste
+168,,BWV 168,Tue Rechnung! Donnerwort,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 violons, alto et continuo",9è dimanche après la Trinité
+169,,BWV 169,Gott soll allein mein Herze haben,Cantata,,,"soliste (A) et choeur (SATB) avec 2 hautbois, cor anglais, orgue obligé, 2 violons, alto et continuo",18è dimanche après la Trinité
+170,,BWV 170,"Vergnügte Ruh', beliebte Seelenlust",Cantata,,,"soliste (A) avec hautbois d'amour, orgue obligé, 2 violons, alto et continuo",6è dimanche après la Trinité
+171,,BWV 171,"Gott, wie dien Name, so ist auch dein Ruhm",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, 2 violons, alto et continuo",fête de la Circoncision (Nouvel An)
+172,,BWV 172,"Erschallet, ihr Lieder",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, hautbois/orgue ou violoncelle, basson, 2 violons, 2 altos et continuo",1er jour de la fête de la Pentecôte
+173,,BWV 173,Erhöhtes Fleisch und Blut,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 flûtes traversières, 2 violons, alto et continuo",2è jour de la fête de la Pentecôte
+173.1,,BWV 173a,Durchlaucht'ster Leopold,Cantata,,,"solistes (S,B) et choeur (SATB) avec 2 flûtes traversières, basson, 2 violons, alto, violoncelle et continuo","anniversaire de naissance du prince Leopold (1717)
+[Sérénade]"
+174,,BWV 174,Ich liebe den Höchsten von ganzem Gemüte,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 cors, 2 hautbois, cor anglais, 3 violons, 3 altos, 3 violoncelles et continuo (basson, violone)",2è jour de la fête de la Pentecôte
+175,,BWV 175,Er rufet seinen Schafen mit Namen,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 2 trompettes, 3 flûtes à bec, 2 violons, alto, violoncelle piccolo et continuo",3è jour de la fête de la Pentecôte
+176,,BWV 176,Es ist ein trotzig und verzagt Ding,Cantata,,,"solistes (S,A,B) et choeur (SATB) avec 2 hautbois, cor anglais, 2 violons, alto et continuo",fête de la Trinité
+177,,BWV 177,"Ich ruf' zu dir, Herr Jesu Christ",Cantata,,,"solistes (S,A,T) et choeur (SATB) avec 2 hautbois, cor anglais, basson, violon concertant, 2 violons, alto et continuo",4è dimanche après la Trinité
+178,,BWV 178,"Wo Gott, der Herr, nicht bei uns hält",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec cor, 2 hautbois, 2 hautbois d'amour, 2 violons, alto et continuo",8è dimanche après la Trinité
+179,,BWV 179,"Siehe zu, dass deine Gottesfurcht nicht Heuchelei sei",Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 2 hautbois, 2 cors anglais, 2 violons, alto et continuo",11è dimanche après la Trinité
+180,,BWV 180,"Schmücke dich, o liebe Seele",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec flûte traversière, 2 flûtes à bec, hautbois, cor anglais, 2 violons, alto, violoncelle piccolo et continuo",20è dimanche après la Trinité
+181,,BWV 181,Leichtgesinnte Flattergeister,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, flûte traversière, hautbois, 2 violons, alto et continuo",dimanche de la Sexagésime
+182,,BWV 182,"Himmelskönig, sei willkommen",Cantata,,,"solistes (A,T,B) et choeur (SATB) avec flûte à bec, violon concertant, violon, 2 altos, violoncelle et continuo",dimanche des Rameaux et fête de l'Annonciation de Marie
+183,,BWV 183,Sie werden euch in den Bann tun,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois d'amour, 2 cors anglais, 2 violons, alto, violoncelle piccolo et continuo","6è dimanche après Pâques (Exaudi)
+[BWV 44 porte le même titre et pour la même occasion]"
+184,,BWV 184,Erwünschtes Freudenlicht,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 flûtes traversières, violon solo, 2 violons, alto et continuo","3è jour de la fête de la Pentecôte
+[Adaptation d'une cantate perdue, BWV 184a]"
+184.1,,BWV 184a,Erwünschtes Freudenlicht,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 flûte traversières, violon solo, 2 violons, alto et continuo","Voeux du Nouvel An à Anhalt-Kothen
+[Cantate perdue à part des portions provenant de BWV 184]"
+185,,BWV 185,Barmherziges Herze der eweigen Liebe,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec trompette, hautbois, basson, 2 violons, alto et continuo",4è dimanche après la Trinité
+186,,BWV 186,"Ärg're dich, o Seele, nicht",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, cor anglais, basson, 2 violons, alto et continuo",7è dimanche après la Trinité
+186.1,,BWV 186a,"Ärg're dich, o Seele, nicht",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, cor anglais, basson, 2 violons, alto et continuo",3è dimanche de l'Avent
+187,,BWV 187,Es wartet Alles auf dich,Cantata,,,"solistes (S,A,B) et choeur (SATB) avec hautbois solo, 2 hautbois, 2 violons, alto et continuo",7è dimanche après la Trinité
+188,,BWV 188,Ich habe meine Zuversicht,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec hautbois, orgue obligé, 2 violons, altos, violoncelle et continuo",21è dimanche après la Trinité
+189,,BWV 189,Meine Seele rühmt und preist,Cantata,,,"soliste (T) avec flûte à bec, hautbois, violon et continuo","occasion non spécifiée; probablement pour la fête de la Visitation
+[Composition de Georg Melchior Hoffmann]"
+190,,BWV 190,Singet dem Herrn ein neues Lied,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 3 hautbois, hautbois d'amour, 2 violons, alto et continuo",fête de la Circoncision (Nouvel An)
+190.1,,BWV 190a,Singet dem Herrn ein neues Lied,Cantata,,,"solistes (A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 3 hautbois, hautbois d'amour, 2 violons, alto et continuo",200è anniversaire de la confession d'Augsburg
+191,,BWV 191,Gloria in excelsis Deo,Cantata,,,"solistes (S,T) et choeur (SSATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",1er jour de la fête de Noël
+192,,BWV 192,Nun danket alle Gott,Cantata,,,"solistes (S,B) et choeur (SATB) avec 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",fête de la Réformation
+193,,BWV 193,Ihr Tore (Pforten) zu Zion,Cantata,,,"solistes (S,A) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo","élection du conseil municipal de Leipzig (1738)
+[Partitions du ténor et basse ainsi que du continuo perdues]"
+193.1,,BWV 193a,"Ihr Häuser des Himmels, ihr scheinenden Lichter",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 hautbois, 2 violons, alto et continuo","fête d'Auguste III (1727)
+[Musique perdue sauf portions provenant de BWV 193]"
+194,,BWV 194,Höchsterwünschtes Freudenfest,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 3 hautbois, basson, 2 violons, alto et continuo",fête de la Trinité (Inauguration de l'orgue de Stormthal)
+194.1,,BWV 194a,Höchsterwünschtes Freudenfest,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 3 hautbois, basson, 2 flûtes à bec, 2 violons, alto et continuo","voeux de bonheur à Anhalt-Kothen
+[Musique perdue à part celle reconstruite à partir de BWV 194"
+195,,BWV 195,Dem Gerechten muss dach Licht,Cantata,,,"solistes (S,B) et choeur (SATB) avec 3 trompettes, timbales, 2 cors, 2 flûtes traversières, 2 hautbois, 2 hautbois d'amour, 2 violons, alto et continuo",mariage
+196,,BWV 196,Der Herr denket an uns,Cantata,,,"solistes (S,T,B) et choeur (SATB) avec 2 violons, alto, violoncelle et continuo (orgue)",mariage
+197,,BWV 197,Gott ist uns're Zuversicht,Cantata,,,"solistes (S,A,B) et choeur (SATB) avec 3 trompettes, timbales, 2 hautbois, 2 hautbois d'amour, basson, 2 violons, alto et continuo","mariage
+[Adaptation de la cantate BWV 197a]"
+197.1,,BWV 197a,Ehre sei Gott in der Höhe,Cantata,,,"solistes (A,B) et choeur (SATB) avec 2 flûtes traversières, hautbois d'amour, violoncelle et continuo",1er jour de la fête de Noël
+198,,BWV 198,"Lass Fürstin, lass noch einen Strahl",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 flûtes traversières, 2 hautbois, 2 hautbois d'amour, 2 violons, alto, 2 violes de gambe, 2 luths et continuo (orgue, clavecin)",cantate (Ode) funèbre
+199,,BWV 199,Mein Herze schwimmt im Blut,Cantata,,,"soliste (S) avec hautbois, basson, 2 violons, alto, violone et continuo",11è dimanche après la Trinité
+200,,BWV 200,Bekennen will ich seinen Namen,Cantata,,,soliste (A) avec 2 violons et continuo,"fête de la Purification de Marie
+[Fragment d'une cantate perdue]"
+201,,BWV 201,"Geschwinde, geschwinde, ihr wirbelnden Winde",Cantata,,,"solistes (SATTBB) et choeur (SATBB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, hautbois d'amour, 2 violons, alto et continuo","occasion non précisée
+Der Streit zwischen Phoebus und Pan [drame musical]"
+202,,BWV 202,"Weichet nur, betrübte Schatten",Cantata,,,"soliste (S) avec hautbois, 2 violons, alto et continuo",mariage
+203,,BWV 203,Amore traditore,Cantata,,,soliste (B) avec clavecin,occasion non précisée
+204,,BWV 204,Ich bin in mir vergnügt,Cantata,,,"soliste (S) avec flûte traversière, 2 hautbois, 2 violons, alto et continuo","réunions domestiques en famille ou entre amis
+Cantate de la satisfaction"
+205,,BWV 205,"Zerreisset, zersprenget, zertrümmert die Gruft",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 cors, 2 flûtes traversières, 2 hautbois, hautbois d'amour, viole d'amour, viole de gambe, 2 violons, alto et continuo","fête du Dr. August Friedrich Muller
+L'apaisement d'Éole [drame musical]"
+205.1,,BWV 205a,"Blast Lärmen, ihr Feinde! verstärket die Macht",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 cors, 2 flûtes traversières, 2 hautbois, hautbois d'amour, viole d'amour, viole de gambe, 2 violons, alto et continuo","fête d'Auguste III (1734)
+[Musique perdue sauf portions provenant de BWV 205]"
+206,,BWV 206,"Schleicht, spielende Wellen",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 3 flûtes traversières, 2 hautbois, 2 hautbois d'amour, 2 violons, alto et continuo",anniversaire de naissance d'Auguste III (1733)
+207,,BWV 207,Vereinigte Zwietracht der wechselnden Saiten,Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois d'amour, cor anglais, 2 violons, alto et continuo",intronisation du Dr. Gottlieb Kortte (1726)
+207.1,,BWV 207a,"Auf, schmetternde Töne der muntern Trompeten",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois d'amour, cor anglais, 2 violons, alto et continuo",fête d'Auguste III (1734)
+208,,BWV 208,"Was mir behagt, ist nur die muntre Jagd!",Cantata,,,"solistes (S,S,T,B) et choeur (solistes) avec 2 cors, 2 flûtes à bec, 2 hautbois, cor anglais, basson, 2 violons, alto, violoncelle, violone et continuo","anniversaire naissance de Christian von Sachsen-Weissenfels
+Cantate de la chasse"
+208.1,,BWV 208a,"Was mir behagt, ist nur die muntre Jagd!",Cantata,,,"solistes (S,S,T,B) et choeur (solistes) avec 2 cors, 2 flûtes à bec, 2 hautbois, cor anglais, basson, 2 violons, alto, violoncelle et continuo","fête patronale d'Auguste III (1740 ou 1742)
+[Musique perdue sauf portions provenant de BWV 208]"
+209,,BWV 209,Non sa che sia dolore,Cantata,,,"soliste (S) avec flute traversière, 2 violons, alto et continuo","occasion non spécifiée, Cantate d'adieu"
+210,,BWV 210,"O holder Tag, erwünschte Zeit",Cantata,,,"soliste (S) avec flûte traversière, hautbois d'amour, 2 violons, alto et continuo",mariage
+210.1,,BWV 210a,O angenehme Melodei,Cantata,,,"soliste (S) avec flûte traversière, hautbois d'amour, 2 violons, alto et continuo","hommage au comte Joachim Friedrich von Flemming
+[Parodie de BWV 210]"
+211,,BWV 211,"Schweigt stille, plaudert nicht",Cantata,,,"solistes (S,T,B) et choeur (solistes) avec flûte traversière, 2 violons, alto, clavecin et continuo","occasion non précisée, Cantate du café"
+212,,BWV 212,Mer hahn en neue Oberkeet,Cantata,,,"solistes (S,B) avec cor, flûte traversière, 2 violons, alto et continuo","hommage à Carl Heinrich von Dieskau (1742)
+Cantate des paysans / burlesque"
+213,,BWV 213,"Lasst uns sorgen, lasst uns wachen",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 2 cors, 2 hautbois, hautbois d'amour, 2 violons, 2 altos et continuo","anniversaire du Prince Friedrich Christian (1733)
+Hercules auf dem Scheidemege"
+214,,BWV 214,"Tönet, ihr Pauken! Erschallet, Trompeten!",Cantata,,,"solistes (S,A,T,B) et choeur (SATB) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, 2 violons, alto et continuo",anniversaire de naissance de Maria Josepha (1733)
+215,,BWV 215,"Preise dein Glücke, gesegnetes Sachsen",Cantata,,,"solistes (S,T,B) et choeur (4/8 voix) avec 3 trompettes, timbales, 2 flûtes traversières, 2 hautbois, 2 hautbois d'amour, basson, 2 violons, alto et continuo",1er anniversaire du couronnement de Friedrich-August III (1734)
+216,,BWV 216,Vergnugte Pleissen-Stadt,Cantata,,,"solistes (S,A) avec flûte traversière, 2 violons, alto et continuo","mariage de Johann Heinrich Wolff et Susanna Regina Hempel
+[Musique incomplète]"
+216.1,,BWV 216a,Erwählte/Vergnügte Pleissen-Stadt,Cantata,,,"solistes (A,T) avec flûte traversière, 2 violons, alto et continuo","élection du conseil municipal de Leipzig (1728)
+[Musique perdue sauf portions provenant de BWV 216]"
+217,,BWV 217,"Gedenke, Herr, wie es uns gehet",Cantata,,,"solistes (S,A,T,B), SATB, flûte traversière, 2 violons, alto, continuo","1er dimanche après l'Épiphanie
 [Compositeur inconnu]"
-221,,BWV 221,"Wer sucht die Pracht, wer wünscht den Glanz",Cantata,,,"cantate pour solistes (T,B), basson, violon solo, 2 violons, alto, violoncelle, orgue","occasion non précisée
+218,,BWV 218,Gott der Hoffnung erfülle euch,Cantata,,,"solistes (S,A,T,B), SATB, 2 cors, 2 violons, alto, continuo","1er jour de la fête de la Pentecôte
+[Composition de Georg Philip Telemann]"
+219,,BWV 219,"Siehe, es hat überwunden der Löwe",Cantata,,,"solistes (S,A,B), SATB, 2 trompettes, 2 violons, alto, continuo","fête de St-Michel
+[Composition de Georg Philip Telemann]"
+220,,BWV 220,Lobt ihn Herz und Munde,Cantata,,,"solistes (A,T,B), SATB, flûte traversière, 2 hautbois, 2 violons, alto, continuo","fête de St-Jean-Baptiste
 [Compositeur inconnu]"
-222,,BWV 222,Mein Odem ist schwach,Cantata,,,"cantate pour solistes (S,A,B), SATB, 2 violons, alto, orgue","occasion non précisée
+221,,BWV 221,"Wer sucht die Pracht, wer wünscht den Glanz",Cantata,,,"solistes (T,B), basson, violon solo, 2 violons, alto, violoncelle, orgue","occasion non précisée
+[Compositeur inconnu]"
+222,,BWV 222,Mein Odem ist schwach,Cantata,,,"solistes (S,A,B), SATB, 2 violons, alto, orgue","occasion non précisée
 [Composition de Johann Ernst Bach - Voir Anh. 165.]"
 223,,BWV 223,Meine Seele soll Gott loben,Cantata,,,,"occasion non précisée
 [Cantate perdue sauf pour la fugue finale]"

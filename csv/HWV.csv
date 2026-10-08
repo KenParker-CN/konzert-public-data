@@ -1,67 +1,67 @@
 SORT,Catalogue,Opus,Date,Title,Type,Key,Movements,Instrumentation,Note
-1,HWV 1,,1704,"Der in Kronen erglangte Gluckwechsel/Almira, Konigin von Kastillien",Opera,,,"S, T, B, SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Trumpets, Principal Trumpet, Timpani, 3 Violins, Solo Viola, Viola, Cello, Basso Continuo","Libretto by Giulio Pancieri, traduit par Friedrich Christian Feustking"
-2,HWV 2,,1705,Die durch Blut und Mord erlangte Liebe/Nero,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue]
+1.000 ,HWV 1,,1704,"Der in Kronen erglangte Gluckwechsel/Almira, Konigin von Kastillien",Opera,,,"S, T, B, SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Trumpets, Principal Trumpet, Timpani, 3 Violins, Solo Viola, Viola, Cello, Basso Continuo","Libretto by Giulio Pancieri, traduit par Friedrich Christian Feustking"
+2.000 ,HWV 2,,1705,Die durch Blut und Mord erlangte Liebe/Nero,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue]
 Libretto by Friedrich Christian Feustking"
-3,HWV 3,,1706,Der begluckte Florindo,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue sauf quelques fragments]
+3.000 ,HWV 3,,1706,Der begluckte Florindo,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue sauf quelques fragments]
 Libretto by Hinrich Hinsch"
-4,HWV 4,,1706,Die verwandelte Daphne,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue]
+4.000 ,HWV 4,,1706,Die verwandelte Daphne,Opera,,,"Solistes, Choir, Orchestra","[Musique perdue]
 Libretto by Hinrich Hinsch"
-5,HWV 5,,1707,Vincer se stesso e la maggior vittoria: Rodrigo,Opera,,,"S: Rodrigo, Esilena, Florinda, Evanco, A: Fernando, T: Giuliano), 2 Flutes, 2 Oboes, Solo Violin, 3 Violins, Viola, Basso Continuo",Libretto by inconnu after un libretto de Francesco Silvani
-6,HWV 6,,1708/9,Agrippina,Opera,,,"S: Agrippina, Nerone, Poppea, A: Ottone, Narciso, Giunone, B: Claudio, Pallante, Lesbo), 2 Flutes, 2 Oboes, 2 Trumpets, Timpani, 3 Violins, Viola, 2 Cellos, Basso Continuo",Libretto by Vincenzo Grimani
-7.1,HWV 7a,,1710,Rinaldo,Opera,,,"S: Almirena, Rinaldo, Armida, Donna, Sirene, MS: Goffrefo, A: Eustazio, Mago, T: Araldo, B: Argante), flageolet, 2 Flutes, 2 Oboes, Bassoon, 4 Trumpets, Timpani, Solo Violin, 3 Violins, Viola, Cello, Harpsichord obligé, Basso Continuo","(1ère version)
+5.000 ,HWV 5,,1707,Vincer se stesso e la maggior vittoria: Rodrigo,Opera,,,"S: Rodrigo, Esilena, Florinda, Evanco, A: Fernando, T: Giuliano), 2 Flutes, 2 Oboes, Solo Violin, 3 Violins, Viola, Basso Continuo",Libretto by inconnu after un libretto de Francesco Silvani
+6.000 ,HWV 6,,1708/9,Agrippina,Opera,,,"S: Agrippina, Nerone, Poppea, A: Ottone, Narciso, Giunone, B: Claudio, Pallante, Lesbo), 2 Flutes, 2 Oboes, 2 Trumpets, Timpani, 3 Violins, Viola, 2 Cellos, Basso Continuo",Libretto by Vincenzo Grimani
+7.100 ,HWV 7a,,1710,Rinaldo,Opera,,,"S: Almirena, Rinaldo, Armida, Donna, Sirene, MS: Goffrefo, A: Eustazio, Mago, T: Araldo, B: Argante), flageolet, 2 Flutes, 2 Oboes, Bassoon, 4 Trumpets, Timpani, Solo Violin, 3 Violins, Viola, Cello, Harpsichord obligé, Basso Continuo","(1ère version)
 Libretto by Giacomo Rossi after un scénario de Aaron Hill"
-7.2,HWV 7b,,1731,Rinaldo,Opera,,,"S: Almirena, Donna, Sirene, MS: Rinaldo, Armida, A: Argante, T: Goffredo, B: Mago christiano, Araldo), piccolo, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, Trumpet, Solo Violin, 3 Violins, Viola, Cello, Basso Continuo","(2è, 3è versions)
+7.200 ,HWV 7b,,1731,Rinaldo,Opera,,,"S: Almirena, Donna, Sirene, MS: Rinaldo, Armida, A: Argante, T: Goffredo, B: Mago christiano, Araldo), piccolo, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, Trumpet, Solo Violin, 3 Violins, Viola, Cello, Basso Continuo","(2è, 3è versions)
 Libretto by Giacomo Rossi after un scénario de Aaron Hill"
-8.1,HWV 8a,,1712,Il Pastor fido,Opera,,,"S: Mirtillo, Amarilli, Eurilla, A: Silvio, Dorinda, B: Tirenio), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Violins, Viola, Cello, Basso Continuo","(1ère version)
+8.100 ,HWV 8a,,1712,Il Pastor fido,Opera,,,"S: Mirtillo, Amarilli, Eurilla, A: Silvio, Dorinda, B: Tirenio), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Violins, Viola, Cello, Basso Continuo","(1ère version)
 Libretto by Giacomo Rossi after une tragicomédie pastorale de Battista Guarini"
-8.2,HWV 8b,,1734,Terpsicore,Prologue,,,"S, A, SATB Choir, Ballet, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
-8.3,HWV 8c,,1734,Il Pastor fido,Opera,,,"S: Amarilli, Eurilla, A: Mirtillo, Dorinda, T: Silvio, B:Tirenio, SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, bass continue","(2è, 3è versions)
+8.200 ,HWV 8b,,1734,Terpsicore,Prologue,,,"S, A, SATB Choir, Ballet, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
+8.300 ,HWV 8c,,1734,Il Pastor fido,Opera,,,"S: Amarilli, Eurilla, A: Mirtillo, Dorinda, T: Silvio, B:Tirenio, SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, bass continue","(2è, 3è versions)
 Libretto by Giacomo Rossi after une tragicommédie pastorale de Battista Guarini"
-9,HWV 9,,1712,Tesco,Opera,,,"S: Teseo, Agilea, Medea, Clizia, Fedra, A: Arcane, Egeo, B: Ministro di Minerva), SATB Choir, 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Violins, 2 Violas, Cello, Basso Continuo",Libretto by Niccolo Francesco Haym after une tragédie lyrique de Philippe Quinault
-10,HWV 10,,1713,Lucio Cornelio Silla,Opera,,,"S, MS, B), 2 Flutes, 2 Oboes, Bassoon, Trumpet, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
-11,HWV 11,,1715,Amadigi di Gaula,Opera,,,"S, MS, A), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, Trumpet, 3 Violins, Viola, Basso Continuo",Libretto by Giacomo Rossi (?) after une tragédie lyrique d'Antoine Houdar de la Motte
-12.1,HWV 12a,,1720,Radamisto,Opera,,,"S, A, T, B), Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo","(1ère version)
+9.000 ,HWV 9,,1712,Tesco,Opera,,,"S: Teseo, Agilea, Medea, Clizia, Fedra, A: Arcane, Egeo, B: Ministro di Minerva), SATB Choir, 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Violins, 2 Violas, Cello, Basso Continuo",Libretto by Niccolo Francesco Haym after une tragédie lyrique de Philippe Quinault
+10.000 ,HWV 10,,1713,Lucio Cornelio Silla,Opera,,,"S, MS, B), 2 Flutes, 2 Oboes, Bassoon, Trumpet, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Giacomo Rossi
+11.000 ,HWV 11,,1715,Amadigi di Gaula,Opera,,,"S, MS, A), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, Trumpet, 3 Violins, Viola, Basso Continuo",Libretto by Giacomo Rossi (?) after une tragédie lyrique d'Antoine Houdar de la Motte
+12.100 ,HWV 12a,,1720,Radamisto,Opera,,,"S, A, T, B), Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo","(1ère version)
 Libretto by Niccolo Francesco Haym after un livret de Matteo Noris, Domenico Lalli"
-12.2,HWV 12b,,1720,Radamisto,Opera,,,"S, MS, B), Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 2 Violins, Viola, Basso Continuo","(2è, 3è versions)
+12.200 ,HWV 12b,,1720,Radamisto,Opera,,,"S, MS, B), Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 2 Violins, Viola, Basso Continuo","(2è, 3è versions)
 Libretto by Niccolo Francesco Haym after un livret de Matteo Noris, Domenico Lalli"
-13,HWV 13,,1721,Muzio Scevola,Opera,,,"S, MS, A, B), 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 3 Violins, Viola, Cello, Basso Continuo","(Acte III)
+13.000 ,HWV 13,,1721,Muzio Scevola,Opera,,,"S, MS, A, B), 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 3 Violins, Viola, Cello, Basso Continuo","(Acte III)
 Libretto by Paolo Antonio Rolli"
-14,HWV 14,,1721,Il Floridante,Opera,,,"S1, S2/A, MS, A, B1, B2), 2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, 3 Violins, Viola, Basso Continuo",Libretto by Paolo Antonio Rolli after un libretto de Francesco Silvani
-15,HWV 15,,1722,"Ottone, Re di Germania",Opera,,,"S: Teofane, Gismonda, MS: Ottone, A: Adelberto, Matilda, B: Emireno), Flute, 2 Oboes, 2 Bassoons, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret de Stefano Benedetto Pallavicini
-16,HWV 16,,1723,"Flavio, Re de Langobardi",Opera,,,"S1, S2, MS, A, A2, T/B, B/T, Flute, Transverse Flute, 2 Oboes, Bassoon, 3 Violins, Viola, Cello, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret de Matteo Noris
-17,HWV 17,,1723,Giulio Cesare in Egitto,Opera,,,"S: Cleopatra, Sesto [aussi ténor], MS: Giulio Cesare, A: Cornelia, Tolomeo, Nireno), B: Achilla, Curio), 2 Flutes, Transverse Flute, 2 Oboes, 2 Bassoons, 4 Horns, Trumpet, Solo Violin, 3 Violins, Viola, Viola da Gamba, Cello, Harp, Theorbo, Basso Continuo",Libretto by Niccolo Francesco Haym after un libretto de Giacomo Francesco Bussani
-18,HWV 18,,1724,Tamerlano,Opera,,,"S: Asteria, Irene, MS: Andronico, A: Tamerlano, T: Bajazet, B: Leone), 2 Flutes, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 cornets, 2 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret d'Agostino Piovene
-19,HWV 19,,1724,"Rodelinda, Regina de' Langobardi",Opera,,,"S: Rodellinda, MS: Bertarido, A: Eduige, Unulfo, T: Grimoaldo, B: Garibaldo, Voix: Flavio), 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret d'Antonio Salvi
-20,HWV 20,,1726,Publio Cornelio Scipione,Opera,,,"S: Lucejo, Berenice, Armira, A: Scipione, T: C. Lelio, B: Ernando), 2 Flutes, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, Basso Continuo
+14.000 ,HWV 14,,1721,Il Floridante,Opera,,,"S1, S2/A, MS, A, B1, B2), 2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, 3 Violins, Viola, Basso Continuo",Libretto by Paolo Antonio Rolli after un libretto de Francesco Silvani
+15.000 ,HWV 15,,1722,"Ottone, Re di Germania",Opera,,,"S: Teofane, Gismonda, MS: Ottone, A: Adelberto, Matilda, B: Emireno), Flute, 2 Oboes, 2 Bassoons, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret de Stefano Benedetto Pallavicini
+16.000 ,HWV 16,,1723,"Flavio, Re de Langobardi",Opera,,,"S1, S2, MS, A, A2, T/B, B/T, Flute, Transverse Flute, 2 Oboes, Bassoon, 3 Violins, Viola, Cello, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret de Matteo Noris
+17.000 ,HWV 17,,1723,Giulio Cesare in Egitto,Opera,,,"S: Cleopatra, Sesto [aussi ténor], MS: Giulio Cesare, A: Cornelia, Tolomeo, Nireno), B: Achilla, Curio), 2 Flutes, Transverse Flute, 2 Oboes, 2 Bassoons, 4 Horns, Trumpet, Solo Violin, 3 Violins, Viola, Viola da Gamba, Cello, Harp, Theorbo, Basso Continuo",Libretto by Niccolo Francesco Haym after un libretto de Giacomo Francesco Bussani
+18.000 ,HWV 18,,1724,Tamerlano,Opera,,,"S: Asteria, Irene, MS: Andronico, A: Tamerlano, T: Bajazet, B: Leone), 2 Flutes, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 cornets, 2 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret d'Agostino Piovene
+19.000 ,HWV 19,,1724,"Rodelinda, Regina de' Langobardi",Opera,,,"S: Rodellinda, MS: Bertarido, A: Eduige, Unulfo, T: Grimoaldo, B: Garibaldo, Voix: Flavio), 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret d'Antonio Salvi
+20.000 ,HWV 20,,1726,Publio Cornelio Scipione,Opera,,,"S: Lucejo, Berenice, Armira, A: Scipione, T: C. Lelio, B: Ernando), 2 Flutes, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, Basso Continuo
 [1730: S: Lucejo, Berenice, A: C. Lelio, Armira, T: Scipione, B: Ernando]",Libretto by Paolo Antonio Rolli
-21,HWV 21,,1726,Alessandro,Opera,,,"S: Rossane, Lisaura, MS: Alessandro, A: Tassile, Cleone, T: Leonato, B: Clito), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 3 Violins, Viola, Cello, Basso Continuo",Libretto by Paolo Antonio Rolli after un livret d'Ortensio Mauro
-22,HWV 22,,1726,"Admeto, Re di Tessaglia",Opera,,,"S: Alceste, Antigona, MS: Admeto, A: Orindo, Trasimede, B: Ercole, Metaspe, Voix: la statue), Transverse Flute, 2 hautboia, Bassoon, 2 Horns, 3 Violins, Viola, Cello, Basso Continuo","Libretto by Inconnu after un livret d'Aurelio Aureli, Ortensio Mauro"
-23,HWV 23,,1727,"Ricardo I, Re d'Inghilterra",Opera,,,"S: Costanza, Pulcheria, MS: Riccardo I, A: Oronte, B: Berardo, Isacio), piccolo, Flute, Bass Transverse Flute, 2 Oboes, 2 chalumeaux, Bassoon, 2 Horns, 3 Trumpets, Timpani, 3 Violins, Viola, Basso Continuo",Libretto by Paolo Antonio Rolli after un libretto de Francesco Briani
-24,HWV 24,,1728,"Siroe, Re di Persia",Opera,,,"S: Emira, Laodice, MS: Siroe, A: Medarse, B: Cosroe, Arasse), 2 Oboes, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un libretto de Pietro Metastasio
-25,HWV 25,,1728,"Tolomeo, Re di Egitto",Opera,,,"S: Seleuce, Elisa, MS: Tolomeo, A: Alessandro, B: Araspe), 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret de Carlo Sigismondo Capece
-26,HWV 26,,1729,Lotario,Opera,,,"S: Adelaide, MS: Lotario, A: Matilde, Idelberto, T: Berengario, B: Clodomiro), 2 Oboes, 2 Bassoons, 2 Horns, Trumpet, 3 Violins, Viola, Basso Continuo",Libretto by Giacomo Rossi after un livret d'Antonio Salvi
-27,HWV 27,,1730,Partenope,Opera,,,"S: Partenope, MS: Arsace, A: Rosmira, Armindo, T: Emilio, B: Ormonte), 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, Trumpet, 3 Violins, Viola, Theorbo, Basso Continuo
+21.000 ,HWV 21,,1726,Alessandro,Opera,,,"S: Rossane, Lisaura, MS: Alessandro, A: Tassile, Cleone, T: Leonato, B: Clito), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 3 Violins, Viola, Cello, Basso Continuo",Libretto by Paolo Antonio Rolli after un livret d'Ortensio Mauro
+22.000 ,HWV 22,,1726,"Admeto, Re di Tessaglia",Opera,,,"S: Alceste, Antigona, MS: Admeto, A: Orindo, Trasimede, B: Ercole, Metaspe, Voix: la statue), Transverse Flute, 2 hautboia, Bassoon, 2 Horns, 3 Violins, Viola, Cello, Basso Continuo","Libretto by Inconnu after un livret d'Aurelio Aureli, Ortensio Mauro"
+23.000 ,HWV 23,,1727,"Ricardo I, Re d'Inghilterra",Opera,,,"S: Costanza, Pulcheria, MS: Riccardo I, A: Oronte, B: Berardo, Isacio), piccolo, Flute, Bass Transverse Flute, 2 Oboes, 2 chalumeaux, Bassoon, 2 Horns, 3 Trumpets, Timpani, 3 Violins, Viola, Basso Continuo",Libretto by Paolo Antonio Rolli after un libretto de Francesco Briani
+24.000 ,HWV 24,,1728,"Siroe, Re di Persia",Opera,,,"S: Emira, Laodice, MS: Siroe, A: Medarse, B: Cosroe, Arasse), 2 Oboes, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un libretto de Pietro Metastasio
+25.000 ,HWV 25,,1728,"Tolomeo, Re di Egitto",Opera,,,"S: Seleuce, Elisa, MS: Tolomeo, A: Alessandro, B: Araspe), 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, Basso Continuo",Libretto by Niccolo Francesco Haym after un livret de Carlo Sigismondo Capece
+26.000 ,HWV 26,,1729,Lotario,Opera,,,"S: Adelaide, MS: Lotario, A: Matilde, Idelberto, T: Berengario, B: Clodomiro), 2 Oboes, 2 Bassoons, 2 Horns, Trumpet, 3 Violins, Viola, Basso Continuo",Libretto by Giacomo Rossi after un livret d'Antonio Salvi
+27.000 ,HWV 27,,1730,Partenope,Opera,,,"S: Partenope, MS: Arsace, A: Rosmira, Armindo, T: Emilio, B: Ormonte), 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, Trumpet, 3 Violins, Viola, Theorbo, Basso Continuo
 1737: S: Partenope, Armindo, MS: Arsace, A: Rosmira, Ormonte, T: Emilio",Libretto by Inconnu after un livret de Silvio Stampiglia
-28,HWV 28,,1730,"Poro, Re dell'Indie",Opera,,,"S: Cleofide, MS: Poro, A: Erissena, Gandarte, T: Alessandro il Grande, B: Timagene), 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, Trumpet, Solo Violin, 3 Violins, Viola, Basso Continuo",Libretto by Inconnu after un livret de Pietro Metastasio. Version anglaise par Samuel Humphreys.
-29,HWV 29,,1731,Ezio,Opera,,,"S: Fulvia, MS: Ezio, A: Valentiniano III, Onoria, T: Massimo, B: Varo), 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, Trumpet, 3 Violins, 2 Violas, Cello, Basso Continuo",Libretto by Inconnu after un livret de Pietro Metastasio. Version anglaise par Samuel Humphreys.
-30,HWV 30,,1731,"Sosarme, Re di Media",Opera,,,"S: Elmira, MS: Sosarme, A: Erenice, Argone, Melo, T: Haliate, B: Altomaro), 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Solo Violin, 3 Violins, Viola, Cello, Theorbo, Basso Continuo",Libretto by Inconnu after un livret d'Antonio Salvi. Version anglaise par Samuel Humphreys.
-31,HWV 31,,1732,Orlando,Opera,,,"S: Angelica, MS: Medoro, Dorinda, A: Orlando, B: Zoroastro), 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, 2 violetta marina, Basso Continuo",Libretto by Inconnu after un livret de Carlo Sigismondo Capece. Version anglaise par Samuel Humphreys.
-32,HWV 32,,1733,Arianna in Creta,Opera,,,"A1, A2, MS1, MS2, A1, B1, B2, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Inconnu after un livret de Pietro Pariati. Version anglaise par Samuel Humphreys.
-33,HWV 33,,1734,Ariodante,Opera,,,"S: Ginevra, Dalinda, MS: Ariodante, A: Polinesso, T: Odoardo, Lurcanio, B: Il Re di Scozia), SATB Choir, 2 Flutes, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Solo Violin, 3 Violins, Viola, Cello, Basso Continuo","[À l'origine, Dalinda: Viola]
+28.000 ,HWV 28,,1730,"Poro, Re dell'Indie",Opera,,,"S: Cleofide, MS: Poro, A: Erissena, Gandarte, T: Alessandro il Grande, B: Timagene), 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, Trumpet, Solo Violin, 3 Violins, Viola, Basso Continuo",Libretto by Inconnu after un livret de Pietro Metastasio. Version anglaise par Samuel Humphreys.
+29.000 ,HWV 29,,1731,Ezio,Opera,,,"S: Fulvia, MS: Ezio, A: Valentiniano III, Onoria, T: Massimo, B: Varo), 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, Trumpet, 3 Violins, 2 Violas, Cello, Basso Continuo",Libretto by Inconnu after un livret de Pietro Metastasio. Version anglaise par Samuel Humphreys.
+30.000 ,HWV 30,,1731,"Sosarme, Re di Media",Opera,,,"S: Elmira, MS: Sosarme, A: Erenice, Argone, Melo, T: Haliate, B: Altomaro), 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Solo Violin, 3 Violins, Viola, Cello, Theorbo, Basso Continuo",Libretto by Inconnu after un livret d'Antonio Salvi. Version anglaise par Samuel Humphreys.
+31.000 ,HWV 31,,1732,Orlando,Opera,,,"S: Angelica, MS: Medoro, Dorinda, A: Orlando, B: Zoroastro), 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 3 Violins, Viola, 2 violetta marina, Basso Continuo",Libretto by Inconnu after un livret de Carlo Sigismondo Capece. Version anglaise par Samuel Humphreys.
+32.000 ,HWV 32,,1733,Arianna in Creta,Opera,,,"A1, A2, MS1, MS2, A1, B1, B2, Transverse Flute, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Inconnu after un livret de Pietro Pariati. Version anglaise par Samuel Humphreys.
+33.000 ,HWV 33,,1734,Ariodante,Opera,,,"S: Ginevra, Dalinda, MS: Ariodante, A: Polinesso, T: Odoardo, Lurcanio, B: Il Re di Scozia), SATB Choir, 2 Flutes, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Solo Violin, 3 Violins, Viola, Cello, Basso Continuo","[À l'origine, Dalinda: Viola]
 Libretto by Inconnu after un livret d'Antonio Salvi"
-34,HWV 34,,1735,Alcina,Opera,,,"S: Alcina, Morgana, Oberto, MS: Ruggiero, A: Bradamante, T: Oronte, B: Melisso), Choir (SSATB), piccolo, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, Violin obligé, 2 Violins, Viola, Cello solo, Basso Continuo",Libretto by Inconnu after un livret d'Antonio Fanzaglia
-35,HWV 35,,1736,Atalanta,Opera,,,"S: Atalanta, Meleagro, A: Irene, T: Aminta, B: Nicandro, Mercurio), SATB Choir, 2 Oboes, 2 Horns, 3 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Inconnu after un livret de Belisario Valeriani
-36,HWV 36,,1736,Arminio,Opera,,,"S: Tusnelda, Sigismondo, MS: Arminio, A: Ramise, Tullio, T: Varo, B: Segeste), SATB Choir, 2 Flutes, 2 Oboes, 2 Horns, 3 Violins, Viola, Basso Continuo","[À l'orgine, Tullio: basse]
+34.000 ,HWV 34,,1735,Alcina,Opera,,,"S: Alcina, Morgana, Oberto, MS: Ruggiero, A: Bradamante, T: Oronte, B: Melisso), Choir (SSATB), piccolo, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, Violin obligé, 2 Violins, Viola, Cello solo, Basso Continuo",Libretto by Inconnu after un livret d'Antonio Fanzaglia
+35.000 ,HWV 35,,1736,Atalanta,Opera,,,"S: Atalanta, Meleagro, A: Irene, T: Aminta, B: Nicandro, Mercurio), SATB Choir, 2 Oboes, 2 Horns, 3 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso Continuo",Libretto by Inconnu after un livret de Belisario Valeriani
+36.000 ,HWV 36,,1736,Arminio,Opera,,,"S: Tusnelda, Sigismondo, MS: Arminio, A: Ramise, Tullio, T: Varo, B: Segeste), SATB Choir, 2 Flutes, 2 Oboes, 2 Horns, 3 Violins, Viola, Basso Continuo","[À l'orgine, Tullio: basse]
 Libretto by Inconnu after un livret d'Antonio Salvi"
-37,HWV 37,,1736,Giustino,Opera,,,"S: Anastasio, Arianna, La Fortune, MS: Giustino, A: Leocasta, Amanzio, T: Vitaliano, B: Polidarte, Voix interne), SATB Choir, 2 Flutes, basse de Flute, Oboe solo, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 3 Violins, Viola, Cello, Basso Continuo","[À l'origine, Amanzio: basse]
+37.000 ,HWV 37,,1736,Giustino,Opera,,,"S: Anastasio, Arianna, La Fortune, MS: Giustino, A: Leocasta, Amanzio, T: Vitaliano, B: Polidarte, Voix interne), SATB Choir, 2 Flutes, basse de Flute, Oboe solo, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 3 Violins, Viola, Cello, Basso Continuo","[À l'origine, Amanzio: basse]
 Libretto by Inconnu after un livret de Niccolo Beregani, Pietro Pariati."
-38,HWV 38,,1736,"Berenice, Regina d'Egitto",Opera,,,"S: Berenice, Alessandro, MS: Demetrio, A: Selene, Arsace, T: Fabio, B: Aristobolo), SATB Choir, 2 Oboes, 3 Violins, Viola, Basso Continuo",Libretto by Inconnu after un livret d'Antonio Salvi
-39,HWV 39,,1737,Faramondo,Opera,,,"S: Faramondo, Clotilde, Adolfo, Childerico, MS: Rosimonda, A: Gernando, B: Gustavo, Teobaldo), SATB Choir, Transverse Flute, 2 Oboes, 2 Horns, 3 Violins, Viola, Basso Continuo",Libretto by Inconnu after un livret d'Apostolo Zeno
-40,HWV 40,,1737,Serse,Opera,,,"S: Serse, Romilda, Atalanta, MS: Arsamene, A: Amastre, B: Ariodate, Elviro), SATB Choir, 2 Flutes, 2 Oboes, 2 Horns, Trumpets, 3 Violins, Viola, Basso Continuo","Libretto by Inconnu after des livrets de Niccolo Minato, Silvio Stampiglia"
-41,HWV 41,,1738,Imeneo (Hymen),Serenata,,,"S: Rosmene, Clomiri, MS: Tirinto, B: Argenio, Imeneo), SATB Choir, 2 Oboes, 3 Violins, Viola, Basso Continuo","[En 1742: T: Imeneo]
+38.000 ,HWV 38,,1736,"Berenice, Regina d'Egitto",Opera,,,"S: Berenice, Alessandro, MS: Demetrio, A: Selene, Arsace, T: Fabio, B: Aristobolo), SATB Choir, 2 Oboes, 3 Violins, Viola, Basso Continuo",Libretto by Inconnu after un livret d'Antonio Salvi
+39.000 ,HWV 39,,1737,Faramondo,Opera,,,"S: Faramondo, Clotilde, Adolfo, Childerico, MS: Rosimonda, A: Gernando, B: Gustavo, Teobaldo), SATB Choir, Transverse Flute, 2 Oboes, 2 Horns, 3 Violins, Viola, Basso Continuo",Libretto by Inconnu after un livret d'Apostolo Zeno
+40.000 ,HWV 40,,1737,Serse,Opera,,,"S: Serse, Romilda, Atalanta, MS: Arsamene, A: Amastre, B: Ariodate, Elviro), SATB Choir, 2 Flutes, 2 Oboes, 2 Horns, Trumpets, 3 Violins, Viola, Basso Continuo","Libretto by Inconnu after des livrets de Niccolo Minato, Silvio Stampiglia"
+41.000 ,HWV 41,,1738,Imeneo (Hymen),Serenata,,,"S: Rosmene, Clomiri, MS: Tirinto, B: Argenio, Imeneo), SATB Choir, 2 Oboes, 3 Violins, Viola, Basso Continuo","[En 1742: T: Imeneo]
 Libretto by Inconnu after un livret de Silvio Stampiglia"
-42,HWV 42,,1740,Deidamia,Opera,,,"S: Deidamia, Nerea, Achille, Ulisse, B: Fenice, Lycomede), SATB Choir, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, Cello, Basso Continuo",Libretto by Paolo Antonio Rolli
-43,HWV 43,,1707,The Alchemist,Incidental,,"1 Ouverture Largo (si bémol majeur)/Allegro
+42.000 ,HWV 42,,1740,Deidamia,Opera,,,"S: Deidamia, Nerea, Achille, Ulisse, B: Fenice, Lycomede), SATB Choir, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, Cello, Basso Continuo",Libretto by Paolo Antonio Rolli
+43.000 ,HWV 43,,1707,The Alchemist,Incidental,,"1 Ouverture Largo (si bémol majeur)/Allegro
 
 2 Air (si bémol majeur)
 
@@ -78,7 +78,7 @@ Libretto by Inconnu after un livret de Silvio Stampiglia"
 8 Aire (si bémol majeur)
 
 9 Jigg (si bémol majeur)","2 Oboes, 2 Violins, Viola, Basso Continuo",
-44,HWV 44,,1745,There in blissful shade and bow'rs,Serenata,,"01 Air
+44.000 ,HWV 44,,1745,There in blissful shade and bow'rs,Serenata,,"01 Air
 (sol majeur) There in blissful shade and bow'rs basse
 2 Violins à l'unisson, Basso Continuo
 
@@ -103,235 +103,292 @@ Larghetto (sol mineur) There youthful Cupid, high advanc'd Soprano II
 (sol majeur) Happy plains Soprano I, Soprano II, Basse
 2 Oboes, 2 Violins, Basso Continuo
 [reprise du # 2]","S1, S2, B), 2 Oboes, 2 Violins, Organ, Basso Continuo","""Comus"" musique pour un spectacle de John Milton (sérénade à 9)"
-45,HWV 45,,1749,Alceste (Alcides),Incidental,,,"S, A, T, B), SATB Choir, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, 3 Violins, Viola, Basso Continuo",musique pour un spectable de Tobias Smollet
-46.1,HWV 46a,,1707,Il Trionfo del Tempo e del Disinganno,Oratorio,,,"S: Bellezza, Piacere, A: Disinganno, T: Tempo), 2 Flutes, 2 Oboes, 3 Violins, Viola, 2 Cellos, Organ, Basso Continuo",Texte: Benedetto Pamphilj
-46.2,HWV 46b,,1737,Il Trionfo del Tempo e della Verita,Oratorio,,,"S: Bellezza, Piacere, A: Disinganno, Tempo), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, Cello, Double Bass, Organ, Harpsichord, carillon",Texte: Benedetto Pamphilj
-47,HWV 47,,1708,La Resurrezione,Oratorio,,,"S: Angelo, Maddalena, A: Cleofe, T: San Giovanni, B: Lucifero), SATB Choir, 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, Solo Violin, 4 Violins, Viola, Viola da Gamba, 2 Cellos, Theorbo, Basso Continuo",Texte: Carlo Sigismondo Capece
-48,HWV 48,,1716-1717,Der fur die Sunde der Welt gemarterte und sterbende Jesus,Oratorio,,,"S: Maria, 3 femmes, Tochter Zion, Âme, A: Jakobus, Johannes, Judas, Âme, T: Evangéliste, Petrus, Âme, B: Caiphas, Jesus, Pilatus, Kriegsknecht, Âme), SATB Choir, 2 Oboes, 2 Bassoons, 2 Violins, Viola, Basso Continuo","(Brockes' Passion)
+45.000 ,HWV 45,,1749,Alceste (Alcides),Incidental,,,"S, A, T, B), SATB Choir, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, 3 Violins, Viola, Basso Continuo",musique pour un spectable de Tobias Smollet
+46.100 ,HWV 46a,,1707,Il Trionfo del Tempo e del Disinganno,Oratorio,,,"S: Bellezza, Piacere, A: Disinganno, T: Tempo), 2 Flutes, 2 Oboes, 3 Violins, Viola, 2 Cellos, Organ, Basso Continuo",Texte: Benedetto Pamphilj
+46.200 ,HWV 46b,,1737,Il Trionfo del Tempo e della Verita,Oratorio,,,"S: Bellezza, Piacere, A: Disinganno, Tempo), SATB Choir, 2 Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, Cello, Double Bass, Organ, Harpsichord, carillon",Texte: Benedetto Pamphilj
+47.000 ,HWV 47,,1708,La Resurrezione,Oratorio,,,"S: Angelo, Maddalena, A: Cleofe, T: San Giovanni, B: Lucifero), SATB Choir, 2 Flutes, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, Solo Violin, 4 Violins, Viola, Viola da Gamba, 2 Cellos, Theorbo, Basso Continuo",Texte: Carlo Sigismondo Capece
+48.000 ,HWV 48,,1716-1717,Der fur die Sunde der Welt gemarterte und sterbende Jesus,Oratorio,,,"S: Maria, 3 femmes, Tochter Zion, Âme, A: Jakobus, Johannes, Judas, Âme, T: Evangéliste, Petrus, Âme, B: Caiphas, Jesus, Pilatus, Kriegsknecht, Âme), SATB Choir, 2 Oboes, 2 Bassoons, 2 Violins, Viola, Basso Continuo","(Brockes' Passion)
 Texte: Barthold Heinrich Brockes"
-49.1,HWV 49a,,1718,"Acis, Galatea",Serenata,,,"S: Galatea, T: Acis, Damon, B: Polypheme), Choir (STTTB), piccolo, 2 Flutes, 2 Oboes, 2 Violins, Viola, Cello, Basso Continuo","[1ère version]
+49.100 ,HWV 49a,,1718,"Acis, Galatea",Serenata,,,"S: Galatea, T: Acis, Damon, B: Polypheme), Choir (STTTB), piccolo, 2 Flutes, 2 Oboes, 2 Violins, Viola, Cello, Basso Continuo","[1ère version]
 Texte: John Gay, Alexander Pope, John Hughes"
-49.2,HWV 49b,,1732,"Acis, Galatea",Serenata,,,"S: Galatea, Clori, Eurilla, MS: Aci, A: Fili, Dorinda, T: Silvio, B: Polifemo), SATB Choir, piccolo, Transverse Flute, 2 Oboes, Trumpet, 2 Horns, 2 Violins, Viola, Lute, Organ, Basso Continuo","[2è version]
+49.200 ,HWV 49b,,1732,"Acis, Galatea",Serenata,,,"S: Galatea, Clori, Eurilla, MS: Aci, A: Fili, Dorinda, T: Silvio, B: Polifemo), SATB Choir, piccolo, Transverse Flute, 2 Oboes, Trumpet, 2 Horns, 2 Violins, Viola, Lute, Organ, Basso Continuo","[2è version]
 Texte: John Gay"
-50.1,HWV 50a,,1718,Esther (Haman and Mordecai),Oratorio,,,"S, A, T, B), Choir (SATTB), Oboe, Trumpet, 2 Horns, Harp, 2 Violins, Viola, Basso Continuo","[1ère version]
+50.100 ,HWV 50a,,1718,Esther (Haman and Mordecai),Oratorio,,,"S, A, T, B), Choir (SATTB), Oboe, Trumpet, 2 Horns, Harp, 2 Violins, Viola, Basso Continuo","[1ère version]
 Texte: Alexander Pope, John Arbuthnot after ""Esther"" de Racine (1689)"
-50.2,HWV 50b,,1732,Esther,Oratorio,,,"1732: S, A, T, B), Choir (SSAATBB), 2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 5 Violins, Viola, Cello, Double Bass, Theorbo, Harp, 2 Harpsichords, Organ
+50.200 ,HWV 50b,,1732,Esther,Oratorio,,,"1732: S, A, T, B), Choir (SSAATBB), 2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 5 Violins, Viola, Cello, Double Bass, Theorbo, Harp, 2 Harpsichords, Organ
 1757: S1, S2, A, T, B)","[2è version]
 Texte: Alexander Pope, John Arbuthnot after ""Esther"" de Racine (1689)"
-51,HWV 51,,1733,Deborah,Oratorio,,,"S1, S2, S3, A, T, B), Choir (SSAATTBB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 3 Horns, 3 Trumpets, Timpani, 3 Violins, 2 Violas, Cello, Double Bass, Harpsichord, Organ",Texte: Samuel Humphrey
-52,HWV 52,,1733,Athalia,Oratorio,,,"S:Athalia, Josabth, Joas, A: Joad, T: Mathan, B: Abner), Choir (SSAATTBB), 2 Flutes, Transverse Flute, 2 Oboes, 2 Bassoons, Theorbo, 2 Horns, 2 Trumpets, Timpani, 4 Violins, Viola, Cello, Double Bass, Harpsichord, Organ","Texte: Samuel Humprey after ""Athalie"" de Jean Racine (1691)"
-53,HWV 53,,1738,Saul,Oratorio,,,"S: Merab, Michal, A: David, T: Jonathan, Abner, Sorcier d'Endor (ou soprano), Amalekite, Grand Prêtre, B: Saul, Doeg, Apparition de Samuel, Abiathar), SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Trombones, Timpani, carillon, Harp, Theorbo, 3 Violins, Viola, Organ, Basso Continuo",Texte: Charles Jennens
-54,HWV 54,,1738,Israel in Egypt (Exodus),Oratorio,,,"SS,A,T,BB), Choir I (SATB), Choir II (SATB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Trombones, Timpani, 2 Violins, Viola, Cello, Double Bass, Organ, Harpsichord","Texte: inconnu (Exodus I, II, XV, Psaumes 105, 106)"
-55,HWV 55,,1740,"L'Allegro, il Penseroso ed il Moderato",Oratorio,,,"S, A, T, B,  SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, cor, 2 Trumpets, Timpani, carillon, Solo Violin, 3 Violins, Viola, Organ, Basso Continuo","Texte: John Milton, Charles Jennens"
-56,HWV 56,,1741,Messiah,Oratorio,,,"S,A1, A2,T,B), Choir (SSATB), 2 Oboes, 2 Bassoons, 2 Trumpets, Timpani, 2 Violins, Viola, Basso Continuo",Texte: Textes bibliques par Charles Jennens
-57,HWV 57,,1741,Samson,Oratorio,,,"S: Dalila, Femme israélite, Femme philistine, Vierge, A: Micah, T: Samson, Philistin, Homme israélite, Messager, B: Manoa, Harapha), Choir (SSATTB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, 2 Trombones, Timpani, 3 Violins, Viola, Cello, Organ, Basso Continuo","Texte: after ""Samson Agonistes"", autres œuvres de John Milton"
-58,HWV 58,,1743,Semele,Oratorio,,,"S: Semele, Iris, A: Athamas, Ino, Juno, T: Jupiter, Apollo, B: Cadmus, Somnus, Grand Prêtre), SATB Choir, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, 2 Cellos, Organ, Basso Continuo","Texte: after l'opéra ""Semele"" de William Congreve (1706)"
-59,HWV 59,,1743,Joseph and his Brethren,Oratorio,,,"S: Benjamin, Asenath, MS: Joseph, A: Potiphera, Phanor, Grand prêtre, T: Simeon, Judah, B: Pharaoh, Reuben), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 3 Trumpets, Timpani, 3 Violins, Viola, Organ, Basso Continuo",Texte: James Miller
-60,HWV 60,,1744,Hercules,Oratorio,,,"S: Dejanira, Iole, Oechalien 1, A: Lichas, T: Hyllus, B: Hercules, Trachinian 1, Prêtre de Jupiter), SATB Choir, 2 Oboes, 2 Horns, 2 Trumpets, 3 Violins, Viola, Basso Continuo","Texte: Thomas Broughton after ""Trachiniai"" de Sophocles, ""Metamorphoses"" de Publius Ovidius Naso"
-61,HWV 61,,1744,Belshazzar,Oratorio,,,"S: Nitocris, MS: Cyrus, A: Daniel, T: Belshazzar, Arioch, B: Gobrias, Messager), Choir (SSATTB), 2 Oboes, Bassoon, 2 Trumpets, Timpani, 3 Violins, Viola, Basso Continuo",Texte: Charles Jennens
-62,HWV 62,,1746,Occasional Oratorio,Oratorio,,,"S1, S2, T,B), Choir (SSAATTBB), 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, principal, Timpani, 2 Violins, Viola, Cello, Organ, Basso Continuo","Texte: after les Psaumes de John Milton, des textes de Edmund Spenser"
-63,HWV 63,,1746,Juddas Maccabeus,Oratorio,,,"S: Femme israélite, MS: Homme israélite, Prêtre, Messager, T: Judas Maccabaeus, B: Simon, Eupolemus), Choir (SSATB), 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 3 Trumpets, Timpani, 3 Violins, Viola, Cello, Double Bass, Organ, Harpsichord",Texte: Thomas Morell
-64,HWV 64,,1747,Joshua,Oratorio,,,"S: Achsah, A: Othniel, T: Joshua, Ange, B: Caleb), SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 3 Trumpets, tambourin, Timpani, 3 Violins, Viola, Organ, Basso Continuo",Texte: Thomas Morell (?)
-65,HWV 65,,1747,Alexander Balus,Oratorio,,,"S: Aspasia, Cleopatra, A: Alexander Balus, T: Jonathan, B: Ptolomee, Courtier), SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, Harp, mandoline, Violin concertant, 3 Violins, Viola, 2 Cellos, Double Bass, Organ, Harpsichord",Texte: Thomas Morell
-66,HWV 66,,1748,Susanna,Oratorio,,,"S: Susanna, Daniel, Servante, MS: Joacim, T: Ancien 1, B: Chelsias, Ancien 2, Juge), SATB Choir, 2 Oboes, Bassoon, 2 Trumpets, 2 Violins, 2 Violas, Basso Continuo",
-67,HWV 67,,1748,Solomon,Oratorio,,,"S: Reine, fille du Pharaon, Nicaule, Reine de Sheba, Femmes I, II, A: Solomon, T: Zadok, Serviteur, B: Lévite), Choir (SSAATTBB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, 2 Violas, Cello, Organ, Basso Continuo",
-68,HWV 68,,1749,Theodora,Oratorio,,,"S: Theodora, A: Didymus, Irene, T: Septimius, Messager, B: Valens), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso Continuo","Texte: after ""The Martyrdom of Theodora and of Didymus"" de Robert Boyle (1687)"
-69,HWV 69,,1750,The Choice of Hercules,,,,"S1, S2, MS, T), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 2 Violins, Viola, Basso Continuo","(Acte III, Alexander's Feast, HWV 75)
+51.000 ,HWV 51,,1733,Deborah,Oratorio,,,"S1, S2, S3, A, T, B), Choir (SSAATTBB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 3 Horns, 3 Trumpets, Timpani, 3 Violins, 2 Violas, Cello, Double Bass, Harpsichord, Organ",Texte: Samuel Humphrey
+52.000 ,HWV 52,,1733,Athalia,Oratorio,,,"S:Athalia, Josabth, Joas, A: Joad, T: Mathan, B: Abner), Choir (SSAATTBB), 2 Flutes, Transverse Flute, 2 Oboes, 2 Bassoons, Theorbo, 2 Horns, 2 Trumpets, Timpani, 4 Violins, Viola, Cello, Double Bass, Harpsichord, Organ","Texte: Samuel Humprey after ""Athalie"" de Jean Racine (1691)"
+53.000 ,HWV 53,,1738,Saul,Oratorio,,,"S: Merab, Michal, A: David, T: Jonathan, Abner, Sorcier d'Endor (ou soprano), Amalekite, Grand Prêtre, B: Saul, Doeg, Apparition de Samuel, Abiathar), SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Trombones, Timpani, carillon, Harp, Theorbo, 3 Violins, Viola, Organ, Basso Continuo",Texte: Charles Jennens
+54.000 ,HWV 54,,1738,Israel in Egypt (Exodus),Oratorio,,,"SS,A,T,BB), Choir I (SATB), Choir II (SATB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Trumpets, 3 Trombones, Timpani, 2 Violins, Viola, Cello, Double Bass, Organ, Harpsichord","Texte: inconnu (Exodus I, II, XV, Psaumes 105, 106)"
+55.000 ,HWV 55,,1740,"L'Allegro, il Penseroso ed il Moderato",Oratorio,,,"S, A, T, B,  SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, cor, 2 Trumpets, Timpani, carillon, Solo Violin, 3 Violins, Viola, Organ, Basso Continuo","Texte: John Milton, Charles Jennens"
+56.000 ,HWV 56,,1741,Messiah,Oratorio,,,"S,A1, A2,T,B), Choir (SSATB), 2 Oboes, 2 Bassoons, 2 Trumpets, Timpani, 2 Violins, Viola, Basso Continuo",Texte: Textes bibliques par Charles Jennens
+57.000 ,HWV 57,,1741,Samson,Oratorio,,,"S: Dalila, Femme israélite, Femme philistine, Vierge, A: Micah, T: Samson, Philistin, Homme israélite, Messager, B: Manoa, Harapha), Choir (SSATTB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, 2 Trombones, Timpani, 3 Violins, Viola, Cello, Organ, Basso Continuo","Texte: after ""Samson Agonistes"", autres œuvres de John Milton"
+58.000 ,HWV 58,,1743,Semele,Oratorio,,,"S: Semele, Iris, A: Athamas, Ino, Juno, T: Jupiter, Apollo, B: Cadmus, Somnus, Grand Prêtre), SATB Choir, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, 2 Cellos, Organ, Basso Continuo","Texte: after l'opéra ""Semele"" de William Congreve (1706)"
+59.000 ,HWV 59,,1743,Joseph and his Brethren,Oratorio,,,"S: Benjamin, Asenath, MS: Joseph, A: Potiphera, Phanor, Grand prêtre, T: Simeon, Judah, B: Pharaoh, Reuben), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 3 Trumpets, Timpani, 3 Violins, Viola, Organ, Basso Continuo",Texte: James Miller
+60.000 ,HWV 60,,1744,Hercules,Oratorio,,,"S: Dejanira, Iole, Oechalien 1, A: Lichas, T: Hyllus, B: Hercules, Trachinian 1, Prêtre de Jupiter), SATB Choir, 2 Oboes, 2 Horns, 2 Trumpets, 3 Violins, Viola, Basso Continuo","Texte: Thomas Broughton after ""Trachiniai"" de Sophocles, ""Metamorphoses"" de Publius Ovidius Naso"
+61.000 ,HWV 61,,1744,Belshazzar,Oratorio,,,"S: Nitocris, MS: Cyrus, A: Daniel, T: Belshazzar, Arioch, B: Gobrias, Messager), Choir (SSATTB), 2 Oboes, Bassoon, 2 Trumpets, Timpani, 3 Violins, Viola, Basso Continuo",Texte: Charles Jennens
+62.000 ,HWV 62,,1746,Occasional Oratorio,Oratorio,,,"S1, S2, T,B), Choir (SSAATTBB), 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, principal, Timpani, 2 Violins, Viola, Cello, Organ, Basso Continuo","Texte: after les Psaumes de John Milton, des textes de Edmund Spenser"
+63.000 ,HWV 63,,1746,Juddas Maccabeus,Oratorio,,,"S: Femme israélite, MS: Homme israélite, Prêtre, Messager, T: Judas Maccabaeus, B: Simon, Eupolemus), Choir (SSATB), 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 3 Trumpets, Timpani, 3 Violins, Viola, Cello, Double Bass, Organ, Harpsichord",Texte: Thomas Morell
+64.000 ,HWV 64,,1747,Joshua,Oratorio,,,"S: Achsah, A: Othniel, T: Joshua, Ange, B: Caleb), SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 3 Trumpets, tambourin, Timpani, 3 Violins, Viola, Organ, Basso Continuo",Texte: Thomas Morell (?)
+65.000 ,HWV 65,,1747,Alexander Balus,Oratorio,,,"S: Aspasia, Cleopatra, A: Alexander Balus, T: Jonathan, B: Ptolomee, Courtier), SATB Choir, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, Harp, mandoline, Violin concertant, 3 Violins, Viola, 2 Cellos, Double Bass, Organ, Harpsichord",Texte: Thomas Morell
+66.000 ,HWV 66,,1748,Susanna,Oratorio,,,"S: Susanna, Daniel, Servante, MS: Joacim, T: Ancien 1, B: Chelsias, Ancien 2, Juge), SATB Choir, 2 Oboes, Bassoon, 2 Trumpets, 2 Violins, 2 Violas, Basso Continuo",
+67.000 ,HWV 67,,1748,Solomon,Oratorio,,,"S: Reine, fille du Pharaon, Nicaule, Reine de Sheba, Femmes I, II, A: Solomon, T: Zadok, Serviteur, B: Lévite), Choir (SSAATTBB), 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, 2 Violas, Cello, Organ, Basso Continuo",
+68.000 ,HWV 68,,1749,Theodora,Oratorio,,,"S: Theodora, A: Didymus, Irene, T: Septimius, Messager, B: Valens), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso Continuo","Texte: after ""The Martyrdom of Theodora and of Didymus"" de Robert Boyle (1687)"
+69.000 ,HWV 69,,1750,The Choice of Hercules,,,,"S1, S2, MS, T), SATB Choir, 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, 2 Violins, Viola, Basso Continuo","(Acte III, Alexander's Feast, HWV 75)
 Texte: Thomas Morell after ""The Judgement of Hercules"" de Robert Lowth, 1747"
-70,HWV 70,,1751,Jephtha,Oratorio,,,"S: Iphis, Ange, MS: Storge, A: Hamor, T: Jephtha, B: Zebul), Choir (SSATB), Transverse Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, 3 Violins, Viola, Basso Continuo",Texte: Thomas Morell
-71,HWV 71,,1756,The Triumph of Time and Truth,Oratorio,,,"S: Beauté, Déception, A: Conseil/Vérité, T: Plaisir, B: Temps), Choir (SSSAATB), 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, Cello, Basso Continuo",Texte: Benedetto Pamphili
-72,HWV 72,,1708,"Aci, Galatea e Polifrmo",Serenata,,,"S: Aci, A: Galatea, B: Polifemo), Flute, 2 Oboes, 2 Trumpets, 2 Violins, Viola, 2 Cellos, Basso Continuo",
-73,HWV 73,,1734,Il Parnasso in festa per gli sponsali di Teti e Peleo,Serenata,,,"S: Orfeo, Clio, MS: Apollo, A: Calliope, Cloride, Eurilla, Euterpe, B: Proteo, Marte), Choir (SSATB), 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso Continuo",
-74,HWV 74,,1713/4,Eternal source of light divine,Serenata,,,"S, A/T, B), Choir I (SATB), Choir II (SATB), 2 Oboes, 2 Trumpets, 2 Violins, Viola, Basso Continuo","Anniversaire de naissance de la reine Anne
+70.000 ,HWV 70,,1751,Jephtha,Oratorio,,,"S: Iphis, Ange, MS: Storge, A: Hamor, T: Jephtha, B: Zebul), Choir (SSATB), Transverse Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, 3 Violins, Viola, Basso Continuo",Texte: Thomas Morell
+71.000 ,HWV 71,,1756,The Triumph of Time and Truth,Oratorio,,,"S: Beauté, Déception, A: Conseil/Vérité, T: Plaisir, B: Temps), Choir (SSSAATB), 2 Flutes, 2 Transverse Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, Viola, Cello, Basso Continuo",Texte: Benedetto Pamphili
+72.000 ,HWV 72,,1708,"Aci, Galatea e Polifrmo",Serenata,,,"S: Aci, A: Galatea, B: Polifemo), Flute, 2 Oboes, 2 Trumpets, 2 Violins, Viola, 2 Cellos, Basso Continuo",
+73.000 ,HWV 73,,1734,Il Parnasso in festa per gli sponsali di Teti e Peleo,Serenata,,,"S: Orfeo, Clio, MS: Apollo, A: Calliope, Cloride, Eurilla, Euterpe, B: Proteo, Marte), Choir (SSATB), 2 Transverse Flutes, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso Continuo",
+74.000 ,HWV 74,,1713/4,Eternal source of light divine,Serenata,,,"S, A/T, B), Choir I (SATB), Choir II (SATB), 2 Oboes, 2 Trumpets, 2 Violins, Viola, Basso Continuo","Anniversaire de naissance de la reine Anne
 Texte: Ambrose Philips"
-75,HWV 75,,1736,Alexander's Feast or the Power of Musick,Ode,,,"SATB), SSATTBB Choir, 2 Flutes, 2 Oboes, 3 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, 2 Violas, Cello, Organ, Basso Continuo","En l'honneur de Ste-Cécile
+75.000 ,HWV 75,,1736,Alexander's Feast or the Power of Musick,Ode,,,"SATB), SSATTBB Choir, 2 Flutes, 2 Oboes, 3 Bassoons, 2 Horns, 2 Trumpets, Timpani, 3 Violins, 2 Violas, Cello, Organ, Basso Continuo","En l'honneur de Ste-Cécile
 Texte: John Dryden"
-76,HWV 76,,1739,"From Harmony, from heav'nly Harmony",Ode,,,"S, T, SATB Choir, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, Tambourine, 2 Violins, Viola, Cello, Double Bass, Lute, Organ","Pour le jour de la fête de Ste-Cécile
+76.000 ,HWV 76,,1739,"From Harmony, from heav'nly Harmony",Ode,,,"S, T, SATB Choir, Transverse Flute, 2 Oboes, Bassoon, 2 Trumpets, Tambourine, 2 Violins, Viola, Cello, Double Bass, Lute, Organ","Pour le jour de la fête de Ste-Cécile
 Texte: John Dryden"
-77,HWV 77,,,Ah! che pur troppo e vero,Cantata,,,"S, Basso Continuo",
-78,HWV 78,,,"Ah! crudel, nel pianto mio",Cantata,,,"S, 2 Oboes, 2 Violins, Viola, Basso Continuo",
-79,HWV 79,,,Diana cacciatrice: Alla caccia,Cantata,,,"S, S Choir, Trumpet, 2 Violins, Basso Continuo",
-80,HWV 80,,,Allor ch'io dissi addio,Cantata,,,"S, Basso Continuo",
-81,HWV 81,,,Alpestre monte,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-82,HWV 82,,,Il Duello amoroso/Daliso ed Amarilli: Amarilli vezzosa,Cantata,,,"S, A, Strings (2 Violins), Basso Continuo",
-83,HWV 83,,,Amiante e Fillide: Arrista il passo,Cantata,,,"S1, S2, Strings (3 Violins, Viola), Basso Continuo",
-84,HWV 84,,,"Aure soavi, e lieti",Cantata,,,"S, Basso Continuo",
-85,HWV 85,,,Venus and Adonis: Behold where Venus weeping stands,Cantata,,,"S, Violin, Basso Continuo",
-86,HWV 86,,,Bella ma ritrosetta,Cantata,,,"S, Basso Continuo",
-87,HWV 87,,,Carco sempre di gloria,Cantata,,,"A, Strings (2 Violins), Basso Continuo",
-88,HWV 88,,,"Care selve, aure grate",Cantata,,,"S, Basso Continuo",
-89,HWV 89,,,"Cecilia, vogli un sguardo",Cantata,,,"S, T, Strings (2 Violins, Viola), Basso Continuo",
-90,HWV 90,,,Chi rapi la pace al core,Cantata,,,"S, Basso Continuo",
-92,HWV 92,,,"Clori, mia bella Clori",Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-93,HWV 93,,,"Clori, ove sei?",Cantata,,,"S, Basso Continuo",
-94,HWV 94,,,"Clori, si, ch'io t'adoro",Cantata,,,"S, Basso Continuo",
-95,HWV 95,,,"Clori, vezzosa Clori",Cantata,,,"S, Basso Continuo",
-96,HWV 96,,,"Clori, Tirsi e Fileno: Cor fedele in vano speri",Cantata,,,"S1, S2, A, 2 Flutes, 2 Oboes, Violin obbligato, 2 Violins, 2 Violas, Lute, Basso Continuo",
-100,HWV 100,,,Da sete ardente afflitto,Cantata,,,"S, Basso Continuo",
-103,HWV 103,,,Deh! lasciate e vita e volo,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
-104,HWV 104,,,Del bio idolo mio,Cantata,,,"S, Basso Continuo",
-105,HWV 105,,,Armida abbandonata: Dietro l'orme fugaci,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-106,HWV 106,,,"Dimmi, o mio cor",Cantata,,,"S, Basso Continuo",
-107,HWV 107,,,"Ditemi, o piante",Cantata,,,"S, Basso Continuo",
-108,HWV 108,,,"Dolce mio ben, s'io taccio",Cantata,,,"S, Basso Continuo",
-109.1,HWV 109a,,,Dolce pur d'amor l'affanno,Cantata,,,"A, Basso Continuo",[1st version]
-109.2,HWV 109b,,,Dolce pur d'amor l'affanno,Cantata,,,"S, Basso Continuo",[2nd version]
-110.1,HWV 110,,,Agrippina condotta a morire: Dunque sara pur vero,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-111.1,HWV 111a,,,"E partirai, mia vita?",Cantata,,,"S, Basso Continuo",[1st version]
-111.2,HWV 111b,,,"E partirai, mia vita?",Cantata,,,"S, Basso Continuo",[2nd version]
-112,HWV 112,,,Figli del mesto cor,Cantata,,,"A, Basso Continuo",
-113,HWV 113,,,Figlio d'alte speranze,Cantata,,,"S, Violin, Basso Continuo",
-114,HWV 114,,,Fili adorata e cara,Cantata,,,"S, Basso Continuo",
-115,HWV 115,,,Fra pensieri quel pensiero,Cantata,,,"A, Basso Continuo",
-116,HWV 116,,,Fra tante pene,Cantata,,,"S, Basso Continuo",
-117,HWV 117,,,"Hendel, non puo mia Musa",Cantata,,,"S, Basso Continuo",texte: Benedetto Pamphilj
-118,HWV 118,,,Ho fuggito Amore anch'io,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
-119,HWV 119,,,"(Io languisco fra le goije). Echeggiate, festeggiate, Numi eterni",Cantata,,,"S1, S2, S3, A, B, Flute, 2 Oboes, 2 Volins, Viola, Cello, Basso Continuo",[fragment]
-120.1,HWV 120a,,,"Irene, idolo mio",Cantata,,,"S, Basso Continuo",[1st version]
-120.2,HWV 120b,,,"Irene, idolo mio",Cantata,,,"A, Basso Continuo",[2nd version]
-121.1,HWV 121a,,,"La Solitudine: L'aure grate, il fresco rio",Cantata,,,"A, Basso Continuo","[1ère version, fragment]"
-121.2,HWV 121b,,,"La Solitudine: L'aure grate, il fresco rio",Cantata,,,"A, Basso Continuo",[2nd version]
-122,HWV 122,,,"Appolo, Dafne: La terra e liberata",Cantata,,,"S, B, Transverse Flute, 2 Oboes, Bassoon, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo",
-123,HWV 123,,,Languia di bocca lusinghiera,Cantata,,,"S, Oboe, Violin, Basso Continuo",
-124,HWV 124,,,"(The Praise od Harmony): Look down, harmonius Saint",Cantata,,,"T, Strings (2 Violins, Viola), Basso Continuo",texte: Newburg Hamilton
-125.1,HWV 125a,,,Lungi da me pensier tiranno,Cantata,,,"S, Basso Continuo",[1st version]
-126.1,HWV 126a,,,"Lungi da voi, che siete poli",Cantata,,,"S, Basso Continuo",
-127.1,HWV 127a,,,Lungi dal mio bel Nume,Cantata,,,"S, Basso Continuo",[1st version]
-128,HWV 128,,,Lungi n'ando Fileno,Cantata,,,"S, Basso Continuo",
-129,HWV 129,,,Manca pur quanto sai,Cantata,,,"S, Basso Continuo",
-130,HWV 130,,,Mentre il tutto e in furore,Cantata,,,"S, Basso Continuo",
-131,HWV 131,,,Menzognere speranze,Cantata,,,"S, Basso Continuo",
-132.1,HWV 132a,,,Mi palpita il cor,Cantata,,,"S, Basso Continuo",(2è version de HWV 106)
-133,HWV 133,,,"Ne' tuoi lumi, o bella Clori",Cantata,,,"S, Basso Continuo",
-134,HWV 134,,,Pensieri notturni di Filli: Nel dolce del'oblio,Cantata,,,"S, Flute, Basso Continuo",
-135.1,HWV 135a,,,Nel dolce tempo,Cantata,,,"S, Basso Continuo",[1st version]
-136.1,HWV 136a,,,Nell'africane selve,Cantata,,,"B, Basso Continuo",[1st version]
-137,HWV 137,,,Nella stagion che di viole e rose,Cantata,,,"S, Basso Continuo",
-138,HWV 138,,,"Nice, che fa? che pensa?",Cantata,,,"S, Basso Continuo",
-139.1,HWV 139a,,,Ninfe e pastori,Cantata,,,"S, Basso Continuo",[1st version]
-140,HWV 140,,,No se emendera jamas,Cantata,,,"S, Guitar, Basso Continuo",
-141,HWV 141,,,"Non sospirar, non piangere",Cantata,,,"S, Basso Continuo",
-142,HWV 142,,,Notte placida e cheta,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-143,HWV 143,,,"Olinto pastore, Tebro fiume, Gloria: Oh come chiare e belle",Cantata,,,"S1, S2, A, Trumpet, 2 Concertante Violins, 2 Violins, Basso Continuo",
-144,HWV 144,,,"O lucenti, o sereni occhi",Cantata,,,"S, Basso Continuo",
-145,HWV 145,,,La Lucrezia: Oh Numi eterni,Cantata,,,"S, Basso Continuo",
-146,HWV 146,,,Occhi miei che faceste?,Cantata,,,"S, Basso Continuo",
-147,HWV 147,,,"Parti, l'idolo mio",Cantata,,,"S, Basso Continuo",
-148,HWV 148,,,Poiche giuraro Amore,Cantata,,,"S, Basso Continuo",
-149,HWV 149,,,Qual sento io non conosciuto,Cantata,,,"S, Basso Continuo",
-150,HWV 150,,,"(Ero e Leandro): Qual ti riveggio, oh Dio",Cantata,,,"S, 2 Oboes, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo",texte: Pietro Ottoboni
-151,HWV 151,,,"Qualor crudele, si, ma vaga Dori",Cantata,,,"A, Basso Continuo",
-152,HWV 152,,,Qualor l'egre pupille,Cantata,,,"S, Basso Continuo",
-153,HWV 153,,,"Quando sperasti, o core",Cantata,,,"S, Basso Continuo",
-154,HWV 154,,,Quel fior che all'alba ride,Cantata,,,"S, Basso Continuo",
-155,HWV 155,,,Sans y penser,Cantata,,,"S1, S2, Basso Continuo",
-156,HWV 156,,,Sarai contenta un di,Cantata,,,"S, Basso Continuo",
-157,HWV 157,,,Sarei troppo felice,Cantata,,,"S, Basso Continuo",texte: Benedetto Pamphilj
-158.1,HWV 158a,,,Se pari e la tua fe,Cantata,,,"S, Basso Continuo",[1st version]
-159,HWV 159,,,Se per fatal destino,Cantata,,,"S, Basso Continuo",
-160.1,HWV 160a,,,"La bianca Rosa: Sei pur bella, pur vezzosa",Cantata,,,"S, Basso Continuo",[1st version]
-161.1,HWV 161a,,,Sento le che ristretto,Cantata,,,"S, Basso Continuo",[1st version]
-162,HWV 162,,,Siete rose ruggiadose,Cantata,,,"A, Basso Continuo",
-163,HWV 163,,,"Solitudini care, amata liberta",Cantata,,,"S, Basso Continuo",
-164.1,HWV 164a,,,Il Gelsomino: Son gelsomino,Cantata,,,"S, Basso Continuo",texte: Paolo Antonio Rolli
-165,HWV 165,,,Spande ancor a mio dispetto,Cantata,,,"B, Strings (2 Violins), Basso Continuo",
-166,HWV 166,,,Splenda l'alba in oriente,Cantata,,,"A, 2 Flutes, 2 Oboes, 2 Violins, Viola, Basso Continuo",
-167.1,HWV 167a,,,Stanco di piu soffrire,Cantata,,,"A, Basso Continuo",[1st version]
-168,HWV 168,,,"Partenza di Giovanni Bononcini.: Stelle, perfide stelle",Cantata,,,"S, Basso Continuo",
-169,HWV 169,,,Torna il core al suo diletto,Cantata,,,"S, Basso Continuo",
-170,HWV 170,,,Tra le fiamme (Il consiglio),Cantata,,,"S, 2 Flutes, Oboe, 2 Violins, Viola da Gamba, Basso Continuo",texte: Benedetto Pamphilj
-171,HWV 171,,,Tu fidel? tu costante?,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
-172,HWV 172,,,Udite il mio consiglio,Cantata,,,"S, Basso Continuo",
-173,HWV 173,,,Un'alma innamorata,Cantata,,,"S, Violin, Basso Continuo",
-174,HWV 174,,,Un sospir a chi si muore,Cantata,,,"S, Basso Continuo",
-175,HWV 175,,,Vedendo Amor,Cantata,,,"A, Basso Continuo",
-176,HWV 176,,,(Amore ucellatore): Venne voglia ad Amore,Cantata,,,"A, Basso Continuo",
-177,HWV 177,,,"Zefiretto, arresta il volo",Cantata,,,"S, Basso Continuo",
-200,HWV 200,,,Quel fior che all'alba ride,Terzett,,"1 Quel fior che all'alba ride
+77.000 ,HWV 77,,,Ah! che pur troppo e vero,Cantata,,,"S, Basso Continuo",
+78.000 ,HWV 78,,,"Ah! crudel, nel pianto mio",Cantata,,,"S, 2 Oboes, 2 Violins, Viola, Basso Continuo",
+79.000 ,HWV 79,,,Diana cacciatrice: Alla caccia,Cantata,,,"S, S Choir, Trumpet, 2 Violins, Basso Continuo",
+80.000 ,HWV 80,,,Allor ch'io dissi addio,Cantata,,,"S, Basso Continuo",
+81.000 ,HWV 81,,,Alpestre monte,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
+82.000 ,HWV 82,,,Il Duello amoroso/Daliso ed Amarilli: Amarilli vezzosa,Cantata,,,"S, A, Strings (2 Violins), Basso Continuo",
+83.000 ,HWV 83,,,Amiante e Fillide: Arrista il passo,Cantata,,,"S1, S2, Strings (3 Violins, Viola), Basso Continuo",
+84.000 ,HWV 84,,,"Aure soavi, e lieti",Cantata,,,"S, Basso Continuo",
+85.000 ,HWV 85,,,Venus and Adonis: Behold where Venus weeping stands,Cantata,,,"S, Violin, Basso Continuo",
+86.000 ,HWV 86,,,Bella ma ritrosetta,Cantata,,,"S, Basso Continuo",
+87.000 ,HWV 87,,,Carco sempre di gloria,Cantata,,,"A, Strings (2 Violins), Basso Continuo",
+88.000 ,HWV 88,,,"Care selve, aure grate",Cantata,,,"S, Basso Continuo",
+89.000 ,HWV 89,,,"Cecilia, vogli un sguardo",Cantata,,,"S, T, Strings (2 Violins, Viola), Basso Continuo",
+90.000 ,HWV 90,,,Chi rapi la pace al core,Cantata,,,"S, Basso Continuo",
+91.100 ,HWV 91a,,,"Clori, degli occhi miei",Cantata,,,"A, Basso Continuo",
+91.200 ,HWV 91b,,,"Clori, degli occhi miei",Cantata,,,"S, Basso Continuo",
+92.000 ,HWV 92,,,"Clori, mia bella Clori",Cantata,,,"S, Strings (2 Violins), Basso Continuo",
+93.000 ,HWV 93,,,"Clori, ove sei?",Cantata,,,"S, Basso Continuo",
+94.000 ,HWV 94,,,"Clori, si, ch'io t'adoro",Cantata,,,"S, Basso Continuo",
+95.000 ,HWV 95,,,"Clori, vezzosa Clori",Cantata,,,"S, Basso Continuo",
+96.000 ,HWV 96,,,"Clori, Tirsi e Fileno: Cor fedele in vano speri",Cantata,,,"S1, S2, A, 2 Flutes, 2 Oboes, Violin obbligato, 2 Violins, 2 Violas, Lute, Basso Continuo",
+100.000 ,HWV 100,,,Da sete ardente afflitto,Cantata,,,"S, Basso Continuo",
+101.100 ,HWV 101a,,,Dal fatale momento,Cantata,,,"S, Basso Continuo",[1st version]
+101.200 ,HWV 101b,,,Del fatale momento,Cantata,,,"B, Basso Continuo",[2nd version]
+102.100 ,HWV 102a,,,Dalla guerra amorosa,Cantata,,,"B, Basso Continuo",[1st version]
+102.200 ,HWV 102b,,,Dalla guerra amorosa,Cantata,,,"S, Basso Continuo",[2nd version]
+103.000 ,HWV 103,,,Deh! lasciate e vita e volo,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
+104.000 ,HWV 104,,,Del bio idolo mio,Cantata,,,"S, Basso Continuo",
+105.000 ,HWV 105,,,Armida abbandonata: Dietro l'orme fugaci,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
+106.000 ,HWV 106,,,"Dimmi, o mio cor",Cantata,,,"S, Basso Continuo",
+107.000 ,HWV 107,,,"Ditemi, o piante",Cantata,,,"S, Basso Continuo",
+108.000 ,HWV 108,,,"Dolce mio ben, s'io taccio",Cantata,,,"S, Basso Continuo",
+109.100 ,HWV 109a,,,Dolce pur d'amor l'affanno,Cantata,,,"A, Basso Continuo",[1st version]
+109.200 ,HWV 109b,,,Dolce pur d'amor l'affanno,Cantata,,,"S, Basso Continuo",[2nd version]
+110.100 ,HWV 110,,,Agrippina condotta a morire: Dunque sara pur vero,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
+111.100 ,HWV 111a,,,"E partirai, mia vita?",Cantata,,,"S, Basso Continuo",[1st version]
+111.200 ,HWV 111b,,,"E partirai, mia vita?",Cantata,,,"S, Basso Continuo",[2nd version]
+112.000 ,HWV 112,,,Figli del mesto cor,Cantata,,,"A, Basso Continuo",
+113.000 ,HWV 113,,,Figlio d'alte speranze,Cantata,,,"S, Violin, Basso Continuo",
+114.000 ,HWV 114,,,Fili adorata e cara,Cantata,,,"S, Basso Continuo",
+115.000 ,HWV 115,,,Fra pensieri quel pensiero,Cantata,,,"A, Basso Continuo",
+116.000 ,HWV 116,,,Fra tante pene,Cantata,,,"S, Basso Continuo",
+117.000 ,HWV 117,,,"Hendel, non puo mia Musa",Cantata,,,"S, Basso Continuo",texte: Benedetto Pamphilj
+118.000 ,HWV 118,,,Ho fuggito Amore anch'io,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
+119.000 ,HWV 119,,,"(Io languisco fra le goije). Echeggiate, festeggiate, Numi eterni",Cantata,,,"S1, S2, S3, A, B, Flute, 2 Oboes, 2 Volins, Viola, Cello, Basso Continuo",[fragment]
+120.100 ,HWV 120a,,,"Irene, idolo mio",Cantata,,,"S, Basso Continuo",[1st version]
+120.200 ,HWV 120b,,,"Irene, idolo mio",Cantata,,,"A, Basso Continuo",[2nd version]
+121.100 ,HWV 121a,,,"La Solitudine: L'aure grate, il fresco rio",Cantata,,,"A, Basso Continuo","[1ère version, fragment]"
+121.200 ,HWV 121b,,,"La Solitudine: L'aure grate, il fresco rio",Cantata,,,"A, Basso Continuo",[2nd version]
+122.000 ,HWV 122,,,"Appolo, Dafne: La terra e liberata",Cantata,,,"S, B, Transverse Flute, 2 Oboes, Bassoon, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo",
+123.000 ,HWV 123,,,Languia di bocca lusinghiera,Cantata,,,"S, Oboe, Violin, Basso Continuo",
+124.000 ,HWV 124,,,"(The Praise od Harmony): Look down, harmonius Saint",Cantata,,,"T, Strings (2 Violins, Viola), Basso Continuo",texte: Newburg Hamilton
+125.100 ,HWV 125a,,,Lungi da me pensier tiranno,Cantata,,,"S, Basso Continuo",[1st version]
+125.200 ,HWV 125b,,,Lungi da me pensier tiranno,Cantata,,,"A, Basso Continuo",[2nd version]
+126.100 ,HWV 126a,,,"Lungi da voi, che siete poli",Cantata,,,"S, Basso Continuo",
+126.200 ,HWV 126b,,,"Lungi da voi, che siete poli",Cantata,,,"S, Basso Continuo",[2nd version]
+126.300 ,HWV 126c,,,"Lungi da voi, che siete poli",Cantata,,,"A, Basso Continuo",[3rd version]
+127.100 ,HWV 127a,,,Lungi dal mio bel Nume,Cantata,,,"S, Basso Continuo",[1st version]
+127.200 ,HWV 127b,,,Lungi dal mio bel Nume,Cantata,,,"A, Basso Continuo",[2nd version]
+127.300 ,HWV 127c,,,Lungi dal mio bel Nume,Cantata,,,"S, Basso Continuo",[3rd version]
+128.000 ,HWV 128,,,Lungi n'ando Fileno,Cantata,,,"S, Basso Continuo",
+129.000 ,HWV 129,,,Manca pur quanto sai,Cantata,,,"S, Basso Continuo",
+130.000 ,HWV 130,,,Mentre il tutto e in furore,Cantata,,,"S, Basso Continuo",
+131.000 ,HWV 131,,,Menzognere speranze,Cantata,,,"S, Basso Continuo",
+132.100 ,HWV 132a,,,Mi palpita il cor,Cantata,,,"S, Basso Continuo",(2è version de HWV 106)
+132.200 ,HWV 132b,,,Mi palpita il cor,Cantata,,,"S, Oboe, Basso Continuo",[1st version]
+132.300 ,HWV 132c,,,Mi palpita il cor,Cantata,,,"A, Flute, Basso Continuo",[2nd version]
+132.400 ,HWV 132d,,,Mi palpita il cor,Cantata,,,"A, Oboe, Flute, Basso Continuo",[3rd version]
+133.000 ,HWV 133,,,"Ne' tuoi lumi, o bella Clori",Cantata,,,"S, Basso Continuo",
+134.000 ,HWV 134,,,Pensieri notturni di Filli: Nel dolce del'oblio,Cantata,,,"S, Flute, Basso Continuo",
+135.100 ,HWV 135a,,,Nel dolce tempo,Cantata,,,"S, Basso Continuo",[1st version]
+135.200 ,HWV 135b,,,Nel dolce tempo,Cantata,,,"A, Basso Continuo",[2nd version]
+136.100 ,HWV 136a,,,Nell'africane selve,Cantata,,,"B, Basso Continuo",[1st version]
+136.200 ,HWV 136b,,,Nell'africane selve,Cantata,,,"B, Basso Continuo",[2nd version]
+137.000 ,HWV 137,,,Nella stagion che di viole e rose,Cantata,,,"S, Basso Continuo",
+138.000 ,HWV 138,,,"Nice, che fa? che pensa?",Cantata,,,"S, Basso Continuo",
+139.100 ,HWV 139a,,,Ninfe e pastori,Cantata,,,"S, Basso Continuo",[1st version]
+139.200 ,HWV 139b,,,Ninfe e pastori,Cantata,,,"A, Basso Continuo",[2nd version]
+139.300 ,HWV 139c,,,Ninfe e pastori,Cantata,,,"S, Basso Continuo",[3rd version]
+140.000 ,HWV 140,,,No se emendera jamas,Cantata,,,"S, Guitar, Basso Continuo",
+141.000 ,HWV 141,,,"Non sospirar, non piangere",Cantata,,,"S, Basso Continuo",
+142.000 ,HWV 142,,,Notte placida e cheta,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
+143.000 ,HWV 143,,,"Olinto pastore, Tebro fiume, Gloria: Oh come chiare e belle",Cantata,,,"S1, S2, A, Trumpet, 2 Concertante Violins, 2 Violins, Basso Continuo",
+144.000 ,HWV 144,,,"O lucenti, o sereni occhi",Cantata,,,"S, Basso Continuo",
+145.000 ,HWV 145,,,La Lucrezia: Oh Numi eterni,Cantata,,,"S, Basso Continuo",
+146.000 ,HWV 146,,,Occhi miei che faceste?,Cantata,,,"S, Basso Continuo",
+147.000 ,HWV 147,,,"Parti, l'idolo mio",Cantata,,,"S, Basso Continuo",
+148.000 ,HWV 148,,,Poiche giuraro Amore,Cantata,,,"S, Basso Continuo",
+149.000 ,HWV 149,,,Qual sento io non conosciuto,Cantata,,,"S, Basso Continuo",
+150.000 ,HWV 150,,,"(Ero e Leandro): Qual ti riveggio, oh Dio",Cantata,,,"S, 2 Oboes, Solo Violin, 2 Violins, Viola, Solo Cello, Basso Continuo",texte: Pietro Ottoboni
+151.000 ,HWV 151,,,"Qualor crudele, si, ma vaga Dori",Cantata,,,"A, Basso Continuo",
+152.000 ,HWV 152,,,Qualor l'egre pupille,Cantata,,,"S, Basso Continuo",
+153.000 ,HWV 153,,,"Quando sperasti, o core",Cantata,,,"S, Basso Continuo",
+154.000 ,HWV 154,,,Quel fior che all'alba ride,Cantata,,,"S, Basso Continuo",
+155.000 ,HWV 155,,,Sans y penser,Cantata,,,"S1, S2, Basso Continuo",
+156.000 ,HWV 156,,,Sarai contenta un di,Cantata,,,"S, Basso Continuo",
+157.000 ,HWV 157,,,Sarei troppo felice,Cantata,,,"S, Basso Continuo",texte: Benedetto Pamphilj
+158.100 ,HWV 158a,,,Se pari e la tua fe,Cantata,,,"S, Basso Continuo",[1st version]
+158.200 ,HWV 158b,,,Se pari e la tua fe,Cantata,,,"S, Basso Continuo",[2nd version]
+158.300 ,HWV 158c,,,Se pari e la tua fe,Cantata,,,"S, Basso Continuo",[3rd version]
+159.000 ,HWV 159,,,Se per fatal destino,Cantata,,,"S, Basso Continuo",
+160.100 ,HWV 160a,,,"La bianca Rosa: Sei pur bella, pur vezzosa",Cantata,,,"S, Basso Continuo",[1st version]
+160.200 ,HWV 160b,,,"La bianca Rosa: Sei pur bella, pur vezzosa",Cantata,,,"S, Basso Continuo",[2nd version]
+160.300 ,HWV 160c,,,"La bianca Rosa: Sei pur bella, pur vezzosa",Cantata,,,"S, Basso Continuo",[3rd version]
+161.100 ,HWV 161a,,,Sento le che ristretto,Cantata,,,"S, Basso Continuo",[1st version]
+161.200 ,HWV 161b,,,Sento la che ristretto,Cantata,,,"A, Basso Continuo",[2nd version]
+161.300 ,HWV 161c,,,Sento la che ristretto,Cantata,,,"S, Basso Continuo",[3rd version]
+162.000 ,HWV 162,,,Siete rose ruggiadose,Cantata,,,"A, Basso Continuo",
+163.000 ,HWV 163,,,"Solitudini care, amata liberta",Cantata,,,"S, Basso Continuo",
+164.100 ,HWV 164a,,,Il Gelsomino: Son gelsomino,Cantata,,,"S, Basso Continuo",texte: Paolo Antonio Rolli
+164.200 ,HWV 164b,,,Il Gelsomino: Son gelsomino,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
+165.000 ,HWV 165,,,Spande ancor a mio dispetto,Cantata,,,"B, Strings (2 Violins), Basso Continuo",
+166.000 ,HWV 166,,,Splenda l'alba in oriente,Cantata,,,"A, 2 Flutes, 2 Oboes, 2 Violins, Viola, Basso Continuo",
+167.100 ,HWV 167a,,,Stanco di piu soffrire,Cantata,,,"A, Basso Continuo",[1st version]
+167.200 ,HWV 167b,,,Stando di piu soffrire,Cantata,,,"S, Basso Continuo",[2nd version]
+168.000 ,HWV 168,,,"Partenza di Giovanni Bononcini.: Stelle, perfide stelle",Cantata,,,"S, Basso Continuo",
+169.000 ,HWV 169,,,Torna il core al suo diletto,Cantata,,,"S, Basso Continuo",
+170.000 ,HWV 170,,,Tra le fiamme (Il consiglio),Cantata,,,"S, 2 Flutes, Oboe, 2 Violins, Viola da Gamba, Basso Continuo",texte: Benedetto Pamphilj
+171.000 ,HWV 171,,,Tu fidel? tu costante?,Cantata,,,"S, Strings (2 Violins), Basso Continuo",
+172.000 ,HWV 172,,,Udite il mio consiglio,Cantata,,,"S, Basso Continuo",
+173.000 ,HWV 173,,,Un'alma innamorata,Cantata,,,"S, Violin, Basso Continuo",
+174.000 ,HWV 174,,,Un sospir a chi si muore,Cantata,,,"S, Basso Continuo",
+175.000 ,HWV 175,,,Vedendo Amor,Cantata,,,"A, Basso Continuo",
+176.000 ,HWV 176,,,(Amore ucellatore): Venne voglia ad Amore,Cantata,,,"A, Basso Continuo",
+177.000 ,HWV 177,,,"Zefiretto, arresta il volo",Cantata,,,"S, Basso Continuo",
+200.000 ,HWV 200,,,Quel fior che all'alba ride,Terzett,,"1 Quel fior che all'alba ride
 trio, en fa majeur, pour 2 sopranos, basse, Basso Continuo
 
 
 2 L'occaso ha nell'aurora
 trio, en ré mineur, pour 2 sopranos, basse, Basso Continuo","S1, S2, B, Basso Continuo",[trio # 2]
-201,HWV 201,,,Se tu non lasci amore,Terzett,,"1 Se tu non lasci amore
+201.000 ,HWV 201,,,Se tu non lasci amore,Terzett,,"1 Se tu non lasci amore
 trio en sol mineur, pour 2 sopranos, basse, Basso Continuo
 2 Quando non ho piu core
 trio, en do mineur, pour 2 sopranos, basse, Basso Continuo","S1, S2, B, Basso Continuo",[trio # 1 - 2 versions]
-202,HWV 202,,,Kunft'ger Zeiten eitler Kummer,Aria,E-flat major,,"S, Basso Continuo",texte: Barthold Heinrich Brockes
-203,HWV 203,,,Das zitternde Glanzen,Aria,E-flat major,,"S, Basso Continuo",texte: Bathold Heinrich Brockes
-204,HWV 204,,,Susser Blumen Ambraflocken,Aria,G minor,[Andante],"S, Basso Continuo",texte: Bathold Heinrich Brockes
-205,HWV 205,,,"Susse Stille, sanfte Quelle ruhiger Gelassenheit!",Aria,F major,[Larghetto],"S, Basso Continuo",texte: Bathold Heinrich Brockes
-206,HWV 206,,,"Singe, Seele, Gott zum Preise",Aria,A minor,,"S, Basso Continuo",texte: Bathold Heinrich Brockes
-207,HWV 207,,,Meinte Seele hort in Sehen,Aria,B-flat major,[Andante],"S, Basso Continuo",texte: Bathold Heinrich Brockes
-208,HWV 208,,,Die ihr aud dunkeln Gruften den eiteln Mammon grabt,Aria,B-flat major,[Larghetto],"S, Basso Continuo",Bathold Heinrich Brockes
-209,HWV 209,,,In den angenehmen Buschen,Aria,D minor,,"S, Basso Continuo",Bathold Heinrich Brockes
-210,HWV 210,,,"Flammende Rose, Zierde der Erden",Aria,A major,,"S, Basso Continuo",Bathold Heinrich Brockes
-211,HWV 211,,,"Aure dolci, deh, spirate",Aria,G major,,"A, Strings (2 Violins, Viola), Basso Continuo",
-212,HWV 212,,,Con doppia gloria mia,Aria,G major,[Larghetto e staccato],"S, Strings (2 Violins), Basso Continuo",
-213,HWV 213,,,Con lacrime si belle,Aria,F major,,"A, 2 Oboes, 2 Violins, Cello, Basso Continuo",
-214,HWV 214,,,Dell'onda instabile,Aria,A minor,,"A, Flute, Basso Continuo",
-215,HWV 215,,,Con valor del vostro brando,Aria,F major,,"S, 2 Violins, Cello, Bassoon, Double Bass, Harpsichord","[voir HWV 6 (42), 119 (10), 122 (6)]"
-216,HWV 216,,,Impari del mio core,Aria,F major,,"S, Basso Continuo","[voir HWV 45 (10), 69 (11)]"
-217,HWV 217,,,"L'odio, si, ma poi ritrovo",Aria,E minor,,"A, Strings (2 Unison Violins), Basso Continuo",[fragment]
-218,HWV 218,,,Love's but the frailty of the mind,English Songs,F major,[Andante],"S, Basso Continuo",William Congreve
-219,HWV 219,,,Non so se avrai mai bene,Aria,C minor,,"S, Basso Continuo",
-220,HWV 220,,,Per dar pace al mio tormento,Aria,A minor,[Largo],"S, Basso Continuo",[fragment]
-221,HWV 221,,,Quant'invidio tua fortuna,Aria,G minor,,"S, Basso Continuo",
-222,HWV 222,,,Quanto piu amara fu sorte crudele,Aria,D major,[Larghetto],"S, Strings (2 Violins, Viola), Basso Continuo",
-223,HWV 223,,,"S'un di m'appaga, la mia crudele",Aria,G major,[Andante allegro],"S, Strings (2 Violins à l'unisson), Basso Continuo",
-224,HWV 224,,,"Si, crudel, tornera",Aria,G major,,"S, Strings (2 Violins à l'unisson), Basso Continuo",[fragment]
-225,HWV 225,,,Spera chi sa perche la sorte,Aria,B-flat major,,"A, 2 Oboes, 2 Violins, Viola, Basso Continuo",[fragment]
-226,HWV 226,,,The morning is charming,English Songs,,,"S, Basso Continuo","[voir HWV 58, Anh 55]
+202.000 ,HWV 202,,,Kunft'ger Zeiten eitler Kummer,Aria,E-flat major,,"S, Basso Continuo",texte: Barthold Heinrich Brockes
+203.000 ,HWV 203,,,Das zitternde Glanzen,Aria,E-flat major,,"S, Basso Continuo",texte: Bathold Heinrich Brockes
+204.000 ,HWV 204,,,Susser Blumen Ambraflocken,Aria,G minor,[Andante],"S, Basso Continuo",texte: Bathold Heinrich Brockes
+205.000 ,HWV 205,,,"Susse Stille, sanfte Quelle ruhiger Gelassenheit!",Aria,F major,[Larghetto],"S, Basso Continuo",texte: Bathold Heinrich Brockes
+206.000 ,HWV 206,,,"Singe, Seele, Gott zum Preise",Aria,A minor,,"S, Basso Continuo",texte: Bathold Heinrich Brockes
+207.000 ,HWV 207,,,Meinte Seele hort in Sehen,Aria,B-flat major,[Andante],"S, Basso Continuo",texte: Bathold Heinrich Brockes
+208.000 ,HWV 208,,,Die ihr aud dunkeln Gruften den eiteln Mammon grabt,Aria,B-flat major,[Larghetto],"S, Basso Continuo",Bathold Heinrich Brockes
+209.000 ,HWV 209,,,In den angenehmen Buschen,Aria,D minor,,"S, Basso Continuo",Bathold Heinrich Brockes
+210.000 ,HWV 210,,,"Flammende Rose, Zierde der Erden",Aria,A major,,"S, Basso Continuo",Bathold Heinrich Brockes
+211.000 ,HWV 211,,,"Aure dolci, deh, spirate",Aria,G major,,"A, Strings (2 Violins, Viola), Basso Continuo",
+212.000 ,HWV 212,,,Con doppia gloria mia,Aria,G major,[Larghetto e staccato],"S, Strings (2 Violins), Basso Continuo",
+213.000 ,HWV 213,,,Con lacrime si belle,Aria,F major,,"A, 2 Oboes, 2 Violins, Cello, Basso Continuo",
+214.000 ,HWV 214,,,Dell'onda instabile,Aria,A minor,,"A, Flute, Basso Continuo",
+215.000 ,HWV 215,,,Con valor del vostro brando,Aria,F major,,"S, 2 Violins, Cello, Bassoon, Double Bass, Harpsichord","[voir HWV 6 (42), 119 (10), 122 (6)]"
+216.000 ,HWV 216,,,Impari del mio core,Aria,F major,,"S, Basso Continuo","[voir HWV 45 (10), 69 (11)]"
+217.000 ,HWV 217,,,"L'odio, si, ma poi ritrovo",Aria,E minor,,"A, Strings (2 Unison Violins), Basso Continuo",[fragment]
+218.000 ,HWV 218,,,Love's but the frailty of the mind,English Songs,F major,[Andante],"S, Basso Continuo",William Congreve
+219.000 ,HWV 219,,,Non so se avrai mai bene,Aria,C minor,,"S, Basso Continuo",
+220.000 ,HWV 220,,,Per dar pace al mio tormento,Aria,A minor,[Largo],"S, Basso Continuo",[fragment]
+221.000 ,HWV 221,,,Quant'invidio tua fortuna,Aria,G minor,,"S, Basso Continuo",
+222.000 ,HWV 222,,,Quanto piu amara fu sorte crudele,Aria,D major,[Larghetto],"S, Strings (2 Violins, Viola), Basso Continuo",
+223.000 ,HWV 223,,,"S'un di m'appaga, la mia crudele",Aria,G major,[Andante allegro],"S, Strings (2 Violins à l'unisson), Basso Continuo",
+224.000 ,HWV 224,,,"Si, crudel, tornera",Aria,G major,,"S, Strings (2 Violins à l'unisson), Basso Continuo",[fragment]
+225.000 ,HWV 225,,,Spera chi sa perche la sorte,Aria,B-flat major,,"A, 2 Oboes, 2 Violins, Viola, Basso Continuo",[fragment]
+226.000 ,HWV 226,,,The morning is charming,English Songs,,,"S, Basso Continuo","[voir HWV 58, Anh 55]
 texte:Charles Legh"
-227,HWV 227,,,Vo' cercando tra fiori,Aria,F major,[Allegro],"S, Strings (2 Violins), Basso Continuo",
-228,HWV 228,,,24 English Songs,English Songs,,,"S, Basso Continuo",
-229,HWV 229,,,"Cantates d'église ""Hallesche""",,,,,[Perdues]
-230,HWV 230,,,Ah! che troppo inegnali / O del ciel! Maria Regina,,,,"récitatif et air pour voix solo, cordes (2 violons et alto) et basse continue",texte: inconnu
-231,HWV 231,,,Coelestis dum spirat aura,Motet,,,soprano avec cordes (2 violons) et basse continue,"pour la fête de St. Antoine de Padoue
+227.000 ,HWV 227,,,Vo' cercando tra fiori,Aria,F major,[Allegro],"S, Strings (2 Violins), Basso Continuo",
+228.000 ,HWV 228,,,24 English Songs,English Songs,,,"S, Basso Continuo",
+228.010 ,HWV 228/1,,,The unhappy Lovers: As Celia's fatal arrow flew,English Songs,D minor,,"S, Basso Continuo",
+228.020 ,HWV 228/2,,,Charming Cloris: Ask not the cause/The poor Shephard: The Sun was sunk beneath the Hills,English Songs,E minor,,"S, Basso Continuo",
+228.030 ,HWV 228/3,,,As on a Sunshine Summer's Day,English Songs,C minor,,S a cappella,texte: Benjamin Griffin
+228.040 ,HWV 228/4,,,Bacchus Speech in Praise of Wine: Bacchus one day gayly striding,English Songs,F major,,"S, Basso Continuo",texte: Mr. Phillips
+228.050 ,HWV 228/5,,,The Polish Minuet or Miss Kitty Grevil's Delight: Charming is your shape and air,English Songs,G major,,"S, Basso Continuo",
+228.060 ,HWV 228/6,,,The Sailor's Complaint: Come and listen to my ditty/Hosier's Ghost: A near Portobello lying,English Songs,G minor,,"S, Basso Continuo",
+228.070 ,HWV 228/7,,,"Di godere ha speranza il mio core/Oh my dearest, my lovely creature",English Songs,G major,,"S, Basso Continuo",
+228.080 ,HWV 228/8,,,The forsaken Maid's Complaint: Faithless ungrateful/The slighted Swain: Cloe proves false,English Songs,A major,,"S, Basso Continuo",texte: inconnu/Abraham Bradley
+228.090 ,HWV 228/9,,,From scourging rebellion,English Songs,C major,,"S, Basso Continuo",texte: John Lockman
+228.100 ,HWV 228/10,,,The foresaken Nymph: Guardian Angels now protect me,English Songs,F major,,"S, Basso Continuo",
+228.110 ,HWV 228/11,,,I Like the am'rous Youth that's free,English Songs,F major,,"S, Basso Continuo",texte: James Miller
+228.120 ,HWV 228/12,,,"Phillis: My fair, ye Swains, is gone astray",English Songs,G major,,"S, Basso Continuo",
+228.130 ,HWV 228/13,,,"Not, Cloe, that I better am",English Songs,G major,,"S, Basso Continuo",
+228.140 ,HWV 228/14,,,Strephon's Complain of Love: Oh cruel tyrant Love,English Songs,E minor,,"S, Basso Continuo",
+228.150 ,HWV 228/15,,,The Satyr's Advice to a Stock-Jobber: On the shore of a low ebbing sea/Ye Swains that are courting a Maid/Molly Mogg: Says my uncle I pray you discover,English Songs,G major,,"S, Basso Continuo",
+228.160 ,HWV 228/16,,,Phillis be Kind and hear,English Songs,A major,,"S, Basso Continuo",texte: Mr. Paratt
+228.170 ,HWV 228/17,,,Phillis advised: Phillis the lovely,English Songs,G major,,"S, Basso Continuo",
+228.180 ,HWV 228/18,,,"Stand around, my brave boys",English Songs,D major,,"S, Basso Continuo",
+228.190 ,HWV 228/19,,,The faithful Maid/The melancholly Nymph: 'Twas when the seas were roaring,English Songs,G minor,,"S, Basso Continuo",texte: John Gay
+228.200 ,HWV 228/20,,,The Rupture/Matchless Clarinda: When I survey Clarinda's charms/Venus now leaves,English Songs,G minor,,"S, Basso Continuo",texte: B. (Bradley ?)
+228.210 ,HWV 228/21,,,The Death of the Stag: When Phoebus the tops of the Hills does adorn,English Songs,G major,,"2 voix (Violins, Flutes ou Horns), Basso Continuo",
+228.220 ,HWV 228/22,,,Who to win a Woman's favour,English Songs,G minor,,"S, Basso Continuo",[voir HWV 1 (25)]
+228.230 ,HWV 228/23,,,An Answer to Collin's Complaint: Ye winds to whome Collin complains,English Songs,G minor,,S a cappella,
+228.240 ,HWV 228/24,,,"Yes, I'm in love",English Songs,G minor,,"S, Basso Continuo",texte: W. Whitehead
+229.000 ,HWV 229,,,"Cantates d'église ""Hallesche""",,,,,[Perdues]
+229.100 ,HWV 229/1,,,Das gantze Haupt ist krank,,,,à 8,[pour les 14e et 19è dimanches après la Trinité]
+229.200 ,HWV 229/2,,,"Es ist der alte Bund, Mensch",,,,à 12,[pour les 16è et 24è dimanches après la Tirnité]
+229.300 ,HWV 229/3,,,"Furwahr, er trug unsere Krankheit",,,,à 15,
+229.400 ,HWV 229/4,,,Thue Rechnung von dinem Hausshalten,,,,à 13,[pour les 9è et 22è dimanches après la Trinité]
+229.500 ,HWV 229/5,,,Victoria. Der Tod ist verschlungen (in den Sieg),,,,à 14,[pour la fête de Pâques]
+229.600 ,HWV 229/6,,,Was werden wir essen,,,,à 10/12,[pour le 4è dimanche du Carême ainsi que les 7è et 15è dimanches après la Trinité]
+229.700 ,HWV 229/7,,,"Wer ist der, so von Edom kommt",,,,à 12,[pour le 1er dimanche du Carême]
+230.000 ,HWV 230,,,Ah! che troppo inegnali / O del ciel! Maria Regina,,,,"récitatif et air pour voix solo, cordes (2 violons et alto) et basse continue",texte: inconnu
+231.000 ,HWV 231,,,Coelestis dum spirat aura,Motet,,,soprano avec cordes (2 violons) et basse continue,"pour la fête de St. Antoine de Padoue
 texte: inconnu"
-232,HWV 232,,,Dixit Dominus Domino meo,,,,"concert spirituel pour solistes SA), chœur (SSATB) avec cordes (2 violons, 2 altos, violoncelle) et basse continue",[Psaume 109]
-233,HWV 233,,,"Donna, che in ciel di tanta luce splendi",Cantata,,,"cantate pour soprano solo, choeur (SATB) avec cordes (2 violons, alto) et basse continue","pour l'anniversaire de la libération de Rome d'un tremblement de terre pour la journée de la Purification de la Sainte-Vierge
+232.000 ,HWV 232,,,Dixit Dominus Domino meo,,,,"concert spirituel pour solistes SA), chœur (SSATB) avec cordes (2 violons, 2 altos, violoncelle) et basse continue",[Psaume 109]
+233.000 ,HWV 233,,,"Donna, che in ciel di tanta luce splendi",Cantata,,,"cantate pour soprano solo, choeur (SATB) avec cordes (2 violons, alto) et basse continue","pour l'anniversaire de la libération de Rome d'un tremblement de terre pour la journée de la Purification de la Sainte-Vierge
 texte: inconnu"
-234,HWV 234,,,Il Pianto di Maria: Giunta l'ora fatal,Cantata,,,"cantate sacrée pour soprano solo avec cordes (4 violons, alto) et basse continue","[pour être exécuté devant le Saint-Sépulcre]
+234.000 ,HWV 234,,,Il Pianto di Maria: Giunta l'ora fatal,Cantata,,,"cantate sacrée pour soprano solo avec cordes (4 violons, alto) et basse continue","[pour être exécuté devant le Saint-Sépulcre]
 texte: inconnu
 [Authenticité faible]"
-235,HWV 235,,,Haec est Regina Virginum,Antienne,G major,,"antienne, en sol majeur, pour soprano solo avec cordes (2 violons, alto) et orgue",texte: inconnu
-236,HWV 236,,,Laudate pueri Dominum,,,,"concert spirituel pour soprano solo, cordes (2 violons) et basse continue","[Psaume 112]
+235.000 ,HWV 235,,,Haec est Regina Virginum,Antienne,G major,,"antienne, en sol majeur, pour soprano solo avec cordes (2 violons, alto) et orgue",texte: inconnu
+236.000 ,HWV 236,,,Laudate pueri Dominum,,,,"concert spirituel pour soprano solo, cordes (2 violons) et basse continue","[Psaume 112]
 [1ère version]"
-237,HWV 237,,,Laudate pueri Dominum,,,,"concert spirituel pour soprano solo et choeur (SSATB), avec orchestre (2 hautbois, 2 violons, 2 altos) et basse continue","[Psaume 112]
+237.000 ,HWV 237,,,Laudate pueri Dominum,,,,"concert spirituel pour soprano solo et choeur (SSATB), avec orchestre (2 hautbois, 2 violons, 2 altos) et basse continue","[Psaume 112]
 [2è version]"
-238,HWV 238,,,Nisi Dominus / Gloria Patri,,,,"concert spirituel pour solistes (alto, ténor et basse) et double chœur (SATB,SATB) avec double orchestre (2 violons, alto et basse continue; 2 violons, alto, orgue, contrebasse et basse continue)",[Psaume 126]
-239,HWV 239,,,O qualis de coelo sonus,Motet,,,soprano solo avec cordes (2 violons) et basse continue,texte: inconnu
-240,HWV 240,,,Saeviat tellus inter rigores,Motet,,,"soprano solo avec orchestre (2 hautbois, 2 violons, alto) et basse continue","pour la Madonne très sainte de Carmine
+238.000 ,HWV 238,,,Nisi Dominus / Gloria Patri,,,,"concert spirituel pour solistes (alto, ténor et basse) et double chœur (SATB,SATB) avec double orchestre (2 violons, alto et basse continue; 2 violons, alto, orgue, contrebasse et basse continue)",[Psaume 126]
+239.000 ,HWV 239,,,O qualis de coelo sonus,Motet,,,soprano solo avec cordes (2 violons) et basse continue,texte: inconnu
+240.000 ,HWV 240,,,Saeviat tellus inter rigores,Motet,,,"soprano solo avec orchestre (2 hautbois, 2 violons, alto) et basse continue","pour la Madonne très sainte de Carmine
 texte: inconnu"
-241,HWV 241,,,Salve Regina,,,,"concert spirituel pour soprano solo avec cordes (2 violons, violoncelle) et orgue",[antienne et psaume]
-242,HWV 242,,,Silete venti,Motet,,,"soprano solo avec orrchestre (2 hautbois, basson, 2 violons, alto, violoncelle) et basse continue",texte: inconnu
-243,HWV 243,,,Te decus virginum,Antienne,,,antienne pour alto solo avec instruments,[Perdue]
-244,HWV 244,,,Kyrie eleison,,,,"4 voix (SATB) avec cordes (2 violons, 2 altos) et basse continue",
-245,HWV 245,,,Gloria in excelsis Deo,,,,"5-6 voix (SSATTB) avec orchestre (hautbois, trompette, 2 violons, 2 altos), orgue et basse continue",
-269,HWV 269,,,"Amen, Alleluja",Antienne,D minor,,"S, Basso Continuo",
-270,HWV 270,,,Amen,Antienne,F major,,"S, Basso Continuo",
-271,HWV 271,,,"Amen, Alleluja",Antienne,G minor,,"S, Basso Continuo",
-272,HWV 272,,,"Alleluja, Amen",Antienne,D minor,"1 Alleluja, Amen
+241.000 ,HWV 241,,,Salve Regina,,,,"concert spirituel pour soprano solo avec cordes (2 violons, violoncelle) et orgue",[antienne et psaume]
+242.000 ,HWV 242,,,Silete venti,Motet,,,"soprano solo avec orrchestre (2 hautbois, basson, 2 violons, alto, violoncelle) et basse continue",texte: inconnu
+243.000 ,HWV 243,,,Te decus virginum,Antienne,,,antienne pour alto solo avec instruments,[Perdue]
+244.000 ,HWV 244,,,Kyrie eleison,,,,"4 voix (SATB) avec cordes (2 violons, 2 altos) et basse continue",
+245.000 ,HWV 245,,,Gloria in excelsis Deo,,,,"5-6 voix (SSATTB) avec orchestre (hautbois, trompette, 2 violons, 2 altos), orgue et basse continue",
+269.000 ,HWV 269,,,"Amen, Alleluja",Antienne,D minor,,"S, Basso Continuo",
+270.000 ,HWV 270,,,Amen,Antienne,F major,,"S, Basso Continuo",
+271.000 ,HWV 271,,,"Amen, Alleluja",Antienne,G minor,,"S, Basso Continuo",
+272.000 ,HWV 272,,,"Alleluja, Amen",Antienne,D minor,"1 Alleluja, Amen
 antienne, en ré mineur
 [Largo]","S, Basso Continuo",
-273,HWV 273,,,"Alleluja, Amen",Antienne,G major,"1 Alleluja, Amen
+273.000 ,HWV 273,,,"Alleluja, Amen",Antienne,G major,"1 Alleluja, Amen
 antienne, en sol majeur
 [Andante]","S, Basso Continuo",
-274,HWV 274,,,"Alleluja, Amen",Antienne,A minor,,"S, Basso Continuo",
-275,HWV 275,,,"Amen, Alleluja",Antienne,C major,,"S, Basso Continuo",
-276,HWV 276,,,"Amen, Halleluja",Antienne,F major,,"S, Basso Continuo",
-277,HWV 277,,,"Halleluja, Amen",Antienne,F major,,"S, Basso Continuo",
-278,HWV 278,,,Te Deum,Hymn,,,"solistes (SSAATB) et choeur (SSAATTB) avec orchestre (flûte traversière, 2 hautbois, basson, 2 trompettes, 4 violons, alto, violoncelle), orgue et basse continue",pour le traité d'Utrecht
-279,HWV 279,,,Jubilate (O be joyful),Hymn,,,"solistes (AAB) et choeur (SSAATTBB) avec orchestre (2 hautbois, basson, 2 trompettes, 3 violons, alto, violoncelle), orgue et basse continue",pour le traité d'Utrecht
-280,HWV 280,,,Te Deum,Hymn,,,"solistes (AB) et choeur (SAATB) avec orchestre (flûte traversière, 2 trompettes, 2 violons, alto) et basse continue",composé pour feue la reine Caroline
-281,HWV 281,,,Te Deum,Hymn,,,"solistes (STTB) et choeur (STTTB) avec orchestre (flûte, hautbois, trompette, 2 violons) et basse continue",[Chandos]
-282,HWV 282,,,Te Deum,Hymn,,,"solistes (ATBB) et choeur (SAATBBB) avec orchestre (flûte traversière, hautbois, basson, 2 violons, alto, violoncelle, contrebasse) et orgue",
-283,HWV 283,,,Te Deum,Hymn,,,"solistes (ATB) et choeur (SSATB) avec orchestre (2 hautbois, basson, 2 trompettes, timbales, 3 violons, alto, violoncelle, contrebasse), orgue et basse continue",pour la victoire de Dettingen
-284,HWV 284,,,The Invitation: Sinners obey the Gospel word,English Songs,G minor,,"S, Basso Continuo",texte: Charles Wesley
-285,HWV 285,,,"Desiring to love: O Love divine, how sweet thou art",English Songs,F major,,"S, Basso Continuo",texte: Charles Wesley
-286,HWV 286,,,"On the Resurection: Rejoice, the Lord is King",English Songs,D major,,"S, Basso Continuo",texte: Charles Wesley
-287,HWV 287,,,,Concerto,G minor,"1 Grave (sol mineur)
+274.000 ,HWV 274,,,"Alleluja, Amen",Antienne,A minor,,"S, Basso Continuo",
+275.000 ,HWV 275,,,"Amen, Alleluja",Antienne,C major,,"S, Basso Continuo",
+276.000 ,HWV 276,,,"Amen, Halleluja",Antienne,F major,,"S, Basso Continuo",
+277.000 ,HWV 277,,,"Halleluja, Amen",Antienne,F major,,"S, Basso Continuo",
+278.000 ,HWV 278,,,Te Deum,Hymn,,,"solistes (SSAATB) et choeur (SSAATTB) avec orchestre (flûte traversière, 2 hautbois, basson, 2 trompettes, 4 violons, alto, violoncelle), orgue et basse continue",pour le traité d'Utrecht
+279.000 ,HWV 279,,,Jubilate (O be joyful),Hymn,,,"solistes (AAB) et choeur (SSAATTBB) avec orchestre (2 hautbois, basson, 2 trompettes, 3 violons, alto, violoncelle), orgue et basse continue",pour le traité d'Utrecht
+280.000 ,HWV 280,,,Te Deum,Hymn,,,"solistes (AB) et choeur (SAATB) avec orchestre (flûte traversière, 2 trompettes, 2 violons, alto) et basse continue",composé pour feue la reine Caroline
+281.000 ,HWV 281,,,Te Deum,Hymn,,,"solistes (STTB) et choeur (STTTB) avec orchestre (flûte, hautbois, trompette, 2 violons) et basse continue",[Chandos]
+282.000 ,HWV 282,,,Te Deum,Hymn,,,"solistes (ATBB) et choeur (SAATBBB) avec orchestre (flûte traversière, hautbois, basson, 2 violons, alto, violoncelle, contrebasse) et orgue",
+283.000 ,HWV 283,,,Te Deum,Hymn,,,"solistes (ATB) et choeur (SSATB) avec orchestre (2 hautbois, basson, 2 trompettes, timbales, 3 violons, alto, violoncelle, contrebasse), orgue et basse continue",pour la victoire de Dettingen
+284.000 ,HWV 284,,,The Invitation: Sinners obey the Gospel word,English Songs,G minor,,"S, Basso Continuo",texte: Charles Wesley
+285.000 ,HWV 285,,,"Desiring to love: O Love divine, how sweet thou art",English Songs,F major,,"S, Basso Continuo",texte: Charles Wesley
+286.000 ,HWV 286,,,"On the Resurection: Rejoice, the Lord is King",English Songs,D major,,"S, Basso Continuo",texte: Charles Wesley
+287.000 ,HWV 287,,,,Concerto,G minor,"1 Grave (sol mineur)
 
 
 
@@ -345,7 +402,7 @@ antienne, en sol majeur
 
 4 Allegro (sol mineur)
 [voir aussi HWV 291(2), 390(4), 576(2)]","Oboe, Orchestra",concerto # 3
-288,HWV 288,,,Sonata (Concerto) à 5,Sonata,B-flat major,"1 Andante (si bémol majeur)
+288.000 ,HWV 288,,,Sonata (Concerto) à 5,Sonata,B-flat major,"1 Andante (si bémol majeur)
 [voir HWV 250a,b(1), 302a(3), 396(1), 580]
 
 
@@ -355,7 +412,7 @@ antienne, en sol majeur
 
 
 3 Allegro (si bémol majeur)","Violin, Orchestra",
-289,HWV 289,op. 4/1,,,Concerto,G minor,"1 Larghetto e staccato (sol mineur)
+289.000 ,HWV 289,op. 4/1,,,Concerto,G minor,"1 Larghetto e staccato (sol mineur)
 
 
 
@@ -370,7 +427,7 @@ antienne, en sol majeur
 
 4 Andante (sol majeur)
 [voir HWV 401(5a)]","Organ, Orchestra",concerto # 1 in Première série # 1
-290,HWV 290,op. 4/2,,,Concerto,B-flat major,"1 A tempo ordinario e staccato (si bémol majeur)
+290.000 ,HWV 290,op. 4/2,,,Concerto,B-flat major,"1 A tempo ordinario e staccato (si bémol majeur)
 [voir HWV 242(1)]
 
 
@@ -385,7 +442,7 @@ antienne, en sol majeur
 
 
 4 Allegro ma non presto (si bémol majeur)","Organ, Orchestra",concerto # 2 in Première série # 2
-291,HWV 291,op. 4/3,,,Concerto,G minor,"1 Adagio (sol mineur)
+291.000 ,HWV 291,op. 4/3,,,Concerto,G minor,"1 Adagio (sol mineur)
 [voir HWV 7a(27), 48 (Sinfonia), 252(1), 314(1), 390(1)]
 
 
@@ -406,7 +463,7 @@ antienne, en sol majeur
 
 4b Allegro (sol mineur)
 [voir HWV 6(17), 150(2)]","Organ, Orchestra",concerto # 3 in Première série # 3
-292,HWV 292,op. 4/4,,,Concerto,F major,"1 Allegro (fa majeur)
+292.000 ,HWV 292,op. 4/4,,,Concerto,F major,"1 Allegro (fa majeur)
 [voir HWV 34(2b)]
 
 
@@ -422,7 +479,7 @@ antienne, en sol majeur
 
 4 Allegro (fa majeur)
 [voir HWV 46b(36)]","Organ, Orchestra",concerto # 4 in Première série # 4
-293,HWV 293,op. 4/5,,,Concerto,F major,"1 Larghetto (fa majeur)
+293.000 ,HWV 293,op. 4/5,,,Concerto,F major,"1 Larghetto (fa majeur)
 [voir HWV 369(1)]
 
 
@@ -438,7 +495,7 @@ antienne, en sol majeur
 
 
 4 Presto (fa majeur)","Organ, Orchestra",concerto # 5 in Première série # 5
-294,HWV 294,op. 4/6,,,Concerto,B-flat major,"1 Andante allegro (si bémol majeur)
+294.000 ,HWV 294,op. 4/6,,,Concerto,B-flat major,"1 Andante allegro (si bémol majeur)
 
 
 
@@ -447,7 +504,7 @@ antienne, en sol majeur
 
 
 3 Allegro moderato (si bémol majeur)","Organ, Orchestra",concerto # 6 in Première série # 6
-295,HWV 295,,,,Concerto,F major,"1a Largo (fa majeur)
+295.000 ,HWV 295,,,,Concerto,F major,"1a Largo (fa majeur)
 [voir HWV 401(1)]
 
 
@@ -475,7 +532,7 @@ antienne, en sol majeur
 4 Allegro (fa majeur)
 [voir HWV 401(4)]",,"Deuxième série # 1
 concerto # 13"
-296.1,HWV 296a,,,,Concerto,A major,"1 Largo e staccato (la majeur)
+296.100 ,HWV 296a,,,,Concerto,A major,"1 Largo e staccato (la majeur)
 [voir HWV 329(1)]
 
 
@@ -493,7 +550,29 @@ concerto # 13"
 4 Allegro (la majeur)
 [voir HWV 329(5)]","Organ, Orchestra","Deuxième série # 2
 concerto # 14"
-297,HWV 297,,,,Concerto,D minor,"1 Ouverture. …/Allegro/Lentement (ré mineur)
+296.200 ,HWV 296b,,,"""Pasticcio Konzert""",Concerto,A major,"1 Andante (la majeur)
+[voir HWV 296a(2)]
+
+
+
+2 Adagio (la majeur)
+[organo ad libitum]
+
+
+
+3 Grave (fa dièse mineur)
+[voir HWV 296a(3)]
+
+
+
+4 Andante allegro (la majeur)
+[voir HWV 294(1)]
+
+
+
+5 A tempo ordinario (la majeur)
+[voir HWV 307(2)]","Organ, Orchestra",
+297.000 ,HWV 297,,,,Concerto,D minor,"1 Ouverture. …/Allegro/Lentement (ré mineur)
 
 
 
@@ -511,7 +590,7 @@ concerto # 14"
 
 5 Allegro moderato (ré majeur)",Solo Organ,"Deuxième série # 3
 after HWV 328"
-298,HWV 298,,,,Concerto,G major,"1 A tempo giusto (sol majeur)
+298.000 ,HWV 298,,,,Concerto,G major,"1 A tempo giusto (sol majeur)
 
 
 
@@ -529,7 +608,7 @@ after HWV 328"
 
 5 [Allegro] (sol majeur)",Solo Organ,"Deuxième série # 4
 after HWV 319"
-299,HWV 299,,,,Concerto,D major,"1 [Larghetto e staccato] (ré majeur)
+299.000 ,HWV 299,,,,Concerto,D major,"1 [Larghetto e staccato] (ré majeur)
 
 
 
@@ -551,7 +630,7 @@ after HWV 319"
 
 6 Menuet. Un poco larghetto (ré majeur)",Solo Organ,"Deuxième série # 5
 after HWV 323"
-300,HWV 300,,,,Concerto,G minor,"1 Largo e affettuoso (sol mineur)
+300.000 ,HWV 300,,,,Concerto,G minor,"1 Largo e affettuoso (sol mineur)
 
 
 
@@ -569,7 +648,7 @@ after HWV 323"
 
 5 Allegro (sol mineur)",Solo Organ,"Deuxième série # 6
 after HWV 324"
-301,HWV 301,,,,Concerto,B-flat major,"1 Adagio (si bémol majeur)
+301.000 ,HWV 301,,,,Concerto,B-flat major,"1 Adagio (si bémol majeur)
 
 
 
@@ -582,7 +661,7 @@ after HWV 324"
 
 
 4 Vivace (si bémol majeur)","Oboe, Orchestra",concerto # 1
-302.1,HWV 302a,,,,Concerto,B-flat major,"1 Vivace (si bémol majeur)
+302.100 ,HWV 302a,,,,Concerto,B-flat major,"1 Vivace (si bémol majeur)
 [voir HWV 253(1)]
 
 
@@ -599,13 +678,14 @@ after HWV 324"
 
 4 Allegro (si bémol majeur)
 [voir HWV 250a(1), 396(2)]","Oboe, Orchestra",concerto # 2
-303,HWV 303,,,Concert (Adagio),Concerto,D minor,1 Adagio (ré mineur) [voir HWV 309(1)],"2 Organs, Orchestra",
-304,HWV 304,,,,Concerto,D minor,"1 Andante/Adagio (ré mineur)
+302.200 ,HWV 302b,,,Suite de pièces (Konzersatz),Suite,F major,1 Largo (fa majeur),"Oboe, cor, Strings, Basso Continuo",
+303.000 ,HWV 303,,,Concert (Adagio),Concerto,D minor,1 Adagio (ré mineur) [voir HWV 309(1)],"2 Organs, Orchestra",
+304.000 ,HWV 304,,,,Concerto,D minor,"1 Andante/Adagio (ré mineur)
 
 
 
 2 Allegro (ré mineur)","Organ, Orchestra",concerto # 15
-305.1,HWV 305a,,,,Concerto,F major,"1 Concerto. … (fa majeur)
+305.100 ,HWV 305a,,,,Concerto,F major,"1 Concerto. … (fa majeur)
 
 
 
@@ -619,7 +699,23 @@ after HWV 324"
 
 4 Marche. Allegro (fa majeur)
 [voir HWV 63(32)]","Organ, Orchestra",concerto # 16
-306,HWV 306,op. 7/1,,,Concerto,B-flat major,"1 Andante/Adagio (si bémol majeur)
+305.200 ,HWV 305b,,,,Concerto,F major,"1 Ouverture. … (fa majeur)
+[voir HWV 334]
+
+
+
+2 Allegro (fa majeur)
+
+
+
+3 Andante (fa majeur)
+[organo ad libitum]
+
+
+
+4 Marche. Allegro (fa majeur)
+[voir HWV 63(32)]",Solo Organ,
+306.000 ,HWV 306,op. 7/1,,,Concerto,B-flat major,"1 Andante/Adagio (si bémol majeur)
 
 
 
@@ -639,7 +735,7 @@ after HWV 324"
 
 5 Bourrée. Allegro (si bémol majeur)","Organ, Orchestra","Troisième série # 1
 concerto # 7"
-307,HWV 307,op. 7/2,,,Concerto,A major,"1 Ouverture. … (la majeur)
+307.000 ,HWV 307,op. 7/2,,,Concerto,A major,"1 Ouverture. … (la majeur)
 
 
 
@@ -650,7 +746,7 @@ concerto # 7"
 3 Allegro (la majeur)
 [voir HWV 57(Ouverture,3)]","Organ, Orchestra","Troisième série # 2
 concerto # 8"
-308,HWV 308,op. 7/3,,,Concerto,B-flat major,"1a … (si bémol majeur)
+308.000 ,HWV 308,op. 7/3,,,Concerto,B-flat major,"1a … (si bémol majeur)
 
 
 
@@ -673,7 +769,7 @@ concerto # 8"
 
 4b Menuet (si bémol majeur)","Organ, Orchestra","Troisième série # 3
 concerto # 9"
-309,HWV 309,op. 7/4,,,Concerto,D minor,"1 Adagio (ré mineur)
+309.000 ,HWV 309,op. 7/4,,,Concerto,D minor,"1 Adagio (ré mineur)
 [voir HWV 303]
 
 
@@ -685,7 +781,7 @@ concerto # 9"
 3 Allegro (ré mineur)
 [voir HWV 8a(Ouverture), 317(2), 428(6), 495]","Organ, Orchestra","Troisième série # 4
 concerto # 10"
-310,HWV 310,op. 7/5,,,Concerto,G minor,"1 Staccato ma non troppo allegro (sol mineur)
+310.000 ,HWV 310,op. 7/5,,,Concerto,G minor,"1 Staccato ma non troppo allegro (sol mineur)
 
 
 
@@ -709,7 +805,7 @@ concerto # 10"
 6 [Gavotte] (en sol mineur)
 [voir HWV 6(17), 150(2), 291(4), 360(4), 379(5)]","Organ, Orchestra","Troisième série # 5
 concerto # 11"
-311,HWV 311,op. 7/6,,,Concerto,B-flat major,"1 Pomposo (si bémol majeur)
+311.000 ,HWV 311,op. 7/6,,,Concerto,B-flat major,"1 Pomposo (si bémol majeur)
 [voir HWV 347(1)]
 
 
@@ -717,7 +813,7 @@ concerto # 11"
 2 Air. A tempo ordinario (si bémol majeur)
 [voir HWV 347(3), 469]","Organ, Orchestra","Troisième série # 6
 concerto # 12"
-312,HWV 312,op. 3/1,,Concerto grosso,Concerto,B-flat major,"1 Allegro (si bémol majeur)
+312.000 ,HWV 312,op. 3/1,,Concerto grosso,Concerto,B-flat major,"1 Allegro (si bémol majeur)
 
 
 
@@ -726,7 +822,7 @@ concerto # 12"
 
 
 3 Allegro (sol mineur)",Orchestra,concerto # 1
-313,HWV 313,op. 3/2,,Concerto grosso,Concerto,B-flat major,"1 Vivace (si bémol majeur)
+313.000 ,HWV 313,op. 3/2,,Concerto grosso,Concerto,B-flat major,"1 Vivace (si bémol majeur)
 
 
 
@@ -745,7 +841,7 @@ concerto # 12"
 
 
 5 [Gavotte] (en si bémol majeur)",Orchestra,concerto # 2
-314,HWV 314,op. 3/3,,Concerto grosso,Concerto,G major,"1 Largo e staccato/Allegro (sol majeur)
+314.000 ,HWV 314,op. 3/3,,Concerto grosso,Concerto,G major,"1 Largo e staccato/Allegro (sol majeur)
 [voir HWV 48 (Sinfonia), 252(1), 291(1)]
 
 
@@ -757,7 +853,7 @@ concerto # 12"
 
 3 Allegro (sol majeur)
 [voir HWV 606]",Orchestra,concerto # 3
-315,HWV 315,op. 3/4,,Concerto grosso,Concerto,F major,"1 Andante/Allegro/Lentement (fa majeur)
+315.000 ,HWV 315,op. 3/4,,Concerto grosso,Concerto,F major,"1 Andante/Allegro/Lentement (fa majeur)
 
 
 
@@ -772,7 +868,7 @@ concerto # 12"
 
 4 Minuetto alternativo (fa majeur)
 [voir HWV 363(5), 516, 517]",Orchestra,
-316,HWV 316,op. 3/5,,Concerto grosso,Concerto,D minor,"1 … (ré mineur)
+316.000 ,HWV 316,op. 3/5,,Concerto grosso,Concerto,D minor,"1 … (ré mineur)
 [voir HWV 247(1)]
 
 
@@ -788,12 +884,12 @@ concerto # 12"
 
 4 Allegro ma non troppo (ré mineur)
 [voir HWV 251b(1), 398(2a)]",Orchestra,concerto # 5
-317,HWV 317,op. 3/6,,Concerto grosso,Concerto,D/d,"1 Vivace (ré majeur)
+317.000 ,HWV 317,op. 3/6,,Concerto grosso,Concerto,D/d,"1 Vivace (ré majeur)
 
 
 
 2 Allegro (ré mineur)",Orchestra,concerto # 6
-318,HWV 318,,,Concerto grosso,Concerto,C major,"1 Allegro (do majeur)
+318.000 ,HWV 318,,,Concerto grosso,Concerto,C major,"1 Allegro (do majeur)
 
 
 
@@ -807,7 +903,7 @@ concerto # 12"
 
 4 Andante, non presto (do majeur)
 [avec 2 solos - voir HWV 578(3)]",Orchestra,Concerto dans HWV 75 (Alexander's Feast)
-319,HWV 319,op. 6/1,,Concerto grosso,Concerto,G major,"1 A tempo giusto (sol majeur)
+319.000 ,HWV 319,op. 6/1,,Concerto grosso,Concerto,G major,"1 A tempo giusto (sol majeur)
 
 
 
@@ -824,7 +920,7 @@ concerto # 12"
 
 
 5 Allegro (sol majeur)",Orchestra,concerto # 1
-320,HWV 320,op. 6/2,,Concerto grosso,Concerto,F major,"1 Andante larghetto (fa majeur)
+320.000 ,HWV 320,op. 6/2,,Concerto grosso,Concerto,F major,"1 Andante larghetto (fa majeur)
 
 
 
@@ -847,7 +943,7 @@ concerto # 12"
 
 5b Allegro ma non troppo e staccato per tutto (fa majeur)
 [mouvement supplémentaire]",Orchestra,concerto # 2
-321,HWV 321,op. 6/3,,Concerto grosso,Concerto,E minor,"1 Larghetto (mi mineur)
+321.000 ,HWV 321,op. 6/3,,Concerto grosso,Concerto,E minor,"1 Larghetto (mi mineur)
 
 
 
@@ -870,7 +966,7 @@ concerto # 12"
 
 6 … (ré mineur)
 [mouvement supplémentaire]",Orchestra,concerto # 3
-322,HWV 322,op. 6/4,,Concerto grosso,Concerto,A major,"1 Larghetto affettuoso (la mineur)
+322.000 ,HWV 322,op. 6/4,,Concerto grosso,Concerto,A major,"1 Larghetto affettuoso (la mineur)
 
 
 
@@ -883,7 +979,7 @@ concerto # 12"
 
 
 4 Allegro (la mineur)",Orchestra,concerto # 4
-323,HWV 323,op. 6/5,,Concerto grosso,Concerto,D major,"1 Ouverture. Larghetto e staccato (ré majeur)
+323.000 ,HWV 323,op. 6/5,,Concerto grosso,Concerto,D major,"1 Ouverture. Larghetto e staccato (ré majeur)
 [voir HWV 76(Ouverture)]
 
 
@@ -907,7 +1003,7 @@ concerto # 12"
 
 6 Menuet. Un poco larghetto (ré majeur)
 [voir HWV 76(Ouverture,3)]",Orchestra,concerto # 5
-324,HWV 324,op. 6/6,,Concerto grosso,Concerto,G minor,"1 Largo e affettuoso (sol mineur)
+324.000 ,HWV 324,op. 6/6,,Concerto grosso,Concerto,G minor,"1 Largo e affettuoso (sol mineur)
 
 
 
@@ -929,7 +1025,7 @@ concerto # 12"
 
 6 Gavotte. … (sol mineur)
 [mouvement supplémentaire]",Orchestra,concerto # 6
-325,HWV 325,op. 6/7,,Concerto grosso,Concerto,B-flat major,"1 Largo (si bémol majeur)
+325.000 ,HWV 325,op. 6/7,,Concerto grosso,Concerto,B-flat major,"1 Largo (si bémol majeur)
 
 
 
@@ -946,7 +1042,7 @@ concerto # 12"
 
 
 5 Hornpipe. (si bémol majeur)",Orchestra,concerto # 7
-326,HWV 326,op. 6/8,,Concerto grosso,Concerto,C minor,"1 Allemande. … (do mineur)
+326.000 ,HWV 326,op. 6/8,,Concerto grosso,Concerto,C minor,"1 Allemande. … (do mineur)
 [voir HWV 452(1)]
 
 
@@ -968,7 +1064,7 @@ concerto # 12"
 
 
 6 Allegro (do mineur)",Orchestra,concerto # 8
-327,HWV 327,op. 6/9,,Concerto grosso,Concerto,F major,"1 Largo (fa majeur)
+327.000 ,HWV 327,op. 6/9,,Concerto grosso,Concerto,F major,"1 Largo (fa majeur)
 
 
 
@@ -989,7 +1085,7 @@ concerto # 12"
 
 5 Menuet. (do mineur)
 [voir HWV 41(Menuet)]",Orchestra,concerto # 9
-328,HWV 328,op. 6/10,,Concerto grosso,Concerto,D minor,"1 Ouverture. …/Allegro/Lentement (ré mineur)
+328.000 ,HWV 328,op. 6/10,,Concerto grosso,Concerto,D minor,"1 Ouverture. …/Allegro/Lentement (ré mineur)
 
 
 
@@ -1011,7 +1107,7 @@ concerto # 12"
 
 6 Allegro moderato (ré mineur)
 [mouvement supplémentaire]",Orchestra,concerto # 10
-329,HWV 329,op. 6/11,,Concerto grosso,Concerto,A major,"1 Andante larghetto e staccato (la majeur)
+329.000 ,HWV 329,op. 6/11,,Concerto grosso,Concerto,A major,"1 Andante larghetto e staccato (la majeur)
 [voir HWV 296a(1)]
 
 
@@ -1033,7 +1129,7 @@ concerto # 12"
 
 5 Allegro (la majeur)
 [voir HWV 296a(4)]",Orchestra,concerto # 11
-330,HWV 330,op. 6/12,,Concerto grosso,Concerto,B minor,"1 Largo (si mineur)
+330.000 ,HWV 330,op. 6/12,,Concerto grosso,Concerto,B minor,"1 Largo (si mineur)
 
 
 
@@ -1055,12 +1151,12 @@ concerto # 12"
 
 6 Allegro moderato (si majeur)
 [mouvement supplémentaire]",Orchestra,concerto # 12
-331,HWV 331,,,,Concerto,,"1 … (fa majeur)
+331.000 ,HWV 331,,,,Concerto,,"1 … (fa majeur)
 
 
 
 2 Alla Hornpipe. … (fa majeur)","Oboe, Flute, cor, Strings, bass continue",
-332,HWV 332,,,Concerto (a due cori),Concerto,B-flat major,"1 Ouverture. … (si bémol majeur)
+332.000 ,HWV 332,,,Concerto (a due cori),Concerto,B-flat major,"1 Ouverture. … (si bémol majeur)
 
 
 
@@ -1085,7 +1181,7 @@ concerto # 12"
 
 
 7 Menuet. [Allegro] (si bémol majeur)",2 Brass and String Ensembles,[Concerto fait à partir de choeurs]
-333,HWV 333,,,Concerto (a due cori),Concerto,F major,"1 Pomposo (fa majeur)
+333.000 ,HWV 333,,,Concerto (a due cori),Concerto,F major,"1 Pomposo (fa majeur)
 
 
 
@@ -1106,7 +1202,7 @@ concerto # 12"
 
 
 6 A tempo ordinario (fa majeur)",2 Brass and String Ensembles,
-334,HWV 334,,,Concerto (a due cori),Concerto,F major,"1 Ouverture. … (fa majeur)
+334.000 ,HWV 334,,,Concerto (a due cori),Concerto,F major,"1 Ouverture. … (fa majeur)
 [voir HWV 424(1)]
 
 
@@ -1128,7 +1224,7 @@ concerto # 12"
 
 
 6 Allegro (fa majeur)",2 Brass and String Ensembles,[Concerto dans l'oratorio Judas Maccabeus (HWV63)]
-335.1,HWV 335a,,,,Concerto,D major,"1 Largo (ré majeur)
+335.100 ,HWV 335a,,,,Concerto,D major,"1 Largo (ré majeur)
 
 
 
@@ -1137,44 +1233,49 @@ concerto # 12"
 
 
 3 Allegro ma non troppo (ré majeur)","Trumpet, Horn, Orchestra, Organ",
-336,HWV 336,,,,Overture,B-flat major,"1. Largo (si bémol majeur)
+335.200 ,HWV 335b,,,Concerto (a due cori),Concerto,,"1 Largo (fa majeur)
+
+
+
+2 Allegro (fa majeur)",,questionable key
+336.000 ,HWV 336,,,,Overture,B-flat major,"1. Largo (si bémol majeur)
 [voir HWV 455]
 2. (Allegro) (si bémol majeur)
 [voir HWV 46, 47(Sonata)]",Orchestra,
-337,HWV 337,,,,Overture,D major,"1. … (ré majeur)
+337.000 ,HWV 337,,,,Overture,D major,"1. … (ré majeur)
 [voir HWV 17(Ouverture)]",Orchestra,
-338,HWV 338,,,Adagio - Allegro,,"b, D","1. Adagio (si mineur)
+338.000 ,HWV 338,,,Adagio - Allegro,,"b, D","1. Adagio (si mineur)
 [voir HWV 390(3)]
 2. Allegro (ré majeur)
 [voir HWV 15 (Ouverture)]",Orchestra,
-339,HWV 339,,,,Sinfonia,B major,"1. … (si bémol majeur)
+339.000 ,HWV 339,,,,Sinfonia,B major,"1. … (si bémol majeur)
 [voir HWV 434(2)]
 2. Adagio (sol mineur)
 3. … (si bémol majeur)","2 Violins, Basso Continuo",
-340,HWV 340,,,Allegro,,G major,1. Allegro (sol majeur),"2 Violins, Basso Continuo",
-341,HWV 341,,,"Ouverture ""Handel's Water Piece""",Overture,D major,"1. Ouverture. … (ré majeur)
+340.000 ,HWV 340,,,Allegro,,G major,1. Allegro (sol majeur),"2 Violins, Basso Continuo",
+341.000 ,HWV 341,,,"Ouverture ""Handel's Water Piece""",Overture,D major,"1. Ouverture. … (ré majeur)
 2. Allegro (ré majeur)
 3. Air. … (ré majeur)
 4. … (ré majeur)
 5. Marche. … (ré majeur)
 [voir HWV 27(17)]",Orchestra,
-342,HWV 342,,,,Overture,F major,1. Un poco allegro/Allegro (fa majeur),Orchestra,
-343,HWV 343,,,"Ritornelle, Chaconne",,G major,"1. Ritornello. (en sol majeur)
+342.000 ,HWV 342,,,,Overture,F major,1. Un poco allegro/Allegro (fa majeur),Orchestra,
+343.000 ,HWV 343,,,"Ritornelle, Chaconne",,G major,"1. Ritornello. (en sol majeur)
 2. Chaconne. (en sol majeur)",Orchestra,[pour HWV 435]
-344,HWV 344,,,"Choeur, Menuet",,D major,"1. Chœur. (en ré majeur)
+344.000 ,HWV 344,,,"Choeur, Menuet",,D major,"1. Chœur. (en ré majeur)
 [voir HWV 3, 502]
 2. Menuet. (en ré majeur)","Strings, Basso Continuo",de HWV 3
-345,HWV 345,,,,March,D major,"1. Marche. (en ré majeur)
+345.000 ,HWV 345,,,,March,D major,"1. Marche. (en ré majeur)
 [voir HWV 397(5)]",Orchestra,
-346,HWV 346,,,"Marche ""March in Ptolomy""",March,F major,"1. Andante (fa majeur)
+346.000 ,HWV 346,,,"Marche ""March in Ptolomy""",March,F major,"1. Andante (fa majeur)
 [voie HWV 419(1)]",Orchestra,
-347,HWV 347,,,,Sinfonia,B-flat major,"1. Pomposo (si bémol majeur)
+347.000 ,HWV 347,,,,Sinfonia,B-flat major,"1. Pomposo (si bémol majeur)
 [voir HWV 311(1)]
 2. Air. Lentement (si bémol majeur)
 [voir HWV 64(Introduzione)]
 3. Air. A tempo ordinario (si bémol majeur)
 [voir HWV 311(3), 469]",Orchestra,
-348,HWV 348,,,"Suite ""Water Music""",Suite,F major,"1. Ouverture. (fa majeur)
+348.000 ,HWV 348,,,"Suite ""Water Music""",Suite,F major,"1. Ouverture. (fa majeur)
 2. Adagio e staccato (ré mineur)
 3. Allegro (fa majeur)
 4. Andante (ré mineur)
@@ -1186,38 +1287,38 @@ concerto # 12"
 [3 fois]
 9. Hornpipe. (fa majeur)
 [3 fois]",Orchestra,suite # 1
-349,HWV 349,,,"Suite ""Water Music""",Suite,D major,"1. Allegro (ré majeur)
+349.000 ,HWV 349,,,"Suite ""Water Music""",Suite,D major,"1. Allegro (ré majeur)
 2. Alla Hornpipe. (ré majeur)
 3. Menuet. (ré majeur)
 4. Lentement. (ré majeur)
 5. Bourrée. (ré majeur)
 [3 fois]",Orchestra,suite # 2
-350,HWV 350,,,"Suite ""Water Music""",Suite,G major,"1. … (sol majeur)
+350.000 ,HWV 350,,,"Suite ""Water Music""",Suite,G major,"1. … (sol majeur)
 2. Rigaudon. Presto (sol majeur)
 3. … (sol mineur)
 4. Menuet. (sol mineur)
 5. … (sol mineur)
 6. … (sol mineur)
 7. … (sol majeur)",Orchestra,suite # 3
-351,HWV 351,,,Music for the Royal Fireworks pour orchestre,,,"1. Ouverture. Adagio/Allegro/Lentement (ré majeur)
+351.000 ,HWV 351,,,Music for the Royal Fireworks pour orchestre,,,"1. Ouverture. Adagio/Allegro/Lentement (ré majeur)
 2. Bourrée. (ré mineur)
 [2 fois]
 3. La paix. Largo alla Siciliana (ré majeur)
 4. La réjouissance. Allegro (ré majeur)
 5. Menuet I. (ré mineur)
 6. Menuet II. (ré majeur)",Orchestra,
-352,HWV 352,,,,Suite,B-flat major,"1. Chœur: (Amor, Amor, deine Tukke)
+352.000 ,HWV 352,,,,Suite,B-flat major,"1. Chœur: (Amor, Amor, deine Tukke)
 (si bémol majeur)
 2. Bourrée: (Dispensa il Dio d'amor)
 (si bémol majeur)
 3. Allemande. (sol mineur)
 4. Rigaudon à deux Oboe (ré mineur)
 [voir HWV 1(50)]",Orchestra,de HWV 4: Die verwandelte Daphne
-353,HWV 353,,,,Suite,G major,"1. Allemande. (sol majeur)
+353.000 ,HWV 353,,,,Suite,G major,"1. Allemande. (sol majeur)
 2. Bourrée à deux Oboe (sol mineur)
 3. [Menuet] (sol mineur)
 4. Allemande. (sol majeur)",Orchestra,de HWV 4: Die verwandelte Daphne
-354,HWV 354,,,,Suite,B-flat major,"1. Menuet. (si bémol majeur)
+354.000 ,HWV 354,,,,Suite,B-flat major,"1. Menuet. (si bémol majeur)
 [voir HWV 455(4)]
 2. Chœur: (Ihr muthigen Horner)
 (si bémol majeur)
@@ -1225,67 +1326,86 @@ concerto # 12"
 [voir HWV 455(2)]
 4. Gavotte. (sol mineur)
 [voir HWV 455(3)]","Strings, Basso Continuo",de HWV 3: Der begluckte Florindo
-355,HWV 355,,,,Aria,C minor,1. Hornpipe. (do mineur),"Strings, Basso Continuo",
-356,HWV 356,,,Hornpipe,,D major,1. Hornpipe. (ré majeur),"Strings, Basso Continuo",composé pour le Concert à Vauxhaul en 1740
-357,HWV 357,,,,Sonata,B-flat major,"1. Allegro (si bémol majeur)
+355.000 ,HWV 355,,,,Aria,C minor,1. Hornpipe. (do mineur),"Strings, Basso Continuo",
+356.000 ,HWV 356,,,Hornpipe,,D major,1. Hornpipe. (ré majeur),"Strings, Basso Continuo",composé pour le Concert à Vauxhaul en 1740
+357.000 ,HWV 357,,,,Sonata,B-flat major,"1. Allegro (si bémol majeur)
 2. Grave (sol mineur)
 3. Allegro (si bémol majeur)","Oboe, Basso Continuo",
-358,HWV 358,,,,Sonata,G major,"1. [Allegro] (sol majeur)
+358.000 ,HWV 358,,,,Sonata,G major,"1. [Allegro] (sol majeur)
 2. [Adagio] (mi mineur)
 3. [Allegro] (sol majeur)","Violin, Basso Continuo",
-359.1,HWV 359a,,,,Sonata,D minor,"1. Grave (ré mineur)
+359.100 ,HWV 359a,,,,Sonata,D minor,"1. Grave (ré mineur)
 [voir HWV 379(1)]
 2. Allegro (ré mineur)
 3. Adagio (fa majeur)
 4. Allegro (ré mineur)","Violin, Basso Continuo",
-360,HWV 360,op. 1/2,,,Sonata,G minor,"1. Larghetto (sol mineur)
+359.200 ,HWV 359b,op. 1/1b,,,Sonata,E minor,"1. Grave (mi mineur)
+[voir HWV 379(1)]
+2. Allegro (mi mineur)
+3. Adagio (mi mineur)
+4. Allegro (mi mineur)","Flute, Basso Continuo",
+360.000 ,HWV 360,op. 1/2,,,Sonata,G minor,"1. Larghetto (sol mineur)
 2. Andante (sol mineur)
 [voir HWV 375(3)]
 3. Adagio (mi bémol majeur)
 4. Presto (sol mineur)","Flute, Basso Continuo",
-361,HWV 361,op. 1/3,,,Sonata,A major,"1. Larghetto (Andante) (la majeur)
+361.000 ,HWV 361,op. 1/3,,,Sonata,A major,"1. Larghetto (Andante) (la majeur)
 2. Allegro (la majeur)
 3. Adagio (fa dièse mineur)
 4. Allegro (la majeur)
 [voir HWV 377(3)]","Violin, Basso Continuo",
-362,HWV 362,op. 1/4,,,Sonata,A major,"1. Larghetto (la mineur)
+362.000 ,HWV 362,op. 1/4,,,Sonata,A major,"1. Larghetto (la mineur)
 2. Allegro (la mineur)
 3. Adagio (fa majeur)
 4. Allegro (la mineur)","Flute, Basso Continuo",
-363.1,HWV 363a,,,,Sonata,F major,"1. Adagio (fa majeur)
+363.100 ,HWV 363a,,,,Sonata,F major,"1. Adagio (fa majeur)
 2. Allegro (fa majeur)
 3. Adagio (ré mineur)
 4. Bourrée anglaise (fa majeur)
 5. Menuet (fa majeur)
 [voir HWV 315(4), 516]","Oboe, Basso Continuo",
-364.1,HWV 364a,op. 1/6,,,Sonata,G minor,"1. Andante larghetto (sol mineur)
+363.200 ,HWV 363b,op. 1/5,,,Sonata,G major,"1. Adagio (sol majeur)
+2. Allegro (sol majeur)
+3. [Adagio] (mi mineur)
+4. Bourrée (sol majeur)
+5. Menuet (sol majeur)
+[voir HWV 315(4), 516]","Flute, Basso Continuo",
+364.100 ,HWV 364a,op. 1/6,,,Sonata,G minor,"1. Andante larghetto (sol mineur)
 2. Allegro (sol mineur)
 3. Adagio (mi bémol majeur)
 4. Allegro (sol mineur)
 [voir HWV 24(Ouverture, Gigue)","Violin/Oboe, Basso Continuo",
-365,HWV 365,op. 1/7,,,Sonata,C major,"1. [Larghetto] (do majeur)
+364.200 ,HWV 364b,,,,Sonata,G minor,1. Andante larghetto (sol mineur),"Viola da Gamba, Basso Continuo",
+365.000 ,HWV 365,op. 1/7,,,Sonata,C major,"1. [Larghetto] (do majeur)
 2. Allegro (do majeur)
 3. Larghetto (la mineur)
 4. A tempo di Gavotta (do majeur)
 5. Allegro (do majeur)","Flute, Basso Continuo",
-366,HWV 366,op. 1/8,,,Sonata,C minor,"1. Largo (do mineur)
+366.000 ,HWV 366,op. 1/8,,,Sonata,C minor,"1. Largo (do mineur)
 [voir HWV 375(1)]
 2. Allegro (do mineur)
 [voir HWV 375(2)]
 3. Adagio (mi bémol majeur)
 4. Bourrée anglaise. Allegro (do mineur)","Oboe, Basso Continuo",
-367.1,HWV 367a,,,sonate Fitzwilliam # 3,Sonata,D minor,"1. Largo (ré mineur)
+367.100 ,HWV 367a,,,sonate Fitzwilliam # 3,Sonata,D minor,"1. Largo (ré mineur)
 2. Vivace (ré mineur)
 3. Furioso (si bémol majeur)
 4. Adagio (sol mineur)
 5. Alla breve (ré mineur)
 6. [Andante] (ré mineur)
 7. A tempo di menuet (ré mineur)","Flute, Basso Continuo",
-368,HWV 368,op. 1/10,,,Sonata,G minor,"1. Andante (sol mineur)
+367.200 ,HWV 367b,op. 1/9,,,Sonata,B minor,"1. Largo (si mineur)
+2. Vivace (si mineur)
+3. Presto (sol majeur)
+4. Adagio (mi majeur)
+5. Alla breve (si mineur)
+6. Andante (si mineur)
+7. A tempo di Minuet (si mineur)","Flute, Basso Continuo",
+368.000 ,HWV 368,op. 1/10,,,Sonata,G minor,"1. Andante (sol mineur)
 2. Allegro (sol mineur)
 3. Adagio (sol mineur)
 4. [Gigue] (sol mineur)","Violin, Basso Continuo",
-369,HWV 369,op. 1/11,,,Sonata,F major,"1. Grave (Larghetto) (fa majeur)
+369.000 ,HWV 369,op. 1/11,,,Sonata,F major,"1. Grave (Larghetto) (fa majeur)
 [voir HWV 293(1)]
 2. Allegro (fa majeur)
 [voir HWV 293(2)]
@@ -1293,30 +1413,30 @@ concerto # 12"
 [voir HWV 293(3)]
 4. Allegro (fa majeur)
 [voir HWV 293(4), 378(4), 405(3)]","Flute, Basso Continuo",
-370,HWV 370,op. 1/12,,,Sonata,F major,"1. Adagio (fa majeur)
+370.000 ,HWV 370,op. 1/12,,,Sonata,F major,"1. Adagio (fa majeur)
 2. Allegro (fa majeur)
 3. Largo (ré mineur)
 4. Allegro (fa majeur)","Violin, Basso Continuo",
-371,HWV 371,op. 1/13,,,Sonata,D major,"1. Affettuoso (ré majeur)
+371.000 ,HWV 371,op. 1/13,,,Sonata,D major,"1. Affettuoso (ré majeur)
 [voir HWV 378(1), 379(3)]
 2. Allegro (ré majeur)
 [voir HWV 67(15)]
 3. Larghetto (si mineur)
 4. Allegro (ré majeur)
 [voir HWV 70(36), 99(3)]","Violin, Basso Continuo",
-372,HWV 372,op. 1/14,,,Sonata,A major,"1. Adagio (la majeur)
+372.000 ,HWV 372,op. 1/14,,,Sonata,A major,"1. Adagio (la majeur)
 2. Allegro (la majeur)
 3. Largo (fa dièse mineur)
 4. Allegro (la majeur)","Violin, Basso Continuo",
-373,HWV 373,op. 1/15,,,Sonata,E major,"1. Adagio (mi majeur)
+373.000 ,HWV 373,op. 1/15,,,Sonata,E major,"1. Adagio (mi majeur)
 2. Allegro (mi majeur)
 3. Largo (do dièse mineur)
 4. Allegro (mi majeur)","Violin, Basso Continuo",
-374,HWV 374,,,sonate de Halle # 1,Sonata,A major,"1. Adagio (la mineur)
+374.000 ,HWV 374,,,sonate de Halle # 1,Sonata,A major,"1. Adagio (la mineur)
 2. Allegro (la mineur)
 3. Adagio (la mineur)
 4. Allegro (la mineur)","Flute, Basso Continuo",
-375,HWV 375,,,sonate de Halle # 2,Sonata,E minor,"1. Adagio (mi mineur)
+375.000 ,HWV 375,,,sonate de Halle # 2,Sonata,E minor,"1. Adagio (mi mineur)
 [voir HWV 366(1)]
 2. Allegro (mi mineur)
 [voir HWV 366(2)]
@@ -1324,24 +1444,24 @@ concerto # 12"
 [voir HWV 360(2), 379(2)]
 4. Minuet (mi mineur)
 [voir HWV 434(4)]","Flute, Basso Continuo",
-376,HWV 376,,,sonate de Halle # 3,Sonata,B minor,"1. Adagio (si mineur)
+376.000 ,HWV 376,,,sonate de Halle # 3,Sonata,B minor,"1. Adagio (si mineur)
 2. Allegro (mi mineur)
 3. Largo (ré majeur)
 4. Allegro (si mineur)","Flute, Basso Continuo",
-377,HWV 377,,,sonate Fitzwilliam # 1,Sonata,B-flat major,"1. [Allegro] (si bémol majeur)
+377.000 ,HWV 377,,,sonate Fitzwilliam # 1,Sonata,B-flat major,"1. [Allegro] (si bémol majeur)
 [voir HWV 20(Ouverture,3), 594]
 2. Adagio (sol mineur)
 [voir HWV 292(3)]
 3. Allegro (si bémol majeur)
 [voir HWV 361(4)]","Flute, Basso Continuo",
-378,HWV 378,,,sonate Fitzwilliam # 2,Sonata,D major,"1. Adagio (ré majeur)
+378.000 ,HWV 378,,,sonate Fitzwilliam # 2,Sonata,D major,"1. Adagio (ré majeur)
 [voir HWV 371(1), 379(3)]
 2. Allegro (ré majeur)
 [voir HWV 405(1)]
 3. Adagio (fa dièse mineur)
 4. Allegro (ré majeur)
 [voir HWV 293(4), 369(4), 405(3)]","Flute, Basso Continuo",
-379,HWV 379,op. 1/1a,,,Sonata,E minor,"1. Larghetto (mi mineur)
+379.000 ,HWV 379,op. 1/1a,,,Sonata,E minor,"1. Larghetto (mi mineur)
 [voir HWV 359a,b(1)]
 2. Andante (mi mineur)
 [voir HWV 375(3)]
@@ -1350,53 +1470,53 @@ concerto # 12"
 4. Allegro (mi mineur)
 5. Presto (mi mineur)
 [voir HWV 291(4), 310(4), 360(4)]","Flute, Basso Continuo",
-380,HWV 380,,,,Sonata,B-flat major,"1. Adagio (si bémol majeur)
+380.000 ,HWV 380,,,,Sonata,B-flat major,"1. Adagio (si bémol majeur)
 2. Allegro (si bémol majeur)
 3. Largo (sol mineur)
 4. Allegro (si bémol majeur)","[Oboe, Violin]/[2 Oboes], Basso Continuo",sonate # 1
-381,HWV 381,,,,Sonata,D minor,"1. Adagio (ré mineur)
+381.000 ,HWV 381,,,,Sonata,D minor,"1. Adagio (ré mineur)
 2. Allegro (ré mineur)
 3. Affettuoso (fa majeur)
 4. Allegro (ré mineur)","[Oboe, Violin]/[2 Oboes], Basso Continuo",sonate # 2
-382,HWV 382,,,,Sonata,E-flat major,"1. Adagio (mi bémol majeur)
+382.000 ,HWV 382,,,,Sonata,E-flat major,"1. Adagio (mi bémol majeur)
 2. Alla breve (mi bémol majeur)
 3. Andante (do mineur)
 4. Allegro (mi bémol majeur)","[Oboe, Violin]/[2 Oboes], Basso Continuo",sonate # 3
-383,HWV 383,,,,Sonata,F major,"1. Adagio (fa majeur)
+383.000 ,HWV 383,,,,Sonata,F major,"1. Adagio (fa majeur)
 2. Allegro (fa majeur)
 3. Largo (ré mineur)
 4. Allegro (fa majeur)","[Oboe, Violin]/[2 Oboes], Basso Continuo",sonate # 4
-384,HWV 384,,,,Sonata,G major,"1. Adagio (sol majeur)
+384.000 ,HWV 384,,,,Sonata,G major,"1. Adagio (sol majeur)
 2. Allegro (sol majeur)
 3. Grave (mi mineur)
 4. Allegro (sol majeur)","[Oboe, Violin]/[2 Oboes], Basso Continuo",sonate # 5
-385,HWV 385,,,,Sonata,D major,"1. Adagio (ré majeur)
+385.000 ,HWV 385,,,,Sonata,D major,"1. Adagio (ré majeur)
 2. Allegro (ré majeur)
 3. Affettuoso (si mineur)
 4. Vivace (ré majeur)","[Oboe, Violin]/[2 Oboes], Basso Continuo",sonate # 6
-386.1,HWV 386a,op. 2/1a,,,Sonata,C minor,"1. Andante (do mineur)
+386.100 ,HWV 386a,op. 2/1a,,,Sonata,C minor,"1. Andante (do mineur)
 2. Allegro (do mineur)
 3. Andante (mi bémol majeur)
 [voir HWV 6(29), 13(6), 46a(13)]
 4. Allegro (do mineur)
 [voir HWV 351b,c(6)]","Flute (Oboe), Violin, Basso Continuo",sonate # 1a
-386.2,HWV 386b,op. 2/1b,,,Sonata,B minor,"1. Andante (si mineur)
+386.200 ,HWV 386b,op. 2/1b,,,Sonata,B minor,"1. Andante (si mineur)
 2. Allegro ma non troppo (si mineur)
 3. Largo (ré majeur)
 4. Allegro (si mineur)","Flute (Violin), Violin, Basso Continuo",sonate # 1b
-387,HWV 387,op. 2/2,,,Sonata,G minor,"1. Andante (sol mineur)
+387.000 ,HWV 387,op. 2/2,,,Sonata,G minor,"1. Andante (sol mineur)
 2. Allegro (sol mineur)
 3. Largo (sol mineur)
 4. Allegro (sol mineur)
 [voir HWV 408]","2 Violins, Basso Continuo",sonate # 2
-388,HWV 388,op. 2/4,,,Sonata,B-flat major,"1. Andante (si bémol majeur)
+388.000 ,HWV 388,op. 2/4,,,Sonata,B-flat major,"1. Andante (si bémol majeur)
 2. Allegro (si bémol majeur)
 [voir HWV 50,a,b(Ouverture,3]
 3. Larghetto (sol mineur)
 [voir HWV 50a,b(Ouverture,2]
 4. Allegro (si bémol majeur)
 [voir HWV 290(2)]","2 Violins/2 Oboes/Flute, Violin, Basso Continuo",sonate # 3
-389,HWV 389,op. 2/5,,,Sonata,F major,"1. Larghetto (fa majeur)
+389.000 ,HWV 389,op. 2/5,,,Sonata,F major,"1. Larghetto (fa majeur)
 [voir HWV 249b(Symphony)]
 2. Allegro (fa majeur)
 3. Adagio (ré mineur)
@@ -1404,40 +1524,40 @@ concerto # 12"
 [voir HWV 253(1), 302a(2)]
 5. Allegro (fa majeur)
 [voir HWV 73(Ouverture, Gigue]","Flute (Flute, Oboe, Violin)/Violin (Flute), Basso Continuo",sonate # 4
-390.1,HWV 390a,op. 2/6,,,Sonata,G minor,"1. Larghetto (sol mineur)
+390.100 ,HWV 390a,op. 2/6,,,Sonata,G minor,"1. Larghetto (sol mineur)
 [voir HWV 7a(27), 291(1)]
 2. Allegro (sol mineur)
 3. Adagio (si bémol majeur)
 4. Allegro (sol mineur)
 [voir HWV 287(4), 291(2), 576(2)]","Violin, Viola, Basso Continuo",sonate # 5
-390.2,HWV 390b,op. 2/7,,,Sonata,G minor,"1. Adagio (sol mineur)
+390.200 ,HWV 390b,op. 2/7,,,Sonata,G minor,"1. Adagio (sol mineur)
 2. Allegro (sol mineur)
 3. Largo (si bémol majeur)
 4. Allegro (sol mineur)","2 Violins, Cello, Harpsichord/Organ",sonate # 5
-391,HWV 391,op. 2/8,,,Sonata,G minor,"1. Andante (sol mineur)
+391.000 ,HWV 391,op. 2/8,,,Sonata,G minor,"1. Andante (sol mineur)
 2. Allegro (sol mineur)
 3. Arioso (si bémol majeur)
 4. Allegro (sol mineur)","Violin, Viola, Basso Continuo",sonate # 6
-392,HWV 392,op. 2/3,,,Sonata,F major,"1. Andante (fa majeur)
+392.000 ,HWV 392,op. 2/3,,,Sonata,F major,"1. Andante (fa majeur)
 [voir HWV 352(2)]
 2. Allegro (fa majeur)
 [voir HWV 401(2)]
 3. Adagio (ré mineur)
 [voir HWV 401(3)]
 4. Allegro (fa majeur)","Violin, Viola, Basso Continuo",
-393,HWV 393,op. 2/9,,,Sonata,G minor,"1. Andante (sol mineur)
+393.000 ,HWV 393,op. 2/9,,,Sonata,G minor,"1. Andante (sol mineur)
 2. Allegro (sol mineur)
 3. Largo (si bémol majeur)
 4. Allegro (sol mineur)","Violin, Viola, Basso Continuo",
-394,HWV 394,op. 2/10,,,Sonata,E major,"1. Adagio (mi majeur)
+394.000 ,HWV 394,op. 2/10,,,Sonata,E major,"1. Adagio (mi majeur)
 2. Allegro (mi majeur)
 3. Adagio (do dièse mineur)
 4. Allegro (mi majeur)","Violin, Viola, Basso Continuo",
-395,HWV 395,,,,Sonata,E minor,"1. Largo (mi mineur)
+395.000 ,HWV 395,,,,Sonata,E minor,"1. Largo (mi mineur)
 2. Allegro (mi mineur)
 3. Largo (sol majeur)
 4. Allegro (mi mineur)","2 Flutes, Basso Continuo",
-396,HWV 396,op. 5/1,,,Sonata,A major,"1. Andante (la majeur)
+396.000 ,HWV 396,op. 5/1,,,Sonata,A major,"1. Andante (la majeur)
 [voir HWV 250a,b(1), 288(1), 302a(3), 580]
 2. Allegro (la majeur)
 [voir HWV 250a(1), 302a(4)]
@@ -1445,7 +1565,7 @@ concerto # 12"
 4. Allegro (la majeur)
 5. Gavotte. Allegro (la majeur)
 [voir HWV 32(32), 33(53)]","2 Violins, Basso Continuo",sonate # 1
-397,HWV 397,op. 5/2,,,Sonata,D major,"1. Adagio (ré majeur)
+397.000 ,HWV 397,op. 5/2,,,Sonata,D major,"1. Adagio (ré majeur)
 [voir HWV 246(1), 280(1)]
 2. Allegro (ré majeur)
 [voir HWV 246(1), 278(1)]
@@ -1456,7 +1576,7 @@ concerto # 12"
 5. Marche (ré majeur)
 [voir HWV 345]
 6. Gavotte. Allegro (ré majeur)","2 Violins, Basso Continuo",sonate # 2
-398,HWV 398,op. 5/3,,,Sonata,E minor,"1. Andante larghetto (mi mineur)
+398.000 ,HWV 398,op. 5/3,,,Sonata,E minor,"1. Andante larghetto (mi mineur)
 [voir HWV 251b,c(1), 266(1)]
 2a. Allegro (mi mineur)
 [voir HWV 251b(1), 316(4)]
@@ -1469,7 +1589,7 @@ concerto # 12"
 [voir HWV 33(38)]
 6. Gavotte. Allegro (mi mineur)
 [voir HWV 8c(2)]","2 Violins, Basso Continuo",sonate # 3
-399,HWV 399,op. 5/4,,,Sonata,G major,"1. Allegro (sol majeur)
+399.000 ,HWV 399,op. 5/4,,,Sonata,G major,"1. Allegro (sol majeur)
 [voir HWV 52(Sinfonia)]
 2. A tempo ordinario/Allegro non presto (sol majeur)
 [voir HWV 52, 73, 342]
@@ -1479,7 +1599,7 @@ concerto # 12"
 [voir HWV 8b(8)]
 5. Menuet. Allegro moderato (sol majeur)
 [voir HWV 34(5)]","2 Violins (Viola da Gamba ad libitum), Basso Continuo",sonate # 4
-400,HWV 400,op. 5/5,,,Sonata,G minor,"1. Largo (sol mineur)
+400.000 ,HWV 400,op. 5/5,,,Sonata,G minor,"1. Largo (sol mineur)
 [voir HWV 18(1)]
 2. [Come alla breve] (sol mineur)
 [voir HWV 610]
@@ -1490,7 +1610,7 @@ concerto # 12"
 5. Andante allegro (sol mineur)
 [voir HWV 8b(9), 452(3)]
 6. Bourrée (sol mineur)","2 Violins, Basso Continuo",sonate # 5
-401,HWV 401,op. 5/6,,,Sonata,F major,"1. Largo (fa majeur)
+401.000 ,HWV 401,op. 5/6,,,Sonata,F major,"1. Largo (fa majeur)
 [voir HWV 295(1)]
 2. Allegro (fa majeur)/Adagio (fa mineur)
 [voir HWV 392(2)]
@@ -1501,7 +1621,7 @@ concerto # 12"
 5a. [Menuet]. Andante (fa majeur), Variation (fa majeur)
 [voir HWV 289(4)]
 5b. Menuet. Allegro moderato (fa majeur)","2 Violins, Basso Continuo",sonate # 6
-402,HWV 402,op. 5/7,,,Sonata,B-flat major,"1. Larghetto (si bémol majeur)
+402.000 ,HWV 402,op. 5/7,,,Sonata,B-flat major,"1. Larghetto (si bémol majeur)
 [voir HWV 256a(1)]
 2. Allegro ma non presto (si bémol majeur)
 [voir HWV 256a(1)]
@@ -1513,59 +1633,65 @@ concerto # 12"
 [voir HWV A11(11)]
 6. Menuet. Andante allegro (si bémol majeur)
 [voir HWV 8b(12)]","2 Violins, Basso Continuo",sonate # 7
-403,HWV 403,,,,Sonata,C major,"1. Allegro (do majeur)
+403.000 ,HWV 403,,,,Sonata,C major,"1. Allegro (do majeur)
 [voir HWV 53(Symfonia)]
 2. Andante larghetto (la mineur)
 3. Allegro (do majeur)
 4. Allegro (do majeur)
 [voir HWV 53(58a)","2 Violins, Basso Continuo",
-404,HWV 404,,,,Sonata,G minor,"1. Andante (sol mineur)
+404.000 ,HWV 404,,,,Sonata,G minor,"1. Andante (sol mineur)
 [voir HWV 34(39), 122(10)]
 2. Allegro (sol mineur)
 3. Adagio (mi bémol majeur)
 4. Allegro (sol mineur)
 [voir HWV 433(2)]","Oboe/Violin, Violin, Basso Continuo",
-405,HWV 405,,,,Sonata,F major,"1. [Allegro] (fa majeur)
+405.000 ,HWV 405,,,,Sonata,F major,"1. [Allegro] (fa majeur)
 2. Grave (ré mineur)
 3. Allegro (fa majeur)
 [voir HWV 293(4), 369(4), 378(4)]","2 Flutes, Basso Continuo",
-406,HWV 406,,,Adagio-Allegro,,A major,"1. Adagio (la majeur)
+406.000 ,HWV 406,,,Adagio-Allegro,,A major,"1. Adagio (la majeur)
 2. Allegro (la majeur)","Violin, un autre instrument",
-407,HWV 407,,,Allegro,,G major,1. Allegro (sol majeur),Solo Violin,
-408,HWV 408,,,Allegro,,C minor,1. Allegro (do mineur),"Violin, Basso Continuo",[voir HWV 387(4)]
-409,HWV 409,,,"Andante, en ré mineur, pour Flute, Basso Continuo",,D minor,1. [Andante] (ré mineur),"Flute, Basso Continuo",
-410,HWV 410,,,,Aria,F major,,"2 Oboes, 2 Horns, Flute",
-411,HWV 411,,,,Aria,F major,,"2 Oboes/Violins, 2 Horns, Flute",
-412,HWV 412,,,Andante,,A major,1. Andante (la mineur),"Violin, Basso Continuo",
-413,HWV 413,,,Gigue,,B-flat major,1. Gigue (si bémol majeur),"Violin, Viola, Basso Continuo",
-414,HWV 414,,,,March,C major,1. Marche (do majeur),"Querpfiefe, Basso Continuo",[voir HWV 64(Introduzione)]
-415,HWV 415,,,,March,D major,1. Marche (ré majeur),"Querpfiefe, Basso Continuo",[voir HWV 64(35)]
-416,HWV 416,,,"Marche (Allegro) ""Dragoon's March""",March,D major,1. Allegro (ré majeur),"2 Oboes, Trumpet, Flute",
-417,HWV 417,,,,March,D major,1. Marche (ré majeur),"2 Horns ou 2 Oboes, Flute",[voir HWV 65(1)]
-418,HWV 418,,,,March,G major,,"2 Oboes ou 2 Violins, Flute",
-419,HWV 419,,,6 Marches,March,,,"Flute/Oboe/Violin, Basso Continuo",
-420,HWV 420,,,,Menuet,D major,1. (ré majeur),"Violin, Basso Continuo",[voir HWV 59(Anhang)]
-421,HWV 421,,,,Menuet,D major,,"Violin, Basso Continuo",
-422,HWV 422,,,,Menuet,G major,1. (sol majeur),"2 Oboes, 2 Horns, Flute",[voir HWV 351(Menuet II)]
-423,HWV 423,,,,Menuet,G major,,"2 Oboes, 2 Horns, Flute",
-424,HWV 424,,,,Overture,D major,"1. Ouverture (ré majeur)
+407.000 ,HWV 407,,,Allegro,,G major,1. Allegro (sol majeur),Solo Violin,
+408.000 ,HWV 408,,,Allegro,,C minor,1. Allegro (do mineur),"Violin, Basso Continuo",[voir HWV 387(4)]
+409.000 ,HWV 409,,,"Andante, en ré mineur, pour Flute, Basso Continuo",,D minor,1. [Andante] (ré mineur),"Flute, Basso Continuo",
+410.000 ,HWV 410,,,,Aria,F major,,"2 Oboes, 2 Horns, Flute",
+411.000 ,HWV 411,,,,Aria,F major,,"2 Oboes/Violins, 2 Horns, Flute",
+412.000 ,HWV 412,,,Andante,,A major,1. Andante (la mineur),"Violin, Basso Continuo",
+413.000 ,HWV 413,,,Gigue,,B-flat major,1. Gigue (si bémol majeur),"Violin, Viola, Basso Continuo",
+414.000 ,HWV 414,,,,March,C major,1. Marche (do majeur),"Querpfiefe, Basso Continuo",[voir HWV 64(Introduzione)]
+415.000 ,HWV 415,,,,March,D major,1. Marche (ré majeur),"Querpfiefe, Basso Continuo",[voir HWV 64(35)]
+416.000 ,HWV 416,,,"Marche (Allegro) ""Dragoon's March""",March,D major,1. Allegro (ré majeur),"2 Oboes, Trumpet, Flute",
+417.000 ,HWV 417,,,,March,D major,1. Marche (ré majeur),"2 Horns ou 2 Oboes, Flute",[voir HWV 65(1)]
+418.000 ,HWV 418,,,,March,G major,,"2 Oboes ou 2 Violins, Flute",
+419.000 ,HWV 419,,,6 Marches,March,,,"Flute/Oboe/Violin, Basso Continuo",
+419.100 ,HWV 419/1,,,"March ""March in Ptolomy""",March,G major,1. Marche (sol majeur),"Flute/Oboe/Violin, Basso Continuo",[voir HWV 346]
+419.200 ,HWV 419/2,,,"March ""Ld. Loudon's March""",March,G major,1. Marche (sol majeur),"Flute/Oboe/Violin, Basso Continuo",
+419.300 ,HWV 419/3,,,"March ""Admiral Boscowin's March""",March,G major,1. Marche (sol majeur),"Flute/Oboe/Violin, Basso Continuo",
+419.400 ,HWV 419/4,,,,March,F major,1. Marche (fa majeur),"Flute/Oboe/Violin, Basso Continuo",
+419.500 ,HWV 419/5,,,,March,C major,1. Marche (do majeur),"Flute/Oboe/Violin, Basso Continuo",
+419.600 ,HWV 419/6,,,"March ""Handel's March""",March,D major,1. Marche (do majeur),"Flute/Oboe/Violin, Basso Continuo",
+420.000 ,HWV 420,,,,Menuet,D major,1. (ré majeur),"Violin, Basso Continuo",[voir HWV 59(Anhang)]
+421.000 ,HWV 421,,,,Menuet,D major,,"Violin, Basso Continuo",
+422.000 ,HWV 422,,,,Menuet,G major,1. (sol majeur),"2 Oboes, 2 Horns, Flute",[voir HWV 351(Menuet II)]
+423.000 ,HWV 423,,,,Menuet,G major,,"2 Oboes, 2 Horns, Flute",
+424.000 ,HWV 424,,,,Overture,D major,"1. Ouverture (ré majeur)
 [voir HWV 334(1)]
 2. Allegro ma non troppo (ré majeur)
 3. Larghetto (ré majeur)
 4. Andante allegro (ré majeur)
 5. Allegro (ré majeur)","2 clarinettes, cor de chasse",
-425,HWV 425,,,,Aria,E major,1. Sarabande. Larghetto (mi majeur),"Violin, Basso Continuo",
-426,HWV 426,,,Suite de pièces,Suite,A major,"1. Prélude (la majeur)
+425.000 ,HWV 425,,,,Aria,E major,1. Sarabande. Larghetto (mi majeur),"Violin, Basso Continuo",
+426.000 ,HWV 426,,,Suite de pièces,Suite,A major,"1. Prélude (la majeur)
 2. Allemande (la majeur)
 3. Courante (la majeur)
 4. Gigue (la majeur)",,suite # 1
-427,HWV 427,,,Suite de pièces,Suite,F major,"1. Adagio (fa majeur)
+427.000 ,HWV 427,,,Suite de pièces,Suite,F major,"1. Adagio (fa majeur)
 2. Allegro (fa majeur)
 3. Adagio (ré mineur)
 4. Allegro (fa majeur)
 5. Allegro (fa majeur)
 [voir HWV 442(1), 488]",,suite # 2
-428,HWV 428,,,Suite de pièces,Suite,D minor,"1. Prélude. Presto (ré mineur)
+428.000 ,HWV 428,,,Suite de pièces,Suite,D minor,"1. Prélude. Presto (ré mineur)
 [voir HWV 437(1), 561, 565]
 2. Allegro (ré mineur)
 3. Allemande (ré mineur)
@@ -1576,7 +1702,7 @@ concerto # 12"
 [voir HWV 8a(Ouverture,6), 309(3), 317(2), 495]
 7. Aria con Variazione # 2 Adagio (ré mineur)
 [mouvements additionnels]",,suite # 3
-429,HWV 429,,,Suite de pièces,Suite,E minor,"1. Allegro (mi mineur)
+429.000 ,HWV 429,,,Suite de pièces,Suite,E minor,"1. Allegro (mi mineur)
 [voir HWV 400(4)]
 2. Allemande (mi mineur)
 3. Courante (mi mineur)
@@ -1584,7 +1710,7 @@ concerto # 12"
 5. Gigue (mi mineur)
 6. [Allegro] (mi mineur)
 [mouvement supplémentaire au # 1 - fragment]",,suite # 4
-430,HWV 430,,,Suite de pièces,Suite,E major,"1. Prélude (mi majeur)
+430.000 ,HWV 430,,,Suite de pièces,Suite,E major,"1. Prélude (mi majeur)
 [voir HWV 566]
 2. Allemande (mi majeur)
 3. Courante (mi majeur)
@@ -1592,14 +1718,14 @@ concerto # 12"
 ""The harmonious blacksmith""
 5. Chaconne (sol majeur)
 [mouvement supplémentaire - 2 versions]",,suite # 5
-431,HWV 431,,,Suite de pièces,Suite,F-sharp minor,"1. Prélude (fa dièse mineur)
+431.000 ,HWV 431,,,Suite de pièces,Suite,F-sharp minor,"1. Prélude (fa dièse mineur)
 2. [Largo] (fa dièse mineur)
 3. Allegro (fa dièse mineur)
 [voir HWV 247(1), 316(2)]
 4. Gigue. Presto (fa dièse mineur)
 5. Presto (fa dièse mineur)
 [mouvement supplémentaire du # 4]",,suite # 6
-432,HWV 432,,,Suite de pièces,Suite,G minor,"1. Ouverture. … / Presto / Adagio / … (sol mineur)
+432.000 ,HWV 432,,,Suite de pièces,Suite,G minor,"1. Ouverture. … / Presto / Adagio / … (sol mineur)
 [voir HWV 96(Ouverture), A11(Ouverture)]
 2. Andante (sol mineur)
 3. Allegro (sol mineur)
@@ -1608,7 +1734,7 @@ concerto # 12"
 5. Gigue (sol mineur)
 6. Passacaille (sol mineur)
 [voir HWV 96(4), 306(1)]",Harpsichord,suite # 7
-433,HWV 433,,,Suite de pièces,Suite,F minor,"1. Prélude. Adagio (fa mineur)
+433.000 ,HWV 433,,,Suite de pièces,Suite,F minor,"1. Prélude. Adagio (fa mineur)
 2. Allegro (fa mineur)
 [voir HWV 404(4)]
 3. Allemande (fa mineur)
@@ -1618,7 +1744,7 @@ concerto # 12"
 [mouvement supplémentaire (1a)]
 7. Adagio (fa mineur)
 [mouvement supplémentaire (1b)]",Harpsichord,suite # 8
-434,HWV 434,,,Suite de pièces,Suite,B-flat major,"1. Prélude (si bémol majeur)
+434.000 ,HWV 434,,,Suite de pièces,Suite,B-flat major,"1. Prélude (si bémol majeur)
 2. Sonata (si bémol majeur)
 [voir HWV 339(1)]
 3. Aria con Variazioni (5) (si bémol majeur)
@@ -1628,52 +1754,52 @@ concerto # 12"
 [mouvement supplémentaire]
 6. Allegro (si bémol majeur)
 [mouvement supplémentaire]",Harpsichord,suite # 1
-435,HWV 435,,,"Chaconne, en sol majeur, avec 21 variations",,,"1. Version I: Chaconne et Variations (21)
+435.000 ,HWV 435,,,"Chaconne, en sol majeur, avec 21 variations",,,"1. Version I: Chaconne et Variations (21)
 sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol majeur)
 2. Version II: Ritornello, Chaconne, Variations (6) et Ritornello
 (sol majeur; sol majeur; Var. 6,7,81,8b,9,17a: sol majeur; sol majeur)
 3. Version III: Chaconne et Variations (6)
 (sol majeur; Var. 9,10,14,17,19,20: sol majeur)",Harpsichord,[3 versions]
-436,HWV 436,,,Suite de pièces,Suite,D minor,"1. Allemande (ré mineur)
+436.000 ,HWV 436,,,Suite de pièces,Suite,D minor,"1. Allemande (ré mineur)
 [voir HWV 29(23), 398(4), 479]
 2. Allegro (ré mineur) / Air. Lentement (ré mineur)
 3. Gigue. Presto (ré mineur)
 4. Menuetto avec Variations (3) (ré mineur)
 [voir HWV 507]",Harpsichord,suite # 3
-437,HWV 437,,,Suite de pièces,Suite,D minor,"1. Prélude (ré mineur)
+437.000 ,HWV 437,,,Suite de pièces,Suite,D minor,"1. Prélude (ré mineur)
 [voir HWV 428(1), =561]
 2. Allemande (ré mineur)
 3. Courante (ré mineur)
 4. Sarabande avec Variations (2) (ré mineur)
 5. Gigue (ré mineur)",Harpsichord,suite # 4
-438,HWV 438,,,Suite de pièces,Suite,E minor,"1. Allemande (mi mineur)
+438.000 ,HWV 438,,,Suite de pièces,Suite,E minor,"1. Allemande (mi mineur)
 2. Sarabade (mi mineur)
 3a. Gigue (mi mineur)
 3b. Gigue (mi mineur)",Harpsichord,suite # 5
-439,HWV 439,,,Suite de pièces,Suite,G minor,"1. Allemande (sol mineur)
+439.000 ,HWV 439,,,Suite de pièces,Suite,G minor,"1. Allemande (sol mineur)
 2. Courante (sol mineur)
 3. Sarabande (sol mineur)
 [voir HWV 432(4)]
 4. Gigue (sol mineur)
 [voir HWV 493]",Harpsichord,suite # 6
-440,HWV 440,,,Suite de pièces,Suite,B-flat major,"1. Allemande (si bémol majeur)
+440.000 ,HWV 440,,,Suite de pièces,Suite,B-flat major,"1. Allemande (si bémol majeur)
 [2 versions]
 2. Courante (si bémol majeur)
 3. Sarabande (si bémol majeur)
 [3 versions]
 4. Gigue (si bémol majeur)",Harpsichord,suite # 7
-441,HWV 441,,,Suite de pièces,Suite,G major,"1. Allemande (sol majeur)
+441.000 ,HWV 441,,,Suite de pièces,Suite,G major,"1. Allemande (sol majeur)
 2. Allegro (sol majeur)
 3. Courante (sol majeur)
 4. Aria. Presto (sol majeur)
 5. Menuetto (sol majeur)
 6. Gavotta avec Variations (8) (sol majeur)
 7. Gigue (sol majeur)",Harpsichord,suite # 8
-442,HWV 442,,,"Prélude et Chaconne, en sol majeur, avec 62 variations",,,"1a. Prélude (sol majeur)
+442.000 ,HWV 442,,,"Prélude et Chaconne, en sol majeur, avec 62 variations",,,"1a. Prélude (sol majeur)
 [voir HWV 7a(28), 579]
 1b. Prélude. Allegro (sol majeur)
 [voir HWV 488]",Harpsichord,
-443,HWV 443,,,Suite avec Chaconne et 26 variations,Suite,C major,"1. Prélude et fugue (do majeur)
+443.000 ,HWV 443,,,Suite avec Chaconne et 26 variations,Suite,C major,"1. Prélude et fugue (do majeur)
 2. Allemande (do majeur)
 3. Courante (do majeur)
 4. Sarabande et Double (do majeur)
@@ -1681,35 +1807,35 @@ sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol ma
 [voir HWV 447(4)]
 6. Chaconne et Variations (26) (do majeur)
 [voir HWV 484]",Harpsichord,
-444,HWV 444,,,"Partita, en do mineur, pour clavecin",Partita,,"1. Prélude (do mineur)
+444.000 ,HWV 444,,,"Partita, en do mineur, pour clavecin",Partita,,"1. Prélude (do mineur)
 2. Allemande (do mineur)
 [voir HWV 445(2)]
 3. Courante (do mineur)
 4. Gavotte (do mineur)
 5. Menuet (do mineur)",Harpsichord,
-445,HWV 445,,,,Suite,C minor,"1. Prélude (do mineur)
+445.000 ,HWV 445,,,,Suite,C minor,"1. Prélude (do mineur)
 2. Allemande (do mineur)
 [voir HWV 444(2)]
 3. Courante (do mineur)
 [voir HWV 446(3)]",Harpsichord,
-446,HWV 446,,,,Suite,C minor,"1. Allemande (do mineur)
+446.000 ,HWV 446,,,,Suite,C minor,"1. Allemande (do mineur)
 2. Courante (do mineur)
 3. Sarabande (do mineur)
 [voir HWV 445(3)]
 4. Chaconne (do mineur)
 [voir HWV 34(39), 122(10), 404(1)]",2 Harpsichords,[Fragment]
-447,HWV 447,,,,Suite,D minor,"1. Allemande (ré mineur)
+447.000 ,HWV 447,,,,Suite,D minor,"1. Allemande (ré mineur)
 2. Courante (ré mineur)
 3. Sarabande (ré mineur)
 4. Gigue (ré mineur)
 [voir HWV 443(5)]",Harpsichord,
-448,HWV 448,,,Suite avec Chaconne et 10 variations,Suite,D minor,"1. Ouverture. … / Allegro / Adagio (ré mineur)
+448.000 ,HWV 448,,,Suite avec Chaconne et 10 variations,Suite,D minor,"1. Ouverture. … / Allegro / Adagio (ré mineur)
 2. Allemande (ré mineur)
 3. Courante (ré mineur)
 4. Sarabande I (ré mineur)
 5. Sarabande II (ré mineur)
 6. Chaconne avec Variations (10) (ré mineur)",Harpsichord,
-449,HWV 449,,,Suite avec Air et 7 variations,Suite,D minor,"1. Prélude (ré mineur)
+449.000 ,HWV 449,,,Suite avec Air et 7 variations,Suite,D minor,"1. Prélude (ré mineur)
 2. Allemande (ré mineur)
 [voir HWV 451(1)]
 3. Courante (ré mineur)
@@ -1718,32 +1844,32 @@ sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol ma
 [voir HWV 428(5)]
 6. Gigue (ré mineur)
 7. Menuet (ré mineur)",Harpsichord,
-450,HWV 450,,,"Partita, en sol majeur, pour clavecin",Partita,,"1. Prélude (sol majeur)
+450.000 ,HWV 450,,,"Partita, en sol majeur, pour clavecin",Partita,,"1. Prélude (sol majeur)
 2. Allemande (sol majeur)
 3. Courante (sol majeur)
 4. Sarabande (sol majeur)
 5. Gigue (sol majeur)
 6. Menuet (sol majeur)",Harpsichord,
-451,HWV 451,,,,Suite,G minor,"1. Allemande (sol mineur)
+451.000 ,HWV 451,,,,Suite,G minor,"1. Allemande (sol mineur)
 [voir HWV 449(2)]
 2. Courante (sol mineur)",Harpsichord,
-452,HWV 452,,,,Suite,G minor,"1. Allemande (sol mineur)
+452.000 ,HWV 452,,,,Suite,G minor,"1. Allemande (sol mineur)
 [voir HWV 326(1)]
 2. Courante (sol mineur)
 3. Sarabande (sol mineur)
 [voir HWV 8b(9), 400(5)]
 4. Gigue (sol mineur)",Harpsichord,
-453,HWV 453,,,,Suite,G minor,"1. Ouverture (sol mineur)
+453.000 ,HWV 453,,,,Suite,G minor,"1. Ouverture (sol mineur)
 [voir HWV 233(Introduzione)]
 2. Entrée (sol mineur)
 3. Menuet I (sol mineur)
 4. Menuet II (sol mineur)
 5. Chaconne (sol mineur)",Harpsichord,
-454,HWV 454,,,"Partita, en la majeur, pour clavecin",Partita,,"1. Allemande (la majeur)
+454.000 ,HWV 454,,,"Partita, en la majeur, pour clavecin",Partita,,"1. Allemande (la majeur)
 2. Courante (la majeur)
 3. Sarabande (la majeur)
 4. Gigue (la majeur)",Harpsichord,
-455,HWV 455,,,,Suite,B-flat major,"1. Ouverture … / Lentement (si bémol majeur)
+455.000 ,HWV 455,,,,Suite,B-flat major,"1. Ouverture … / Lentement (si bémol majeur)
 [voir HWV 336]
 2. Sarabande (fa majeur)
 [voir HWV 354(3)]
@@ -1751,369 +1877,243 @@ sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol ma
 [voir HWV 354(4)]
 4. [Menuet] (si bémol majeur)
 [voir HWV 354(1)]",Harpsichord,
-456,HWV 456,,,5 Arrangements d'ouvertures d'opéras,,,,Harpsichord,
-457,HWV 457,,,,Aria,C major,,Harpsichord,
-458,HWV 458,,,,Aria,C minor,1. Allegro (do mineur),Harpsichord,
-459,HWV 459,,,,Aria,C major,,Harpsichord,
-460,HWV 460,,,Aria (Marche),Aria,D major,,Harpsichord,
-461,HWV 461,,,Aria (Hornpipe),Aria,D minor,,Harpsichord,
-462,HWV 462,,,Aria on a Menuet,Aria,D minor,,Harpsichord,
-463,HWV 463,,,,Aria,F major,,Harpsichord,
-464,HWV 464,,,,Aria,F major,,Harpsichord,
-465,HWV 465,,,Aria & 2 Doubles,Aria,F major,"1. Air (fa majeur)
+456.000 ,HWV 456,,,5 Arrangements d'ouvertures d'opéras,,,,Harpsichord,
+456.100 ,HWV 456/1,,,Overture de HWV 8a: Il Pastor fido,Overture,D minor,,Harpsichord,
+456.200 ,HWV 456/2,,,Overture de HWV 11: Amadigi,Overture,C minor,,Harpsichord,
+456.300 ,HWV 456/3,,,Overture de HWV 16: Flavio,Overture,G minor,,Harpsichord,
+456.400 ,HWV 456/4,,,Overture de HWV 19: Rodelinda,Overture,C major,,Harpsichord,
+456.500 ,HWV 456/5,,,Overture de HWV 23: Ricardo I,Overture,D major,,Harpsichord,
+457.000 ,HWV 457,,,,Aria,C major,,Harpsichord,
+458.000 ,HWV 458,,,,Aria,C minor,1. Allegro (do mineur),Harpsichord,
+459.000 ,HWV 459,,,,Aria,C major,,Harpsichord,
+460.000 ,HWV 460,,,Aria (Marche),Aria,D major,,Harpsichord,
+461.000 ,HWV 461,,,Aria (Hornpipe),Aria,D minor,,Harpsichord,
+462.000 ,HWV 462,,,Aria on a Menuet,Aria,D minor,,Harpsichord,
+463.000 ,HWV 463,,,,Aria,F major,,Harpsichord,
+464.000 ,HWV 464,,,,Aria,F major,,Harpsichord,
+465.000 ,HWV 465,,,Aria & 2 Doubles,Aria,F major,"1. Air (fa majeur)
 2. Double I (fa majeur)
 3. Double II (fa majeur)",Harpsichord,
-466,HWV 466,,,,Aria,G minor,"1. (sol mineur)
+466.000 ,HWV 466,,,,Aria,G minor,"1. (sol mineur)
 [voir HWV 25(18)]",Harpsichord (two manuals),
-467,HWV 467,,,,Aria,G minor,"1. Lentement (sol mineur)
+467.000 ,HWV 467,,,,Aria,G minor,"1. Lentement (sol mineur)
 [voir HWV 578(2)]",Harpsichord,
-468,HWV 468,,,,Aria,A major,,Harpsichord,
-469,HWV 469,,,,Aria,B-flat major,"1. (si bémol majeur)
+468.000 ,HWV 468,,,,Aria,A major,,Harpsichord,
+469.000 ,HWV 469,,,,Aria,B-flat major,"1. (si bémol majeur)
 [voir HWV 311(2), 347(3)]",Harpsichord,
-470,HWV 470,,,,Aria,B-flat major,,Harpsichord (two manuals),
-471,HWV 471,,,,Aria,B-flat major,,Harpsichord,
-472,HWV 472,,,Allegro,,C major,,Harpsichord,
-473,HWV 473,,,Allegro,,C major,,Musical Clock,
-474,HWV 474,,,,Aria,G major,,Harpsichord,"de HWV 49a: Acis, Galatea"
-475,HWV 475,,,Allegro,,D minor,,Harpsichord,
-476,HWV 476,,,Allemande,,F major,"1. (fa majeur)
+470.000 ,HWV 470,,,,Aria,B-flat major,,Harpsichord (two manuals),
+471.000 ,HWV 471,,,,Aria,B-flat major,,Harpsichord,
+472.000 ,HWV 472,,,Allegro,,C major,,Harpsichord,
+473.000 ,HWV 473,,,Allegro,,C major,,Musical Clock,
+474.000 ,HWV 474,,,,Aria,G major,,Harpsichord,"de HWV 49a: Acis, Galatea"
+475.000 ,HWV 475,,,Allegro,,D minor,,Harpsichord,
+476.000 ,HWV 476,,,Allemande,,F major,"1. (fa majeur)
 [voir HWV 40(43)]",Harpsichord,
-477,HWV 477,,,Allemande,,A major,,Harpsichord,
-478,HWV 478,,,Allemande,,A major,,Harpsichord,
-479,HWV 479,,,Allemande,,B minor,"1. (si mineur)
+477.000 ,HWV 477,,,Allemande,,A major,,Harpsichord,
+478.000 ,HWV 478,,,Allemande,,A major,,Harpsichord,
+479.000 ,HWV 479,,,Allemande,,B minor,"1. (si mineur)
 [voir HWV 29(23), 398(4), 436(1)]",Harpsichord,
-480,HWV 480,,,"Choral ""Jesu meine Freunde""",,G minor,,Harpsichord,
-481,HWV 481,,,,Capriccio,F major,,Harpsichord,
-482,HWV 482,,,Arrangements authentiques d'airs d'opéras,,,,Harpsichord,
-483,HWV 483,,,,Capriccio,G minor,"1. [Capriccio] (sol mineur)
+480.000 ,HWV 480,,,"Choral ""Jesu meine Freunde""",,G minor,,Harpsichord,
+481.000 ,HWV 481,,,,Capriccio,F major,,Harpsichord,
+482.000 ,HWV 482,,,Arrangements authentiques d'airs d'opéras,,,,Harpsichord,
+482.100 ,HWV 482/1,,,Molto voglio,,C major,"1. (do majeur)
+[voir HWV 7a(10)]",Harpsichord,de HWV 7a: Rinaldo
+482.200 ,HWV 482/2,,,"Sventurato, godi, o core abbandonato",,E-flat major,"1. Larghetto (mi bémol majeur)
+[voir HWV 14(8)]",Harpsichord,de HWV 14: Floridante
+482.300 ,HWV 482/3,,,Ombra cara di mia sposay,,F minor,"1. (sol mineur)
+[voir HWV 12a(13)]",,de HWV 12a: Radamisto
+482.400 ,HWV 482/4,,,Pupille sdegnose! sareste pietose,,F major,"1. (fa majeur)
+[voir HWV 13(3)]",Harpsichord,de HWV 13: Muzio Scevola (Acte 3)
+482.500 ,HWV 482/5,,,"Come, se ti vedro",,G major,"1. (sol majeur)
+[voir HWV 13(9)]",,de HWV 13: Muzio Scevola (Acte 3)
+483.000 ,HWV 483,,,,Capriccio,G minor,"1. [Capriccio] (sol mineur)
 [voir HWV 26(30), 75(15)]",Harpsichord,
-484,HWV 484,,,"Chaconne, 49 variations",,C major,"1. Chaconne, Variations [voir HWV 443(6)]",Harpsichord,
-485,HWV 485,,,Chaconne,,F major,,Harpsichord (two manuals),
-486,HWV 486,,,Chaconne,,G minor,,Harpsichord,
-487,HWV 487,,,,Concerto,G major,"1. Allegro (sol majeur)
+484.000 ,HWV 484,,,"Chaconne, 49 variations",,C major,"1. Chaconne, Variations [voir HWV 443(6)]",Harpsichord,
+485.000 ,HWV 485,,,Chaconne,,F major,,Harpsichord (two manuals),
+486.000 ,HWV 486,,,Chaconne,,G minor,,Harpsichord,
+487.000 ,HWV 487,,,,Concerto,G major,"1. Allegro (sol majeur)
 [voir HWV 20(28a)]
 2. Andante (sol majeur)
 [voir HWV 315(2)]",Harpsichord,
-488,HWV 488,,,Allegro (Courante),,F major,"1. [Allegro] (fa majeur)
+488.000 ,HWV 488,,,Allegro (Courante),,F major,"1. [Allegro] (fa majeur)
 [voir HWV 442(1b)]",Harpsichord,
-489,HWV 489,,,Courante,,B minor,,Harpsichord,
-490,HWV 490,,,,Fantasia,C major,,Harpsichord,
-491,HWV 491,,,Gavotte,,G major,,Harpsichord,
-492,HWV 492,,,Gigue,,F major,,Harpsichord,
-493,HWV 493,,,Gigue,,G minor,"1. Gigue (sol mineur)
+489.000 ,HWV 489,,,Courante,,B minor,,Harpsichord,
+490.000 ,HWV 490,,,,Fantasia,C major,,Harpsichord,
+491.000 ,HWV 491,,,Gavotte,,G major,,Harpsichord,
+492.000 ,HWV 492,,,Gigue,,F major,,Harpsichord,
+493.000 ,HWV 493,,,Gigue,,G minor,"1. Gigue (sol mineur)
 [voir HWV 439(4)]",Harpsichord,[2 versions]
-494,HWV 494,,,Impertinence (Bourrée),,G minor,,Orchestra,
-495,HWV 495,,,Lesson (Gigue),,D minor,"1. (ré mineur)
+494.000 ,HWV 494,,,Impertinence (Bourrée),,G minor,,Orchestra,
+495.000 ,HWV 495,,,Lesson (Gigue),,D minor,"1. (ré mineur)
 [voir HWV 428(6)]",Harpsichord,
-496,HWV 496,,,Lesson,,A major,,Harpsichord,
-497,HWV 497,,,,Menuet,C major,"1. (do majeur)
+496.000 ,HWV 496,,,Lesson,,A major,,Harpsichord,
+497.000 ,HWV 497,,,,Menuet,C major,"1. (do majeur)
 [voir HWV 456/4]",Harpsichord,de HWV 19: Rodelinda (Ouverture)
-498,HWV 498,,,,Menuet,C major,,Harpsichord,
-499,HWV 499,,,,Menuet,C minor,"1. (do mineur)
+498.000 ,HWV 498,,,,Menuet,C major,,Harpsichord,
+499.000 ,HWV 499,,,,Menuet,C minor,"1. (do mineur)
 [voir HWV 18(Ouverture)]",Harpsichord,de HWV 18: Tamerlano (Ouverture)
-500,HWV 500,,,,Menuet,D major,,Harpsichord,
-501,HWV 501,,,,Menuet,D major,,Harpsichord,
-502,HWV 502,,,,Menuet,D major,"1. (ré majeur)
+500.000 ,HWV 500,,,,Menuet,D major,,Harpsichord,
+501.000 ,HWV 501,,,,Menuet,D major,,Harpsichord,
+502.000 ,HWV 502,,,,Menuet,D major,"1. (ré majeur)
 [voir HWV 3, 344]",Harpsichord,de HWV 3: Der begluckte Florindo
-503,HWV 503,,,,Menuet,D major,"1. (ré majeur)
+503.000 ,HWV 503,,,,Menuet,D major,"1. (ré majeur)
 [voir HWV 349(13), 546]",Harpsichord,
-504,HWV 504,,,,Menuet,D major,"1. (ré majeur)
+504.000 ,HWV 504,,,,Menuet,D major,"1. (ré majeur)
 [voir HWV 12(32), 559]",Harpsichord,de HWV 12a: Radamisto
-505,HWV 505,,,,Menuet,D major,,Harpsichord,
-506,HWV 506,,,,Menuet,D major,"1. (ré majeur)
+505.000 ,HWV 505,,,,Menuet,D major,,Harpsichord,
+506.000 ,HWV 506,,,,Menuet,D major,"1. (ré majeur)
 [voir HWV 228/3]",Harpsichord,
-507,HWV 507,,,,Menuet,D minor,"1. (ré mineur)
+507.000 ,HWV 507,,,,Menuet,D minor,"1. (ré mineur)
 [voir HWV 436(4)]",Harpsichord,[2 versions]
-508,HWV 508,,,,Menuet,d/e,"1. (ré mineur)/(mi mineur)
+508.000 ,HWV 508,,,,Menuet,d/e,"1. (ré mineur)/(mi mineur)
 [voir HWV 16(5)]",Harpsichord,de HWV 16: Flavio
-509,HWV 509,,,,Menuet,F major,,Harpsichord,
-510,HWV 510,,,,Menuet,F major,"1. (fa majeur)
+509.000 ,HWV 509,,,,Menuet,F major,,Harpsichord,
+510.000 ,HWV 510,,,,Menuet,F major,"1. (fa majeur)
 [voir HWV 14(28a)]",Harpsichord,de HWV 14: Floridante
-511,HWV 511,,,,Menuet,F major,"1. (fa majeur)
+511.000 ,HWV 511,,,,Menuet,F major,"1. (fa majeur)
 [voir HWV 348(7)]
 2. Trio. Adagio (fa mineur)
 [voir HWV 547]",Harpsichord,
-512,HWV 512,,,,Menuet,F major,"1. (fa majeur)
+512.000 ,HWV 512,,,,Menuet,F major,"1. (fa majeur)
 [voir HWV 24(30)]",Harpsichord,de HWV 24: Siroe
-513,HWV 513,,,,Menuet,F/G,,Harpsichord,
-514,HWV 514,,,,Menuet,F/G,,Harpsichord,
-515,HWV 515,,,,Menuet,F/G,,Harpsichord,
-516,HWV 516,,,,Menuet,F major,,Harpsichord,[3 versions]
-517,HWV 517,,,,Menuet,F major,,Harpsichord,
-518,HWV 518,,,,Menuet,F major,,Harpsichord,
-519,HWV 519,,,,Menuet,F major,,Harpsichord,
-520,HWV 520,,,,Menuet,F major,,Harpsichord,
-521,HWV 521,,,,Menuet,G major,,Harpsichord,
-522,HWV 522,,,,Menuet,G major,,Harpsichord,
-523,HWV 523,,,,Menuet,G major,"1. (sol majeur)
+513.000 ,HWV 513,,,,Menuet,F/G,,Harpsichord,
+514.000 ,HWV 514,,,,Menuet,F/G,,Harpsichord,
+515.000 ,HWV 515,,,,Menuet,F/G,,Harpsichord,
+516.000 ,HWV 516,,,,Menuet,F major,,Harpsichord,[3 versions]
+517.000 ,HWV 517,,,,Menuet,F major,,Harpsichord,
+518.000 ,HWV 518,,,,Menuet,F major,,Harpsichord,
+519.000 ,HWV 519,,,,Menuet,F major,,Harpsichord,
+520.000 ,HWV 520,,,,Menuet,F major,,Harpsichord,
+521.000 ,HWV 521,,,,Menuet,G major,,Harpsichord,
+522.000 ,HWV 522,,,,Menuet,G major,,Harpsichord,
+523.000 ,HWV 523,,,,Menuet,G major,"1. (sol majeur)
 [voir HWV 313(4), 557]",Harpsichord,
-524,HWV 524,,,,Menuet,G major,,Harpsichord,
-525,HWV 525,,,,Menuet,G major,,Harpsichord,
-526,HWV 526,,,,Menuet,G major,,Harpsichord,
-527,HWV 527,,,,Menuet,G major,,Harpsichord,
-528,HWV 528,,,,Menuet,G major,,Harpsichord,
-529,HWV 529,,,,Menuet,G major,,Harpsichord,
-530,HWV 530,,,,Menuet,G major,"1. (sol majeur)
+524.000 ,HWV 524,,,,Menuet,G major,,Harpsichord,
+525.000 ,HWV 525,,,,Menuet,G major,,Harpsichord,
+526.000 ,HWV 526,,,,Menuet,G major,,Harpsichord,
+527.000 ,HWV 527,,,,Menuet,G major,,Harpsichord,
+528.000 ,HWV 528,,,,Menuet,G major,,Harpsichord,
+529.000 ,HWV 529,,,,Menuet,G major,,Harpsichord,
+530.000 ,HWV 530,,,,Menuet,G major,"1. (sol majeur)
 [voir HWV 228/4]",Harpsichord,
-531,HWV 531,,,,Menuet,G major,,Harpsichord,
-532,HWV 532,,,,Menuet,G minor,"1. (sol mineur)
+531.000 ,HWV 531,,,,Menuet,G major,,Harpsichord,
+532.000 ,HWV 532,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 70(Ouverture)]",Harpsichord,
-533,HWV 533,,,,Menuet,G minor,"1. (sol mineur)
+533.000 ,HWV 533,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 70(5)]",Harpsichord,
-534,HWV 534,,,,Menuet,G minor,,Harpsichord,[2 versions]
-535,HWV 535,,,,Menuet,G minor,"1. (sol mineur)
+534.000 ,HWV 534,,,,Menuet,G minor,,Harpsichord,[2 versions]
+535.000 ,HWV 535,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 38(19)]",Harpsichord,"[2 versions]
 Menuet favori de la princesse Sophia"
-536,HWV 536,,,,Menuet,G minor,,Harpsichord,
-537,HWV 537,,,,Menuet,G minor,,Harpsichord,[2 versions]
-538,HWV 538,,,,Menuet,G minor,"1. (sol mineur)
+536.000 ,HWV 536,,,,Menuet,G minor,,Harpsichord,
+537.000 ,HWV 537,,,,Menuet,G minor,,Harpsichord,[2 versions]
+538.000 ,HWV 538,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 350(19)]",Harpsichord,[2 versions]
-539,HWV 539,,,,Menuet,G minor,"1. (sol mineur)
+539.000 ,HWV 539,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 350(20)]",Harpsichord,[2 versions]
-540,HWV 540,,,,Menuet,G minor,"1. (sol mineur)
+540.000 ,HWV 540,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 1(25), 228/22, 603]",Harpsichord,[2 versions]
-541,HWV 541,,,,Menuet,G minor,,Harpsichord,
-542,HWV 542,,,,Menuet,G minor,,Harpsichord,
-543,HWV 543,,,,Menuet,G minor,"1. (sol mineur)
+541.000 ,HWV 541,,,,Menuet,G minor,,Harpsichord,
+542.000 ,HWV 542,,,,Menuet,G minor,,Harpsichord,
+543.000 ,HWV 543,,,,Menuet,G minor,"1. (sol mineur)
 [voir HWV 228/20]",Harpsichord,
-544,HWV 544,,,,Menuet,A major,,Harpsichord,
-545,HWV 545,,,,Menuet,A major,"1. (la majeur)
+544.000 ,HWV 544,,,,Menuet,A major,,Harpsichord,
+545.000 ,HWV 545,,,,Menuet,A major,"1. (la majeur)
 [voir HWV 228/16]",Harpsichord,
-546,HWV 546,,,,Menuet,A major,"1. (la majeur)
+546.000 ,HWV 546,,,,Menuet,A major,"1. (la majeur)
 [voir HWV 349(13), 503]",Harpsichord,
-547,HWV 547,,,,Menuet,A minor,"1. (la mineur)
+547.000 ,HWV 547,,,,Menuet,A minor,"1. (la mineur)
 [voir HWV 348(7), 511]",Harpsichord,
-548,HWV 548,,,,Menuet,A minor,,Harpsichord,
-549,HWV 549,,,,Menuet,A minor,,Harpsichord,
-550,HWV 550,,,,Menuet,B-flat major,"1. (si bémol majeur)
+548.000 ,HWV 548,,,,Menuet,A minor,,Harpsichord,
+549.000 ,HWV 549,,,,Menuet,A minor,,Harpsichord,
+550.000 ,HWV 550,,,,Menuet,B-flat major,"1. (si bémol majeur)
 [voir HWV 354(1)]",Harpsichord,de HWV 3: Der begluckte Florindo
-551,HWV 551,,,,Menuet,B-flat major,,Harpsichord,
-552,HWV 552,,,,Menuet,B-flat major,,Harpsichord,
-553,HWV 553,,,,Menuet,B-flat major,,Harpsichord,
-554,HWV 554,,,,Menuet,B-flat major,,Harpsichord,
-555,HWV 555,,,,Menuet,B-flat major,,Harpsichord,[2 versions]
-556,HWV 556,,,,Menuet,B-flat major,,Harpsichord,
-557,HWV 557,,,,Menuet,B-flat major,"1. (si bémol majeur)
+551.000 ,HWV 551,,,,Menuet,B-flat major,,Harpsichord,
+552.000 ,HWV 552,,,,Menuet,B-flat major,,Harpsichord,
+553.000 ,HWV 553,,,,Menuet,B-flat major,,Harpsichord,
+554.000 ,HWV 554,,,,Menuet,B-flat major,,Harpsichord,
+555.000 ,HWV 555,,,,Menuet,B-flat major,,Harpsichord,[2 versions]
+556.000 ,HWV 556,,,,Menuet,B-flat major,,Harpsichord,
+557.000 ,HWV 557,,,,Menuet,B-flat major,"1. (si bémol majeur)
 [voir HWV 313(4)]",Harpsichord,
-558,HWV 558,,,,Menuet,B minor,"1. (si mineur)
+558.000 ,HWV 558,,,,Menuet,B minor,"1. (si mineur)
 [voir HWV 6(A44), 28(31,32), 82(5)]",Harpsichord,de HWV 28: Poro
-559,HWV 559,,,Passepied,,C major,"1. (do majeur)
+559.000 ,HWV 559,,,Passepied,,C major,"1. (do majeur)
 [voir HWV 504]",Harpsichord,
-560,HWV 560,,,Passepied,,A major,,Harpsichord,
-561,HWV 561,,,,Prelude,D minor,"1. (ré mineur)
+560.000 ,HWV 560,,,Passepied,,A major,,Harpsichord,
+561.000 ,HWV 561,,,,Prelude,D minor,"1. (ré mineur)
 [voir HWV 428, =437(1), 565]",Harpsichord,
-562,HWV 562,,,Prélude (Harpeggio),Prelude,D minor,,Harpsichord,
-563,HWV 563,,,Prelude,Prelude,D minor,,Harpsichord,
-564,HWV 564,,,Prelude,Prelude,D minor,,Harpsichord,
-565,HWV 565,,,,Prelude,D minor,"1. (ré mineur)
+562.000 ,HWV 562,,,Prélude (Harpeggio),Prelude,D minor,,Harpsichord,
+563.000 ,HWV 563,,,Prelude,Prelude,D minor,,Harpsichord,
+564.000 ,HWV 564,,,Prelude,Prelude,D minor,,Harpsichord,
+565.000 ,HWV 565,,,,Prelude,D minor,"1. (ré mineur)
 [voir HWV 428, 561]",Harpsichord,
-566,HWV 566,,,,Prelude,E major,"1. (mi majeur)
+566.000 ,HWV 566,,,,Prelude,E major,"1. (mi majeur)
 [voir HWV 430(1)]",Harpsichord,
-567,HWV 567,,,Prelude,Prelude,F major,,Harpsichord,
-568,HWV 568,,,Prelude,Prelude,F minor,,Harpsichord,
-569,HWV 569,,,"Prélude ""Arpeggio del Cook""",Prelude,F minor,,Harpsichord,
-570,HWV 570,,,Prélude (Harpeggio),Prelude,F-sharp inor,,Harpsichord,
-571,HWV 571,,,"Prélude, Capriccio",Prelude,G major,"1. Prélude (sol majeur)
+567.000 ,HWV 567,,,Prelude,Prelude,F major,,Harpsichord,
+568.000 ,HWV 568,,,Prelude,Prelude,F minor,,Harpsichord,
+569.000 ,HWV 569,,,"Prélude ""Arpeggio del Cook""",Prelude,F minor,,Harpsichord,
+570.000 ,HWV 570,,,Prélude (Harpeggio),Prelude,F-sharp inor,,Harpsichord,
+571.000 ,HWV 571,,,"Prélude, Capriccio",Prelude,G major,"1. Prélude (sol majeur)
 2. Capriccio (sol majeur)",Harpsichord,
-572,HWV 572,,,Prelude,Prelude,G minor,,Harpsichord,
-573,HWV 573,,,Prélude (Harpeggio),Prelude,G minor,,Harpsichord,
-574,HWV 574,,,"Prélude, Allegro (Sonate)",Prelude,G minor,"1. Prélude (sol mineur)
+572.000 ,HWV 572,,,Prelude,Prelude,G minor,,Harpsichord,
+573.000 ,HWV 573,,,Prélude (Harpeggio),Prelude,G minor,,Harpsichord,
+574.000 ,HWV 574,,,"Prélude, Allegro (Sonate)",Prelude,G minor,"1. Prélude (sol mineur)
 2. Allegro (sol mineur)",Harpsichord,
-575,HWV 575,,,Prélude (Harpeggio),Prelude,A major,,Harpsichord,
-576,HWV 576,,,"Prélude, Allegro",Prelude,A major,"1. Prélude (la mineur)
+575.000 ,HWV 575,,,Prélude (Harpeggio),Prelude,A major,,Harpsichord,
+576.000 ,HWV 576,,,"Prélude, Allegro",Prelude,A major,"1. Prélude (la mineur)
 2. Allegro (la mineur)
 [voir HWV 287(4), 291(2), 390(4)]",Harpsichord,
-577,HWV 577,,,Sonate (Fantaisie),Sonata,C major,,Harpsichord,
-578,HWV 578,,,"Sonate, trio, gavotte",Sonata,C major,"1. Sonate. Allegro (so majeur)
+577.000 ,HWV 577,,,Sonate (Fantaisie),Sonata,C major,,Harpsichord,
+578.000 ,HWV 578,,,"Sonate, trio, gavotte",Sonata,C major,"1. Sonate. Allegro (so majeur)
 [voir HWV 277]
 2. Trio. Larghetto (do majeur)
 [voir HWV 467]
 3. Gavotte. Non troppo presto (do majeur)
 [voir HWV 318(4)]",Musical Clock,
-579,HWV 579,,,,Sonata,G major,"1. (sol majeur)
+579.000 ,HWV 579,,,,Sonata,G major,"1. (sol majeur)
 [voir HWV 7a(28), 442(1a)]",Harpsichord (two manuals),
-580,HWV 580,,,,Sonata,G minor,"1. Larghetto (sol mineur)
+580.000 ,HWV 580,,,,Sonata,G minor,"1. Larghetto (sol mineur)
 [voir HWV 250a,b(1), 288(1), 302a(3), 396(1)]",Harpsichord,
-581,HWV 581,,,,Sonatina,D minor,,Harpsichord,
-582,HWV 582,,,Sonatine (Fugue),Sonatina,G major,,Harpsichord,
-583,HWV 583,,,,Sonatina,G minor,1. A tempo giusto (sol mineur),Harpsichord,
-584,HWV 584,,,,Sonatina,A major,,Harpsichord,
-585,HWV 585,,,,Sonatina,B-flat major,,Harpsichord,
-586,HWV 586,,,Toccata,,G minor,,Harpsichord,
-587,HWV 587,,,,Aria,F major,,Musical Clock,
-588,HWV 588,,,Voluntary,,C major,,Musical Clock,
-589,HWV 589,,,Gigue,,C major,,Musical Clock,
-590,HWV 590,,,,Aria,C major,"1. (do majeur)
+581.000 ,HWV 581,,,,Sonatina,D minor,,Harpsichord,
+582.000 ,HWV 582,,,Sonatine (Fugue),Sonatina,G major,,Harpsichord,
+583.000 ,HWV 583,,,,Sonatina,G minor,1. A tempo giusto (sol mineur),Harpsichord,
+584.000 ,HWV 584,,,,Sonatina,A major,,Harpsichord,
+585.000 ,HWV 585,,,,Sonatina,B-flat major,,Harpsichord,
+586.000 ,HWV 586,,,Toccata,,G minor,,Harpsichord,
+587.000 ,HWV 587,,,,Aria,F major,,Musical Clock,
+588.000 ,HWV 588,,,Voluntary,,C major,,Musical Clock,
+589.000 ,HWV 589,,,Gigue,,C major,,Musical Clock,
+590.000 ,HWV 590,,,,Aria,C major,"1. (do majeur)
 [voir HWV 30(22)]",Musical Clock,de HWV30: Sosarmes
-591,HWV 591,,,,Aria,F major,"1. Allegro (fa majeur)
+591.000 ,HWV 591,,,,Aria,F major,"1. Allegro (fa majeur)
 [voir HWV 13(1)]",Musical Clock,
-592,HWV 592,,,,Aria,C major,"1. (do majeur)
+592.000 ,HWV 592,,,,Aria,C major,"1. (do majeur)
 [voir HWV 15(18)]",Musical Clock,de HWV15: Ottone
-593,HWV 593,,,,Aria,C major,"1. (do majeur)
+593.000 ,HWV 593,,,,Aria,C major,"1. (do majeur)
 [voir HWV 32(4)]",Musical Clock,de HWV32: Ariadne
-594,HWV 594,,,,Aria,G major,"1. Allegro (sol majeur)
+594.000 ,HWV 594,,,,Aria,G major,"1. Allegro (sol majeur)
 [voir HWV 20(Ouverture,3), 377(1)]",Musical Clock,
-595,HWV 595,,,,Aria,C major,"1. (do majeur)
+595.000 ,HWV 595,,,,Aria,C major,"1. (do majeur)
 [voir HWV 15(13)]",Musical Clock,de HWV15: Ottone
-596,HWV 596,,,,Aria,C major,"1. (do majeur)
+596.000 ,HWV 596,,,,Aria,C major,"1. (do majeur)
 [voir HWV 30(21)]",Musical Clock,de HWV30: Sosarmes
-597,HWV 597,,,,Aria,C major,"1. (do majeur)
+597.000 ,HWV 597,,,,Aria,C major,"1. (do majeur)
 [voir HWV 32(28)]",Musical Clock,de HWV32: Ariadne
-598,HWV 598,,,,Sonata,C major,,Musical Clock,
-599,HWV 599,,,Gigue,,C major,,Musical Clock,
-600,HWV 600,,,"Voluntary ""Flight of Angels""",,A major,"1. (do majeur)
+598.000 ,HWV 598,,,,Sonata,C major,,Musical Clock,
+599.000 ,HWV 599,,,Gigue,,C major,,Musical Clock,
+600.000 ,HWV 600,,,"Voluntary ""Flight of Angels""",,A major,"1. (do majeur)
 [voir HWV 588]",Musical Clock,
-601,HWV 601,,,,Aria,C major,,Musical Clock,
-602,HWV 602,,,,Menuet,A minor,,Musical Clock,
-603,HWV 603,,,,Menuet,A minor,"1. (la mineur)
+601.000 ,HWV 601,,,,Aria,C major,,Musical Clock,
+602.000 ,HWV 602,,,,Menuet,A minor,,Musical Clock,
+603.000 ,HWV 603,,,,Menuet,A minor,"1. (la mineur)
 [voir HWV 1(25), 228/22, 540]",Musical Clock,
-604,HWV 604,,,,Aria,A major,,Musical Clock,
-605,HWV 605,,,Fugue ou Voluntary,,G minor,1. (sol mineur),Organ/Harpsichord,
-606,HWV 606,,,Fugue ou Voluntary,,G major,1. (sol majeur),Organ/Harpsichord,
-607,HWV 607,,,Fugue ou Voluntary,,B-flat major,1. (si bémol majeur),Organ/Harpsichord,
-608,HWV 608,,,Fugue ou Voluntary,,B minor,,Organ/Harpsichord,
-609,HWV 609,,,Fugue ou Voluntary,,A major,1. Largo (la mineur),Organ/Harpsichord,
-610,HWV 610,,,Fugue ou Voluntary,,C minor,1. (do mineur),Organ/Harpsichord,
-611,HWV 611,,,Fugue ou Voluntary,,F major,,Organ/Harpsichord,
-612,HWV 612,,,Fugue ou Voluntary,,E major,,Organ/Harpsichord,
-101a,HWV 101a,,,Dal fatale momento,Cantata,,,"S, Basso Continuo",[1st version]
-101b,HWV 101b,,,Del fatale momento,Cantata,,,"B, Basso Continuo",[2nd version]
-102a,HWV 102a,,,Dalla guerra amorosa,Cantata,,,"B, Basso Continuo",[1st version]
-102b,HWV 102b,,,Dalla guerra amorosa,Cantata,,,"S, Basso Continuo",[2nd version]
-125b,HWV 125b,,,Lungi da me pensier tiranno,Cantata,,,"A, Basso Continuo",[2nd version]
-126b,HWV 126b,,,"Lungi da voi, che siete poli",Cantata,,,"S, Basso Continuo",[2nd version]
-126c,HWV 126c,,,"Lungi da voi, che siete poli",Cantata,,,"A, Basso Continuo",[3rd version]
-127b,HWV 127b,,,Lungi dal mio bel Nume,Cantata,,,"A, Basso Continuo",[2nd version]
-127c,HWV 127c,,,Lungi dal mio bel Nume,Cantata,,,"S, Basso Continuo",[3rd version]
-132b,HWV 132b,,,Mi palpita il cor,Cantata,,,"S, Oboe, Basso Continuo",[1st version]
-132c,HWV 132c,,,Mi palpita il cor,Cantata,,,"A, Flute, Basso Continuo",[2nd version]
-132d,HWV 132d,,,Mi palpita il cor,Cantata,,,"A, Oboe, Flute, Basso Continuo",[3rd version]
-135b,HWV 135b,,,Nel dolce tempo,Cantata,,,"A, Basso Continuo",[2nd version]
-136b,HWV 136b,,,Nell'africane selve,Cantata,,,"B, Basso Continuo",[2nd version]
-139b,HWV 139b,,,Ninfe e pastori,Cantata,,,"A, Basso Continuo",[2nd version]
-139c,HWV 139c,,,Ninfe e pastori,Cantata,,,"S, Basso Continuo",[3rd version]
-158b,HWV 158b,,,Se pari e la tua fe,Cantata,,,"S, Basso Continuo",[2nd version]
-158c,HWV 158c,,,Se pari e la tua fe,Cantata,,,"S, Basso Continuo",[3rd version]
-160b,HWV 160b,,,"La bianca Rosa: Sei pur bella, pur vezzosa",Cantata,,,"S, Basso Continuo",[2nd version]
-160c,HWV 160c,,,"La bianca Rosa: Sei pur bella, pur vezzosa",Cantata,,,"S, Basso Continuo",[3rd version]
-161b,HWV 161b,,,Sento la che ristretto,Cantata,,,"A, Basso Continuo",[2nd version]
-161c,HWV 161c,,,Sento la che ristretto,Cantata,,,"S, Basso Continuo",[3rd version]
-164b,HWV 164b,,,Il Gelsomino: Son gelsomino,Cantata,,,"A, Basso Continuo",texte: Paolo Antonio Rolli
-167b,HWV 167b,,,Stando di piu soffrire,Cantata,,,"S, Basso Continuo",[2nd version]
-228/1,HWV 228/1,,,The unhappy Lovers: As Celia's fatal arrow flew,English Songs,D minor,,"S, Basso Continuo",
-228/10,HWV 228/10,,,The foresaken Nymph: Guardian Angels now protect me,English Songs,F major,,"S, Basso Continuo",
-228/11,HWV 228/11,,,I Like the am'rous Youth that's free,English Songs,F major,,"S, Basso Continuo",texte: James Miller
-228/12,HWV 228/12,,,"Phillis: My fair, ye Swains, is gone astray",English Songs,G major,,"S, Basso Continuo",
-228/13,HWV 228/13,,,"Not, Cloe, that I better am",English Songs,G major,,"S, Basso Continuo",
-228/14,HWV 228/14,,,Strephon's Complain of Love: Oh cruel tyrant Love,English Songs,E minor,,"S, Basso Continuo",
-228/15,HWV 228/15,,,The Satyr's Advice to a Stock-Jobber: On the shore of a low ebbing sea/Ye Swains that are courting a Maid/Molly Mogg: Says my uncle I pray you discover,English Songs,G major,,"S, Basso Continuo",
-228/16,HWV 228/16,,,Phillis be Kind and hear,English Songs,A major,,"S, Basso Continuo",texte: Mr. Paratt
-228/17,HWV 228/17,,,Phillis advised: Phillis the lovely,English Songs,G major,,"S, Basso Continuo",
-228/18,HWV 228/18,,,"Stand around, my brave boys",English Songs,D major,,"S, Basso Continuo",
-228/19,HWV 228/19,,,The faithful Maid/The melancholly Nymph: 'Twas when the seas were roaring,English Songs,G minor,,"S, Basso Continuo",texte: John Gay
-228/2,HWV 228/2,,,Charming Cloris: Ask not the cause/The poor Shephard: The Sun was sunk beneath the Hills,English Songs,E minor,,"S, Basso Continuo",
-228/20,HWV 228/20,,,The Rupture/Matchless Clarinda: When I survey Clarinda's charms/Venus now leaves,English Songs,G minor,,"S, Basso Continuo",texte: B. (Bradley ?)
-228/21,HWV 228/21,,,The Death of the Stag: When Phoebus the tops of the Hills does adorn,English Songs,G major,,"2 voix (Violins, Flutes ou Horns), Basso Continuo",
-228/22,HWV 228/22,,,Who to win a Woman's favour,English Songs,G minor,,"S, Basso Continuo",[voir HWV 1 (25)]
-228/23,HWV 228/23,,,An Answer to Collin's Complaint: Ye winds to whome Collin complains,English Songs,G minor,,S a cappella,
-228/24,HWV 228/24,,,"Yes, I'm in love",English Songs,G minor,,"S, Basso Continuo",texte: W. Whitehead
-228/3,HWV 228/3,,,As on a Sunshine Summer's Day,English Songs,C minor,,S a cappella,texte: Benjamin Griffin
-228/4,HWV 228/4,,,Bacchus Speech in Praise of Wine: Bacchus one day gayly striding,English Songs,F major,,"S, Basso Continuo",texte: Mr. Phillips
-228/5,HWV 228/5,,,The Polish Minuet or Miss Kitty Grevil's Delight: Charming is your shape and air,English Songs,G major,,"S, Basso Continuo",
-228/6,HWV 228/6,,,The Sailor's Complaint: Come and listen to my ditty/Hosier's Ghost: A near Portobello lying,English Songs,G minor,,"S, Basso Continuo",
-228/7,HWV 228/7,,,"Di godere ha speranza il mio core/Oh my dearest, my lovely creature",English Songs,G major,,"S, Basso Continuo",
-228/8,HWV 228/8,,,The forsaken Maid's Complaint: Faithless ungrateful/The slighted Swain: Cloe proves false,English Songs,A major,,"S, Basso Continuo",texte: inconnu/Abraham Bradley
-228/9,HWV 228/9,,,From scourging rebellion,English Songs,C major,,"S, Basso Continuo",texte: John Lockman
-229/1,HWV 229/1,,,Das gantze Haupt ist krank,,,,à 8,[pour les 14e et 19è dimanches après la Trinité]
-229/2,HWV 229/2,,,"Es ist der alte Bund, Mensch",,,,à 12,[pour les 16è et 24è dimanches après la Tirnité]
-229/3,HWV 229/3,,,"Furwahr, er trug unsere Krankheit",,,,à 15,
-229/4,HWV 229/4,,,Thue Rechnung von dinem Hausshalten,,,,à 13,[pour les 9è et 22è dimanches après la Trinité]
-229/5,HWV 229/5,,,Victoria. Der Tod ist verschlungen (in den Sieg),,,,à 14,[pour la fête de Pâques]
-229/6,HWV 229/6,,,Was werden wir essen,,,,à 10/12,[pour le 4è dimanche du Carême ainsi que les 7è et 15è dimanches après la Trinité]
-229/7,HWV 229/7,,,"Wer ist der, so von Edom kommt",,,,à 12,[pour le 1er dimanche du Carême]
-296b,HWV 296b,,,"""Pasticcio Konzert""",Concerto,A major,"1 Andante (la majeur)
-[voir HWV 296a(2)]
-
-
-
-2 Adagio (la majeur)
-[organo ad libitum]
-
-
-
-3 Grave (fa dièse mineur)
-[voir HWV 296a(3)]
-
-
-
-4 Andante allegro (la majeur)
-[voir HWV 294(1)]
-
-
-
-5 A tempo ordinario (la majeur)
-[voir HWV 307(2)]","Organ, Orchestra",
-302b,HWV 302b,,,Suite de pièces (Konzersatz),Suite,F major,1 Largo (fa majeur),"Oboe, cor, Strings, Basso Continuo",
-305b,HWV 305b,,,,Concerto,F major,"1 Ouverture. … (fa majeur)
-[voir HWV 334]
-
-
-
-2 Allegro (fa majeur)
-
-
-
-3 Andante (fa majeur)
-[organo ad libitum]
-
-
-
-4 Marche. Allegro (fa majeur)
-[voir HWV 63(32)]",Solo Organ,
-335b,HWV 335b,,,Concerto (a due cori),Concerto,,"1 Largo (fa majeur)
-
-
-
-2 Allegro (fa majeur)",,questionable key
-359b,HWV 359b,op. 1/1b,,,Sonata,E minor,"1. Grave (mi mineur)
-[voir HWV 379(1)]
-2. Allegro (mi mineur)
-3. Adagio (mi mineur)
-4. Allegro (mi mineur)","Flute, Basso Continuo",
-363b,HWV 363b,op. 1/5,,,Sonata,G major,"1. Adagio (sol majeur)
-2. Allegro (sol majeur)
-3. [Adagio] (mi mineur)
-4. Bourrée (sol majeur)
-5. Menuet (sol majeur)
-[voir HWV 315(4), 516]","Flute, Basso Continuo",
-364b,HWV 364b,,,,Sonata,G minor,1. Andante larghetto (sol mineur),"Viola da Gamba, Basso Continuo",
-367b,HWV 367b,op. 1/9,,,Sonata,B minor,"1. Largo (si mineur)
-2. Vivace (si mineur)
-3. Presto (sol majeur)
-4. Adagio (mi majeur)
-5. Alla breve (si mineur)
-6. Andante (si mineur)
-7. A tempo di Minuet (si mineur)","Flute, Basso Continuo",
-419/1,HWV 419/1,,,"March ""March in Ptolomy""",March,G major,1. Marche (sol majeur),"Flute/Oboe/Violin, Basso Continuo",[voir HWV 346]
-419/2,HWV 419/2,,,"March ""Ld. Loudon's March""",March,G major,1. Marche (sol majeur),"Flute/Oboe/Violin, Basso Continuo",
-419/3,HWV 419/3,,,"March ""Admiral Boscowin's March""",March,G major,1. Marche (sol majeur),"Flute/Oboe/Violin, Basso Continuo",
-419/4,HWV 419/4,,,,March,F major,1. Marche (fa majeur),"Flute/Oboe/Violin, Basso Continuo",
-419/5,HWV 419/5,,,,March,C major,1. Marche (do majeur),"Flute/Oboe/Violin, Basso Continuo",
-419/6,HWV 419/6,,,"March ""Handel's March""",March,D major,1. Marche (do majeur),"Flute/Oboe/Violin, Basso Continuo",
-456/1,HWV 456/1,,,Overture de HWV 8a: Il Pastor fido,Overture,D minor,,Harpsichord,
-456/2,HWV 456/2,,,Overture de HWV 11: Amadigi,Overture,C minor,,Harpsichord,
-456/3,HWV 456/3,,,Overture de HWV 16: Flavio,Overture,G minor,,Harpsichord,
-456/4,HWV 456/4,,,Overture de HWV 19: Rodelinda,Overture,C major,,Harpsichord,
-456/5,HWV 456/5,,,Overture de HWV 23: Ricardo I,Overture,D major,,Harpsichord,
-482/1,HWV 482/1,,,Molto voglio,,C major,"1. (do majeur)
-[voir HWV 7a(10)]",Harpsichord,de HWV 7a: Rinaldo
-482/2,HWV 482/2,,,"Sventurato, godi, o core abbandonato",,E-flat major,"1. Larghetto (mi bémol majeur)
-[voir HWV 14(8)]",Harpsichord,de HWV 14: Floridante
-482/3,HWV 482/3,,,Ombra cara di mia sposay,,F minor,"1. (sol mineur)
-[voir HWV 12a(13)]",,de HWV 12a: Radamisto
-482/4,HWV 482/4,,,Pupille sdegnose! sareste pietose,,F major,"1. (fa majeur)
-[voir HWV 13(3)]",Harpsichord,de HWV 13: Muzio Scevola (Acte 3)
-482/5,HWV 482/5,,,"Come, se ti vedro",,G major,"1. (sol majeur)
-[voir HWV 13(9)]",,de HWV 13: Muzio Scevola (Acte 3)
-91a,HWV 91a,,,"Clori, degli occhi miei",Cantata,,,"A, Basso Continuo",
-91b,HWV 91b,,,"Clori, degli occhi miei",Cantata,,,"S, Basso Continuo",
+604.000 ,HWV 604,,,,Aria,A major,,Musical Clock,
+605.000 ,HWV 605,,,Fugue ou Voluntary,,G minor,1. (sol mineur),Organ/Harpsichord,
+606.000 ,HWV 606,,,Fugue ou Voluntary,,G major,1. (sol majeur),Organ/Harpsichord,
+607.000 ,HWV 607,,,Fugue ou Voluntary,,B-flat major,1. (si bémol majeur),Organ/Harpsichord,
+608.000 ,HWV 608,,,Fugue ou Voluntary,,B minor,,Organ/Harpsichord,
+609.000 ,HWV 609,,,Fugue ou Voluntary,,A major,1. Largo (la mineur),Organ/Harpsichord,
+610.000 ,HWV 610,,,Fugue ou Voluntary,,C minor,1. (do mineur),Organ/Harpsichord,
+611.000 ,HWV 611,,,Fugue ou Voluntary,,F major,,Organ/Harpsichord,
+612.000 ,HWV 612,,,Fugue ou Voluntary,,E major,,Organ/Harpsichord,

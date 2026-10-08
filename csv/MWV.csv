@@ -1,19 +1,505 @@
-MWV,Opus,Date,Title,Type,Key,Workparts,Instrumentation,Note,
-MWV A 4,op. 111,1827,Tu es Petrus,Antienne,A major,,"chœur à cinq voix (SSATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et contrebasse)",,
-,op. 79,1843-1846,6 Antiennes,Antienne,,,SSAATTBB Choir a cappella,,
-MWV B 42,op. 79/1,1843,"Frohlocket, ihr Solker auf Erden (Rejoice, O ye people)",Antienne,G major,Allegro moderato,SSAATTBB Choir a cappella,[Pour la nuit de Noël],
-MWV B 44,op. 79/2,1843,"Herr Gottt, du bist unsre Zuflucht (Thou, Lord, our refuge hast been)",Antienne,D minor,Andante,SSAATTBB Choir a cappella,[Pour la Nouvel An],
-MWV B 55,op. 79/3,1846,"Erhaben, o Herr, uber alles Lob (Above all praises)",Antienne,B-flat major,Allegro maestoso e moderato,SSAATTBB Choir a cappella,[Pour la fête de l'Ascension],
-MWV B 50,op. 79/4,1844,"Herr, gedenke nicht unsrer Ubelthaten (Lord, on our offences)",Antienne,D minor,Andante,SSAATTBB Choir a cappella,[Pour le temps de la Passion],
-MWV B 54,op. 79/5,1846,Lasset uns frohlocken (Let our hearts be joyful),Antienne,G major,Andante,SSAATTBB Choir a cappella,[Pour le temps de l'Avent],
-MWV B 52,op. 79/6,1844,Um unsrer Sunden willen (For our offences),Antienne,E minor,Sostenuto e grave,SSAATTBB Choir a cappella,[Pour le temps du Carême],
-,op. 112/2,1835,Der du die Menschen lassest sterben,Aria,F major,,soprano avec accompagnement de piano,"[destiné à l'oratorio St. Paul (Paulus), Op. 36]",
-MWV H 4; MWV H 5,op. 94,1834-1843,Infelice: Ungluckselge! … Rehret wieder,Aria,B-flat major,Allegro vivace / Récitatif / Aria: Andante / Allegro assai vivace (sol mineur / si bémol majeur),"soprano avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, trompette, 2 violons, alto, violoncelle, contrebasse)","Texte: Victor Hugo
-[2 versions: 1834 et 1843]",
-,op. 112/1,1835,"Doch der Herr, er leitet die Irrenden recht",Arioso,G major,Allegretto,ténor avec accompagnement de piano,,
-MWV D 3,op. 60,1831/1843,Die erste Walpurgisnacht,Ballade,,"0. Ouverture, en la mineur, pour orchestre
+SORT,MWV,,,Opus,Date,Title,Type,Key,Workparts,Instrumentation,Note,Rec_rcmd
+1.00 ,Q 11,Q,11 ,op. 1,1822,,Quartet,C minor,"1. Allegro vivace (do mineur)
+2. Adagio (la bémol majeur)
+3. Scherzo. Presto (do mineur)
+4. Allegro moderato (do mineur)","Piano, Violin, Viola, Cello",Piano Quartet No. 1,
+2.00 ,Q 13,Q,13 ,op. 2,1823,,Quartet,F minor,"1. Allegro molto (fa mineur)
+2. Adagio (ré bémol majeur)
+3. Intermezzo. Allegro moderato (fa mineur)
+4. Allegro molto vivace (fa mineur)","Piano, Violin, Viola, Cello",Piano Quartet No. 2,
+3.00 ,Q 17,Q,17 ,op. 3,1824-1825,,Quartet,B minor,"1. Allegro molto (si mineur)
+2. Andante (mi majeur)
+3. Allegro molto (fa dièse mineur)
+4. Allegro vivace (si mineur)","Piano, Violin, Viola, Cello",Piano Quartet No. 3,
+4.00 ,Q 12,Q,12 ,op. 4,1825,,Sonata,F minor,"1. Adagio (fa mineur) / Allegro moderato (fa mineur)
+2. Poco Adagio (la bémol majeur)
+3. Allegro agitato (fa mineur)","Violin, Piano",,
+5.00 ,U 50,U,50 ,op. 5,1825,Cappricio,Caprice,F-sharp minor,Prestissimo,Piano,,
+6.00 ,U 54,U,54 ,op. 6,1826,,Sonata,E major,"1. Allegretto con espressione (mi majeur)
+2. Tempo di Menuetto (fa dièse mineur)
+3. Recitativo. Adagio e senza tempo (la mineur)
+4. Molto Allegro vivace (mi majeur)",Piano,Piano Sonata No. 1,
+7.00 ,,,,op. 7,1827,7 Pièces caractéristiques,Piece,,,Piano,,
+7.10 ,U 56,U,56 ,op. 7/1,1827,Sanft und mit Empfindung,Piece,E minor,Andante,Piano,,
+7.20 ,U 44,U,44 ,op. 7/2,1827,Mit heftiger Bewegung,Piece,B minor,Allegro vivace,Piano,,
+7.30 ,U 59,U,59 ,op. 7/3,1827,Kraftig und feurig,Piece,D major,Allegro vivace,Piano,,
+7.40 ,U 55,U,55 ,op. 7/4,1827,Schnell und beweglich,Piece,A major,Con moto,Piano,,
+7.50 ,U 60,U,60 ,op. 7/5,1827,Ernst und mit steigender Lebhaftigkeit,Piece,A major,Fuga,Piano,,
+7.60 ,U 61,U,61 ,op. 7/6,1827,Sensuchtig,Piece,E minor,Andante,Piano,,
+7.70 ,U 62,U,62 ,op. 7/7,1827,Leicht und luftig,Piece,E major,Presto,Piano,,
+8.00 ,,,,op. 8,1824-1828,12 Gesange,Lied,,,"V, Piano",,
+8.01 ,K 30,K,30 ,op. 8/1,1828,Minnelied im Mai: Holder klingt der Vogelsang,Lied,F major,Andante,"V, Piano",Texte: L. Holty,
+8.02 ,,,,op. 8/2,1828,Das Heimweh: Was ist's das mir den Athem hemmet,Lied,D minor,Vivace ed agitato,"V, Piano","Texte: Friedericke Robert
+[Composition de Fanny Mendelssohn]",
+8.03 ,,,,op. 8/3,1828,Italien: Schoner und schoner schmuckt sich,Lied,G major,Allegro vivace,"V, Piano","Texte: F. Grillparzer
+[Composition de Fanny Mendelssohn]",
+8.04 ,K 37,K,37 ,op. 8/4,1828,"Erntelied: Es ist ein Schnitter, der heisst Tod",Lied,A minor,Andante con moto,"V, Piano",Texte: Traditionel,
+8.05 ,K 31,K,31 ,op. 8/5,1828,Pilgerspruch: Lass dich nur nichts nicht dauern,Lied,F major,Andante,"V, Piano",Texte: Paul Flemming,
+8.06 ,K 17,K,17 ,op. 8/6,1824,Fruhlingslied. In schwab. Mundart: Jetzt kommt der Fruhling,Lied,E major,Allegretto,"V, Piano",Texte: Friederike Robert,
+8.07 ,K 32,K,32 ,op. 8/7,1828,Maienlied: Man soll horen susses Singen,Lied,G major,Allegretto,"V, Piano",Texte: Jakob von der Warte,
+8.08 ,K 33,K,33 ,op. 8/8,1828,Hexenlied. Andres Maienlied: Die Schwalbe fliegt,Lied,G minor,Allegro vivace,"V, Piano",Texte: L. Holty,
+8.09 ,K 34,K,34 ,op. 8/9,1828,Abendlied: Das Tagewerk ist abgethan,Lied,E-flat major,Andante,"V, Piano",Texte: J.H. Voss,
+8.10 ,K 35,K,35 ,op. 8/10,1828,Romanze: Einmal aus seinen Blicken,Lied,G minor,Andante,"V, Piano",Texte: de l'espagnol,
+8.11 ,K 36,K,36 ,op. 8/11,1828,Im Grunen: Willkommen im Grunen,Lied,E major,Allegro vivace,"V, Piano",Texte: J.H. Voss,
+8.12 ,,,,op. 8/12,1828,Suleika und Hatem: An des lust'gen Brunnens Rand,Lied,E major,Allegretto,"2 Voices, Piano","Texte: Johann Wolfgang von Goethe
+[Composition de Fanny Mendelssohn]",
+9.00 ,,,,op. 9,1829-1830,12 Lieder,Lied,,,"V, Piano",,
+9.01 ,K 39,K,39 ,op. 9/1,1830,Frage: Ist es wahr?,Lied,A major,Con moto,"V, Piano",Texte: J.H. Voss,
+9.02 ,K 41,K,41 ,op. 9/2,1830,Gestandnis: Kennst du nicht das Gluthverlangen,Lied,A major,Con fuoco ma moderato,"V, Piano",Texte: ?,
+9.03 ,K 42,K,42 ,op. 9/3,1830,Wartend (Romanze): Sie trung einen Falken,Lied,D major,Allegro con moto,"V, Piano",Texte: ?,
+9.04 ,K 52,K,52 ,op. 9/4,1829,Im Fruhling: Ihr fruhlingstrunknen Blumem,Lied,D major,Allegro vivace,"V, Piano",Texte: ?,
+9.05 ,K 38,K,38 ,op. 9/5,1830,Im Herbst: Ach wie schnell die Tage fliehen,Lied,F-sharp minor,Andante,"V, Piano",Texte: Karl Klingemann,
+9.06 ,K 50,K,50 ,op. 9/6,1830,Scheidend: Wie so gelinde die Fluth bewegt,Lied,E major,Sehr ruhig,"V, Piano",Texte: J.H. Voss,
+9.07 ,,,,op. 9/7,1830,Sehnsucht: Fern und ferner schallt der Reigen,Lied,D major,Andante,"V, Piano","JTexte: J.G. Droysen
+[Composition de Fanny Mendelssohn]",
+9.08 ,K 51,K,51 ,op. 9/8,1830,Fruhlingsglaube: Das linden Lufte sind erwacht,Lied,E major,Allegro e vivace,"V, Piano","Texte: Ludwig Uhland
+[Composition de Fanny Mendelssohn]",
+9.09 ,K 53,K,53 ,op. 9/9,1830,Ferne: In weite Ferne will ich traumen,Lied,E-flat major,"Lebhaft, aber sanft","V, Piano",Texte: J.G. Droysen,
+9.10 ,,,,op. 9/10,1830,Verlust: Und wussten's die Blumen,Lied,D minor,Allegro con fuoco,"V, Piano","Texte: Heinrich Heine
+[Composition de Fanny Mendelssohn]",
+9.11 ,K 54,K,54 ,op. 9/11,1830,"Entsagung: Herr, zu dir will ich mich retten",Lied,F major,Andante con moto,"V, Piano",Texte: J.G. Droysen,
+9.12 ,,,,op. 9/12,1830,Die Nonne: Im stillen Klostergarten,Lied,A minor,Andante con moto,"V, Piano","Texte: Ludwig Uhland
+[Composition de Fanny Mendelssohn]",
+10.00 ,L 5,L,5 ,op. 10,1825,Die Hochzeit des Camacho,Opera,,,"Solistes, Choir, Piano",Texte:Karl Klingemann d'après Cervantes: Don Quixote,
+11.00 ,N 13,N,13 ,op. 11,1824,Symphonie # 1,Symphony,C minor,"1. Allegro di molto (do mineur)
+2. Andante (mi bémol majeur)
+3. Menuetto. Allegro molto (do mineur)
+4. Allegro con fuoco (do mineur)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+12.00 ,R 25,R,25 ,op. 12,1829,,Quartet,E-flat major,"1. Adagio non troppo / Allegro non tardante (mi bémol majeur)
+2. Canzonetta. Allegretto (sol mineur)
+3. Andante espressivo (si bémol majeur)
+4. Molto Allegro vivace (mi bémol majeur)","2 Violins, Viola, Cello",String Quartet No. 1,
+13.00 ,R 22,R,22 ,op. 13,1827,,Quartet,A major,"1. Adagio (la majeur) / Allegro vivace (la mineur)
+2. Adagio non lento (fa majeur)
+3. Intermezzo. Allegretto con moto (la mineur) / Allegro di molto (la majeur)
+4. Presto (la mineur)","2 Violins, Viola, Cello",String Quartet No. 2,
+14.00 ,U 67,U,67 ,op. 14,1824,Rondo capriccioso,Caprice,E major,"1. Andante (mi majeur)
+2. Presto (mi mineur)",Piano,,
+15.00 ,U 74,U,74 ,op. 15,1827,"Fantaisie sur le lied irlandais ""The Last Rose""",Fantaisia,E major,"1. Adagio (mi majeur)
+2. Presto agitato (mi mineur)
+3. Andante (mi majeur)
+4. Presto come prima (mi majeur / mi mineur)
+5. Andante con moto (mi majeur)",Piano,,
+16.00 ,,,,op. 16,1829,3 Fantaisies or caprices,,,,Piano,,
+16.10 ,U 70,U,70 ,op. 16/1,1829,,Fantaisia,A minor,"1. Andante con moto (la mineur)
+2. Allegro vivace (la majeur)",Piano,,
+16.20 ,U 71,U,71 ,op. 16/2,1829,,Caprice,E minor,Scherzo. Presto,Piano,,
+16.30 ,U 72,U,72 ,op. 16/3,1829,"Fantaisie ""The Rivulet""",Fantaisia,E major,Andante,Piano,,
+17.00 ,Q 19,Q,19 ,op. 17,1829,Variations concertantes,,D major,"0. Tema: Andante con moto
+1. ...
+2. ...
+3. Piu vivace
+4. Allegro con fuoco
+5. L'istesso tempo
+6. L'istesso tempo
+7. Presto ed agitato
+8. Tempo I","Piano, Cello",,
+18.00 ,R 21,R,21 ,op. 18,1826-1832,,Quintet,A major,"1. Allegro con moto (la majeur)
+2. Intermezzo. Andante sostenuto (fa majeur)
+3. Scherzo. Allegro di molto (ré mineur)
+4. Allegro vivace (la majeur)","2 Violins, 2 Violas, Cello","String Quintet No. 1, has 2 versions: 1826 and 1832",
+19.10 ,,,,op. 19a,1830-1834,6 Gesange,Lied,,,"V, Piano",,
+19.11 ,K 56,K,56 ,op. 19a/1,1834,"Fruhlingslied: In dem Walde, susse Tone",Lied,D major,Andante,"V, Piano",Texte: Ulrich von Lichtenstein,
+19.12 ,K 63,K,63 ,op. 19a/2,1834,Das erste Veilchen: Als ich das erste Veilchen erblickt,Lied,F major,Andante con moto,"V, Piano",Texte: Egon Ebert,
+19.13 ,K 72,K,72 ,op. 19a/3,1834,"Winterlied: Mein Sohn, wo willst du hin so spat",Lied,E minor,Con moto moderato,"V, Piano",Texte: du suédois,
+19.14 ,K 70,K,70 ,op. 19a/4,1834,Neue Liebe: In dem Mondenschein im Walde,Lied,F-sharp minor,Presto,"V, Piano",Texte: Heinrich Heine,
+19.15 ,K 71,K,71 ,op. 19a/5,1834,Gruss: Leise zieht durch mein Gemuth,Lied,D major,Andante,"V, Piano",Texte: Heinrich Heine,
+19.16 ,K 65,K,65 ,op. 19a/6,1830,Reiselied: Bringet des treusten Herzens Grusse,Lied,E major,Presto agitato,"V, Piano",Texte: Egon Ebert,
+19.20 ,,,,op. 19b,1829-1830,Chant sans parole,Lied,,,Piano,Book I,
+19.21 ,U 86,U,86 ,op. 19b/1,1829,Andante con moto,Lied,E major,,Piano,,
+19.22 ,U 80,U,80 ,op. 19b/2,1829,Andante espressivo,Lied,A minor,,Piano,,
+19.23 ,U 89,U,89 ,op. 19b/3,1829,"Molto Allegro e vivace ""Jagerlied""",Lied,A major,,Piano,,
+19.24 ,U 73,U,73 ,op. 19b/4,1829,Moderato,Lied,A major,,Piano,,
+19.25 ,U 90,U,90 ,op. 19b/5,1830,Poco agitato,Lied,F-sharp minor,,Piano,,
+19.26 ,U 78,U,78 ,op. 19b/6,1830,"Andante sostenuto ""Venerianisches Gondellied""",Lied,G minor,,Piano,,
+20.00 ,R 20,R,20 ,op. 20,1825,,Octet,E-flat major,"1. Allegro moderato ma con fuoco (mi bémol majeur)
+2. Andante (do mineur)
+3. Scherzo. Allegro leggierissimo (sol mineur)
+4. Presto (mi bémol majeur)","4 Violins, 2 Violas, 2 Cellos",,
+21.00 ,P 3,P,3 ,op. 21,1826,Ein Sommernachstraum,Overture,E major,Allegro di molto,"2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, ophicleïde, Timpani, 2 Violins, Viola, Cello, Double Bass","Ouverture No. 1, in ""A Midsummer Night's Dream"", op. 61",https://open.spotify.com/track/44rDdbTIyoXJyWxAnUv5ys?si=e1c832cba0ca418b
+22.00 ,O 8,O,8 ,op. 22,1825-1826,Capriccio brillant,Caprice,B minor,Andante / Allegro con fuoco,"Piano, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+23.00 ,,,,op. 23,1830,3 Pièces sacrées,Piece,,,"V, Choir, Orchestra/Organ",,
+23.10 ,B 20,B,20 ,op. 23/1,1830,"Aus tiefer Not schrei' ich zu dir, pièce sacrée",Piece,,"1. Aus tiefer Not
+Chœur à 4 voix (SATB) a cappella (fa mineur)
+
+2. Aus tiefer Not
+Fugue à 4 voix (SATB) a cappella (fa mineur)
+
+3. Bei dir gilt nichts denn Gnad'
+Aria, en fa mineur, pour ténor, orgue
+Adagio
+
+4. Und ob es wahrt bis in die Nacht
+Choral à 4 voix (SATB) a cappella (fa mineur)
+Andante
+
+5. Ob bei uns ist der Sunden
+Choral à 4 voix (SATB) a cappella (fa mineur)","T, Choir, Organ",,
+23.20 ,B 19,B,19 ,op. 23/2,1830,"Ave Maria, pièce sacrée",Piece,A major,Andante,"SSAATTBB Choir, 2 Clarinets, 2 Bassoons, Cello, Double Bass, Organ, Continuo",,
+23.30 ,B 21,B,21 ,op. 23/3,1830,"Mitten wir im Leben sind, pièce sacrée",Piece,C minor,Choral / Vivace / Choral,SSAATTBB Choir,,
+24.00 ,P 1,P,1 ,op. 24,1824,,Overture,C major,"1. Andante con moto (do majeur)
+2. Allegro vivace (do majeur)","Piccolo, Flute, 4 Clarinets, 2 Oboes, 2 Basset Horns, 2 Bassoons, Contrabassoon, 4 Horns, 2 Trumpets, 3 Trombones, Tambourine, Triangle, Bass Drum, Cymbals",,
+25.00 ,O 7,O,7 ,op. 25,1831,,Concerto,G minor,"1. Molto Allegro con fuoco (sol mineur)
+2. Andante (mi majeur)
+3. Presto (mi mineur) / Molto Allegro vivace (sol majeur)","Piano, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",Piano Concerto No. 1,
+26.00 ,P 7,P,7 ,op. 26,1830-1832,"Die Hebriden ""Fingals Hohle""",Overture,B minor,Allegro moderato,"2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass","Ouverture No. 2
+[1st version: 1830; 2nd version: 1832 - based on ""Die einsame Insel"" (1829)]",
+27.00 ,P 5,P,5 ,op. 27,1828,Meeresstille und gluckliche Fahrt,Overture,D major,Adagio / Molto Allegro e vivace / Allegro maestoso,"Piccolo, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, contreBassoon, serpentin, 2 Horns, 3 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass","Ouverture No. 3
+after 2 poems by Johann Wolfgang von Goethe",
+28.00 ,U 92,U,92 ,op. 28,1833,"Fantaisie ""Sonate écossaise""",Fantaisia,F-sharp minor,"1. Con moto agitato / Andante / Con moto agitato
+2. Allegro con moto (la majeur / ré majeur)
+3. Presto (fa dièse mineur)",Piano,,
+29.00 ,O 10,O,10 ,op. 29,1834,Rondo brillant,,E-flat major,Presto,"Piano, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+30.00 ,,,,op. 30,1833-1834,Chant sans parole,Lied,,,Piano,Book II,
+30.10 ,U 103,U,103 ,op. 30/1,1834,Andante espressivo,Lied,E-flat major,,Piano,,
+30.20 ,U 77,U,77 ,op. 30/2,1834,Allegro di molto,Lied,B-flat minor,,Piano,,
+30.30 ,U 104,U,104 ,op. 30/3,1834,Adagio non troppo,Lied,E major,,Piano,,
+30.40 ,U 98,U,98 ,op. 30/4,1834,Agitato e con fuoco,Lied,B minor,,Piano,,
+30.50 ,U 97,U,97 ,op. 30/5,1833,Andante grazioso,Lied,D major,,Piano,,
+30.60 ,U 110,U,110 ,op. 30/6,1833,"Allegretto tranquillo ""Venetianisches Gondellied""",Lied,F-sharp minor,,Piano,,
+31.00 ,A 9,A,9 ,op. 31,1830,"Psaume 115: Nicht unserm Namen, Herr (Non nobis, Domine)",Psalm,,"1. Nicht unserm Namen, Herr (Non nobis Domine)
+chœur (SATB), en sol mineur,, Orchestra
+(2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Allegro con fuoco
+
+2. Israel hofft auch dich (Domus Israel)
+duet pour soprano, ténor, chœur (SATB), en si bémol majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Andante con moto
+
+3. Er segne euch je mehr und mehr (Adjuciat Domine)
+arioso pour baryton, en mi bémol majeur,, Orchestra
+(2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Adagio non lento
+
+4. Die Todten werden dich nicht Loben (Non mortui laudabunt te Domine)
+double chœur (SATB, SATB), en mi bémol majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Grave / Con moto (sol mineur)","V, Choir, Orchestra",,
+32.00 ,P 12,P,12 ,op. 32,1833,Märchen von der schönen Melusine,Overture,F major,Allegro con moto,"2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 3 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass","Ouverture No. 4
+after Grillparzer",
+33.00 ,,,,op. 33,1833-1835,3 Caprices,Caprice,,,Piano,,
+33.10 ,U 99,U,99 ,op. 33/1,1834,,Caprice,A minor,Adagio quasi Fantasia / Presto agitato,Piano,,
+33.20 ,U 112,U,112 ,op. 33/2,1835,,Caprice,E major,Allegro grazioso,Piano,,
+33.30 ,U 95,U,95 ,op. 33/3,1833,,Caprice,B-flat minor,Adagio / Presto con fuoco,Piano,,
+34.00 ,,,,op. 34,1834-1836,6 Gesange,Lied,,,"V, Piano",,
+34.10 ,K 80,K,80 ,op. 34/1,1834,Minnelied: Leucht't heller als die Sonne,Lied,G major,Con moto,"V, Piano",Texte: vieil allemand,
+34.20 ,K 86,K,86 ,op. 34/2,1836,Auf Flugeln des Gesanges: Auf Flugeln des Gesanges,Lied,A-flat major,Andante tranquillo,"V, Piano",,
+34.30 ,K 89,K,89 ,op. 34/3,1836,Fruhlingslied: Es brechen im schallenden Reigen,Lied,G major,Allegro vivace,"V, Piano",,
+34.40 ,K 92,K,92 ,op. 34/4,1836,"Suleika: Ach, um deine feuchten Schwingen",Lied,E minor,Andante sostenuto,"V, Piano",,
+34.50 ,K 84,K,84 ,op. 34/5,1834,Sonntagslied: Ringsum erschallt in Wald und Flur,Lied,A major,Quasi Allegretto,"V, Piano",,
+34.60 ,K 90,K,90 ,op. 34/6,1836,Reiselied: Der Herbstwind rattelt die Baume,Lied,E minor,Presto,"V, Piano",,
+35.00 ,,,,op. 35,1832-1837,"6 Préludes, fugues",,,,Piano,,
+35.11 ,U 116,U,116 ,op. 35/1a,1837,Prélude,,E minor,Allegro con fuoco / Andante espressivo,Piano,,
+35.12 ,U 66,U,66 ,op. 35/1b,,Fugue,,E minor,Andante espressivo,,,
+35.21 ,U 129,U,129 ,op. 35/2a,1836-1837,Prélude,,D major,Allegretto / Tranquillo e sempre legato,Piano,,
+35.22 ,U 105,U,105 ,op. 35/2b,,Fugue,,D major,Tranquillo e sempre legato,,,
+35.31 ,U 131,U,131 ,op. 35/3a,1836-1837,Prélude,,B minor,Prestissimo staccato / Allegro con brio,Piano,,
+35.32 ,U 91,U,91 ,op. 35/3b,,Fugue,,B minor,Allegro con brio,,,
+35.41 ,U 122,U,122 ,op. 35/4a,1836-1837,Prélude,,A-flat major,Con moto / Con moto ma sostenuto,Piano,,
+35.42 ,U 108,U,108 ,op. 35/4b,,Fugue,,A-flat major,Con moto ma sostenuto,,,
+35.51 ,U 126,U,126 ,op. 35/5a,1834-1836,Prélude,,F minor,Andante lento / Allegro con fuoco,Piano,,
+35.52 ,U 106,U,106 ,op. 35/5b,,Fugue,,F minor,Allegro con fuoco,,,
+35.61 ,U 135,U,135 ,op. 35/6a,1836-1837,Prélude,,B-flat major,Maestoso moderato / Allegro con brio,Piano,,
+35.62 ,U 128,U,128 ,op. 35/6b,,Fugue,,B-flat major,Allegro con brio,,,
+36.00 ,A 14,A,14 ,op. 36,1836,Paulus (St. Paul),Oratorio,,,"Solistes, Choir, Orchestra",Texte: J. Schbring d'après les Actes des Apôtres,
+37.00 ,,,,op. 37,1837,"3 Préludes, fugues",,,,Organ,,
+37.10 ,W 21,W,21 ,op. 37/1a,1837,Prélude,,C minor,Vivace / Con moto,Organ,,
+37.11 ,W 18,W,18 ,op. 37/1b,,Fugue,,,,,,
+37.20 ,W 22,W,22 ,op. 37/2a,1837,Prélude,,G major,Andante con moto / …,Organ,,
+37.21 ,W 20,W,20 ,op. 37/2b,,Fugue,,,,,,
+37.30 ,W 23,W,23 ,op. 37/3a,1837,Prélude,,D minor,Allegro / …,Organ,,
+37.31 ,W 13,W,13 ,op. 37/3b,,Fugue,,,,,,
+38.00 ,,,,op. 38,1836-1837,6 Chants sans paroles,Lied,,,Piano,Book III,
+38.10 ,U 121,U,121 ,op. 38/1,1837,Con moto,Lied,E-flat major,,Piano,,
+38.20 ,U 115,U,115 ,op. 38/2,1837,Allegro non troppo,Lied,C minor,,Piano,,
+38.30 ,U 107,U,107 ,op. 38/3,1837,Presto e molto vivace,Lied,E major,,Piano,,
+38.40 ,U 120,U,120 ,op. 38/4,1837,Andante,Lied,A major,,Piano,,
+38.50 ,U 137,U,137 ,op. 38/5,1837,Agitato,Lied,A minor,,Piano,,
+38.60 ,U 119,U,119 ,op. 38/6,1836,"Andante con moto ""Duetto""",Lied,A-flat major,,Piano,,
+39.00 ,,,,op. 39,1830,3 Motets,Motet,,,"Female Choir, Organ/Piano",,
+39.10 ,B 24,B,24 ,op. 39/1,1830,"Veni, Domine",Motet,G minor,Grave / Andante / Grave,"SSA Female Choir, Organ/Piano",,
+39.20 ,B 30,B,30 ,op. 39/2,1830,Laudate pueri,Motet,,"1. Laudate pueri
+chœur, en mi bémol majeur, pour 3 voix de femmes (2S,A), orgue ou Piano
+Allegro moderato assai
+
+2. Beati omnes qui timent
+trio pour 3 voix de femmes (2S,A), chœur de 3 voix de femmes (2S,A), en la bémol majeur,, orgue ou Piano
+Adagio","SSA Female Choir, Organ/Piano",,
+39.30 ,B 23,B,23 ,op. 39/3,1830,Surrexit pastor,Motet,,"1. Surrexit pastor
+choral, en sol majeur, pour voix de femmes (2S, 2A), orgue ou Piano
+Andante quasi Allegretto
+
+2. Tulerunt Dominum meum
+duet, en mi mineur, pour voix de femmes (SS), orgue ou Piano
+Con moto
+
+3. Surrexit Christus spes mea
+solo, en sol majeur, pour voix de femme (A), orgue ou Piano
+
+4. Surrexit Christus spes mea
+chœur, en sol majeur, pour voix de femmes (2S, 2A), orgue ou Piano
+Allegro molto","Female Choir, Organ/Piano",[2è dimanche après Pâques],
+40.00 ,O 11,O,11 ,op. 40,1837,,Concerto,D minor,"1. Allegro appasionato (ré mineur)
+2. Adagio. Molto sostenuto (si bémol majeur)
+3. Finale. Presto scherzando (ré majeur)","Piano, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",Piano Concerto No. 2,
+41.00 ,,,,op. 41,1834-1838,6 Lieder,Lied,,,Mixed Voices (SATB) a cappella,,
+41.10 ,F 10,F,10 ,op. 41/1,1838,Im Walde: Iht Vogel in den Zweigen schwank,Lied,A major,Lento e dolce,Mixed Voices (SATB) a cappella,Texte: A. von Platen,
+41.20 ,F 4,F,4 ,op. 41/2,1838,Entflieh' mit mir: Entflieh' mit mir,Lied,E major,Andante,Mixed Voices (SATB) a cappella,"Texte: Heinrich Heine
+[Volkslieder # 1]",
+41.30 ,F 5,F,5 ,op. 41/3,1838,Es fiel ein Reif: Es fiel ein Reif,Lied,A minor,Un poco Allegro,Mixed Voices (SATB) a cappella,"Texte: Heinrich Heine
+[Volkslieder # 2]",
+41.40 ,F 6,F,6 ,op. 41/4,1834,Auf ihrem Grab: Auf ihrem Grab,Lied,E major,Assai sostenuto,Mixed Voices (SATB) a cappella,"Texte: Heinrich Heine
+[Volklieder # 3]",
+41.50 ,F 7,F,7 ,op. 41/5,1838,Mailied: Der Schnee zerrinnt,Lied,B-flat major,Allegro,Mixed Voices (SATB) a cappella,Texte: L. Holty,
+41.60 ,F 9,F,9 ,op. 41/6,1838,Auf dem See: Und frische Nahrung,Lied,C major,Allegro molto vivace,Mixed Voices (SATB) a cappella,Texte: Johann Wolfgang von Goethe,
+42.00 ,A 15,A,15 ,op. 42,1837,Psaume 42: As pants the bart,Psalm,,"1. Wie der Hirsch schreit
+chœur (SATB), en fa majeur,, Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Violins, Viola, Cello, Double Bass)
+Lento e sostenuto
+
+2. Meine Seele durstet
+aria, en ré mineur, pour soprano, Orchestra
+(Oboes, 2 Violins, Viola, basse)
+Adagio
+
+3a. Meine Thranen sind meine
+récitatif, pour soprano,, Orchestra
+(2 Violins, Viola, Cello)
+
+3b. Denn ich wollte gern
+aria, en la mineur, pour soprano, chœur (SA), Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Violins, Viola, Cello, Double Bass)
+Allegro assai
+
+4. Was betrubst du dich
+chœur (SATB), en fa majeur,, Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, 2 Violins, Viola, Cello, Double Bass)
+Allegro maestoso assai
+
+5. Mein Gott, betrubt ist meine Seele
+récitatif, en fa majeur, pour soprano, Orchestra
+(2 Violins, Viola, Cello)
+
+6. Der Herr hat des Tages verheissen
+quintet (S,TT,BB), en si bémol majeur,, Orchestra
+(2 Flutes, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato
+
+7. Was betrubst du dich meine Seele
+chœur (SATB), en fa majeur,, Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Maestoso assai / Molto Allegro vivace","Solistes, Choir, Orchestra",,
+43.00 ,O 12,O,12 ,op. 43,1838,"Sérénade, Allegro giocoso",,B minor,"1. Sérénade. Andante (si mineur)
+2. Allegro giocoso (si mineur)","Piano, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+44.00 ,,,,op. 44,1837-1838,3 Quatuors,Quartet,,,"2 Violins, Viola, Cello",,
+44.10 ,R 30,R,30 ,op. 44/1,1838,,Quartet,D major,"1. Molto Allegro vivace (ré majeur)
+2. Menuetto. Un poco Allegretto (ré majeur)
+3. Andante espressivo ma con moto(si mineur)
+4. Finale. Presto con brio (ré majeur)","2 Violins, Viola, Cello",String Quartet No. 3,
+44.20 ,R 26,R,26 ,op. 44/2,1837,,Quartet,E minor,"1. Allegro assai appasionato (mi mineur)
+2. Scherzo. Allegro di molto (mi majeur)
+3. Andante (sol majeur)
+4. Presto agitato (mi mineur)","2 Violins, Viola, Cello",String Quartet No. 4,
+44.30 ,R 28,R,28 ,op. 44/3,1838,,Quartet,E-flat major,"1. Allegro vivace (mi bémol majeur)
+2. Scherzo. Assai leggiero vivace (do mineur)
+3. Adagio non troppo (la bémol majeur)
+4. Molto Allegro con fuoco (mi bémol majeur)","2 Violins, Viola, Cello",String Quartet No. 5,
+45.00 ,Q 27,Q,27 ,op. 45,1838,,Sonata,B-flat major,"1. Allegro vivace (si bémol majeur)
+2. Andante (sol mineur)
+3. Allegro assai (si bémol majeur)","Cello, Piano",Cello Sonata No. 1,
+46.00 ,A 16,A,16 ,op. 46,1838,"Psaume 95: Kommt, lasst uns an (Come, let us sing)",Psalm,,"1. Kommt, lasst uns an
+chœur, pour ténor solo, chœur (SATB), en mi bémol majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Moderato
+
+2a. Kommet, herzu, kommet herzu
+chœur (SATB), en do majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Andante / Allegro assai vivace
+
+2b. Denn der Herr
+canon, en do mineur, pour chœur (SATB), Orchestra
+(2 Oboes, 2 Clarinets, Timpani, 2 Violins, Viola, Cello, Double Bass)
+
+3. Denn in seiner Hand ist
+duo, en la bémol majeur, pour 2 sopranos, Orchestra
+(2 Flutes, 2 Clarinets, 2 Bassoons, 2 Violins, Viola, Cello, Double Bass)
+Con moto
+
+4. Denn sein ist das Meer
+chœur, pour basse, chœur (SATB), en mi bémol majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato
+
+5. Heute so ihr seine Stimme horet
+Chœur, pour ténor, chœur (SATB), en sol mineur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Andante","Solistes, Choir, Orchestra",,
+47.00 ,,,,op. 47,1839,6 Gesange,Lied,,,"V, Piano",,
+47.10 ,K 97,K,97 ,op. 47/1,1839,Minnelied: Wie der Wuell so lieblich klinget,Lied,A major,Andante,"V, Piano",Texte: Ludwig Tieck,
+47.20 ,K 100,K,100 ,op. 47/2,1839,Morgengruss: Ueber die Berge steigt schon die Sonne,Lied,D major,Andantino,"V, Piano",Texte: Heinrich Heine,
+47.30 ,K 101,K,101 ,op. 47/3,1839,"Fruhlingslied: Durch den Wald, den dunklen, geht",Lied,B-flat major,Allegro assai vivace,"V, Piano",Texte: Nikolaus Lenau,
+47.40 ,K 102,K,102 ,op. 47/4,1839,Volkslied: Es ist bestimmt in Gottes Rath,Lied,D major,Poco sostenuto,"V, Piano",Texte: E. von Feuchtersleben,
+47.50 ,K 73,K,73 ,op. 47/5,1839,Der Blumenstrauss: Sie wandelt im Blumengarten,Lied,A major,Grazioso,"V, Piano",Texte: Karl Klingemann,
+47.60 ,K 77,K,77 ,op. 47/6,1839,Bei der Wiege: Schlummre! Schlummre und traume von kommender Zeit,Lied,B-flat major,Allegretto non troppo,"V, Piano",Texte: Karl Klingemann,
+48.00 ,,,,op. 48,1839,"Der erste Fruhlingstag, 6 lieder",Lied,,,Mixed Voices (SATB) a cappella,,
+48.10 ,F 14,F,14 ,op. 48/1,1839,Fruhlingsahnung: O sanfter susser Hauch,Lied,E major,Andante sostenuto,Mixed Voices (SATB) a cappella,Texte: Ludwig Uhland,
+48.20 ,F 16,F,16 ,op. 48/2,1839,Die Primel: Liebliche Blume,Lied,A major,Allegretto,Mixed Voices (SATB) a cappella,Texte: Nikolaus Lenau,
+48.30 ,F 18,F,18 ,op. 48/3,1839,"Fruhlingsfeier: Susser, goldner Fruhlingstag",Lied,A major,Con moto espressivo,Mixed Voices (SATB) a cappella,Texte: Ludwig Uhland,
+48.40 ,F 13,F,13 ,op. 48/4,1839,Lerchengesang: Wie lieblicher Klang,Lied,G major,Allegro vivace,Mixed Voices (SATB) a cappella,Texte: ?,
+48.50 ,F 15,F,15 ,op. 48/5,1839,Morgengebet: O wunderbares tiefes Schweigen,Lied,C major,Adagio,Mixed Voices (SATB) a cappella,Texte: Joseph von Eichendorff,
+48.60 ,F 17,F,17 ,op. 48/6,1839,"Herbstlied: Holder Lenz, du bist dahin",Lied,E minor,Andante,Mixed Voices (SATB) a cappella,Texte: Nikolaus Lenau,
+49.00 ,Q 29,Q,29 ,op. 49,1839,,Trio,D minor,"1. Molto Allegro agitato (ré mineur)
+2. Andante con moto tranquillo (si bémol majeur)
+3. Scherzo. Leggiero e vivace (ré majeur)
+4. Finale. Allegro assai appassionato (ré mineur)","Piano, Violin, Cello",Piano Trio No. 1,
+50.00 ,,,,op. 50,1837-1840,6 Lieder,Lied,,,4 Male Voices a cappella,,
+50.10 ,G 23,G,23 ,op. 50/1,1838,"Turkisches Schenkenlied: Setze mir nicht, du Grobian",Lied,G minor,Allegro vivace,4 Male Voices a cappella,Texte: Johann Wolfgang von Goethe,
+50.20 ,G 27,G,27 ,op. 50/2,1840,"Der Jager Abschied: Wer hat dich, du schoner Wald",Lied,E-flat major,Alla marcia,4 Male Voices a cappella,Texte: Joseph von Eichendorff,
+50.30 ,G 19,G,19 ,op. 50/3,1837,Sommerlied: Wie Feld und Au' so blinkend im Thau,Lied,G major,Vivace e leggiero,4 Male Voices a cappella,Texte: Johann Wolfgang von Goethe,
+50.40 ,G 17,G,17 ,op. 50/4,1837,Wasserfahrt: Am fernen Horizonte,Lied,B minor,Andante,4 Male Voices a cappella,Texte: Heinrich Heine,
+50.50 ,G 26,G,26 ,op. 50/5,1839,Liebe und Wein: Liebesschmerz. Was qualte dir dein armes Herz,Lied,G minor,Maestoso,4 Male Voices a cappella,Texte: ?,
+50.60 ,G 28,G,28 ,op. 50/6,1840,Wanderlied: Vom Grund bis zu den Gipfeln,Lied,G major,Allegro molto,4 Male Voices a cappella,Texte: Joseph von Eichendorff,
+51.00 ,A 17,A,17 ,op. 51,1839,Psaume 114: Da Israel aus Aegypten zog (When Israel out of Egypt came),Psalm,G major,"1. Da Israel aus Aegypten zog
+chœur (SATB, SATB), en sol majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato
+
+2. Das Meer sah und floh
+chœur (SATB,SATB), en sol mineur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato
+
+3. Was war dit, du Meer
+chœur (SATB, SATB), en mi bémol majeur, a cappella
+Grave
+
+4. Vor dem Herrn bebte die Erde
+chœur (SATB, SATB), en do majeur/sol majeur,, Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Allegro maestoso e vivace","8-Voice Choir, Orchestra",,
+52.00 ,A 18,A,18 ,op. 52,1840,"Symphonie # 2 ""Lobgesang""",Symphony,B-flat major,"1a. Sinfonia
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Maestoso con moto (sol mineur) / Allegro (si bémol majeur), pour Orchestra
+
+1b. (2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 3 trombones, 2 Violins, Viola, Cello, Double Bass)
+Allegretto un poco agitato, en sol mineur / mi mineur / sol mineur, pour Orchestra
+1c. (2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Violins, Viola, Cello, Double Bass)
+Adagio religioso, en ré majeur, pour Orchestra
+
+2. Alles, alles
+chœur, en si bémol majeur, pour chœur (SATB), Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato maestoso / Allegro di molto
+
+3a. Saget es, die ihr erlost seid durch den Herrn
+récitatif, en sol mineur, pour ténor, Orchestra
+(2 Horns, 2 Violins, Viola, Cello, Double Bass)
+
+3b. Erzahlet unsre Thranen in der
+aria, en sol mineur, pour ténor, Orchestra
+(2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato
+
+4. Sagt es, die ihr erloset seid
+chœur, en sol mineur, pour ténor solo, chœur (SATB), Orchestra
+(2 Flutes, 2 Oboes, 2 Bassoons, 4 Horns, 2 Violins, Viola, Cello, Double Bass)
+A tempo e moderato
+
+5. Ich harrete des Herrn
+duet, en mi bémol majeur, pour 2 sopranos, chœur (SATB), Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Andante
+
+6. Stricke des Todes hatten uns
+solo, en do mineur, pour ténor, Orchestra
+(2 Oboes, 2 Clarinets, 2 Bassoons, 3 trombones, 2 Violins, Viola, Cello, Double Bass)
+Allegro un poco agitato (do mineur / do majeur) / Allegro assai agitato
+
+7. Die Nach ist
+chœur, en si mineur / ré majeur, pour chœur (SATB), Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Allegro maestoso e molto vivace
+
+8a. Nun danket alle Gott
+choral, en sol majeur, pour chœur (SSATTB) a cappella
+Andante con moto
+
+8b. Lob, Ehr' und Preis
+chœur, en sol majeur, pour chœur (SSATTB), Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Un poco piu animato
+
+9. Drum sing' ich mit meinem Liede ewig dein Lob
+duo, en sol mineur, pour soprano, ténor, Orchestra
+(2 Flutes, 2 Oboes, 2 Violins, Viola, Cello, Double Bass)
+Andante sostenuto assai
+
+10. Ihr Volker! bringet her dem Herrn
+chœur, en sol mineur, pour chœur (SATB), Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, ocntrebasse)
+Allegro non troppo","Choir, Orchestra",,
+53.00 ,,,,op. 53,1839-1841,6 Chants sans paroles,Lied,,,Piano,Book IV,
+53.10 ,U 143,U,143 ,op. 53/1,1839,Andante con moto,Lied,A-flat major,,Piano,,
+53.20 ,U 109,U,109 ,op. 53/2,1839,Allegro non troppo,Lied,E-flat major,,Piano,,
+53.30 ,U 144,U,144 ,op. 53/3,1839,Presto agitato,Lied,G minor,,Piano,,
+53.40 ,U 114,U,114 ,op. 53/4,1841,Adagio,Lied,F major,,Piano,,
+53.50 ,U 153,U,153 ,op. 53/5,1841,"Allegro con fuoco ""Volkslied""",Lied,A minor,,Piano,,
+53.60 ,U 154,U,154 ,op. 53/6,1841,Molto Allegro vivace,Lied,A major,,Piano,,
+54.00 ,U 156,U,156 ,op. 54,1841,17 Variations sérieuses,,,,Piano,,
+55.00 ,M 12,M,12 ,op. 55,1841,Antigone,Incidental Music,,"0. Introduction, en do mineur, pour Orchestra
+Andante maestoso
+
+1. Strah des Helios schunstes Licht
+chœur, en do majeur, pour chœur de voix d'hommes, Orchestra
+Maestoso
+
+2. Vieles Gewaltige lebt und
+chœur, en la majeur, pour chœur de voix d'hommes, Orchestra
+Andante con moto
+
+3. Ihr Sligen, deren
+chœur, en fa majeur, pour chœur de voix d'hommes, Orchestra
+Moderato
+
+4. O Eros Allsinger im Kampf
+chœur, en sol majeur. pour chœur de voix d'hommes, Orchestra
+Adagio
+
+5. Noch toset des Strurmes Gewalt … Auch der Danae Reiz
+récitatif, chœur, en mi mineur, pour chœur de voix d'hommes, Orchestra
+
+6. Viel mamiger! Wonn' und Stolz der
+chœur I, II, en ré majeur, pour chœur de voix d'hommes, Orchestra
+Allegro maestoso
+
+7. Hier kommt er ja selbst
+chœur I, II, en mi bémol majeur, pour chœur de voix d'hommes, Orchestra
+Andante alla marcia","Male Choir, Orchestra",Texte: Sophocles,
+56.00 ,N 18,N,18 ,op. 56,1841-1842,"Symphonie # 3 ""Écossaise""",Symphony,A minor,"1. Andante con moto (la mineur) / Allegro un poco agitato / Assai animato
+2. Vivace non troppo (fa majeur)
+3. Adagio (la majeur)
+4. Allegro vivacissimo (la mineur) / Allegro maesto assai (la majeur)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+57.00 ,,,,op. 57,1839-1843,6 Lieder,Lied,,,"V, Piano",,
+57.10 ,K 104,K,104 ,op. 57/1,1843,Altdeutsches Lied: Es ist in den Wald gesungen,Lied,E major,Andante,"V, Piano",Texte: Heinrich Schreiber,
+57.20 ,K 103,K,103 ,op. 57/2,1839,"Hirtenlied: O Winter, schlimmer Winter",Lied,G minor,Sostenuto,"V, Piano",Texte: Ludwig Uhland,
+57.30 ,K 93,K,93 ,op. 57/3,1843,Suleika: Was bedeutet die Bewegung?,Lied,E major,Allegro assai,"V, Piano",Texte: Johann Wolfgang von Goethe,
+57.40 ,K 106,K,106 ,op. 57/4,1843,"O Jugend, o schone Rosenzeit!: Von allen schonen Kindern auf der Welt",Lied,A major,Andante con moto,"V, Piano",Texte: chant folklorique rhénois,
+57.50 ,K 114,K,114 ,op. 57/5,1842,Venetianisches Gondellied: Wenn durch die Piazetta,Lied,B minor,Allegretto non troppo,"V, Piano",Texte: Thomas Moore,
+57.60 ,K 108,K,108 ,op. 57/6,1841,Wanderlied: Laue Luft kommt blau geflossen,Lied,G major,Allegro vivace assai,"V, Piano",Texte: Joseph von Eichendorff,
+58.00 ,Q 32,Q,32 ,op. 58,1843,,Sonata,D major,"1. Allegro assai vivace (ré majeur)
+2. Allegretto scherzando (si mineur)
+3. Adagio (sol majeur)
+4. Molto Allegro e vivace (ré majeur)","Cello, Piano",Cello Sonata No. 2,
+59.00 ,,,,op. 59,1837-1843,"Im Grunen, 6 lieder",Lied,,,Mixed Voices (SATB) a cappella,,
+59.10 ,F 8,F,8 ,op. 59/1,1837,Im Grunen: Im Grun erwacht der frische Muth,Lied,A major,Andante con moto,Mixed Voices (SATB) a cappella,Texte: Helmina von Chézy,
+59.20 ,F 23,F,23 ,op. 59/2,1843,"Fruhzeitiger Fruhling: Tage der Wonne, kommt ihr so bald",Lied,,Allegretto non troppo,,Texte: Johann Wolfgang von Goethe,
+59.30 ,F 20,F,20 ,op. 59/3,1843,"Abschied vom Wald: O Thaler weit, o Hohen",Lied,,Andante non lento,,Texte: Joseph von Eichendorff,
+59.40 ,F 24,F,24 ,op. 59/4,1843,"Die Nachtigall: Die Nachtigall, sie war entfernt",Lied,,Andante,,Texte: Johann Wolfgang von Goethe,
+59.50 ,F 21,F,21 ,op. 59/5,1843,Ruhetal: Wann im letzten Abendstrahl,Lied,,Adagio,,Texte: Ludwig Uhland,
+59.60 ,F 22,F,22 ,op. 59/6,1843,Jagdlied: Durch schwankende Wipfel,Lied,,Allegro molto quasi Presto,,Texte: Joseph von Eichendorff,
+60.00 ,D 3,D,3 ,op. 60,1831/1843,Die erste Walpurgisnacht,Ballade,,"0. Ouverture, en la mineur, pour Orchestra
 
 1. Es lacht der Mai!
 chœur, en la majeur
@@ -40,549 +526,104 @@ Allegro molto
 
 7. So weit
 chœur, en la mineur
-Andante maestoso",chœur avec orchestre,"Texte: Johann Wolfgang von Goethe
-[2 versions: 1831 et 1843]",
-MWV A 24,op. 73,1846,Lauda Sion,Cantata,,"1. Lauda Sion salvatorem
-chœur, en do majeur
-Andante maestoso / Allegro maestoso e vivace
-
-2. Laudis thema specialis
-chœur, en do mineur
-Andante con moto
-
-3. Sit laus plena sit sonora
-solo pour soprano et chœur, en la bémol majeur
-Sostenuto
-
-4. In hac mensa novi regis
-quatuor (SATB solo), en sol majeur
-(flûte, 2 clarinettes, 2 bassons, 2 violons, alto, violoncelle, contrebasse)
-Andante
-
-5. Docti sacris institutis
-chœur, en la mineur
-Grave / Andante con moto
-
-6. Caro cibus, sanguis potus
-solo pour soprano, en fa majeur
-(hautbois solo, 2 clarinettes, 2 violons, alto, violoncelle et contrebasse)
-Andante
-
-7. Sumit unus, summunt mille
-solo et chœur, en fa majeur
-Grave / Andante maestoso (do majeur) / Allegro","solistes et chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse)",,
-MWV U 139,op. 118,1837,Capriccio,Caprice,E major,"1. Andante (mi majeur)
-2. Allegro (mi mineur)",Piano,,
-MWV U 67,op. 14,1824,Rondo capriccioso,Caprice,E major,"1. Andante (mi majeur)
-2. Presto (mi mineur)",Piano,,
-MWV U 71,op. 16/2,1829,,Caprice,E minor,Scherzo. Presto,Piano,,
-MWV O 8,op. 22,1825-1826,Capriccio brillant,Caprice,B minor,Andante / Allegro con fuoco,"piano et orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contrebasse)",,
-,op. 33,1833-1835,3 Caprices,Caprice,,,Piano,,
-MWV U 99,op. 33/1,1834,,Caprice,A minor,Adagio quasi Fantasia / Presto agitato,Piano,,
-MWV U 112,op. 33/2,1835,,Caprice,E major,Allegro grazioso,Piano,,
-MWV U 95,op. 33/3,1833,,Caprice,B-flat minor,Adagio / Presto con fuoco,Piano,,
-MWV U 50,op. 5,1825,Cappricio,Caprice,F-sharp minor,Prestissimo,Piano,,
-MWV O 7,op. 25,1831,,Concerto,G minor,"1. Molto Allegro con fuoco (sol mineur)
-2. Andante (mi majeur)
-3. Presto (mi mineur) / Molto Allegro vivace (sol majeur)","piano et orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contrebasse)",Concerto # 1,
-MWV O 11,op. 40,1837,,Concerto,D minor,"1. Allegro appasionato (ré mineur)
-2. Adagio. Molto sostenuto (si bémol majeur)
-3. Finale. Presto scherzando (ré majeur)","piano et orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contrebasse)",Concerto # 2,
-MWV O 14,op. 64,1844,,Concerto,E minor,"1. Allegro molto appassionato (mi mineur)
-2. Andante (do majeur)
-3. Allegretto non troppo (mi mineur) / Allegro molto vivace (mi majeur)","violon et orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle)",,
-,,,,Concerto,A-flat major,,"2 Pianos, Orchestra",,
-,,,,Concerto,E major,,"2 Pianos, Orchestra",,
-,,,,Concerto,A minor,,piano et orchestre,,
-,,,,Concerto,D minor,,violon et cordes,,
-,,,,Concerto,D minor,,violon et piano avec orchestre,,
-,op. 104b,1834-1838,3 Études,Etude,,,Piano,,
-MWV U 117,op. 104b/1,1836,,Etude,B-flat minor,Presto,Piano,,
-MWV U 100,op. 104b/2,1834,,Etude,F major,Allegro con moto,Piano,,
-MWV U 142,op. 104b/3,1838,,Etude,A minor,Allegro vivace,Piano,,
-MWV U 125,WoO 1,1826,,Etude,F minor,Presto agitato,Piano,"[Publié dans la ""Méthode des méthodes"" de Moscheles et Fétis]",
-,,,2 Études,Etude,,,Piano,,
-,,,,Etude,C major,,Piano,,
-,,,,Etude,F major,,Piano,,
-MWV U 74,op. 15,1827,"Fantaisie ""The Last Rose""",Fantaisia,E major,"1. Adagio (mi majeur)
-2. Presto agitato (mi mineur)
-3. Andante (mi majeur)
-4. Presto come prima (mi majeur / mi mineur)
-5. Andante con moto (mi majeur)","piano sur le lied irlandais ""The Last Rose""",,
-MWV U 70,op. 16/1,1829,,Fantaisia,A minor,"1. Andante con moto (la mineur)
-2. Allegro vivace (la majeur)",Piano,,
-MWV U 72,op. 16/3,1829,"Fantaisie ""The Rivulet""",Fantaisia,E major,Andante,Piano,,
-MWV U 92,op. 28,1833,"Fantaisie ""Sonate écossaise""",Fantaisia,F-sharp minor,"1. Con moto agitato / Andante / Con moto agitato
-2. Allegro con moto (la majeur / ré majeur)
-3. Presto (fa dièse mineur)",Piano,,
-,,,,Fantaisia,G minor,,Organ,,
-,,,,Fantaisia,C minor,,Piano,,
-,,,,Fantaisia,D minor,,Piano Four Hands,,
-MWV R 23,op. 81/4,1827,,Fugue,E-flat major,A tempo ordinario,"quatuor à cordes
-(2 violons, alto, violoncelle)",,
-,,,,Fugue,F minor,,Organ,,
-,,,,Fugue,E minor,,Organ,,
-,,,,Fugue,B major,,Organ,,
-,,,,Fugue,C-sharp minor,,Piano,,
-,,,,Fugue,E minor,,Piano,,
-,,,,Fugue,E-flat major,,String Quartet,,
-MWV A 19,op. 96,1840-1843,"Lass', o Herr",Hymn,,"1. Lass', o Herr
-en mi bémol majeur, pour alto et chœur (SATB)
-Andante
-
-2. Deines Kind's Gebet erhore
-choral, en si bémol majeur, pour chœur (SATB)
-Non lento
-
-3. Herr, wir trau'n auf deine Gute
-solo, en mi bémol majeur, pour alto et chœur (SATB)
-Con moto e vivace / Fuga. Allegro vivace","alto et chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle, contrebasse)",[3 chœurs ajoutés en 1843],
-MWV M 12,op. 55,1841,Antigone,Incidental Music,,"0. Introduction, en do mineur, pour orchestre
-Andante maestoso
-
-1. Strah des Helios schunstes Licht
-chœur, en do majeur, pour chœur de voix d'hommes avec orchestre
-Maestoso
-
-2. Vieles Gewaltige lebt und
-chœur, en la majeur, pour chœur de voix d'hommes avec orchestre
-Andante con moto
-
-3. Ihr Sligen, deren
-chœur, en fa majeur, pour chœur de voix d'hommes avec orchestre
-Moderato
-
-4. O Eros Allsinger im Kampf
-chœur, en sol majeur. pour chœur de voix d'hommes avec orchestre
-Adagio
-
-5. Noch toset des Strurmes Gewalt … Auch der Danae Reiz
-récitatif et chœur, en mi mineur, pour chœur de voix d'hommes avec orchestre
-
-6. Viel mamiger! Wonn' und Stolz der
-chœur I et II, en ré majeur, pour chœur de voix d'hommes avec orchestre
-Allegro maestoso
-
-7. Hier kommt er ja selbst
-chœur I et II, en mi bémol majeur, pour chœur de voix d'hommes avec orchestre
-Andante alla marcia",chœur de voix d'hommes avec orchestre,Texte: Sophocles,
-MWV M 13,op. 61,1842,A Midsummer Night's Dream,Incidental Music,,"0. Ouverture, en mi majeur, pour orchestre
+Andante maestoso","Choir, Orchestra","Texte: Johann Wolfgang von Goethe
+[2 versions: 1831, 1843]",
+61.00 ,M 13,M,13 ,op. 61,1842,A Midsummer Night's Dream,Incidental Music,,"0. Ouverture, en mi majeur, pour Orchestra
 Allegro di molto
 
-1. Scherzo, en sol mineur, pour orchestre
+1. Scherzo, en sol mineur, pour Orchestra
 Allegro vivace
 
-2. Elfenmarsch, en sol mineur, pour orchestre
+2. Elfenmarsch, en sol mineur, pour Orchestra
 L'istesso tempo - Allegro molto vivace
 
 3. Bunte
-lied avec chœur, en la majeur/la mineur
+lied, chœur, en la majeur/la mineur
 Allegro ma non troppo
 
 4. Was du wirst erwachend sehn
 lied, en sol majeur
 Andante
 
-5. Intermezzo, en la mineur, pour orchestre
+5. Intermezzo, en la mineur, pour Orchestra
 Allegro appassionato
 
 6. Welch hausbacknes Volk
 lied, en mi mineur
 Allegro non troppo
 
-7. Notturno, en mi majeur, pour orchestre
+7. Notturno, en mi majeur, pour Orchestra
 Con moto tranquillo
 
-8. Andante, en do dièse mineur, pour orchestre
+8. Andante, en do dièse mineur, pour Orchestra
 
-9. Hochzeitmarsch, en do majeur, pour orchestre
+9. Hochzeitmarsch, en do majeur, pour Orchestra
 Allegro vivace
 
-10. Allegro commodo, en do majeur, pour orchestre
+10. Allegro commodo, en do majeur, pour Orchestra
 
-11. Ein Tanz con Rupeln, en mi majeur, pour orchestre
+11. Ein Tanz con Rupeln, en mi majeur, pour Orchestra
 Allegro molto
 
-12. Allegro vivace, en do majeur, pour orchestre
+12. Allegro vivace, en do majeur, pour Orchestra
 
 13. Finale
-Allegro di molto, en mi majeur, pour orchestre",,Texte: Shakespeare,
-MWV M 16,op. 74,1845,Athalie,Incidental Music,,"0. Ouverture, en fa majeur, pour orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, harpe, 2 violons, alto, violoncelle, contrebasse)
-Maestoso con moto / Molto Allegro / Maestoso con moto (ré majeur)
-
-1. Herr, durch die ganze (Tout l'univers)
-chœur, en do majeur
-Allegro maestoso vivace
-
-2. O seht wrich ein Stern uns (Quel astre à nos yeux)
-récitatif, en sol mineur
-Andante quasi Recit
-
-3. Lasst uns dem heil'gen (Que du Seigneur)
-double chœur, en mi bémol majeur
-Con moto
-
-4. Ist es Gluck, ist es Leid (Ô promesse! Ô menace!)
-chœur, en do mineur
-Andante con moto
-
-4a. Kriegsmarsch der Priester, en do majeur, pour orchestre
-Allegro vivace
-
-5. So geht, so geht ihr (Partez, partez)
-chœur, en fa majeur
-Allegro maestoto
-
-6. Ja durch die ganze (Tout l'univers)
-chœur, en do majeur
-Allegro maestoso",,"Texte: Felix Mendelssohn, after Jean Racine; based on a German adaptation by Ernst Raupach",
-MWV M 14,op. 93,1845,Oedipus at Colonos,Incidental Music,,"1. Introduction, en ré mineur, pour orchestre
-Andante
-
-2. Oschan! Er entfloh
-en la mineur, pour ténor
-
-3. Grausam ist es o Freund
-en ré mineur, pour ténor et basse
-Allegro moderato
-
-4. Allegro tranquillo, en fa majeur, pour orchestre
-
-5. Allegro, en si bémol majeut, pour orchestre
-
-6. Ach, war' ich wo bald die
-chœur, en ré mineur, pour chœur
-Allegro vivace
-
-7. Andante, en sol mineur, pour orchestre
-Andante
-
-8. Auf uns bricht!
-en do mineur, pour basse
-Lento
-
-9. Ist es verstattet
-en la bémol majeur, pour ténors et basses
-Adagio
-
-10. Sostenuto assai, en ré mineur, pour orchestre",,Texte: Sophocles,
-,op. 100,1839-1844,4 Lieder,Lied,,,quatre voix mixtes a cappella,,
-MWV F 29,op. 100/1,1844,Andenken: Die Baume grunen uberall,Lied,D major,Andante con moto espressivo,quatre voix mixtes a cappella,Texte: ?,
-MWV F 26,op. 100/2,1843,"Lob des Fruhlings: Saatengrun, Veilchenduft",Lied,A major,Con moto,quatre voix mixtes a cappella,Texte: Ludwig Uhland,
-MWV F 30,op. 100/3,1843-1844,Fruhlingslied: Berg und Thal will ich durchstreifen,Lied,D major,Andante,quatre voix mixtes a cappella,Texte: ?,
-MWV F 11,op. 100/4,1839,"Im Wald: O Wald, du kuhlender Bronnen",Lied,D major,Allegro moderato,quatre voix mixtes a cappella,Texte: ?,
-,op. 102,1842-1845,6 Chants sans paroles,Lied,,,Piano,,
-MWV U 162,op. 102/1,1842,Andante un poco agitato,Lied,E minor,,Piano,,
-MWV U 192,op. 102/2,1845,Adagio,Lied,D major,,Piano,,
-MWV U 195,op. 102/3,1845,Presto,Lied,C major,,Piano,,
-MWV U 152,op. 102/4,1845,"Un poco agitato, ma Andante",Lied,G minor,,Piano,,
-MWV U 194,op. 102/5,1845,"Allegro vivace ""Kinderstuck""",Lied,A major,,Piano,,
-MWV U 172,op. 102/6,1845,"Allegro vivace ""Kinderstuck""",Lied,A major,,Piano,,
-MWV Q 34,op. 109,1845,Chant sans parole,Lied,D major,Andante,violoncelle et piano,,
-,op. 112,1835,2 Chants sacrés,Lied,,,voix avec accompagnement de piano,,
-MWV F 31,op. 116,1845,Trauer-Gesang: Sahst du ihn herniederschweben in der Morgen,Lied,G minor,Andante,chœur à voix mixtes (SATB) a cappella,,
-MWV U 134,op. 117,1837,"Feuille d'album (Chant sans parole),",Lied,E minor,Allegro,Piano,,
-,op. 120,1837-1847,4 Lieder,Lied,,,quatre voix d'hommes a cappella,,
-MWV G 21,op. 120/1,1837,"Jagdlied: Auf, ihr Herrn und Damen schon",Lied,C major,Presto,quatre voix d'hommes a cappella,,
-MWV G 37,op. 120/2,1847,"Morgengruss des Thuringischen Sangerbundes: Seid gegrusset, traute Bruder",Lied,F major,Allegro non troppo,quatre voix d'hommes a cappella,,
-MWV G 20,op. 120/3,,"Im Suden: Susse Dufte, milde Lufte",Lied,B-flat major,Andante,quatre voix d'hommes a cappella,,
-MWV G 5,op. 120/4,,"Zigeunerlied: Im Nebelgeriesel, im tiefen Schnee",Lied,G minor,Andante ma non troppo,quatre voix d'hommes a cappella,,
-,op. 19a,1830-1834,6 Gesange,Lied,,,voix avec accompagnement de piano,,
-MWV K 56,op. 19a/1,1834,"Fruhlingslied: In dem Walde, susse Tone",Lied,D major,Andante,voix avec accompagnement de piano,Texte: Ulrich von Lichtenstein,
-MWV K 63,op. 19a/2,1834,Das erste Veilchen: Als ich das erste Veilchen erblickt,Lied,F major,Andante con moto,voix avec accompagnement de piano,Texte: Egon Ebert,
-MWV K 72,op. 19a/3,1834,"Winterlied: Mein Sohn, wo willst du hin so spat",Lied,E minor,Con moto moderato,voix avec accompagnement de piano,Texte: du suédois,
-MWV K 70,op. 19a/4,1834,Neue Liebe: In dem Mondenschein im Walde,Lied,F-sharp minor,Presto,voix avec accompagnement de piano,Texte: Heinrich Heine,
-MWV K 71,op. 19a/5,1834,Gruss: Leise zieht durch mein Gemuth,Lied,D major,Andante,voix avec accompagnement de piano,Texte: Heinrich Heine,
-MWV K 65,op. 19a/6,1830,Reiselied: Bringet des treusten Herzens Grusse,Lied,E major,Presto agitato,voix avec accompagnement de piano,Texte: Egon Ebert,
-,op. 19b,1829-1830,Chant sans parole,Lied,,,Piano,Livre I,
-MWV U 86,op. 19b/1,1829,Andante con moto,Lied,E major,,Piano,,
-MWV U 80,op. 19b/2,1829,Andante espressivo,Lied,A minor,,Piano,,
-MWV U 89,op. 19b/3,1829,"Molto Allegro e vivace ""Jagerlied""",Lied,A major,,Piano,,
-MWV U 73,op. 19b/4,1829,Moderato,Lied,A major,,Piano,,
-MWV U 90,op. 19b/5,1830,Poco agitato,Lied,F-sharp minor,,Piano,,
-MWV U 78,op. 19b/6,1830,"Andante sostenuto ""Venerianisches Gondellied""",Lied,G minor,,Piano,,
-,op. 30,1833-1834,Chant sans parole,Lied,,,Piano,Livre II,
-MWV U 103,op. 30/1,1834,Andante espressivo,Lied,E-flat major,,Piano,,
-MWV U 77,op. 30/2,1834,Allegro di molto,Lied,B-flat minor,,Piano,,
-MWV U 104,op. 30/3,1834,Adagio non troppo,Lied,E major,,Piano,,
-MWV U 98,op. 30/4,1834,Agitato e con fuoco,Lied,B minor,,Piano,,
-MWV U 97,op. 30/5,1833,Andante grazioso,Lied,D major,,Piano,,
-MWV U 110,op. 30/6,1833,"Allegretto tranquillo ""Venetianisches Gondellied""",Lied,F-sharp minor,,Piano,,
-,op. 34,1834-1836,6 Gesange,Lied,,,voix avec accompagnement de piano,,
-MWV K 80,op. 34/1,1834,Minnelied: Leucht't heller als die Sonne,Lied,G major,Con moto,voix avec accompagnement de piano,Texte: vieil allemand,
-MWV K 86,op. 34/2,1836,Auf Flugeln des Gesanges: Auf Flugeln des Gesanges,Lied,A-flat major,Andante tranquillo,voix avec accompagnement de piano,,
-MWV K 89,op. 34/3,1836,Fruhlingslied: Es brechen im schallenden Reigen,Lied,G major,Allegro vivace,voix avec accompagnement de piano,,
-MWV K 92,op. 34/4,1836,"Suleika: Ach, um deine feuchten Schwingen",Lied,E minor,Andante sostenuto,voix avec accompagnement de piano,,
-MWV K 84,op. 34/5,1834,Sonntagslied: Ringsum erschallt in Wald und Flur,Lied,A major,Quasi Allegretto,voix avec accompagnement de piano,,
-MWV K 90,op. 34/6,1836,Reiselied: Der Herbstwind rattelt die Baume,Lied,E minor,Presto,voix avec accompagnement de piano,,
-,op. 38,1836-1837,6 Chants sans paroles,Lied,,,Piano,Livre III,
-MWV U 121,op. 38/1,1837,Con moto,Lied,E-flat major,,Piano,,
-MWV U 115,op. 38/2,1837,Allegro non troppo,Lied,C minor,,Piano,,
-MWV U 107,op. 38/3,1837,Presto e molto vivace,Lied,E major,,Piano,,
-MWV U 120,op. 38/4,1837,Andante,Lied,A major,,Piano,,
-MWV U 137,op. 38/5,1837,Agitato,Lied,A minor,,Piano,,
-MWV U 119,op. 38/6,1836,"Andante con moto ""Duetto""",Lied,A-flat major,,Piano,,
-,op. 41,1834-1838,6 Lieder,Lied,,,voix mixtes (SATB) a cappella,,
-MWV F 10,op. 41/1,1838,Im Walde: Iht Vogel in den Zweigen schwank,Lied,A major,Lento e dolce,voix mixtes (SATB) a cappella,Texte: A. von Platen,
-MWV F 4,op. 41/2,1838,Entflieh' mit mir: Entflieh' mit mir,Lied,E major,Andante,voix mixtes (SATB) a cappella,"Texte: Heinrich Heine
-[Volkslieder # 1]",
-MWV F 5,op. 41/3,1838,Es fiel ein Reif: Es fiel ein Reif,Lied,A minor,Un poco Allegro,voix mixtes (SATB) a cappella,"Texte: Heinrich Heine
-[Volkslieder # 2]",
-MWV F 6,op. 41/4,1834,Auf ihrem Grab: Auf ihrem Grab,Lied,E major,Assai sostenuto,voix mixtes (SATB) a cappella,"Texte: Heinrich Heine
-[Volklieder # 3]",
-MWV F 7,op. 41/5,1838,Mailied: Der Schnee zerrinnt,Lied,B-flat major,Allegro,voix mixtes (SATB) a cappella,Texte: L. Holty,
-MWV F 9,op. 41/6,1838,Auf dem See: Und frische Nahrung,Lied,C major,Allegro molto vivace,voix mixtes (SATB) a cappella,Texte: Johann Wolfgang von Goethe,
-,op. 47,1839,6 Gesange,Lied,,,voix avec accompagnement de piano,,
-MWV K 97,op. 47/1,1839,Minnelied: Wie der Wuell so lieblich klinget,Lied,A major,Andante,voix avec accompagnement de piano,Texte: Ludwig Tieck,
-MWV K 100,op. 47/2,1839,Morgengruss: Ueber die Berge steigt schon die Sonne,Lied,D major,Andantino,voix avec accompagnement de piano,Texte: Heinrich Heine,
-MWV K 101,op. 47/3,1839,"Fruhlingslied: Durch den Wald, den dunklen, geht",Lied,B-flat major,Allegro assai vivace,voix avec accompagnement de piano,Texte: Nikolaus Lenau,
-MWV K 102,op. 47/4,1839,Volkslied: Es ist bestimmt in Gottes Rath,Lied,D major,Poco sostenuto,voix avec accompagnement de piano,Texte: E. von Feuchtersleben,
-MWV K 73,op. 47/5,1839,Der Blumenstrauss: Sie wandelt im Blumengarten,Lied,A major,Grazioso,voix avec accompagnement de piano,Texte: Karl Klingemann,
-MWV K 77,op. 47/6,1839,Bei der Wiege: Schlummre! Schlummre und traume von kommender Zeit,Lied,B-flat major,Allegretto non troppo,voix avec accompagnement de piano,Texte: Karl Klingemann,
-,op. 48,1839,"Der erste Fruhlingstag, 6 lieder",Lied,,,voix mixtes (SATB) a cappella,,
-MWV F 14,op. 48/1,1839,Fruhlingsahnung: O sanfter susser Hauch,Lied,E major,Andante sostenuto,voix mixtes (SATB) a cappella,Texte: Ludwig Uhland,
-MWV F 16,op. 48/2,1839,Die Primel: Liebliche Blume,Lied,A major,Allegretto,voix mixtes (SATB) a cappella,Texte: Nikolaus Lenau,
-MWV F 18,op. 48/3,1839,"Fruhlingsfeier: Susser, goldner Fruhlingstag",Lied,A major,Con moto espressivo,voix mixtes (SATB) a cappella,Texte: Ludwig Uhland,
-MWV F 13,op. 48/4,1839,Lerchengesang: Wie lieblicher Klang,Lied,G major,Allegro vivace,voix mixtes (SATB) a cappella,Texte: ?,
-MWV F 15,op. 48/5,1839,Morgengebet: O wunderbares tiefes Schweigen,Lied,C major,Adagio,voix mixtes (SATB) a cappella,Texte: Joseph von Eichendorff,
-MWV F 17,op. 48/6,1839,"Herbstlied: Holder Lenz, du bist dahin",Lied,E minor,Andante,voix mixtes (SATB) a cappella,Texte: Nikolaus Lenau,
-,op. 50,1837-1840,6 Lieder,Lied,,,quatre voix d'hommes a cappella,,
-MWV G 23,op. 50/1,1838,"Turkisches Schenkenlied: Setze mir nicht, du Grobian",Lied,G minor,Allegro vivace,quatre voix d'hommes a cappella,Texte: Johann Wolfgang von Goethe,
-MWV G 27,op. 50/2,1840,"Der Jager Abschied: Wer hat dich, du schoner Wald",Lied,E-flat major,Alla marcia,quatre voix d'hommes a cappella,Texte: Joseph von Eichendorff,
-MWV G 19,op. 50/3,1837,Sommerlied: Wie Feld und Au' so blinkend im Thau,Lied,G major,Vivace e leggiero,quatre voix d'hommes a cappella,Texte: Johann Wolfgang von Goethe,
-MWV G 17,op. 50/4,1837,Wasserfahrt: Am fernen Horizonte,Lied,B minor,Andante,quatre voix d'hommes a cappella,Texte: Heinrich Heine,
-MWV G 26,op. 50/5,1839,Liebe und Wein: Liebesschmerz. Was qualte dir dein armes Herz,Lied,G minor,Maestoso,quatre voix d'hommes a cappella,Texte: ?,
-MWV G 28,op. 50/6,1840,Wanderlied: Vom Grund bis zu den Gipfeln,Lied,G major,Allegro molto,quatre voix d'hommes a cappella,Texte: Joseph von Eichendorff,
-,op. 53,1839-1841,6 Chants sans paroles,Lied,,,Piano,Livre IV,
-MWV U 143,op. 53/1,1839,Andante con moto,Lied,A-flat major,,Piano,,
-MWV U 109,op. 53/2,1839,Allegro non troppo,Lied,E-flat major,,Piano,,
-MWV U 144,op. 53/3,1839,Presto agitato,Lied,G minor,,Piano,,
-MWV U 114,op. 53/4,1841,Adagio,Lied,F major,,Piano,,
-MWV U 153,op. 53/5,1841,"Allegro con fuoco ""Volkslied""",Lied,A minor,,Piano,,
-MWV U 154,op. 53/6,1841,Molto Allegro vivace,Lied,A major,,Piano,,
-,op. 57,1839-1843,6 Lieder,Lied,,,voix avec accompagnement de piano,,
-MWV K 104,op. 57/1,1843,Altdeutsches Lied: Es ist in den Wald gesungen,Lied,E major,Andante,voix avec accompagnement de piano,Texte: Heinrich Schreiber,
-MWV K 103,op. 57/2,1839,"Hirtenlied: O Winter, schlimmer Winter",Lied,G minor,Sostenuto,voix avec accompagnement de piano,Texte: Ludwig Uhland,
-MWV K 93,op. 57/3,1843,Suleika: Was bedeutet die Bewegung?,Lied,E major,Allegro assai,voix avec accompagnement de piano,Texte: Johann Wolfgang von Goethe,
-MWV K 106,op. 57/4,1843,"O Jugend, o schone Rosenzeit!: Von allen schonen Kindern auf der Welt",Lied,A major,Andante con moto,voix avec accompagnement de piano,Texte: chant folklorique rhénois,
-MWV K 114,op. 57/5,1842,Venetianisches Gondellied: Wenn durch die Piazetta,Lied,B minor,Allegretto non troppo,voix avec accompagnement de piano,Texte: Thomas Moore,
-MWV K 108,op. 57/6,1841,Wanderlied: Laue Luft kommt blau geflossen,Lied,G major,Allegro vivace assai,voix avec accompagnement de piano,Texte: Joseph von Eichendorff,
-,op. 59,1837-1843,"Im Grunen, 6 lieder",Lied,,,voix mistes (SATB) a cappella,,
-MWV F 8,op. 59/1,1837,Im Grunen: Im Grun erwacht der frische Muth,Lied,A major,Andante con moto,voix mistes (SATB) a cappella,Texte: Helmina von Chézy,
-MWV F 23,op. 59/2,1843,"Fruhzeitiger Fruhling: Tage der Wonne, kommt ihr so bald",Lied,,Allegretto non troppo,,Texte: Johann Wolfgang von Goethe,
-MWV F 20,op. 59/3,1843,"Abschied vom Wald: O Thaler weit, o Hohen",Lied,,Andante non lento,,Texte: Joseph von Eichendorff,
-MWV F 24,op. 59/4,1843,"Die Nachtigall: Die Nachtigall, sie war entfernt",Lied,,Andante,,Texte: Johann Wolfgang von Goethe,
-MWV F 21,op. 59/5,1843,Ruhetal: Wann im letzten Abendstrahl,Lied,,Adagio,,Texte: Ludwig Uhland,
-MWV F 22,op. 59/6,1843,Jagdlied: Durch schwankende Wipfel,Lied,,Allegro molto quasi Presto,,Texte: Joseph von Eichendorff,
-,op. 62,1842-1844,6 Chants sans paroles,Lied,,,Piano,Livre V,
-MWV U 185,op. 62/1,1844,Andante espressivo,Lied,G major,,Piano,,
-MWV U 181,op. 62/2,1843,Allegro con fuoco,Lied,B-flat major,,Piano,,
-MWV U 177,op. 62/3,1843,"Andante maestoso ""Trauermarsch""",Lied,E minor,,Piano,,
-MWV U 175,op. 62/4,1842,Allegro con anima,Lied,G major,,Piano,,
-MWV U 151,op. 62/5,1842,"Andante con moto ""Venezianisches Gondellied""",Lied,A minor,,Piano,,
-MWV U 161,op. 62/6,1842,"Allegretto grazioso ""Fruhlingslied""",Lied,A major,,Piano,,
-,op. 63,1836-1845,6 Lieder,Lied,,,voix avec accompagnement de piano,,
-MWV J 5,op. 63/1,1836,Ich wollt' meine Lieb' ergosse sich: Ich wollt' meine Lieb' ergosse sich,Lied,E major,Allegro con moto,deux voix avec accompagnement de piano,Texte: Heinrich Heine,
-MWV J 9,op. 63/2,1845,Abschied der Zugvogel: Wie war so schon doch Wald und Feld!,Lied,G minor,Andante,deux voix avec accompagnement de piano,Texte: Hoffmann von Fallersleben,
-MWV J 8,op. 63/3,1845,Gruss: Wohin ich geh' und schaue,Lied,E-flat major,Teneramento non lento,deux voix avec accompagnement de piano,Texte: Joseph von Eichendorff,
-MWV J 11,op. 63/4,1845,"Herbstlied: Ach, wie so bald verhallet der Reigen",Lied,F-sharp minor,Allegro agitato,deux voix avec accompagnement de piano,Texte: Karl Klingemann,
-MWV J 10,op. 63/5,1842,Volkslied: O sah' ich auf der Haide dort im Sturme dich,Lied,B-flat major,Andante,deux voix avec accompagnement de piano,Texte: Robert Burns,
-MWV J 7,op. 63/6,1844,Maiglockchen und die Blumelein: Maiglockchen lautet in dem Thal,Lied,G major,Allegro vivace,deux voix avec accompagnement de piano,Texte: Hoffman von Fallersleben,
-,op. 67,1843-1845,Chants sans paroles,Lied,,,Piano,Livre VI,
-MWV U 180,op. 67/1,1843,Andante,Lied,E-flat major,,Piano,,
-MWV U 145,op. 67/2,1845,Allegro leggiero,Lied,F-sharp minor,,Piano,,
-MWV U 102,op. 67/3,1845,Andante tranquillo,Lied,B-flat major,,Piano,,
-MWV U 182,op. 67/4,1845,"Presto ""Spinnerlied: The Bee's Wedding""",Lied,C major,,Piano,,
-MWV U 184,op. 67/5,1844,Moderato,Lied,B minor,,Piano,,
-MWV U 188,op. 67/6,1844,Allegro non troppo,Lied,E major,,Piano,,
-MWV D 6,op. 68,1846,"An die Kunstler: Der Menschheit Wurde, festgesang",Lied,B-flat major,Andante maestoso,"voix solo (TTBB) et chœur de voix d'hommes (TTBB) avec accompagnement de cuivres
-(4 trompettes, 4 cors, 4 trombones, ophicleïde et tuba)",Texte: Schiller,
-,op. 71,1842-1847,6 Lieder,Lied,,,voix avec accompagnement de piano,,
-MWV K 120,op. 71/1,1845,"Trostung: Werde heiter, mein Gemuthe",Lied,D major,Andante sostenuto,voix avec accompagnement de piano,Texte: Hoffmann von Fallersleben,
-MWV K 119,op. 71/2,1847,Fruhlingslied: Der Fruhling nacht mit Brausen,Lied,A major,Molto Allegro vivace,voix avec accompagnement de piano,Texte: Karl Klingemann,
-MWV K 126,op. 71/3,1847,An die Entfernte: Diese Rose pfluck' ich hier,Lied,B-flat major,Andante leggiere,voix avec accompagnement de piano,Texte: Nikolaus Lenau,
-MWV K 116,op. 71/4,1842,"Schilflied: Auf dem Teich, dem regungslosen",Lied,F-sharp minor,Andante con moto,voix avec accompagnement de piano,Texte: Nikolaus Lenau,
-MWV K 124,op. 71/5,1847,Auf der Wanderschaft: Ich wand're fort ins ferne Land,Lied,B minor,Allegro moderato,voix avec accompagnement de piano,Texte: Nikolaus Lenau,
-MWV K 125,op. 71/6,1847,Nachtlied: Vergangen ist der lichte Tag,Lied,E-flat major,Adagio,voix avec accompagnement de piano,Texte: Joseph von Eichendorff,
-,op. 75,1839-1844,"Wandersmann, 4 lieder",Lied,,,chœur de quatre voix d'hommes a cappella,,
-MWV G 34,op. 75/1,1844,Der frobe Wandersmann: Wem Gott will rechte Gunst erweisen,Lied,E major,Andante,chœur de quatre voix d'hommes a cappella,,
-MWV G 24,op. 75/2,1839,"Abendstandchen: Schlafe, Liebchen, weil's auf Erden",Lied,,Andante sostenuto,chœur de quatre voix d'hommes a cappella,,
-MWV G 15,op. 75/3,1844,Trinklied: So lang man nuchtern ist,Lied,E major,Allegro vivace,chœur de quatre voix d'hommes a cappella,,
-MWV G 33,op. 75/4,1844,Abschiedstafel: So ruckt denn in die Runde,Lied,D major,Assai maestoso alla marcia,chœur de quatre voix d'hommes a cappella,,
-,op. 76,1844-1846,4 Lieder,Lied,,,chœur de quatre voix d'hommes a cappella,,
-MWV G 16,op. 76/1,1844,Das Lied vom braven Mann: Gaben mir Rath und gute Lehren,Lied,G major,Im Studententon,chœur de quatre voix d'hommes a cappella,,
-MWV G 35,op. 76/2,1844,Rheinweinlied: Wo solch' ein Feuer noch gedeiht,Lied,D major,Allegro molto,chœur de quatre voix d'hommes a cappella,,
-MWV G 36,op. 76/3,1846,Lied fur die Deutschen in Lyon: Was uns eint als deutsche Bruder,Lied,C major,Allegro maestoso,chœur de quatre voix d'hommes a cappella,,
-MWV G 38,op. 76/4,1846,Comitat: Nun zu guter Letzt,Lied,F major,Allegro moderato,chœur de quatre voix d'hommes a cappella,,
-,op. 77,1836-1847,3 Lieder,Lied,,,deux voix avec accompagnement de piano,,
-MWV J 4,op. 77/1,1836,Sonntagsmorgen: Das ist der Tag des Herrn,Lied,E-flat major,Andante sostenuto,deux voix avec accompagnement de piano,Texte: Ludwig Uhland,
-MWV J 12,op. 77/2,1847,Das Achrenfeld: Ein leben war's im Aehrenfeld,Lied,A major,Andantino,deux voix avec accompagnement de piano,Texte: Hoffmann von Fallersleben,
-MWV J 6,op. 77/3,1839,"Lied aus ""Ruy Blas"": Wozu der Voglein Chore belauschen fern und nah?",Lied,A major,Allegro,deux voix avec accompagnement de piano,"Texte: Victor Hugo
-[existe aussi en version pour 6 à 8 voix de sopranos avec quatuor à cordes]",
-,op. 8,1824-1828,12 Gesange,Lied,,,voix avec accompagnement de piano,,
-MWV K 30,op. 8/1,1828,Minnelied im Mai: Holder klingt der Vogelsang,Lied,F major,Andante,voix avec accompagnement de piano,Texte: L. Holty,
-MWV K 35,op. 8/10,1828,Romanze: Einmal aus seinen Blicken,Lied,G minor,Andante,voix avec accompagnement de piano,Texte: de l'espagnol,
-MWV K 36,op. 8/11,1828,Im Grunen: Willkommen im Grunen,Lied,E major,Allegro vivace,voix avec accompagnement de piano,Texte: J.H. Voss,
-,op. 8/12,1828,Suleika und Hatem: An des lust'gen Brunnens Rand,Lied,E major,Allegretto,deux voix avec accompagnement de piano,"Texte: Johann Wolfgang von Goethe
-[Composition de Fanny Mendelssohn]",
-,op. 8/2,1828,Das Heimweh: Was ist's das mir den Athem hemmet,Lied,D minor,Vivace ed agitato,voix avec accompagnement de piano,"Texte: Friedericke Robert
-[Composition de Fanny Mendelssohn]",
-,op. 8/3,1828,Italien: Schoner und schoner schmuckt sich,Lied,G major,Allegro vivace,voix avec accompagnement de piano,"Texte: F. Grillparzer
-[Composition de Fanny Mendelssohn]",
-MWV K 37,op. 8/4,1828,"Erntelied: Es ist ein Schnitter, der heisst Tod",Lied,A minor,Andante con moto,voix avec accompagnement de piano,Texte: Traditionel,
-MWV K 31,op. 8/5,1828,Pilgerspruch: Lass dich nur nichts nicht dauern,Lied,F major,Andante,voix avec accompagnement de piano,Texte: Paul Flemming,
-MWV K 17,op. 8/6,1824,Fruhlingslied. In schwab. Mundart: Jetzt kommt der Fruhling,Lied,E major,Allegretto,voix avec accompagnement de piano,Texte: Friederike Robert,
-MWV K 32,op. 8/7,1828,Maienlied: Man soll horen susses Singen,Lied,G major,Allegretto,voix avec accompagnement de piano,Texte: Jakob von der Warte,
-MWV K 33,op. 8/8,1828,Hexenlied. Andres Maienlied: Die Schwalbe fliegt,Lied,G minor,Allegro vivace,voix avec accompagnement de piano,Texte: L. Holty,
-MWV K 34,op. 8/9,1828,Abendlied: Das Tagewerk ist abgethan,Lied,E-flat major,Andante,voix avec accompagnement de piano,Texte: J.H. Voss,
-,op. 84,1831-1839,3 Lieder,Lied,,,voix basse avec accompagnement de piano,,
-MWV K 69,op. 84/1,1831,Da lieg' ich unter den Baumen: Da lieg' ich unter den Baumen,Lied,E major,"Espressivo, non lento",voix basse avec accompagnement de piano,Texte: ?,
-MWV K 99,op. 84/2,1839,Herbstlied: Im Walde rauschen durre Blatter,Lied,A minor,Allegro moderato,voix basse avec accompagnement de piano,Texte: Karl Klingemann,
-MWV K 82,op. 84/3,1834,Jagdlied: Mit Lust that ich ausreiten,Lied,E major,Andante con moto,voix basse avec accompagnement de piano,Texte de: Des Knaben Wunderhorn,
-,op. 85,1834-1835,6 Chants sans paroles,Lied,,,Piano,Livre VII,
-MWV U 150,op. 85/1,1834,Andante espressivo,Lied,F major,,Piano,,
-MWV U 101,op. 85/2,1834,Allegro agitato,Lied,A minor,,Piano,,
-MWV U 111,op. 85/3,1835,Presto,Lied,E-flat major,,Piano,,
-MWV U 190,op. 85/4,1835,Andante sostenuto,Lied,D major,,Piano,,
-MWV U 191,op. 85/5,1835,Allegretto,Lied,A major,,Piano,,
-MWV U 155,op. 85/6,1841,"Allegretto con moto,",Lied,B-flat major,,Piano,,
-,op. 86,1826-1847,6 Gesange,Lied,,,voix avec accompagnement de piano,,
-MWV K 29,op. 86/1,,Es lauschte das Laub: Es lauschte das Laub so dunkelgrun,Lied,E major,Andante,voix avec accompagement de piano,Texte: Karl Klingemann,
-MWV K 123,op. 86/2,,Morgenlied: Erwacht in neuer Starke,Lied,D major,Allegro vivace,voix avec accompagement de piano,Texte: ?,
-MWV K 66,op. 86/3,1831,Die Liebende schreibt: Ein Blick von deinen Augen,Lied,E-flat major,Andante con moto,voix avec accompagement de piano,Texte: Johann Wolfgang von Goethe,
-MWV K 78,op. 86/4,,Allnachtlich im Traume seh' ich dich: Allnachtlich im Traume seh' ich dich,Lied,E minor,Texte: F. Spee,voix avec accompagement de piano,Texte: Heinrich Heine,
-MWV K 122,op. 86/5,,Der Mond: Mein Herz ist wie die dunkle Nacht,Lied,E major,Andante,voix avec accompagement de piano,Texte: Emanuel Geibel,
-MWV K 127,op. 86/6,1847,Altdeutsches Fruhlingslied: Des trube Winter ist vorbei,Lied,F major,Allegretto tranquillo,voix avec accompagement de piano,Texte: F. Spee,
-,op. 88,1839-1844,6 Lieder,Lied,,,quatre voix mixtes a cappella,,
-MWV F 28,op. 88/1,1844,Neujarslied: Mit der Freude zieht der Schmerz,Lied,E-flat major,Assai sostenuto,quatre voix mixtes a cappella,Texte: J.P. Hebel,
-MWV F 27,op. 88/2,1843,Der Gluckliche: Ich hab' ein Liebchen,Lied,G major,Allegro,quatre voix mixtes a cappella,Texte: Joseph von Eichendorff,
-MWV F 12,op. 88/3,1839,"Hirtenlied: O Winter, schlimmer Winter",Lied,G minor,Andante,quatre voix mixtes a cappella,Texte: Ludwig Uhland,
-MWV F 25,op. 88/4,1843,"Die Waldvoglein: Kommt, lasst uns geh'n spazieren",Lied,F major,Allegro assai,quatre voix mixtes a cappella,Texte: Schutz,
-MWV F 33,op. 88/5,1839-1843,Deutschland: Durch tiefe Nacht ein Brausen zieht,Lied,A minor,"Allegro maestoso, alla marcia",quatre voix mixtes a cappella,Texte: Emanuel Geibel,
-MWV F 19,op. 88/6,1840,Der wandernde Musikant: Durch Feld und Buchenhallen,Lied,E-flat major,Allegro,quatre voix mixtes a cappella,Texte: Joseph von Eichendorff,
-,op. 9,1829-1830,12 Lieder,Lied,,,voix avec accompagnement de piano,,
-MWV K 39,op. 9/1,1830,Frage: Ist es wahr?,Lied,A major,Con moto,voix avec accompagnement de piano,Texte: J.H. Voss,
-,op. 9/10,1830,Verlust: Und wussten's die Blumen,Lied,D minor,Allegro con fuoco,voix avec accompagnement de piano,"Texte: Heinrich Heine
-[Composition de Fanny Mendelssohn]",
-MWV K 54,op. 9/11,1830,"Entsagung: Herr, zu dir will ich mich retten",Lied,F major,Andante con moto,voix avec accompagnement de piano,Texte: J.G. Droysen,
-,op. 9/12,1830,Die Nonne: Im stillen Klostergarten,Lied,A minor,Andante con moto,voix avec accompagnement de piano,"Texte: Ludwig Uhland
-[Composition de Fanny Mendelssohn]",
-MWV K 41,op. 9/2,1830,Gestandnis: Kennst du nicht das Gluthverlangen,Lied,A major,Con fuoco ma moderato,voix avec accompagnement de piano,Texte: ?,
-MWV K 42,op. 9/3,1830,Wartend (Romanze): Sie trung einen Falken,Lied,D major,Allegro con moto,voix avec accompagnement de piano,Texte: ?,
-MWV K 52,op. 9/4,1829,Im Fruhling: Ihr fruhlingstrunknen Blumem,Lied,D major,Allegro vivace,voix avec accompagnement de piano,Texte: ?,
-MWV K 38,op. 9/5,1830,Im Herbst: Ach wie schnell die Tage fliehen,Lied,F-sharp minor,Andante,voix avec accompagnement de piano,Texte: Karl Klingemann,
-MWV K 50,op. 9/6,1830,Scheidend: Wie so gelinde die Fluth bewegt,Lied,E major,Sehr ruhig,voix avec accompagnement de piano,Texte: J.H. Voss,
-,op. 9/7,1830,Sehnsucht: Fern und ferner schallt der Reigen,Lied,D major,Andante,voix avec accompagnement de piano,"JTexte: J.G. Droysen
-[Composition de Fanny Mendelssohn]",
-MWV K 51,op. 9/8,1830,Fruhlingsglaube: Das linden Lufte sind erwacht,Lied,E major,Allegro e vivace,voix avec accompagnement de piano,"Texte: Ludwig Uhland
-[Composition de Fanny Mendelssohn]",
-MWV K 53,op. 9/9,1830,Ferne: In weite Ferne will ich traumen,Lied,E-flat major,"Lebhaft, aber sanft",voix avec accompagnement de piano,Texte: J.G. Droysen,
-,op. 99,1841-1845,6 Gesange,Lied,,,voix avec accompagnement de piano,,
-MWV K 110,op. 99/1,1841,"Erster Verlust: Ach, wer bringt die schonen Tage",Lied,F major,Andante sostenuto,voix avec accompagnement de piano,Texte: Johann Wolfgang von Goethe,
-MWV K 19,op. 99/2,,Die Sterne schau'n in stiller Nacht: Die Sterne schau'n in stiller Nacht,Lied,A minor,Andante,voix avec accompagnement de piano,Texte: A. von Schlippenbach,
-MWV K 61,op. 99/3,,"Lieblingsplatzchen: Wisst ihr, wo ich gerne weil'",Lied,G major,Andante,voix avec accompagnement de piano,Texte de: Des Knaben Wunderhorn,
-MWV K 109,op. 99/4,1841,Das Schifflein: Ein Schifflein ziehet leise,Lied,E-flat major,Andante con molto di moto,voix avec accompagnement de piano,Texte: Ludwig Uhland,
-MWV K 121,op. 99/5,1845,Wenn sich zwei Herzen scheiden: Wenn sich zwei Herzen scheiden,Lied,,Sostenuto,,Texte: Emanuel Geibel,
-MWV K 112,op. 99/6,,Es weiss und rath es doch Keiner: Es weiss und rath es doch Keiner,Lied,G minor,Andante,voix avec accompagnement de piano,Texte: Joseph von Eichendorff,
-,,,Chant sans parole,Lied,F-sharp minor,,Piano,,
-,,,Chant sans parole,Lied,A major,,Piano,,
-,,,Chant sans parole,Lied,D major,,Piano,,
-,,,Chant sans parole,Lied,D major,,Piano,,
-,,,Chant sans parole,Lied,D minor,,Piano,,
-MWV L 6,op. 89,1829,Heimkehr aus der Fremde,Liederspiel,,"0. Ouverture, en la majeur, pour orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 2 violons, alto, violoncelle, contrebasse)
-Andante / Allegro di molto
-
-1. Spinnlied: Es sass vor langer grauer
-romance, en mi mineur, pour alto
-Andante con moto
-
-2. Man geht und kommt und fragt
-duet, en sol majeur, pour soprano et alto
-Allegro vivace
-
-3. So Mancher zog in's
-lied, en sol mineur, pour soprano
-Andante con moto
-
-4. Ich bin ein vielgereister
-lied, en ré majeur, pour basse
-Allegro vivace
-
-5. Wenn die A bendglocken
-lied, en sol majeur, pour ténor
-Andante
-
-6. O wie verschweig' ich, verberg' ich
-trio, en la majeur, pour soprano, ténor et basse
-Vivace
-
-7. Ihr wollt uns hier
-trio, en fa majeur, pour alto et 2 basses
-Allegro vivace
-
-8. Es steigt das Geister
-lied, en sol mineur, pour ténor
-Con moto
-
-9. Hort ihr Herrn
-lied, en si bémol majeur, pour basse
-Tempo giusto
-
-10. Heraus! Half! Verrath und Mord
-duet, en mi majeur, pour ténor et basse
-Vivace
-
-11. Nachtmusik, en mi mineur, pour orchestre
-Adagio
-
-12. Die Blumen
-lied, en la majeur, pour soprano
-Molto Allegro vivace
-
-13. Wir kommen, wir nahen
-chœur, en ré majeur
-Allegretto
-
-14. O lasst ihn, Vater! Aller Streiten geht
-finale, en la majeur, pour chœur
-Moderato",,Texte: Karl Klingemann,
-MWV P 14,op. 103,1836,Trauermarsch,March,A minor,Marcia funebre - avec Trio (la majeur/la mineur),"Military orchestra: flûte, 2 hautbois, 4 clarinettes, 2 cors de basset, 2 bassons, contrebasson, 4 cors, 2 trompettes, 3 trombones",[en mémoire de Norbert Burgmuller],
-MWV P 16,op. 108,1841,,March,D major,Vivace,"2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse",[avec 2 trios],
-,op. 39,1830,3 Motets,Motet,,,chœur de voix de femmes avec orgue ou piano,,
-MWV B 24,op. 39/1,1830,"Veni, Domine",Motet,G minor,Grave / Andante / Grave,"chœur de 3 voix de femmes (2S,A) avec orgue ou piano",,
-MWV B 30,op. 39/2,1830,Laudate pueri,Motet,,"1. Laudate pueri
-chœur, en mi bémol majeur, pour 3 voix de femmes (2S,A) avec orgue ou piano
-Allegro moderato assai
-
-2. Beati omnes qui timent
-trio pour 3 voix de femmes (2S,A) avec chœur de 3 voix de femmes (2S,A), en la bémol majeur, avec orgue ou piano
-Adagio","chœur de 3 voix de femmes (2S,A) avec orgue ou piano",,
-MWV B 23,op. 39/3,1830,Surrexit pastor,Motet,,"1. Surrexit pastor
-choral, en sol majeur, pour voix de femmes (2S, 2A) avec orgue ou piano
-Andante quasi Allegretto
-
-2. Tulerunt Dominum meum
-duet, en mi mineur, pour voix de femmes (SS) avec orgue ou piano
-Con moto
-
-3. Surrexit Christus spes mea
-solo, en sol majeur, pour voix de femme (A) avec orgue ou piano
-
-4. Surrexit Christus spes mea
-chœur, en sol majeur, pour voix de femmes (2S, 2A) avec orgue ou piano
-Allegro molto",chœur de voix de femmes avec orgue ou piano,[2è dimanche après Pâques],
-,op. 69,1847,3 Motets,Motet,,,voix solo ou chœur a cappella,,
-MWV B 60,op. 69/1,1847,"Herr, nun lasset Herr (Nunc dimittis)",Motet,E-flat major,Andante / Andante sostenuto,voix solo (SATB) ou chœur (SATB) a cappella,,
-MWV B 58,op. 69/2,1847,"Jauchzet, dem Herrn (Jubilate)",Motet,A major,Allegro moderato / Moderato (la mineur) / Andante con moto (la majeur) / Maestoso (fa majeur),voix solo (SATB) ou chœur (SATB) a cappella,,
-MWV B 59,op. 69/3,1847,Mein Herz erhebet Gott (Magnificat),Motet,B-flat major,"1. Mein Herz erhebet Gott
+Allegro di molto, en mi majeur, pour Orchestra",,Texte: Shakespeare,https://open.spotify.com/album/4ueh2RoK2gEjQa8ukgha77
+62.00 ,,,,op. 62,1842-1844,6 Chants sans paroles,Lied,,,Piano,Book V,
+62.10 ,U 185,U,185 ,op. 62/1,1844,Andante espressivo,Lied,G major,,Piano,,
+62.20 ,U 181,U,181 ,op. 62/2,1843,Allegro con fuoco,Lied,B-flat major,,Piano,,
+62.30 ,U 177,U,177 ,op. 62/3,1843,"Andante maestoso ""Trauermarsch""",Lied,E minor,,Piano,,
+62.40 ,U 175,U,175 ,op. 62/4,1842,Allegro con anima,Lied,G major,,Piano,,
+62.50 ,U 151,U,151 ,op. 62/5,1842,"Andante con moto ""Venezianisches Gondellied""",Lied,A minor,,Piano,,
+62.60 ,U 161,U,161 ,op. 62/6,1842,"Allegretto grazioso ""Fruhlingslied""",Lied,A major,,Piano,,
+63.00 ,,,,op. 63,1836-1845,6 Lieder,Lied,,,"V, Piano",,
+63.10 ,J 5,J,5 ,op. 63/1,1836,Ich wollt' meine Lieb' ergosse sich: Ich wollt' meine Lieb' ergosse sich,Lied,E major,Allegro con moto,"2 Voices, Piano",Texte: Heinrich Heine,
+63.20 ,J 9,J,9 ,op. 63/2,1845,Abschied der Zugvogel: Wie war so schon doch Wald und Feld!,Lied,G minor,Andante,"2 Voices, Piano",Texte: Hoffmann von Fallersleben,
+63.30 ,J 8,J,8 ,op. 63/3,1845,Gruss: Wohin ich geh' und schaue,Lied,E-flat major,Teneramento non lento,"2 Voices, Piano",Texte: Joseph von Eichendorff,
+63.40 ,J 11,J,11 ,op. 63/4,1845,"Herbstlied: Ach, wie so bald verhallet der Reigen",Lied,F-sharp minor,Allegro agitato,"2 Voices, Piano",Texte: Karl Klingemann,
+63.50 ,J 10,J,10 ,op. 63/5,1842,Volkslied: O sah' ich auf der Haide dort im Sturme dich,Lied,B-flat major,Andante,"2 Voices, Piano",Texte: Robert Burns,
+63.60 ,J 7,J,7 ,op. 63/6,1844,Maiglockchen und die Blumelein: Maiglockchen lautet in dem Thal,Lied,G major,Allegro vivace,"2 Voices, Piano",Texte: Hoffman von Fallersleben,
+64.00 ,O 14,O,14 ,op. 64,1844,,Concerto,E minor,"1. Allegro molto appassionato (mi mineur)
+2. Andante (do majeur)
+3. Allegretto non troppo (mi mineur) / Allegro molto vivace (mi majeur)","Violin, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello",,
+65.00 ,,,,op. 65,1844-1845,6 Sonatas,Sonata,,,Organ,,
+65.10 ,W 56,W,56 ,op. 65/1,1844,Sonata # 1,Sonata,f/F,"1. Allegro moderato e serioso (fa mineur)
+2. Adagio (fa mineur)
+3. Andante (fa mineur)
+4. Allegro assai vivace (fa majeur)",Organ,,
+65.20 ,W 57,W,57 ,op. 65/2,1844,Sonata # 2,Sonata,c/C,"1. Grave (do mineur)
+2. Adagio (do mineur)
+3. Allegro maestoso e vivace (do majeur)
+4. Fugue. Allegro moderato, en do majeur)",Organ,,
+65.30 ,W 58,W,58 ,op. 65/3,1844,Sonata # 3,Sonata,A major,"1. Con moto maestoso (la majeur)
+2. Andante tranquillo (la majeur)",Organ,,
+65.40 ,W 59,W,59 ,op. 65/4,1845,Sonata # 4,Sonata,B-flat major,"1. Allegro con brio (si bémol majeur)
+2. Andante religioso (si bémol majeur)
+3. Allegretto (fa majeur)
+4. Allegro maestoso e vivace (si bémol majeur)",Organ,,
+65.50 ,W 60,W,60 ,op. 65/5,1845,Sonata # 5,Sonata,D major,"1. Andante (ré majeur)
+2. Andante con moto (si mineur)
+3. Allegro maestoso (ré majeur)",Organ,,
+65.60 ,W 61,W,61 ,op. 65/6,1845,Sonata # 6,Sonata,d/D,"1. Choral, en ré mineur
+2. Andante sostenuto, en ré mineur
+3. Allegro molto, en ré mineur
+4. Fugue. Sostenuto e legato, en ré mineur",Organ,,
+66.00 ,Q 33,Q,33 ,op. 66,1845,,Trio,C minor,"1. Allegro energico e fuoco (do mineur)
+2. Andante espressivo (mi bémol majeur)
+3. Scherzo. Molto Allegro quasi Presto (sol mineur)
+4. Finale. Allegro appassionato (do mineur / do majeur)","Piano, Violin, Cello",Piano Trio No. 2,
+67.00 ,,,,op. 67,1843-1845,Chants sans paroles,Lied,,,Piano,Book VI,
+67.10 ,U 180,U,180 ,op. 67/1,1843,Andante,Lied,E-flat major,,Piano,,
+67.20 ,U 145,U,145 ,op. 67/2,1845,Allegro leggiero,Lied,F-sharp minor,,Piano,,
+67.30 ,U 102,U,102 ,op. 67/3,1845,Andante tranquillo,Lied,B-flat major,,Piano,,
+67.40 ,U 182,U,182 ,op. 67/4,1845,"Presto ""Spinnerlied: The Bee's Wedding""",Lied,C major,,Piano,,
+67.50 ,U 184,U,184 ,op. 67/5,1844,Moderato,Lied,B minor,,Piano,,
+67.60 ,U 188,U,188 ,op. 67/6,1844,Allegro non troppo,Lied,E major,,Piano,,
+68.00 ,D 6,D,6 ,op. 68,1846,"An die Kunstler: Der Menschheit Wurde, festgesang",Lied,B-flat major,Andante maestoso,"T, T, B, B, TTBB Male Choir, 4 Trumpets, 4 Horns, 4 Trombones, Ophicleide, Tuba",Texte: Schiller,
+69.00 ,,,,op. 69,1847,3 Motets,Motet,,,V/Choir a cappella,,
+69.10 ,B 60,B,60 ,op. 69/1,1847,"Herr, nun lasset Herr (Nunc dimittis)",Motet,E-flat major,Andante / Andante sostenuto,"4 Solistes/Choir, a cappella",,
+69.20 ,B 58,B,58 ,op. 69/2,1847,"Jauchzet, dem Herrn (Jubilate)",Motet,A major,Allegro moderato / Moderato (la mineur) / Andante con moto (la majeur) / Maestoso (fa majeur),"4 Solistes/Choir, a cappella",,
+69.30 ,B 59,B,59 ,op. 69/3,1847,Mein Herz erhebet Gott (Magnificat),Motet,B-flat major,"1. Mein Herz erhebet Gott
 chœur, en si bémol majeur
 Allegro moderato
 
@@ -608,475 +649,406 @@ Allegro
 
 7. Ehre sei dem Vater
 chœur, en si bémol majeur
-Grave",voix solo (SATB) ou chœur (SATB) a cappella,,
-MWV R 20,op. 20,1825,,Octet,E-flat major,"1. Allegro moderato ma con fuoco (mi bémol majeur)
-2. Andante (do mineur)
-3. Scherzo. Allegro leggierissimo (sol mineur)
-4. Presto (mi bémol majeur)","cordes
-(4 violons, 2 altos et 2 violoncelles)",,
-MWV L 5,op. 10,1825,Die Hochzeit des Camacho,Opera,,,solistes et chœur avec accompagnement de piano,Texte:Karl Klingemann d'après Cervantes: Don Quixote,
-MWV L 7,op. 98,1847,Loreley,Opera,,"1. Woher, woher am dunkseln
-chœur, en mi mineur, pour soprano solo et chœur (SATB)
-(piccolo, 2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, grosse caisse, piatti, 2 violons, alto, violoncelle, contrebasse)
-Allegro moderato / Molto Allegro vivace (la mineur / la majeur) / Andante (fa dièse mineur) / Allegro molto (la majeur / Allegro vivace (mi majeur)
-[Finale du 1er acte]
+Grave","4 Solistes/Choir, a cappella",,
+70.00 ,A 25,A,25 ,op. 70,1846,Elijah (Elias),Oratorio,,,"Solistes, Choir, Orchestra",,
+71.00 ,,,,op. 71,1842-1847,6 Lieder,Lied,,,"V, Piano",,
+71.10 ,K 120,K,120 ,op. 71/1,1845,"Trostung: Werde heiter, mein Gemuthe",Lied,D major,Andante sostenuto,"V, Piano",Texte: Hoffmann von Fallersleben,
+71.20 ,K 119,K,119 ,op. 71/2,1847,Fruhlingslied: Der Fruhling nacht mit Brausen,Lied,A major,Molto Allegro vivace,"V, Piano",Texte: Karl Klingemann,
+71.30 ,K 126,K,126 ,op. 71/3,1847,An die Entfernte: Diese Rose pfluck' ich hier,Lied,B-flat major,Andante leggiere,"V, Piano",Texte: Nikolaus Lenau,
+71.40 ,K 116,K,116 ,op. 71/4,1842,"Schilflied: Auf dem Teich, dem regungslosen",Lied,F-sharp minor,Andante con moto,"V, Piano",Texte: Nikolaus Lenau,
+71.50 ,K 124,K,124 ,op. 71/5,1847,Auf der Wanderschaft: Ich wand're fort ins ferne Land,Lied,B minor,Allegro moderato,"V, Piano",Texte: Nikolaus Lenau,
+71.60 ,K 125,K,125 ,op. 71/6,1847,Nachtlied: Vergangen ist der lichte Tag,Lied,E-flat major,Adagio,"V, Piano",Texte: Joseph von Eichendorff,
+72.00 ,,,,op. 72,1842,"6 Kinderstucke ""Christmas Pieces""",Piece,,,Piano,,
+72.10 ,U 171,U,171 ,op. 72/1,1842,Allegro non troppo,Piece,G major,,Piano,,
+72.20 ,U 170,U,170 ,op. 72/2,1842,Andante sostenuto,Piece,E-flat major,,Piano,,
+72.30 ,U 164,U,164 ,op. 72/3,1842,Allegretto,Piece,G major,,Piano,,
+72.40 ,U 169,U,169 ,op. 72/4,1842,Andante con moto,Piece,D major,,Piano,,
+72.50 ,U 166,U,166 ,op. 72/5,1842,Allegro assai,Piece,G minor,,Piano,,
+72.60 ,U 168,U,168 ,op. 72/6,1842,Vivace,Piece,F major,,Piano,,
+73.00 ,A 24,A,24 ,op. 73,1846,Lauda Sion,Cantata,,"1. Lauda Sion salvatorem
+chœur, en do majeur
+Andante maestoso / Allegro maestoso e vivace
 
-2. Ave Maria: Horch der Abend glocke Ton!
-en si bémol majeur, pour soprano solo et chœur de voix de femmes (SS)
-(2 flûtes, hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 altos, violoncelles, contrebasse)
-Andante sostenuto
-
-3. Wir han geschnitzt das lange
-Winzer-Chor, en sol majeur, pour chœur de voix d'hommes (TTBB)
-(2 hautbois, 2 bassons, 2 cors, 2 violons, alto, violoncelle, contrebasse)
-Allegro commodo",,"Texte: Emanuel Geibel
-[non terminé]",
-MWV A 14,op. 36,1836,Paulus (St. Paul),Oratorio,,,"Solistes, Choir, Orchestra",Texte: J. Schbring d'après les Actes des Apôtres,
-MWV A 25,op. 70,1846,Elijah (Elias),Oratorio,,,"Solistes, Choir, Orchestra",,
-MWV A 26,op. 97,,Christus,Oratorio,,"1. Da Jesus geboren ward zu Bethlehem
-récitatif, en sol majeur, pour soprano avec orchestre
-(2 violons, alto, violoncelle et contrebasse)
-
-2. Wo ist der neugeborne Konig der Juden?
-trio pour ténor et 2 basses avec orchestre
-(alto, 2 violoncelles, contrebasse)
-Andante (sol majeur)
-
-3. Es wird ein Stern aus Jacob
-chœur pour chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse)
-Allegro moderato (mi bémol majeur)
-
-4. Und der ganze Haufe stand auf
-récitatif pour ténor solo et chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse)
-Récitatif / Allegro moderato (fa mineur) / Récitatif / Allegro molto (ré mineur) / Récitatif / Allegro / Récitatif / Allegro (do mineur) / Récitatif / Allegro moderato (si bémol majeur)
-
-5. Da uberantwortete er ihn
-récitatif pour ténor avec orchestre
-(2 violons, alto, violoncelle, contrebasse)
-Récitatif
-
-6. Ihr Tochter Zions
-chœur pour chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, timbales, 2 violons, alto, violoncelle, contrebasse)
-Andante con moto (sol mineur)
-
-7. Er nimmt auf seinen Rucken die Lasten
-choral pour chœur (TTBB) avec orchestre
-(2 bassons. Alto, violoncelle, contrebasse)
-Choral (la mineur)",,[non terminé - récitatifs et chœurs seulement],
-MWV P 2,op. 101,1826,"Ouverture ""Trompette""",Overture,C major,Allegro vivace,"2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse",,
-MWV P 3,op. 21,1826,Ein Sommernachstraum,Overture,E major,Allegro di molto,"2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, ophicleïde, timbales, 2 violons, alto, violoncelle, contrebasse","Ouverture # 1
-in ""A Midsummer Night's Dream"" (op. 61) de Shakespeare",
-MWV P 1,op. 24,1824,,Overture,C major,"1. Andante con moto (do majeur)
-2. Allegro vivace (do majeur)","instruments à vent
-(piccolo, flûte, 4 clarinettes, 2 hautbois, 2 cors de basset, 2 bassons, contrebasson, 4 cors, 2 trompettes, 3 trombones, tambourin, triangle, grosse caisse, cinelli)",,
-MWV P 7,op. 26,1830-1832,"Die Hebriden ""Fingals Hohle"" (Les Hébrides)",Overture,B minor,Allegro moderato,"2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle, contrebasse","Ouverture # 2
-[1ère version: 1830; 2è version: 1832 - basée sur ""Die einsame Insel"" (1829)]",
-MWV P 5,op. 27,1828,Meeresstille und gluckliche Fahrt,Overture,D major,Adagio / Molto Allegro e vivace / Allegro maestoso,"piccolo, 2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, contrebasson et serpentin, 2 cors, 3 trompettes, timbales, 2 violons, alto, violoncelle, contrebasse","Ouverture # 3
-d'après deux poèmes de Johann Wolfgang von Goethe",
-MWV P 12,op. 32,1833,Das Marchen von der schonen Melusine,Overture,F major,Allegro con moto,"2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 3 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle, contrebasse","Ouverture # 4
-after Grillparzer",
-MWV P 15,op. 95,1839,"Ouverture ""Ruy Blas""",Overture,C/c,Lento / Allegro molto,"2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse",,
-,op. 23,1830,3 Pièces sacrées,Piece,,,soliste et chœurs avec orchestre/orgue,,
-MWV B 20,op. 23/1,1830,"Aus tiefer Not schrei' ich zu dir, pièce sacrée",Piece,,"1. Aus tiefer Not
-Chœur à 4 voix (SATB) a cappella (fa mineur)
-
-2. Aus tiefer Not
-Fugue à 4 voix (SATB) a cappella (fa mineur)
-
-3. Bei dir gilt nichts denn Gnad'
-Aria, en fa mineur, pour ténor avec orgue
-Adagio
-
-4. Und ob es wahrt bis in die Nacht
-Choral à 4 voix (SATB) a cappella (fa mineur)
-Andante
-
-5. Ob bei uns ist der Sunden
-Choral à 4 voix (SATB) a cappella (fa mineur)",ténor et chœur avec orgue,,
-MWV B 19,op. 23/2,1830,"Ave Maria, pièce sacrée",Piece,A major,Andante,"chœur à 8 voix (SSAATTBB) avec orchestre
-(2 clarinettes, 2 bassons, violoncelle et contrebasse), orgue et continuo",,
-MWV B 21,op. 23/3,1830,"Mitten wir im Leben sind, pièce sacrée",Piece,C minor,Choral / Vivace / Choral,chœur à 8 voix (SSAATTBB),,
-,op. 7,1827,7 Pièces caractéristiques,Piece,,,Piano,,
-MWV U 56,op. 7/1,1827,Sanft und mit Empfindung,Piece,E minor,Andante,Piano,,
-MWV U 44,op. 7/2,1827,Mit heftiger Bewegung,Piece,B minor,Allegro vivace,Piano,,
-MWV U 59,op. 7/3,1827,Kraftig und feurig,Piece,D major,Allegro vivace,Piano,,
-MWV U 55,op. 7/4,1827,Schnell und beweglich,Piece,A major,Con moto,Piano,,
-MWV U 60,op. 7/5,1827,Ernst und mit steigender Lebhaftigkeit,Piece,A major,Fuga,Piano,,
-MWV U 61,op. 7/6,1827,Sensuchtig,Piece,E minor,Andante,Piano,,
-MWV U 62,op. 7/7,1827,Leicht und luftig,Piece,E major,Presto,Piano,,
-,op. 72,1842,"6 Kinderstucke ""Christmas Pieces""",Piece,,,Piano,,
-MWV U 171,op. 72/1,1842,Allegro non troppo,Piece,G major,,Piano,,
-MWV U 170,op. 72/2,1842,Andante sostenuto,Piece,E-flat major,,Piano,,
-MWV U 164,op. 72/3,1842,Allegretto,Piece,G major,,Piano,,
-MWV U 169,op. 72/4,1842,Andante con moto,Piece,D major,,Piano,,also WoO 13
-MWV U 166,op. 72/5,1842,Allegro assai,Piece,G minor,,Piano,,
-MWV U 168,op. 72/6,1842,Vivace,Piece,F major,,Piano,,
-,op. 81,1827-1847,4 Pièces,Piece,,,"quatuor à cordes
-(2 violons, alto, violoncelle)",,
-MWV R 34,op. 81/1,1847,Andante,Piece,E major,Tema con variazioni. Andante sostenuto,"quatuor à cordes
-(2 violons, alto, violoncelle)",,
-MWV R 35,op. 81/2,1847,Scherzo,Piece,A minor,Allegro leggiero,"quatuor à cordes
-(2 violons, alto, violoncelle)",,
-MWV R 32,op. 81/3,1843,Capriccio,Piece,E minor,"Andante con moto / Allegro fugato, assai vivace","quatuor à cordes
-(2 violons, alto, violoncelle)",,
-,,,2 Petites pièces,Piece,,,Organ,,
-,,,2 Pièces,Piece,,,Organ,,
-,,,4 Petites pièces,Piece,,,Organ,,
-,,,6 Petites pièces,Piece,,,Organ,,
-,,,2 Petites pièces,Piece,,,Piano,,
-,,,2 Petites pièces,Piece,,,Piano,,
-,,,2 Pièces,Piece,,,Piano,,
-,,,5 Petites pièces,Piece,,,Piano,,
-,,,Pièce,Piece,E minor,,Piano,,
-,op. 104a,1836,3 Préludes,Prelude,,,Piano,,
-MWV U 132,op. 104a/1,1836,,Prelude,B-flat major,Allegro molto e vivace,Piano,,
-MWV U 123,op. 104a/2,1836,,Prelude,B minor,Allegro agitato,Piano,,
-MWV U 127,op. 104a/3,1836,,Prelude,D major,Allegro vivace,Piano,,
-,,,,Prelude,C minor,,Organ,,
-,,,,Prelude,F minor,,Piano,,
-MWV A 9,op. 31,1830,"Psaume 115: Nicht unserm Namen, Herr (Non nobis, Domine)",Psalm,,"1. Nicht unserm Namen, Herr (Non nobis Domine)
-chœur (SATB), en sol mineur, avec orchestre
-(2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle et contrebasse)
-Allegro con fuoco
-
-2. Israel hofft auch dich (Domus Israel)
-duet pour soprano et ténor avec chœur (SATB), en si bémol majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle et contrebasse)
+2. Laudis thema specialis
+chœur, en do mineur
 Andante con moto
 
-3. Er segne euch je mehr und mehr (Adjuciat Domine)
-arioso pour baryton, en mi bémol majeur, avec orchestre
-(2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle et contrebasse)
-Adagio non lento
+3. Sit laus plena sit sonora
+solo pour soprano, chœur, en la bémol majeur
+Sostenuto
 
-4. Die Todten werden dich nicht Loben (Non mortui laudabunt te Domine)
-double chœur (SATB, SATB), en mi bémol majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle et contrebasse)
-Grave / Con moto (sol mineur)","soliste, chœur et orchestre",,
-MWV A 15,op. 42,1837,Psaume 42: As pants the bart,Psalm,,"1. Wie der Hirsch schreit
-chœur (SATB), en fa majeur, avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 violons, alto, violoncelle, contrebasse)
-Lento e sostenuto
+4. In hac mensa novi regis
+quatuor (SATB solo), en sol majeur
+(Flute, 2 Clarinets, 2 Bassoons, 2 Violins, Viola, Cello, Double Bass)
+Andante
 
-2. Meine Seele durstet
-aria, en ré mineur, pour soprano avec orchestre
-(hautbois, 2 violons, alto, basse)
-Adagio
+5. Docti sacris institutis
+chœur, en la mineur
+Grave / Andante con moto
 
-3a. Meine Thranen sind meine
-récitatif, pour soprano, avec orchestre
-(2 violons, alto, violoncelle)
+6. Caro cibus, sanguis potus
+solo pour soprano, en fa majeur
+(Oboes solo, 2 Clarinets, 2 Violins, Viola, Cello, Double Bass)
+Andante
 
-3b. Denn ich wollte gern
-aria, en la mineur, pour soprano et chœur (SA) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 violons, alto, violoncelle, contrebasse)
-Allegro assai
+7. Sumit unus, summunt mille
+solo, chœur, en fa majeur
+Grave / Andante maestoso (do majeur) / Allegro","Solistes, SATB Choir, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+74.00 ,M 16,M,16 ,op. 74,1845,Athalie,Incidental Music,,"0. Ouverture, en fa majeur, pour Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, harpe, 2 Violins, Viola, Cello, Double Bass)
+Maestoso con moto / Molto Allegro / Maestoso con moto (ré majeur)
 
-4. Was betrubst du dich
-chœur (SATB), en fa majeur, avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, 2 violons, alto, violoncelle et contrebasse)
-Allegro maestoso assai
+1. Herr, durch die ganze (Tout l'univers)
+chœur, en do majeur
+Allegro maestoso vivace
 
-5. Mein Gott, betrubt ist meine Seele
-récitatif, en fa majeur, pour soprano avec orchestre
-(2 violons, alto, violoncelle)
+2. O seht wrich ein Stern uns (Quel astre à nos yeux)
+récitatif, en sol mineur
+Andante quasi Recit
 
-6. Der Herr hat des Tages verheissen
-quintet (S,TT,BB), en si bémol majeur, avec orchestre
-(2 flûtes, 2 violons, alto, violoncelle, contrebasse)
-Allegro moderato
-
-7. Was betrubst du dich meine Seele
-chœur (SATB), en fa majeur, avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et contrebasse)
-Maestoso assai / Molto Allegro vivace","Solistes, Choir, Orchestra",,
-MWV A 16,op. 46,1838,"Psaume 95: Kommt, lasst uns an (Come, let us sing)",Psalm,,"1. Kommt, lasst uns an
-chœur, pour ténor solo et chœur (SATB), en mi bémol majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle, contrebasse)
-Moderato
-
-2a. Kommet, herzu, kommet herzu
-chœur (SATB), en do majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et contrebasse)
-Andante / Allegro assai vivace
-
-2b. Denn der Herr
-canon, en do mineur, pour chœur (SATB) avec orchestre
-(2 hautbois, 2 clarinettes, timbales, 2 violons, alto, violoncelle et contrebasse)
-
-3. Denn in seiner Hand ist
-duo, en la bémol majeur, pour 2 sopranos avec orchestre
-(2 flûtes, 2 clarinettes, 2 bassons, 2 violons, alto, violoncelle et contrebasse)
+3. Lasst uns dem heil'gen (Que du Seigneur)
+double chœur, en mi bémol majeur
 Con moto
 
-4. Denn sein ist das Meer
-chœur, pour basse et chœur (SATB), en mi bémol majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et contrebasse)
-Allegro moderato
+4. Ist es Gluck, ist es Leid (Ô promesse! Ô menace!)
+chœur, en do mineur
+Andante con moto
 
-5. Heute so ihr seine Stimme horet
-Chœur, pour ténor et chœur (SATB), en sol mineur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contrebasse)
-Andante","Solistes, Choir, Orchestra",,
-MWV A 17,op. 51,1839,Psaume 114: Da Israel aus Aegypten zog (When Israel out of Egypt came),Psalm,G major,"1. Da Israel aus Aegypten zog
-chœur (SATB, SATB), en sol majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 violons, alto, violoncelle et contrebasse)
-Allegro moderato
+4a. Kriegsmarsch der Priester, en do majeur, pour Orchestra
+Allegro vivace
 
-2. Das Meer sah und floh
-chœur (SATB,SATB), en sol mineur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 violons, alto, violoncelle et contrebasse)
-Allegro moderato
+5. So geht, so geht ihr (Partez, partez)
+chœur, en fa majeur
+Allegro maestoto
 
-3. Was war dit, du Meer
-chœur (SATB, SATB), en mi bémol majeur, a cappella
-Grave
+6. Ja durch die ganze (Tout l'univers)
+chœur, en do majeur
+Allegro maestoso",,"Texte: Felix Mendelssohn, after Jean Racine; based on a German adaptation by Ernst Raupach",
+75.00 ,,,,op. 75,1839-1844,"Wandersmann, 4 lieder",Lied,,,4-Male Choir a cappella,,
+75.10 ,G 34,G,34 ,op. 75/1,1844,Der frobe Wandersmann: Wem Gott will rechte Gunst erweisen,Lied,E major,Andante,4-Male Choir a cappella,,
+75.20 ,G 24,G,24 ,op. 75/2,1839,"Abendstandchen: Schlafe, Liebchen, weil's auf Erden",Lied,,Andante sostenuto,4-Male Choir a cappella,,
+75.30 ,G 15,G,15 ,op. 75/3,1844,Trinklied: So lang man nuchtern ist,Lied,E major,Allegro vivace,4-Male Choir a cappella,,
+75.40 ,G 33,G,33 ,op. 75/4,1844,Abschiedstafel: So ruckt denn in die Runde,Lied,D major,Assai maestoso alla marcia,4-Male Choir a cappella,,
+76.00 ,,,,op. 76,1844-1846,4 Lieder,Lied,,,4-Male Choir a cappella,,
+76.10 ,G 16,G,16 ,op. 76/1,1844,Das Lied vom braven Mann: Gaben mir Rath und gute Lehren,Lied,G major,Im Studententon,4-Male Choir a cappella,,
+76.20 ,G 35,G,35 ,op. 76/2,1844,Rheinweinlied: Wo solch' ein Feuer noch gedeiht,Lied,D major,Allegro molto,4-Male Choir a cappella,,
+76.30 ,G 36,G,36 ,op. 76/3,1846,Lied fur die Deutschen in Lyon: Was uns eint als deutsche Bruder,Lied,C major,Allegro maestoso,4-Male Choir a cappella,,
+76.40 ,G 38,G,38 ,op. 76/4,1846,Comitat: Nun zu guter Letzt,Lied,F major,Allegro moderato,4-Male Choir a cappella,,
+77.00 ,,,,op. 77,1836-1847,3 Lieder,Lied,,,"2 Voices, Piano",,
+77.10 ,J 4,J,4 ,op. 77/1,1836,Sonntagsmorgen: Das ist der Tag des Herrn,Lied,E-flat major,Andante sostenuto,"2 Voices, Piano",Texte: Ludwig Uhland,
+77.20 ,J 12,J,12 ,op. 77/2,1847,Das Achrenfeld: Ein leben war's im Aehrenfeld,Lied,A major,Andantino,"2 Voices, Piano",Texte: Hoffmann von Fallersleben,
+77.30 ,J 6,J,6 ,op. 77/3,1839,"Lied aus ""Ruy Blas"": Wozu der Voglein Chore belauschen fern und nah?",Lied,A major,Allegro,"2 Voices, Piano","Texte: Victor Hugo
+[existe aussi en version pour 6 à 8 voix de sopranos, quatuor à Strings]",
+78.00 ,,,,op. 78,1843-1844,3 Psaumes,Psalm,,,V/Choir a cappella,,
+78.10 ,B 41,B,41 ,op. 78/1,1843,Psaume 2: Warem toben die Heiden (Why rage fiercely the heathen?),Psalm,g/c,Con moto / Allegro moderato (ré majeur),"8 Solistes/2 Choirs, a cappella",,
+78.20 ,B 46,B,46 ,op. 78/2,1844,"Psaume 43: Richte mich Gott, und fuhre meine (Juge me, O God)",Psalm,D minor,Con moto / Allegro moderato (ré majeur),"8 Solistes/2 Choirs, a cappella",,
+78.30 ,B 51,B,51 ,op. 78/3,1844,"Psaume 22: Meine Gott, meint Gott! (My God, my God!)",Psalm,E minor,Andante / Andante con moto (mi mineur / mi majeur) / Assai animato,"8 Solistes/2 Choirs, a cappella",,
+79.00 ,,,,op. 79,1843-1846,6 Antiennes,Antienne,,,SSAATTBB Choir a cappella,,
+79.10 ,B 42,B,42 ,op. 79/1,1843,"Frohlocket, ihr Solker auf Erden (Rejoice, O ye people)",Antienne,G major,Allegro moderato,SSAATTBB Choir a cappella,[Pour la nuit de Noël],
+79.20 ,B 44,B,44 ,op. 79/2,1843,"Herr Gottt, du bist unsre Zuflucht (Thou, Lord, our refuge hast been)",Antienne,D minor,Andante,SSAATTBB Choir a cappella,[Pour la Nouvel An],
+79.30 ,B 55,B,55 ,op. 79/3,1846,"Erhaben, o Herr, uber alles Lob (Above all praises)",Antienne,B-flat major,Allegro maestoso e moderato,SSAATTBB Choir a cappella,[Pour la fête de l'Ascension],
+79.40 ,B 50,B,50 ,op. 79/4,1844,"Herr, gedenke nicht unsrer Ubelthaten (Lord, on our offences)",Antienne,D minor,Andante,SSAATTBB Choir a cappella,[Pour le temps de la Passion],
+79.50 ,B 54,B,54 ,op. 79/5,1846,Lasset uns frohlocken (Let our hearts be joyful),Antienne,G major,Andante,SSAATTBB Choir a cappella,[Pour le temps de l'Avent],
+79.60 ,B 52,B,52 ,op. 79/6,1844,Um unsrer Sunden willen (For our offences),Antienne,E minor,Sostenuto e grave,SSAATTBB Choir a cappella,[Pour le temps du Carême],
+80.00 ,R 37,R,37 ,op. 80,1847,,Quartet,F minor,"1. Allegro vivace assai (fa mineur)
+2. Allegro assai (fa mineur)
+3. Adagio (fa mineur)
+4. Finale. Allegro molto (fa mineur)","2 Violins, Viola, Cello",String Quartet No. 6,
+81.00 ,,,,op. 81,1827-1847,4 Pièces,Piece,,,"2 Violins, Viola, Cello",,
+81.10 ,R 34,R,34 ,op. 81/1,1847,Andante,Piece,E major,Tema con variazioni. Andante sostenuto,"2 Violins, Viola, Cello",,
+81.20 ,R 35,R,35 ,op. 81/2,1847,Scherzo,Piece,A minor,Allegro leggiero,"2 Violins, Viola, Cello",,
+81.30 ,R 32,R,32 ,op. 81/3,1843,Capriccio,Piece,E minor,"Andante con moto / Allegro fugato, assai vivace","2 Violins, Viola, Cello",,
+81.40 ,R 23,R,23 ,op. 81/4,1827,,Fugue,E-flat major,A tempo ordinario,"2 Violins, Viola, Cello",,
+82.00 ,U 158,U,158 ,op. 82,1841,Variations,,E-flat major,"0. Tema: Andante assai espressivo
+1. Variation I
+2. Variation II
+3. Variation III: Piu vivace
+4. Variation IV: Piu moderato",Piano,,
+83.00 ,U 159,U,159 ,op. 83,1841,Variations,,B-flat major,"0. Tema: Andante tranquillo
+1. Variation I: Cantabile
+2. Variation II
+3. Variation III: Allegro
+4. Variation IV
+5. Variation V: ... / Allegro assai vivace",Piano,,also WoO 13
+83.10 ,,,,op. 83a,1841,Variations (Andante tranquillo con Variazioni),,B-flat major,"1. Cantabile
+2. Animato
+3. ...
+4. ...
+5. ...
+6. ...
+7. ...
+8. Allegro molto agitato / Andante / Allegro assai vivace",Piano Four Hands,[based on op. 83],
+84.00 ,,,,op. 84,1831-1839,3 Lieder,Lied,,,"B, Piano",,
+84.10 ,K 69,K,69 ,op. 84/1,1831,Da lieg' ich unter den Baumen: Da lieg' ich unter den Baumen,Lied,E major,"Espressivo, non lento","B, Piano",Texte: ?,
+84.20 ,K 99,K,99 ,op. 84/2,1839,Herbstlied: Im Walde rauschen durre Blatter,Lied,A minor,Allegro moderato,"B, Piano",Texte: Karl Klingemann,
+84.30 ,K 82,K,82 ,op. 84/3,1834,Jagdlied: Mit Lust that ich ausreiten,Lied,E major,Andante con moto,"B, Piano",Texte de: Des Knaben Wunderhorn,
+85.00 ,,,,op. 85,1834-1835,6 Chants sans paroles,Lied,,,Piano,Book VII,
+85.10 ,U 150,U,150 ,op. 85/1,1834,Andante espressivo,Lied,F major,,Piano,,
+85.20 ,U 101,U,101 ,op. 85/2,1834,Allegro agitato,Lied,A minor,,Piano,,
+85.30 ,U 111,U,111 ,op. 85/3,1835,Presto,Lied,E-flat major,,Piano,,
+85.40 ,U 190,U,190 ,op. 85/4,1835,Andante sostenuto,Lied,D major,,Piano,,
+85.50 ,U 191,U,191 ,op. 85/5,1835,Allegretto,Lied,A major,,Piano,,
+85.60 ,U 155,U,155 ,op. 85/6,1841,"Allegretto con moto,",Lied,B-flat major,,Piano,,
+86.00 ,,,,op. 86,1826-1847,6 Gesange,Lied,,,"V, Piano",,
+86.10 ,K 29,K,29 ,op. 86/1,,Es lauschte das Laub: Es lauschte das Laub so dunkelgrun,Lied,E major,Andante,"V, Piano",Texte: Karl Klingemann,
+86.20 ,K 123,K,123 ,op. 86/2,,Morgenlied: Erwacht in neuer Starke,Lied,D major,Allegro vivace,"V, Piano",Texte: ?,
+86.30 ,K 66,K,66 ,op. 86/3,1831,Die Liebende schreibt: Ein Blick von deinen Augen,Lied,E-flat major,Andante con moto,"V, Piano",Texte: Johann Wolfgang von Goethe,
+86.40 ,K 78,K,78 ,op. 86/4,,Allnachtlich im Traume seh' ich dich: Allnachtlich im Traume seh' ich dich,Lied,E minor,Texte: F. Spee,"V, Piano",Texte: Heinrich Heine,
+86.50 ,K 122,K,122 ,op. 86/5,,Der Mond: Mein Herz ist wie die dunkle Nacht,Lied,E major,Andante,"V, Piano",Texte: Emanuel Geibel,
+86.60 ,K 127,K,127 ,op. 86/6,1847,Altdeutsches Fruhlingslied: Des trube Winter ist vorbei,Lied,F major,Allegretto tranquillo,"V, Piano",Texte: F. Spee,
+87.00 ,R 33,R,33 ,op. 87,1845,,Quintet,B-flat major,"1. Allegro vivace (si bémol majeur)
+2. Andante scherzando (sol mineur)
+3. Adagio e lento (ré mineur)
+4. Allegro molto vivace (si bémol majeur)","2 Violins, 2 Violas, Cello",String Quintet No. 2,
+88.00 ,,,,op. 88,1839-1844,6 Lieder,Lied,,,4 Voices a cappella,,
+88.10 ,F 28,F,28 ,op. 88/1,1844,Neujarslied: Mit der Freude zieht der Schmerz,Lied,E-flat major,Assai sostenuto,4 Voices a cappella,Texte: J.P. Hebel,
+88.20 ,F 27,F,27 ,op. 88/2,1843,Der Gluckliche: Ich hab' ein Liebchen,Lied,G major,Allegro,4 Voices a cappella,Texte: Joseph von Eichendorff,
+88.30 ,F 12,F,12 ,op. 88/3,1839,"Hirtenlied: O Winter, schlimmer Winter",Lied,G minor,Andante,4 Voices a cappella,Texte: Ludwig Uhland,
+88.40 ,F 25,F,25 ,op. 88/4,1843,"Die Waldvoglein: Kommt, lasst uns geh'n spazieren",Lied,F major,Allegro assai,4 Voices a cappella,Texte: Schutz,
+88.50 ,F 33,F,33 ,op. 88/5,1839-1843,Deutschland: Durch tiefe Nacht ein Brausen zieht,Lied,A minor,"Allegro maestoso, alla marcia",4 Voices a cappella,Texte: Emanuel Geibel,
+88.60 ,F 19,F,19 ,op. 88/6,1840,Der wandernde Musikant: Durch Feld und Buchenhallen,Lied,E-flat major,Allegro,4 Voices a cappella,Texte: Joseph von Eichendorff,
+89.00 ,L 6,L,6 ,op. 89,1829,Heimkehr aus der Fremde,Liederspiel,,"0. Ouverture, en la majeur, pour Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 2 Violins, Viola, Cello, Double Bass)
+Andante / Allegro di molto
 
-4. Vor dem Herrn bebte die Erde
-chœur (SATB, SATB), en do majeur/sol majeur, avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et contrebasse)
-Allegro maestoso e vivace",double chœur à 8 voix avec orchestre,,
-,op. 78,1843-1844,3 Psaumes,Psalm,,,voix solo ou chœur a cappella,,
-MWV B 41,op. 78/1,1843,Psaume 2: Warem toben die Heiden (Why rage fiercely the heathen?),Psalm,g/c,Con moto / Allegro moderato (ré majeur),"voix solo (SATB, SATB) ou double chœur (SATB, SATB) a cappella",,
-MWV B 46,op. 78/2,1844,"Psaume 43: Richte mich Gott, und fuhre meine (Juge me, O God)",Psalm,D minor,Con moto / Allegro moderato (ré majeur),voix solo (SSAATTBB) ou chœur (SSAATTBB) a cappella,,
-MWV B 51,op. 78/3,1844,"Psaume 22: Meine Gott, meint Gott! (My God, my God!)",Psalm,E minor,Andante / Andante con moto (mi mineur / mi majeur) / Assai animato,voix solo (SSAATTBB) ou chœur (SSAATTBB) a cappella,,
-MWV A 23,op. 91,1843,Psaume 98: Singet dem Herrn ein neues Lied (Sing to the Lord a new made song),Psalm,,"1. Singet dem Herrn ein neues Lied
+1. Spinnlied: Es sass vor langer grauer
+romance, en mi mineur, pour Viola
+Andante con moto
+
+2. Man geht und kommt und fragt
+duet, en sol majeur, pour soprano, Viola
+Allegro vivace
+
+3. So Mancher zog in's
+lied, en sol mineur, pour soprano
+Andante con moto
+
+4. Ich bin ein vielgereister
+lied, en ré majeur, pour basse
+Allegro vivace
+
+5. Wenn die A bendglocken
+lied, en sol majeur, pour ténor
+Andante
+
+6. O wie verschweig' ich, verberg' ich
+trio, en la majeur, pour soprano, ténor, basse
+Vivace
+
+7. Ihr wollt uns hier
+trio, en fa majeur, pour Viola, 2 basses
+Allegro vivace
+
+8. Es steigt das Geister
+lied, en sol mineur, pour ténor
+Con moto
+
+9. Hort ihr Herrn
+lied, en si bémol majeur, pour basse
+Tempo giusto
+
+10. Heraus! Half! Verrath und Mord
+duet, en mi majeur, pour ténor, basse
+Vivace
+
+11. Nachtmusik, en mi mineur, pour Orchestra
+Adagio
+
+12. Die Blumen
+lied, en la majeur, pour soprano
+Molto Allegro vivace
+
+13. Wir kommen, wir nahen
+chœur, en ré majeur
+Allegretto
+
+14. O lasst ihn, Vater! Aller Streiten geht
+finale, en la majeur, pour chœur
+Moderato",,Texte: Karl Klingemann,
+90.00 ,N 16,N,16 ,op. 90,1833,"Symphonie # 4 ""Italienne""",Symphony,A major,"1. Allegro vivace (la majeur)
+2. Andante con moto (ré mineur)
+3. Con modo moderato (la majeur)
+4. Saltarello. Presto (la mineur)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+91.00 ,A 23,A,23 ,op. 91,1843,Psaume 98: Singet dem Herrn ein neues Lied (Sing to the Lord a new made song),Psalm,,"1. Singet dem Herrn ein neues Lied
 chœur, en ré majeur, pour chœur à 8 voix (SATB, SATB) a cappella
 Allegro / Andante lento
 
 2. Jauchzet dem Herrn
-chœur, en sol majeur, pour chœur à 8 voix (SATB, SATB) avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, harpe, 2 violons, alto, violoncelle, contrebasse)
+chœur, en sol majeur, pour chœur à 8 voix (SATB, SATB), Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, harpe, 2 Violins, Viola, Cello, Double Bass)
 Andante con moto
 
 3. Es wird den Erdkreis richten
-chœur, en ré majeur, pour chœur à 8 voix (SATB, SATB) avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 3 trombones, timbales, harpe, 2 violons, alto, violoncelle, contrebasse)
-Allegro",chœur à 8 voix avec orchestre et orgue,,
-MWV Q 11,op. 1,1822,,Quartet,C minor,"1. Allegro vivace (do mineur)
-2. Adagio (la bémol majeur)
-3. Scherzo. Presto (do mineur)
-4. Allegro moderato (do mineur)","piano et cordes (violon, alto, violoncelle)",Quatuor # 1,
-MWV R 25,op. 12,1829,,Quartet,E-flat major,"1. Adagio non troppo / Allegro non tardante (mi bémol majeur)
-2. Canzonetta. Allegretto (sol mineur)
-3. Andante espressivo (si bémol majeur)
-4. Molto Allegro vivace (mi bémol majeur)","cordes
-(2 violons, alto, violoncelle)",Quatuor # 1,
-MWV R 22,op. 13,1827,,Quartet,A major,"1. Adagio (la majeur) / Allegro vivace (la mineur)
-2. Adagio non lento (fa majeur)
-3. Intermezzo. Allegretto con moto (la mineur) / Allegro di molto (la majeur)
-4. Presto (la mineur)","cordes
-(2 violons, alto, violoncelle)",Quatuor # 2,
-MWV Q 13,op. 2,1823,,Quartet,F minor,"1. Allegro molto (fa mineur)
-2. Adagio (ré bémol majeur)
-3. Intermezzo. Allegro moderato (fa mineur)
-4. Allegro molto vivace (fa mineur)","piano et cordes (violon, alto, violoncelle)",Quatuor # 2,
-MWV Q 17,op. 3,1824-1825,,Quartet,B minor,"1. Allegro molto (si mineur)
-2. Andante (mi majeur)
-3. Allegro molto (fa dièse mineur)
-4. Allegro vivace (si mineur)","piano et cordes (violon, alto, violoncelle)",Quatuor # 3,
-,op. 44,1837-1838,3 Quatuors,Quartet,,,"cordes
-(2 violons, alto, violoncelle)",,
-MWV R 30,op. 44/1,1838,,Quartet,D major,"1. Molto Allegro vivace (ré majeur)
-2. Menuetto. Un poco Allegretto (ré majeur)
-3. Andante espressivo ma con moto(si mineur)
-4. Finale. Presto con brio (ré majeur)","cordes
-(2 violons, alto, violoncelle)",Quatuor # 3,
-MWV R 26,op. 44/2,1837,,Quartet,E minor,"1. Allegro assai appasionato (mi mineur)
-2. Scherzo. Allegro di molto (mi majeur)
-3. Andante (sol majeur)
-4. Presto agitato (mi mineur)","cordes
-(2 violons, alto, violoncelle)",Quatuor # 4,
-MWV R 28,op. 44/3,1838,,Quartet,E-flat major,"1. Allegro vivace (mi bémol majeur)
-2. Scherzo. Assai leggiero vivace (do mineur)
-3. Adagio non troppo (la bémol majeur)
-4. Molto Allegro con fuoco (mi bémol majeur)","cordes
-(2 violons, alto, violoncelle)",Quatuor # 5,
-MWV R 37,op. 80,1847,,Quartet,F minor,"1. Allegro vivace assai (fa mineur)
-2. Allegro assai (fa mineur)
-3. Adagio (fa mineur)
-4. Finale. Allegro molto (fa mineur)","2 violons, alto et violoncelle",Quatuor # 6,
-,,,,Quartet,E-flat major,,Strings,,
-,,,,Quartet,D minor,,piano et cordes,,
-MWV R 21,op. 18,1826-1832,,Quintet,A major,"1. Allegro con moto (la majeur)
-2. Intermezzo. Andante sostenuto (fa majeur)
-3. Scherzo. Allegro di molto (ré mineur)
-4. Allegro vivace (la majeur)","cordes
-(2 violons, 2 altos et violoncelle)",Quintet # 1 - 2 versions: 1826 et 1832,
-MWV R 33,op. 87,1845,,Quintet,B-flat major,"1. Allegro vivace (si bémol majeur)
-2. Andante scherzando (sol mineur)
-3. Adagio e lento (ré mineur)
-4. Allegro molto vivace (si bémol majeur)","2 violons, 2 altos et violoncelle",Quintet # 2,
-MWV Q 16,op. 110,1824,,Sextet,D major,"1. Allegro vivace (ré majeur)
-2. Adagio (fa dièse majeur)
-3. Menuetto avec trio. Agitato (ré mineur)
-4. Allegro vivace (ré majeur)","piano, violon, 2 altos, violoncelle et contrebasse",,
-MWV U 30,op. 105,1821,,Sonata,G minor,"1. Allegro (sol mineur)
-2. Adagio. Cantabile e lento (do mineur)
-3. Presto (sol mineur)",Piano,,
-MWV U 64,op. 106,1827,,Sonata,B-flat major,"1. Allegro vivace (si bémol majeur)
+chœur, en ré majeur, pour chœur à 8 voix (SATB, SATB), Orchestra, orgue
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, harpe, 2 Violins, Viola, Cello, Double Bass)
+Allegro","8-Voice Choir, Orchestra, Organ",,
+92.00 ,T 4,T,4 ,op. 92,1841,Allegro brillant,,A major,Allegro assai vivace,Piano Four Hands,,
+93.00 ,M 14,M,14 ,op. 93,1845,Ödipus in Kolonos,Incidental Music,,"1. Introduction, en ré mineur, pour Orchestra
+Andante
+
+2. Oschan! Er entfloh
+en la mineur, pour ténor
+
+3. Grausam ist es o Freund
+en ré mineur, pour ténor, basse
+Allegro moderato
+
+4. Allegro tranquillo, en fa majeur, pour Orchestra
+
+5. Allegro, en si bémol majeut, pour Orchestra
+
+6. Ach, war' ich wo bald die
+chœur, en ré mineur, pour chœur
+Allegro vivace
+
+7. Andante, en sol mineur, pour Orchestra
+Andante
+
+8. Auf uns bricht!
+en do mineur, pour basse
+Lento
+
+9. Ist es verstattet
+en la bémol majeur, pour ténors, basses
+Adagio
+
+10. Sostenuto assai, en ré mineur, pour Orchestra",,Texte: Sophocles,
+94.00 ,H 5,H,5 ,op. 94,1834-1843,Infelice: Ungluckselge! … Rehret wieder,Aria,B-flat major,Allegro vivace / Récitatif / Aria: Andante / Allegro assai vivace (sol mineur / si bémol majeur),"S, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, Trumpet, 2 Violins, Viola, Cello, Double Bass","Texte: Victor Hugo
+[2 versions: 1834, 1843]",
+95.00 ,P 15,P,15 ,op. 95,1839,"Ouverture ""Ruy Blas""",Overture,C/c,Lento / Allegro molto,"2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+96.00 ,A 19,A,19 ,op. 96,1840-1843,"Lass', o Herr",Hymn,,"1. Lass', o Herr
+en mi bémol majeur, pour Viola, chœur (SATB)
+Andante
+
+2. Deines Kind's Gebet erhore
+choral, en si bémol majeur, pour chœur (SATB)
+Non lento
+
+3. Herr, wir trau'n auf deine Gute
+solo, en mi bémol majeur, pour Viola, chœur (SATB)
+Con moto e vivace / Fuga. Allegro vivace","A, SATB Choir, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass",[3 chœurs ajoutés en 1843],
+97.00 ,A 26,A,26 ,op. 97,,Christus,Oratorio,,"1. Da Jesus geboren ward zu Bethlehem
+récitatif, en sol majeur, pour soprano, Orchestra
+(2 Violins, Viola, Cello, Double Bass)
+
+2. Wo ist der neugeborne Konig der Juden?
+trio pour ténor, 2 basses, Orchestra
+(Viola, 2 Cellos, Double Bass)
+Andante (sol majeur)
+
+3. Es wird ein Stern aus Jacob
+chœur pour chœur (SATB), Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato (mi bémol majeur)
+
+4. Und der ganze Haufe stand auf
+récitatif pour ténor solo, chœur (SATB), Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Récitatif / Allegro moderato (fa mineur) / Récitatif / Allegro molto (ré mineur) / Récitatif / Allegro / Récitatif / Allegro (do mineur) / Récitatif / Allegro moderato (si bémol majeur)
+
+5. Da uberantwortete er ihn
+récitatif pour ténor, Orchestra
+(2 Violins, Viola, Cello, Double Bass)
+Récitatif
+
+6. Ihr Tochter Zions
+chœur pour chœur (SATB), Orchestra
+(2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, Timpani, 2 Violins, Viola, Cello, Double Bass)
+Andante con moto (sol mineur)
+
+7. Er nimmt auf seinen Rucken die Lasten
+choral pour chœur (TTBB), Orchestra
+(2 Bassoons. Alto, Cello, Double Bass)
+Choral (la mineur)",,"[non terminé - récitatifs, chœurs seulement]",
+98.00 ,L 7,L,7 ,op. 98,1847,Loreley,Opera,,"1. Woher, woher am dunkseln
+chœur, en mi mineur, pour soprano solo, chœur (SATB)
+(piccolo, 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Trumpets, 3 trombones, Timpani, grosse caisse, piatti, 2 Violins, Viola, Cello, Double Bass)
+Allegro moderato / Molto Allegro vivace (la mineur / la majeur) / Andante (fa dièse mineur) / Allegro molto (la majeur / Allegro vivace (mi majeur)
+[Finale du 1er acte]
+
+2. Ave Maria: Horch der Abend glocke Ton!
+en si bémol majeur, pour soprano solo, chœur de voix de femmes (SS)
+(2 Flutes, Oboes, 2 Clarinets, 2 Bassoons, 4 Horns, 2 Violas, Cellos, Double Bass)
+Andante sostenuto
+
+3. Wir han geschnitzt das lange
+Winzer-Chor, en sol majeur, pour chœur de voix d'hommes (TTBB)
+(2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Double Bass)
+Allegro commodo",,"Texte: Emanuel Geibel
+[non terminé]",
+99.00 ,,,,op. 99,1841-1845,6 Gesange,Lied,,,"V, Piano",,
+99.10 ,K 110,K,110 ,op. 99/1,1841,"Erster Verlust: Ach, wer bringt die schonen Tage",Lied,F major,Andante sostenuto,"V, Piano",Texte: Johann Wolfgang von Goethe,
+99.20 ,K 19,K,19 ,op. 99/2,,Die Sterne schau'n in stiller Nacht: Die Sterne schau'n in stiller Nacht,Lied,A minor,Andante,"V, Piano",Texte: A. von Schlippenbach,
+99.30 ,K 61,K,61 ,op. 99/3,,"Lieblingsplatzchen: Wisst ihr, wo ich gerne weil'",Lied,G major,Andante,"V, Piano",Texte de: Des Knaben Wunderhorn,
+99.40 ,K 109,K,109 ,op. 99/4,1841,Das Schifflein: Ein Schifflein ziehet leise,Lied,E-flat major,Andante con molto di moto,"V, Piano",Texte: Ludwig Uhland,
+99.50 ,K 121,K,121 ,op. 99/5,1845,Wenn sich zwei Herzen scheiden: Wenn sich zwei Herzen scheiden,Lied,,Sostenuto,,Texte: Emanuel Geibel,
+99.60 ,K 112,K,112 ,op. 99/6,,Es weiss und rath es doch Keiner: Es weiss und rath es doch Keiner,Lied,G minor,Andante,"V, Piano",Texte: Joseph von Eichendorff,
+100.00 ,,,,op. 100,1839-1844,4 Lieder,Lied,,,4 Voices a cappella,,
+100.10 ,F 29,F,29 ,op. 100/1,1844,Andenken: Die Baume grunen uberall,Lied,D major,Andante con moto espressivo,4 Voices a cappella,Texte: ?,
+100.20 ,F 26,F,26 ,op. 100/2,1843,"Lob des Fruhlings: Saatengrun, Veilchenduft",Lied,A major,Con moto,4 Voices a cappella,Texte: Ludwig Uhland,
+100.30 ,F 30,F,30 ,op. 100/3,1843-1844,Fruhlingslied: Berg und Thal will ich durchstreifen,Lied,D major,Andante,4 Voices a cappella,Texte: ?,
+100.40 ,F 11,F,11 ,op. 100/4,1839,"Im Wald: O Wald, du kuhlender Bronnen",Lied,D major,Allegro moderato,4 Voices a cappella,Texte: ?,
+101.00 ,P 2,P,2 ,op. 101,1826,"Ouverture ""Trumpet""",Overture,C major,Allegro vivace,"2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+102.00 ,,,,op. 102,1842-1845,6 Chants sans paroles,Lied,,,Piano,,
+102.10 ,U 162,U,162 ,op. 102/1,1842,Andante un poco agitato,Lied,E minor,,Piano,,
+102.20 ,U 192,U,192 ,op. 102/2,1845,Adagio,Lied,D major,,Piano,,
+102.30 ,U 195,U,195 ,op. 102/3,1845,Presto,Lied,C major,,Piano,,
+102.40 ,U 152,U,152 ,op. 102/4,1845,"Un poco agitato, ma Andante",Lied,G minor,,Piano,,
+102.50 ,U 194,U,194 ,op. 102/5,1845,"Allegro vivace ""Kinderstuck""",Lied,A major,,Piano,,
+102.60 ,U 172,U,172 ,op. 102/6,1845,"Allegro vivace ""Kinderstuck""",Lied,A major,,Piano,,
+103.00 ,P 14,P,14 ,op. 103,1836,Trauermarsch,March,A minor,"Marcia funebre -, Trio (la majeur/la mineur)","Military Orchestra: Flute, 2 Oboes, 4 Clarinets, 2 Basset Horns, 2 Bassoons, Contrebassoon, 4 Horns, 2 Trumpets, 3 Trombones",[en mémoire de Norbert Burgmuller],
+104.00 ,,,,op. 104,1834-1838,"3 Préludes, 3 Études",,,,Piano,,
+104.10 ,,,,op. 104a,1836,3 Préludes,Prelude,,,Piano,,
+104.11 ,U 132,U,132 ,op. 104a/1,1836,,Prelude,B-flat major,Allegro molto e vivace,Piano,,
+104.12 ,U 123,U,123 ,op. 104a/2,1836,,Prelude,B minor,Allegro agitato,Piano,,
+104.20 ,,,,op. 104b,1834-1838,3 Études,Etude,,,Piano,,
+104.21 ,U 117,U,117 ,op. 104b/1,1836,,Etude,B-flat minor,Presto,Piano,,
+104.22 ,U 100,U,100 ,op. 104b/2,1834,,Etude,F major,Allegro con moto,Piano,,
+104.23 ,U 142,U,142 ,op. 104b/3,1838,,Etude,A minor,Allegro vivace,Piano,,
+104.30 ,U 127,U,127 ,op. 104a/3,1836,,Prelude,D major,Allegro vivace,Piano,,
+105.00 ,U 30,U,30 ,op. 105,1821,,Sonata,G minor,"1. Allegro (sol mineur)
+2. Adagio cantabile e lento (do mineur)
+3. Presto (sol mineur)",Piano,Piano Sonata No. 2,
+106.00 ,U 64,U,64 ,op. 106,1827,,Sonata,B-flat major,"1. Allegro vivace (si bémol majeur)
 2. Scherzo. Allegro non troppo (ré bémol majeur)
 3. Andante quasi Allegretto (mi majeur)
-4. Allegro molto (si bémol majeur) / Allegro moderato",Piano,,
-MWV Q 12,op. 4,1825,,Sonata,F minor,"1. Adagio (fa mineur) / Allegro moderato (fa mineur)
-2. Poco Adagio (la bémol majeur)
-3. Allegro agitato (fa mineur)","Violin, Piano",,
-MWV Q 27,op. 45,1838,,Sonata,B-flat major,"1. Allegro vivace (si bémol majeur)
-2. Andante (sol mineur)
-3. Allegro assai (si bémol majeur)",violoncelle et piano,Sonate # 1,
-MWV Q 32,op. 58,1843,,Sonata,D major,"1. Allegro assai vivace (ré majeur)
-2. Allegretto scherzando (si mineur)
-3. Adagio (sol majeur)
-4. Molto Allegro e vivace (ré majeur)",violoncelle et piano,Sonate # 2,
-MWV U 54,op. 6,1826,,Sonata,E major,"1. Allegretto con espressione (mi majeur)
-2. Tempo di Menuetto (fa dièse mineur)
-3. Recitativo. Adagio e senza tempo (la mineur)
-4. Molto Allegro vivace (mi majeur)",Piano,,
-,op. 65,1844-1845,6 Sonatas,Sonata,,,Organ,,
-MWV W 56,op. 65/1,1844,Sonata # 1,Sonata,f/F,"1. Allegro moderato e serioso (fa mineur)
-2. Adagio (fa mineur)
-3. Andante (fa mineur)
-4. Allegro assai vivace (fa majeur)",Organ,,
-MWV W 57,op. 65/2,1844,Sonata # 2,Sonata,c/C,"1. Grave (do mineur)
-2. Adagio (do mineur)
-3. Allegro maestoso e vivace (do majeur)
-4. Fugue. Allegro moderato, en do majeur)",Organ,,
-MWV W 58,op. 65/3,1844,Sonata # 3,Sonata,A major,"1. Con moto maestoso (la majeur)
-2. Andante tranquillo (la majeur)",Organ,,
-MWV W 59,op. 65/4,1845,Sonata # 4,Sonata,B-flat major,"1. Allegro con brio (si bémol majeur)
-2. Andante religioso (si bémol majeur)
-3. Allegretto (fa majeur)
-4. Allegro maestoso e vivace (si bémol majeur)",Organ,,
-MWV W 60,op. 65/5,1845,Sonata # 5,Sonata,D major,"1. Andante (ré majeur)
-2. Andante con moto (si mineur)
-3. Allegro maestoso (ré majeur)",Organ,,
-MWV W 61,op. 65/6,1845,Sonata # 6,Sonata,d/D,"1. Choral, en ré mineur
-2. Andante sostenuto, en ré mineur
-3. Allegro molto, en ré mineur
-4. Fugue. Sostenuto e legato, en ré mineur",Organ,,
-,,,,Sonata,C minor,,alto et piano,,
-,,,,Sonata,E-flat major,,clarinette et piano,,
-,,,,Sonata,F minor,,Piano,,
-,,,,Sonata,A minor,,Piano,,
-,,,,Sonata,E minor,,Piano,,
-,,,,Sonata,F major,,"Violin, Piano",,
-,,,,Sonata,F major,,"Violin, Piano",,
-MWV N 15,op. 107,1830,"Symphonie # 5 ""Réformation""",Symphony,D/d,"1. Andante (ré majeur) / Allegro con fuoco (ré mineur)
+4. Allegro molto (si bémol majeur) / Allegro moderato",Piano,Piano Sonata No. 3,
+107.00 ,N 15,N,15 ,op. 107,1830,"Symphonie # 5 ""Réformation""",Symphony,D/d,"1. Andante (ré majeur) / Allegro con fuoco (ré mineur)
 2. Allegro vivace (si bémol majeur)
 3. Andante (si bémol majeur)
 4. Ein' veste Burg ist unser Gott
 Choral, en sol majeur
-Andante con moto / Allegro vivace / Allegro maestoso (ré majeur)","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, contrebasson et serpentin, 2 cors, 2 trompettes, 3 trombones, 2 violons, alto, violoncelle, contrebasse",,
-MWV N 13,op. 11,1824,Symphonie # 1,Symphony,C minor,"1. Allegro di molto (do mineur)
-2. Andante (mi bémol majeur)
-3. Menuetto. Allegro molto (do mineur)
-4. Allegro con fuoco (do mineur)","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle, contrebasse",,
-MWV A 18,op. 52,1840,"Symphonie # 2 ""Lobgesang""",Symphony,B-flat major,"1a. Sinfonia
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle, contrebasse)
-Maestoso con moto (sol mineur) / Allegro (si bémol majeur), pour orchestre
-
-1b. (2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 3 trombones, 2 violons, alto, violoncelle, contrebasse)
-Allegretto un poco agitato, en sol mineur / mi mineur / sol mineur, pour orchestre
-1c. (2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 violons, alto, violoncelle, contrebasse)
-Adagio religioso, en ré majeur, pour orchestre
-
-2. Alles, alles
-chœur, en si bémol majeur, pour chœur (SATB) avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 violons, alto, violoncelle, contrebasse)
-Allegro moderato maestoso / Allegro di molto
-
-3a. Saget es, die ihr erlost seid durch den Herrn
-récitatif, en sol mineur, pour ténor avec orchestre
-(2 cors, 2 violons, alto, violoncelle et contrebasse)
-
-3b. Erzahlet unsre Thranen in der
-aria, en sol mineur, pour ténor avec orchestre
-(2 cors, 2 violons, alto, violoncelle et contrebasse)
-Allegro moderato
-
-4. Sagt es, die ihr erloset seid
-chœur, en sol mineur, pour ténor solo et chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 bassons, 4 cors, 2 violons, alto, violoncelle, contrebasse)
-A tempo e moderato
-
-5. Ich harrete des Herrn
-duet, en mi bémol majeur, pour 2 sopranos et chœur (SATB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 violons, alto, violoncelle et contrebasse)
-Andante
-
-6. Stricke des Todes hatten uns
-solo, en do mineur, pour ténor avec orchestre
-(2 hautbois, 2 clarinettes, 2 bassons, 3 trombones, 2 violons, alto, violoncelle et contrebasse)
-Allegro un poco agitato (do mineur / do majeur) / Allegro assai agitato
-
-7. Die Nach ist
-chœur, en si mineur / ré majeur, pour chœur (SATB) avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et contrebasse)
-Allegro maestoso e molto vivace
-
-8a. Nun danket alle Gott
-choral, en sol majeur, pour chœur (SSATTB) a cappella
-Andante con moto
-
-8b. Lob, Ehr' und Preis
-chœur, en sol majeur, pour chœur (SSATTB) avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, timbales, 2 violons, alto, violoncelle, contrebasse)
-Un poco piu animato
-
-9. Drum sing' ich mit meinem Liede ewig dein Lob
-duo, en sol mineur, pour soprano et ténor avec orchestre
-(2 flûtes, 2 hautbois, 2 violons, alto, violoncelle, contrebasse)
-Andante sostenuto assai
-
-10. Ihr Volker! bringet her dem Herrn
-chœur, en sol mineur, pour chœur (SATB) avec orchestre et orgue
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et ocntrebasse)
-Allegro non troppo",chœur et orchestre,,
-MWV N 18,op. 56,1841-1842,"Symphonie # 3 ""Écossaise""",Symphony,A minor,"1. Andante con moto (la mineur) / Allegro un poco agitato / Assai animato
-2. Vivace non troppo (fa majeur)
-3. Adagio (la majeur)
-4. Allegro vivacissimo (la mineur) / Allegro maesto assai (la majeur)","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle, contrebasse",,
-MWV N 16,op. 90,1833,"Symphonie # 4 ""Italienne""",Symphony,A major,"1. Allegro vivace (la majeur)
-2. Andante con moto (ré mineur)
-3. Con modo moderato (la majeur)
-4. Saltarello. Presto (la mineur)","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle, contrebasse",,
-MWV N 1,,,,Symphony,C major,,Strings,,
-MWV N 10,,,,Symphony,B minor,,Strings,,
-MWV N 11,,,,Symphony,F major,,Strings,,
-MWV N 12,,,,Symphony,G minor,,Strings,,
-MWV N 13,,,,Symphony,C minor,,Strings,,
-MWV N 2,,,,Symphony,D major,,Strings,,
-MWV N 3,,,,Symphony,E minor,,Strings,,
-MWV N 4,,,,Symphony,C minor,,Strings,,
-MWV N 5,,,,Symphony,B-flat major,,Strings,,
-MWV N 6,,,,Symphony,E-flat major,,Strings,,
-MWV N 7,,,,Symphony,D minor,,Strings,,
-MWV N 8,,,,Symphony,D major,,Strings,,
-MWV N 9,,,,Symphony,C major,,Strings,,
-MWV Q 29,op. 49,1839,,Trio,D minor,"1. Molto Allegro agitato (ré mineur)
-2. Andante con moto tranquillo (si bémol majeur)
-3. Scherzo. Leggiero e vivace (ré majeur)
-4. Finale. Allegro assai appassionato (ré mineur)","piano, violon et violoncelle",Trio # 1,
-MWV Q 33,op. 66,1845,,Trio,C minor,"1. Allegro energico e fuoco (do mineur)
-2. Andante espressivo (mi bémol majeur)
-3. Scherzo. Molto Allegro quasi Presto (sol mineur)
-4. Finale. Allegro appassionato (do mineur / do majeur)","piano, violon et violoncelle",Trio # 2,
-,,,,Trio,C minor,,"piano, violon et alto",,
-,op. 104,1834-1838,3 Préludes et 3 Études,,,,Piano,,
-MWV Q 23,op. 113,1833,Concertstuck # 1,,F minor,"1. Allegro con fuoco (fa mineur)
+Andante con moto / Allegro vivace / Allegro maestoso (ré majeur)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, contreBassoon, serpentin, 2 Horns, 2 Trumpets, 3 trombones, 2 Violins, Viola, Cello, Double Bass",,
+108.00 ,P 16,P,16 ,op. 108,1841,,March,D major,Vivace,"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, 3 trombones, Timpani, 2 Violins, Viola, Cello, Double Bass",[avec 2 trios],
+109.00 ,Q 34,Q,34 ,op. 109,1845,Chant sans parole,Lied,D major,Andante,"Cello, Piano",,
+110.00 ,Q 16,Q,16 ,op. 110,1824,,Sextet,D major,"1. Allegro vivace (ré majeur)
+2. Adagio (fa dièse majeur)
+3. Menuetto, trio. Agitato (ré mineur)
+4. Allegro vivace (ré majeur)","Piano, Violin, 2 Violas, Cello, Double Bass",,
+111.00 ,A 4,A,4 ,op. 111,1827,Tu es Petrus,Antienne,A major,,"SSATB Choir, 2 Flutes, 2 Oboes, 2 Horns, 2 Trumpets, 3 Trombones, Timpani, 2 Violins, Viola, Cello, Double Bass",,
+112.00 ,,,,op. 112,1835,2 Chants sacrés,Lied,,,"V, Piano",,
+112.10 ,,,,op. 112/1,1835,"Doch der Herr, er leitet die Irrenden recht",Arioso,G major,Allegretto,"T, Piano",,
+112.20 ,,,,op. 112/2,1835,Der du die Menschen lassest sterben,Aria,F major,,"S, Piano","[destiné à l'oratorio St. Paul (Paulus), Op. 36]",
+113.00 ,Q 23,Q,23 ,op. 113,1833,Concertstuck # 1,,F minor,"1. Allegro con fuoco (fa mineur)
 2. Andante (fa mineur)
-3. Presto (fa mineur)","clarinette, cor de basset et piano",,
-MWV Q 24,op. 114,1833,Concertstuck # 2,,D minor,"1. Presto (ré mineur)
+3. Presto (fa mineur)","Clarinet, Basset Horn, Piano",,
+114.00 ,Q 24,Q,24 ,op. 114,1833,Concertstuck # 2,,D minor,"1. Presto (ré mineur)
 2. Andante (ré mineur)
-3. Allegro grazioso (ré mineur)","clarinette, cor de basset et piano",,
-,op. 115,1833,2 Chœurs sacrés,,,,TTBB Choir a cappella,,
-MWV B 28,op. 115/1,1833,"Beati mortui: Beati mortui in Domino, chœur sacré",,C major,Andante sostenuto,TTBB Choir a cappella,,
-MWV B 29,op. 115/2,1833,"Periti autem: Periti autem fulgebunt, chœur sacré",,D major,Allegro vivace,TTBB Choir a cappella,,
-MWV U 58,op. 119,,Perpetuum mobile,,C major,Prestissimo,Piano,,
-MWV B 26,op. 121,1833,"Adspice Domine de sede, responsorium et hymne",,,"1. Adspice Domine de sede
+3. Allegro grazioso (ré mineur)","Clarinet, Basset Horn, Piano",,
+115.00 ,,,,op. 115,1833,2 Chœurs sacrés,,,,TTBB Choir a cappella,,
+115.10 ,B 28,B,28 ,op. 115/1,1833,"Beati mortui: Beati mortui in Domino, chœur sacré",,C major,Andante sostenuto,TTBB Choir a cappella,,
+115.20 ,B 29,B,29 ,op. 115/2,1833,"Periti autem: Periti autem fulgebunt, chœur sacré",,D major,Allegro vivace,TTBB Choir a cappella,,
+116.00 ,F 31,F,31 ,op. 116,1845,Trauer-Gesang: Sahst du ihn herniederschweben in der Morgen,Lied,G minor,Andante,Mixed SATB Choir a cappella,,
+117.00 ,U 134,U,134 ,op. 117,1837,"Feuille d'album (Chant sans parole),",Lied,E minor,Allegro,Piano,,
+118.00 ,U 139,U,139 ,op. 118,1837,Capriccio,Caprice,E major,"1. Andante (mi majeur)
+2. Allegro (mi mineur)",Piano,,
+119.00 ,U 58,U,58 ,op. 119,,Perpetuum mobile,,C major,Prestissimo,Piano,,
+120.00 ,,,,op. 120,1837-1847,4 Lieder,Lied,,,4 Male Voices a cappella,,
+120.10 ,G 21,G,21 ,op. 120/1,1837,"Jagdlied: Auf, ihr Herrn und Damen schon",Lied,C major,Presto,4 Male Voices a cappella,,
+120.20 ,G 37,G,37 ,op. 120/2,1847,"Morgengruss des Thuringischen Sangerbundes: Seid gegrusset, traute Bruder",Lied,F major,Allegro non troppo,4 Male Voices a cappella,,
+120.30 ,G 20,G,20 ,op. 120/3,,"Im Suden: Susse Dufte, milde Lufte",Lied,B-flat major,Andante,4 Male Voices a cappella,,
+120.40 ,G 5,G,5 ,op. 120/4,,"Zigeunerlied: Im Nebelgeriesel, im tiefen Schnee",Lied,G minor,Andante ma non troppo,4 Male Voices a cappella,,
+121.00 ,B 26,B,26 ,op. 121,1833,"Adspice Domine de sede, responsorium, hymne",,,"1. Adspice Domine de sede
 chœur (SATB), en la mineur
 Allegro moderato
 
@@ -1094,101 +1066,150 @@ Adagio
 
 5. O lux beata
 chœur, en la majeur
-Andante",chœur de voix d'hommes (TBB) avec accompagnement de violoncelle,[Pour les vêpres du 21è dimanche après la Trinité],
-,op. 16,1829,3 Fantaisies or caprices,,,,Piano,,
-MWV Q 19,op. 17,1829,Variations concertantes,,D major,"0. Tema: Andante con moto
-1. ...
-2. ...
-3. Piu vivace
-4. Allegro con fuoco
-5. L'istesso tempo
-6. L'istesso tempo
-7. Presto ed agitato
-8. Tempo I",piano et violoncelle,,
-MWV O 10,op. 29,1834,Rondo brillant,,E-flat major,Presto,"piano avec orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contrebasse)",,
-,op. 35,1832-1837,6 Préludes et fugues,,,,Piano,,
-MWV U 116; MWV U 66,op. 35/1,1837,Prélude et fugue,,E minor,Allegro con fuoco / Andante espressivo,Piano,,
-MWV U 129; MWV U 105,op. 35/2,1836-1837,Prélude et fugue,,D major,Allegretto / Tranquillo e sempre legato,Piano,,
-MWV U 131; MWV U 91,op. 35/3,1836-1837,Prélude et fugue,,B minor,Prestissimo staccato / Allegro con brio,Piano,,
-MWV U 122; MWV U 108,op. 35/4,1836-1837,Prélude et fugue,,A-flat major,Con moto / Con moto ma sostenuto,Piano,,
-MWV U 126; MWV U 106,op. 35/5,1834-1836,Prélude et fugue,,F minor,Andante lento / Allegro con fuoco,Piano,,
-MWV U 135; MWV U 128,op. 35/6,1836-1837,Prélude et fugue,,B-flat major,Maestoso moderato / Allegro con brio,Piano,,
-,op. 37,1837,3 Préludes et fugues,,,,Organ,,
-MWV W 21; MWV W 18,op. 37/1,1837,Prélude et fugue,,C minor,Vivace / Con moto,Organ,,
-MWV W 22; MWV W 20,op. 37/2,1837,Prélude et fugue,,G major,Andante con moto / …,Organ,,
-MWV W 23; MWV W 13,op. 37/3,1837,Prélude et fugue,,D minor,Allegro / …,Organ,,
-MWV O 12,op. 43,1838,Sérénade et Allegro giocoso,,B minor,"1. Sérénade. Andante (si mineur)
-2. Allegro giocoso (si mineur)","piano et orchestre
-(2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contrebasse)",,
-MWV U 156,op. 54,1841,17 Variations sérieuses,,,,Piano,,
-MWV U 158,op. 82,1841,Variations,,E-flat major,"0. Tema: Andante assai espressivo
-1. Variation I
-2. Variation II
-3. Variation III: Piu vivace
-4. Variation IV: Piu moderato",Piano,,
-MWV U 159,op. 83,1841,Variations,,B-flat major,"0. Tema: Andante tranquillo
-1. Variation I: Cantabile
-2. Variation II
-3. Variation III: Allegro
-4. Variation IV
-5. Variation V: ... / Allegro assai vivace",Piano,,
-,op. 83a,1841,Variations (Andante tranquillo con Variazioni),,B-flat major,"1. Cantabile
-2. Animato
-3. ...
-4. ...
-5. ...
-6. ...
-7. ...
-8. Allegro molto agitato / Andante / Allegro assai vivace",Piano Four Hands,[basé sur l'op. 83],
-MWV T 4,op. 92,1841,Allegro brillant,,A major,Allegro assai vivace,Piano Four Hands,,
-MWV U 136,WoO 10,,,,,,,,
-,WoO 11,,,,,,,,
-MWV B 27,WoO 12,,,,,,,,
-"MWV U 157, MWV U 65",WoO 13,,,,,,,,
-MWV B 33,WoO 14,,,,,,,also Op. 96,
-MWV B 49,WoO 15,,,,,,,,
-MWV K 105,WoO 16,,,,,,,,
-,WoO 17,,,,,,,,
-,WoO 18,,,,,,,,
-"MWV U 93, MWV U 94",WoO 19,,,,,,,,
-MWV U 69,WoO 2,1829,Scherzo,,B minor,Prestissimo,Piano,"[Publié dans ""Berliner allgemeine musikalische Zeitung""]",
-MWV K 48,WoO 20,,,,,,,,
-MWV G 29,WoO 21,,,,,,,,
-MWV G 32,WoO 22,,,,,,,,
-MWV K 25,WoO 23,,,,,,,,
-MWV B 57/1,WoO 24,,,,,,,,
-MWV O 9,WoO 25,,,,,,,,
-,WoO 26,,,,,,,,
-MWV B 47 = MWV B 57/2,WoO 27,,,,,,,,
-MWV B 45,WoO 28,,,,,,,,
-MWV B 25,WoO 29,,,,,,,,
-MWV U 113,WoO 3,1835-1836,Scherzo a capriccio,,F-sharp minor,Presto scherzando,Piano,"[Publié dans ""L'album des pianistes""]",
-,WoO 4,,,,,,,,
-MWV A 11,WoO 5,,,,,,,,
-MWV U 141,WoO 6,,,,,,,,
-MWV K 44,WoO 7,,,,,,,,
-MWV G 25,WoO 8,,,,,,,,
-MWV D 4,WoO 9,,,,,,,,
-,,,The Evening Bell,,,,harpe et piano,,
-,,,Allegro,,B major,,Organ,,
-,,,Andante alla marcia,,B major,,Organ,,
-,,,Andante sostenuto,,D major,,Organ,,
-,,,Chorale,,A-flat major,,Organ,,
-,,,Chorale,,D major,,Organ,,
-,,,"Wie gross ist des Allmacht'gen Gute, chorale-prélude et 3 variations",,,,Organ,,
-,,,3 Fugues,,,,Piano,,
-,,,Allegro,,A minor,,Piano,,
-,,,Allegro,,D minor,,Piano,,
-,,,Andante,,F major,,Piano,,
-,,,Andante,,A-flat major,,Piano,,
-,,,Andante,,A major,,Piano,,
-,,,Con moto,,B-flat minor,,Piano,,
-,,,Largo-Allegro,,C minor,,Piano,,
-,,,Largo-Allegro molto,,c/C,,Piano,,
-,,,Lied,,F-sharp minor,,Piano,,
-,,,Presto,,C minor,,Piano,,
-,,,Recitativo,,D minor,,Piano,,
-,,,Lento-Vivace,,G minor,,Piano Four Hands,,
-,,,15 Fugues,,,,String Quartet,,
-,,,Presto,,F major,,"Violin, Piano",,
+Andante","TBB Male Choir, Cello",[Pour les vêpres du 21è dimanche après la Trinité],
+999.01 ,U 125,U,125 ,WoO 1,1826,,Etude,F minor,Presto agitato,Piano,"[Publié dans la ""Méthode des méthodes"" de Moscheles, Fétis]",
+999.02 ,U 69,U,69 ,WoO 2,1829,Scherzo,,B minor,Prestissimo,Piano,"[Publié dans ""Berliner allgemeine musikalische Zeitung""]",
+999.03 ,U 113,U,113 ,WoO 3,1835-1836,Scherzo a capriccio,,F-sharp minor,Presto scherzando,Piano,"[Publié dans ""L'album des pianistes""]",
+999.04 ,,,,WoO 4,,,,,,,,
+999.05 ,A 11,A,11 ,WoO 5,,,,,,,,
+999.06 ,U 141,U,141 ,WoO 6,,,,,,,,
+999.07 ,K 44,K,44 ,WoO 7,,,,,,,,
+999.08 ,G 25,G,25 ,WoO 8,,,,,,,,
+999.09 ,D 4,D,4 ,WoO 9,,,,,,,,
+999.10 ,U 136,U,136 ,WoO 10,,,,,,,,
+999.11 ,,,,WoO 11,,,,,,,,
+999.12 ,B 27,B,27 ,WoO 12,,,,,,,,
+999.13 ,U 157,U,157 ,WoO 13,,,,,,,,
+999.14 ,B 33,B,33 ,WoO 14,,,,,,,also Op. 96,
+999.15 ,B 49,B,49 ,WoO 15,,,,,,,,
+999.16 ,K 105,K,105 ,WoO 16,,,,,,,,
+999.17 ,,,,WoO 17,,,,,,,,
+999.18 ,,,,WoO 18,,,,,,,,
+999.19 ,,,,WoO 19,,2 Musical Sketches,,,,,,
+999.19 ,U 93,U,93 ,WoO 19/1,,,,B-flat major,Andante cantabile,,,
+999.19 ,U 94,U,94 ,WoO 19/2,,,,G minor,Presto agitato,,,
+999.20 ,K 48,K,48 ,WoO 20,,,,,,,,
+999.21 ,G 29,G,29 ,WoO 21,,,,,,,,
+999.22 ,G 32,G,32 ,WoO 22,,,,,,,,
+999.23 ,K 25,K,25 ,WoO 23,,,,,,,,
+999.24 ,B 57/1,B,57/1,WoO 24,1846,Kyrie,,,,,,
+999.25 ,O 9,O,9 ,WoO 25,,"Fantasie und Variationen über Webers ""Preciosa"" [first two variations,  finale]",,C minor,,"2 Pianos, Orchestra",collaborative work with Ignaz Moscheles,
+999.26 ,,,,WoO 26,1846,"Ehre sei Gott in der Höhe, Doppelchor für Sopran, Alt, Tenor und Bas",,D major,,,,
+999.27 ,B 47,B,47 ,WoO 27,1844,"Heilig, Doppelchor für Sopran, Alt, Tenor und Bass",,E-flat major,,,,
+999.27 ,B 57/2,B,57/2,WoO 27,1846,Heilig,,,,,,
+999.28 ,B 45,B,45 ,WoO 28,1843-1844,"Psaume 100: Jauchzet dem Herrn, alle Welt",Psalm,C major,,,,
+999.29 ,B 25,B,25 ,WoO 29,1832,Te Deum für Solostimmen und Chor mit Begleitung der Orgel,,,,,,
+,N 1,N,1 ,,,,Symphony,C major,,Strings,,
+,N 10,N,10 ,,,,Symphony,B minor,,Strings,,
+,N 11,N,11 ,,,,Symphony,F major,,Strings,,
+,N 12,N,12 ,,,,Symphony,G minor,,Strings,,
+,N 13,N,13 ,,,,Symphony,C minor,,Strings,,
+,N 2,N,2 ,,,,Symphony,D major,,Strings,,
+,N 3,N,3 ,,,,Symphony,E minor,,Strings,,
+,N 4,N,4 ,,,,Symphony,C minor,,Strings,,
+,N 5,N,5 ,,,,Symphony,B-flat major,,Strings,,
+,N 6,N,6 ,,,,Symphony,E-flat major,,Strings,,
+,N 7,N,7 ,,,,Symphony,D minor,,Strings,,
+,N 8,N,8 ,,,,Symphony,D major,,Strings,,
+,N 9,N,9 ,,,,Symphony,C major,,Strings,,
+,Q 20,Q,20 ,,,The Evening Bell,,B-flat major,,"Harp, Piano",,
+,,,,,,,Concerto,A-flat major,,"2 Pianos, Orchestra",,
+,,,,,,,Concerto,E major,,"2 Pianos, Orchestra",,
+,,,,,,,Sonata,C minor,,"A, Piano",,
+,,,,,,,Sonata,E-flat major,,"Clarinet, Piano",,
+,,,,,,,Fantaisia,G minor,,Organ,,
+,,,,,,,Fugue,F minor,,Organ,,
+,,,,,,,Fugue,E minor,,Organ,,
+,,,,,,,Fugue,B major,,Organ,,
+,,,,,,2 Petites pièces,Piece,,,Organ,,
+,,,,,,2 Pièces,Piece,,,Organ,,
+,,,,,,4 Petites pièces,Piece,,,Organ,,
+,,,,,,6 Petites pièces,Piece,,,Organ,,
+,,,,,,,Prelude,C minor,,Organ,,
+,,,,,,Allegro,,B major,,Organ,,
+,,,,,,Andante alla marcia,,B major,,Organ,,
+,,,,,,Andante sostenuto,,D major,,Organ,,
+,,,,,,Chorale,,A-flat major,,Organ,,
+,,,,,,Chorale,,D major,,Organ,,
+,,,,,,"Wie gross ist des Allmacht'gen Gute, chorale-prélude, 3 variations",,,,Organ,,
+,,,,,,2 Études,Etude,,,Piano,,
+,,,,,,,Etude,C major,,Piano,,
+,,,,,,,Etude,F major,,Piano,,
+,,,,,,,Fantaisia,C minor,,Piano,,
+,,,,,,,Fugue,C-sharp minor,,Piano,,
+,,,,,,,Fugue,E minor,,Piano,,
+,,,,,,Chant sans parole,Lied,F-sharp minor,,Piano,,
+,,,,,,Chant sans parole,Lied,A major,,Piano,,
+,,,,,,Chant sans parole,Lied,D major,,Piano,,
+,,,,,,Chant sans parole,Lied,D major,,Piano,,
+,,,,,,Chant sans parole,Lied,D minor,,Piano,,
+,,,,,,2 Petites pièces,Piece,,,Piano,,
+,,,,,,2 Petites pièces,Piece,,,Piano,,
+,,,,,,2 Pièces,Piece,,,Piano,,
+,,,,,,5 Petites pièces,Piece,,,Piano,,
+,,,,,,Pièce,Piece,E minor,,Piano,,
+,,,,,,,Prelude,F minor,,Piano,,
+,,,,,,,Sonata,F minor,,Piano,,
+,,,,,,,Sonata,A minor,,Piano,,
+,,,,,,,Sonata,E minor,,Piano,,
+,,,,,,3 Fugues,,,,Piano,,
+,,,,,,Allegro,,A minor,,Piano,,
+,,,,,,Allegro,,D minor,,Piano,,
+,,,,,,Andante,,F major,,Piano,,
+,,,,,,Andante,,A-flat major,,Piano,,
+,,,,,,Andante,,A major,,Piano,,
+,,,,,,Con moto,,B-flat minor,,Piano,,
+,,,,,,Largo-Allegro,,C minor,,Piano,,
+,,,,,,Largo-Allegro molto,,c/C,,Piano,,
+,,,,,,Lied,,F-sharp minor,,Piano,,
+,,,,,,Presto,,C minor,,Piano,,
+,,,,,,Recitativo,,D minor,,Piano,,
+,,,,,,,Fantaisia,D minor,,Piano Four Hands,,
+,,,,,,Lento-Vivace,,G minor,,Piano Four Hands,,
+,,,,,,,Concerto,A minor,,"Piano, Orchestra",,
+,,,,,,,Quartet,D minor,,"Piano, Strings",,
+,,,,,,,Trio,C minor,,"Piano, Violin, Viola",,
+,,,,,,,Fugue,E-flat major,,String Quartet,,
+,,,,,,15 Fugues,,,,String Quartet,,
+,,,,,,,Quartet,E-flat major,,Strings,,
+,,,,,,,Sonata,F major,,"Violin, Piano",,
+,,,,,,,Sonata,F major,,"Violin, Piano",,
+,,,,,,Presto,,F major,,"Violin, Piano",,
+,,,,,,,Concerto,D minor,,"Violin, Piano, Orchestra",,
+,,,,,,,Concerto,D minor,,"Violin, Strings",,
+,B 57,B,57 ,,1846,Die Deutsche Liturgie,,,,,,
+,L 1,L,1 ,,,Soldatenliebschaft,Singspiel,,,,,
+,L 2,L,2 ,,,Die beiden Pädagogen,Operetta,,,,,
+,L 3,L,3 ,,,Die wandernden Komödianten,Opera,,,,,
+,L 4,L,4 ,,,Die beiden Neffen (Der Onkel aus Boston),Opera,,,,,
+,M 1,M,1 ,,,Blanche et Vermeille,Incidental Music,,,,,
+,M 10,M,10 ,,,Alexis,Incidental Music,,,,,
+,M 11,M,11 ,,,Ruy Blas,Incidental Music,,,,,
+,M 15,M,15 ,,,König Oedipus,Incidental Music,,,,,
+,M 2,M,2 ,,,Musik zu einem Lustspiel,Incidental Music,,,,,
+,M 3,M,3 ,,,L’homme automate,Incidental Music,,,,,
+,M 4,M,4 ,,,Musik zu einer Freischütz-Parodie,Incidental Music,,,,,
+,M 5,M,5 ,,,Musik zu einer Mozart-Parodie,Incidental Music,,,,,
+,M 6,M,6 ,,,Was wir bringen,Incidental Music,,,,,
+,M 7,M,7 ,,,Der standhafte Prinz,Incidental Music,,,,,
+,M 8,M,8 ,,,Andreas Hofer,Incidental Music,,,,,
+,M 9,M,9 ,,,Kurfürst Johann Wilhelm im Theater,Incidental Music,,,,,
+,N 17,N,17 ,,,,Symphony,B-flat major,,,,
+,N 19,N,19 ,,,,Symphony,C major,,,,
+,O 1,O,1 ,,,Recitativo. Largo,,D minor,,,,
+,O 13,O,13 ,,,,,E minor,,"Piano, Orchestra",,
+,O 2,O,2 ,,,,Concerto,A minor,,"Piano, Strings",,
+,O 3,O,3 ,,,,Concerto,D minor,,"Violin, Strings",,
+,O 4,O,4 ,,,,Concerto,D minor,,"Violin, Piano, Strings",,
+,O 5,O,5 ,,,,Concerto,E major,,"2 Pianos, Orchestra",,
+,O 6,O,6 ,,,,Concerto,A-flat major,,"2 Pianos, Orchestra",,
+,P 10,P,10 ,,,Tusch,,,,,,
+,P 11,P,11 ,,,Prozessionsmarsch,,,,,,
+,P 13,P,13 ,,,Prozessionsmarsch,,,,,,
+,P 17,P,17 ,,,,March,,,,,
+,P 18,P,18 ,,,,March,,,,,
+,P 19,P,19 ,,,Prozessionsmarsch,March,,,,,
+,P 6,P,6 ,,,Kindersinfonie,,,,,,
+,P 8,P,8 ,,,Kindersinfonie,,,,,,
+,P 9,P,9 ,,,Militärstück,,,,,,
+,U 65,U,65 ,,,,,,,,,

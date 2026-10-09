@@ -1,4 +1,4 @@
-sort,opus,title,title-org,place,date,part,inst,status,Dedication,note
+sort,Opus,Title,Original Title,Place,Date,Section,Setting,Status,Dedication,Note
 1,1,"Scherzo in F-sharp minor, op. 1","Скерцо fis-moll, Соч. 1",Petrograd,1920/7/15-1921/9/25,Allegretto · Meno mosso · Tempo I,orchestra: 3(III=picc).2.2.2-4.2.3.1-timp.perc:tgl/cyms/BD-strings,,my teacher Maximilian Oseevich Steinberg,
 2,2,"8 Preludes, op. 2",Восемь прелюдий,Petrograd,1919 – 1921,"1. G minor Agitato (q = 100)
 2. G mixolydian Andante (q = 76)
@@ -75,8 +75,7 @@ Orchestration of the second movement (in A flat major)"
 8. Canon Moderato con moto (q = 144)
 9. Legend Moderato (e = 116)
 10. Lullaby Largo (e = 63)",piano,,Dedicated to Boleslav Leopoldovich Yavorsky,
-14,14,"Symphony No. 2 in B major, op. 14 “To October – A Symphonic Dedication”",Симфония № 2 «Позвящение Октябрю»,Leningrad,1925/12/30 – 1927/8,"One movement: Largo (q = 46) · [Allegro molto] (q = 152) · Poco meno mosso
-(q = 138) · Allegro molto (q = 192) · Meno mosso (q = 100) · Moderato","orchestra with mixed choir
+14,14,"Symphony No. 2 in B major, op. 14 “To October – A Symphonic Dedication”",Симфония № 2 «Позвящение Октябрю»,Leningrad,1925/12/30 – 1927/8,One movement: Largo (q = 46) · [Allegro molto] (q = 152) · Poco meno mosso (q = 138) · Allegro molto (q = 192) · Meno mosso (q = 100) · Moderato,"orchestra with mixed choir
 3(III=picc).2.2.2-4.3.3.1-timp.perc:tgl/SD/BD/cym/glsp/siren-strings",,,Text by Alexander Bezymensky
 15,15,"the Nose, op. 15, Satirical Opera in 3 Acts (with an Epilogue) and 10 Scenes","Нос. Опера в трёх действиях, десяти картинах, Соч. 15",Leningrad-Detskoe Selo-Leningrad-Moscow-Leningrad,1927/6–1928/8/4,,,,,"Libretto by Dmitri Shostakovich, Alexander Preys, Evgeni Zamyatin and Georgi lonin after Nikolai Gogol’s novel"
 15.1,15a,"Suite from “The Nose”, op. 15a","[Сюита из оперы «Нос», Соч. 15a",Leningrad,1928/5/6,"1. Overture Allegro (q = 132) attacca
@@ -95,18 +94,13 @@ Transcription of the song ‘Tea for Two’ from the 1925 musical ‘No, no, Nan
 2. Capriccio Presto","wind band
 3(III=picc).2.2.2-2.2.1.0-timp",,,"[domenico scarlatti (1685 - 1757)]
 Orchestration of harpsichord sonatas D minor L413/K9 and E flat major L375/K20"
-18,18,"New Babylon, op. 18",Новый вавилон «Эпизоды из жизни Парижской коммуны»,Leningrad,1928/12-1929/3,"reel no. 1 ‘General Sale’Allegro 
-non troppo · Allegro · Andantino · Allegro · Andantino · Allegro · Andante
-reel no. 2 ‘Head Over Heels’Allegro moderato · Andantino · Al
-legro vivo
-reel no. 3 ‘The Siege of Paris’Largo · Allegro · Largo
-reel no. 4 ‘18 March 1871’Andante · Allegro · Andante · Più mosso · Allegro · Molto meno mosso · 
-Allegretto · [Andante semplice] · Adagio
-reel no. 5 ‘Versailles Against Paris’Allegretto · Allegro · Andante · Allegro moderato
-reel no. 6 ‘The Barricade’Adagio · Allegro moderato · Allegretto · Scherzando · Al
-legro [con] brio · Andante semplice · Allegro [con] brio
-Reel No. 7 ‘To the Firing Squad’[Andante] · Allegro · Andante ·  
-Adagio · Allegro · Andante
+18,18,"New Babylon, op. 18",Новый вавилон «Эпизоды из жизни Парижской коммуны»,Leningrad,1928/12-1929/3,"Reel No. 1 ‘General Sale’Allegro non troppo · Allegro · Andantino · Allegro · Andantino · Allegro · Andante
+Reel No. 2 ‘Head Over Heels’Allegro moderato · Andantino · Allegro vivo
+Reel No. 3 ‘The Siege of Paris’Largo · Allegro · Largo
+Reel No. 4 ‘18 March 1871’Andante · Allegro · Andante · Più mosso · Allegro · Molto meno mosso · Allegretto · [Andante semplice] · Adagio
+Reel No. 5 ‘Versailles Against Paris’Allegretto · Allegro · Andante · Allegro moderato
+Reel No. 6 ‘The Barricade’Adagio · Allegro moderato · Allegretto · Scherzando · Allegro [con] brio · Andante semplice · Allegro [con] brio
+Reel No. 7 ‘To the Firing Squad’[Andante] · Allegro · Andante ·  Adagio · Allegro · Andante
 Reel No. 8 ‘Death’Largo · Allegro appassionato","1.1.1.1-2.1.1.0-perc(3):tgl/flex/tom-t/tamb/SD/BD/cyms/susp.cym/xyl-pft- 
 strings",,,Music to the silent film
 18.1,18a,"Suite from “New Babylon”, op. 18a","Сюита из музыки к кинофильму «Новый вавилон» для оркестра, Соч. 18a",,,"1. War Allegro non troppo
@@ -128,8 +122,7 @@ strings",,,compiled by Gennadi Rozhdestvensky (1976)
 10. Fire
 11. Fire Signals
 12. Firemen’s Chorus Marciale
-13. Symphonic Entr’act Allegro [music from Nos. 4 and 10, not included in the
-staging]
+13. Symphonic Entr’act Allegro [music from Nos. 4 and 10, not included in the staging]
 14. March of the Pioneers Allegretto [not included in the staging]
 15. March of the City-Elders Tempo di marcia
 16. Flourish Allegro
@@ -146,9 +139,7 @@ scenes"
 6. Scene in the Boulevard [Allegro moderato] [No. 10]
 7. Final March [Giocoso] [No. 15]",,,,"arranger of this compilation is not known. Its existence is documented by De
 rek C. Hulme"
-20,20,"Symphony No. 3 in E‐flat major, op. 20 “the First of May”",Симфония № 3 «Первомайская»,Leningrad-Crimea-Caucasus-Leningrad,1929/4 – 1929/10,"One movement: Allegretto · Allegro · Più mosso · Meno mosso · Allegro · 
-Andante · Allegro · Poco meno mosso · Largo · Allegro molto · Meno mosso · 
-Andante · Largo · Moderato · Più mosso","orchestra with mixed choir
+20,20,"Symphony No. 3 in E‐flat major, op. 20 “the First of May”",Симфония № 3 «Первомайская»,Leningrad-Crimea-Caucasus-Leningrad,1929/4 – 1929/10,One movement: Allegretto · Allegro · Più mosso · Meno mosso · Allegro · Andante · Allegro · Poco meno mosso · Largo · Allegro molto · Meno mosso · Andante · Largo · Moderato · Più mosso,"orchestra with mixed choir
 3(III=picc).2.2.2-4.3.3.1-timp.perc:tgl/SD/cyms/BD/tam-t/glsp/xyl-strings",,,Text by Semyon Kirsanov
 21,21,"6 Romances on Words by Japanese Poets, op. 21","Шесть романсов на слова японских поэтов для тенора с оркестром, Соч. 21",Leningrad,1928/10/7–1932/5,"1. Love Andante
 2. Before Suicide Adagio
@@ -161,11 +152,10 @@ Andante · Largo · Moderato · Più mosso","orchestra with mixed choir
 22,22,"the Age of Gold, op. 22","Золотой век. Балет в трёх действиях, шести картинах, Соч. 22",Leningrad,1929/7/1-1924/10/31,,"2(II=picc).2(II=corA).3(II=Ebcl,III=bcl).2sax.2(II=dbn)-4.3.3.1.euph-timp.
 perc:tgl/wdbl/tamb/SD/cyms/BD/tam-t/xyl-banjo-bayan-hp-cel-strings-ban
 da:2crt/2tpt/2ahn/2barhn/2tuba",,,"Libretto by Alexander Ivanovsky, revised by Vladimir Boriskovich"
-22.1,22a,"Suite from “The Age of Gold”, op. 22a","Сюита из балета «Золотой век», Соч. 22a",Leningrad,"1930, revised 1935","1. Introduction [Nos. 1 and 2] Allegro non troppo (q = 112) · Allegretto (q = 168) ·
-q = 120 · Più mosso (h = 92) · q = 168
+22.1,22a,"Suite from “The Age of Gold”, op. 22a","Сюита из балета «Золотой век», Соч. 22a",Leningrad,"1930, revised 1935","1. Introduction [Nos. 1 and 2] Allegro non troppo (q = 112) · Allegretto (q = 168) · q = 120 · Più mosso (h = 92) · q = 168
 2. Adagio [No. 9] q = 72
 3. Polka [No. 30] Allegretto (q = 84) · Presto (q = 208)
-4.  Dance [No. 11] Allegro (q = 144)","1.picc.1.corA.1.Ebcl.bcl.ssax.1.dbn-4.barhn.3.3.1-timp.perc:tgl/wdbl/
+4. Dance [No. 11] Allegro (q = 144)","1.picc.1.corA.1.Ebcl.bcl.ssax.1.dbn-4.barhn.3.3.1-timp.perc:tgl/wdbl/
 tamb/SD/cyms/BD/tam-t/xyl-bayan-strings",,,
 23,23,"Columbus, op. 23","Бедный Колумб. Две пьесы к опере Э. Дресселя для оркестра и хора, Соч. 23",Leningrad,1929/1 - 1929/3,"1. Overture Allegretto poco moderato · Molto meno mosso
 2. Finale Moderato · Allegretto · Andantino · Allegro","3(II,III=picc).3(III=corA).4(III=Ebcl,IV=bcl).4(IV=dbn)-4.4.3.1-timp.perc:tgl/
@@ -182,7 +172,7 @@ cast/flex/tom-t/tamb/SD/BD/cyms/tam-t/xyl-strings-mixed choir",,,2 orchestral pi
 pft-str(only vlns)-mixed chorus-banda:2crt/ahn/thn/barhn",,,Incidental music to Alexander Bezymensky’s verse play comedy in three acts
 25,25,"Virgin Soil, op. 25","Целина. Музыка к пьесе в трёх кругах Аркадия Горбенко и Николая Львова, Соч. 
 25",Leningrad,1930 spring –  1930/5/3,,picc.0.1.1-1.1.1.1-timp-pft-strings(1.1.1.1.0),,,Incidental music to the play by Arkadi Gorbenko and Nikolai Lvov
-26,26,"Alone, op. 26","Одна. Музыка к кинофильму, Соч. 26",Odessa – Leningrad,1930/9/17–1931/3/9,7 reels,"3(III=picc).3(III=corA).4(III=Ebcl,IV=bcl).3(III=dbn)-4.2.3.1-timp.
+26,26,"Alone, op. 26","Одна. Музыка к кинофильму, Соч. 26",Odessa – Leningrad,1930/9/17–1931/3/9,7 Reels,"3(III=picc).3(III=corA).4(III=Ebcl,IV=bcl).3(III=dbn)-4.2.3.1-timp.
 perc:tgl/wdbl/SD/BD/cyms/tam-t/glsp/xyl)-theremin-hp-harm-org-strings
 banda:2crt/2ahn/2barhn/2tuba-choir with soprano (Nos. 2 and 8), mezzo
 soprano (Nos. 24, 40) and tenor (Nos. 6, 8, 14, 25) solos",,,Music to the silent film
@@ -190,11 +180,9 @@ soprano (Nos. 24, 40) and tenor (Nos. 6, 8, 14, 25) solos",,,Music to the silent
 cyms/gong/glsp/xyl-strings-banda (Finale): Ebcrt/2Bbcrt/2tpt/2thn/2barhn/2tu
 ba",,,Libretto by Viktor Smirnov
 27.1,27a,"Suite from “The Bolt” (Ballet Suite No. 5), op. 27a","Сюита из балета «Болт», Соч. 27a",,"1931, revised 1934","1. Overture Adagio · Allegro [No. 1]
-2. Polka Allegretto · Allegro · Moderato · Allegretto · Più mosso · Allegretto ·
-Allegro [No. 11]
+2. Polka Allegretto · Allegro · Moderato · Allegretto · Più mosso · Allegretto ·Allegro [No. 11]
 3. Variation Moderato non troppo [No. 38]
-4. Tango Allegretto · Andante · Più mosso · Più mosso · Allegretto · Allegro ·
-Meno mosso · Allegro [No. 29]
+4. Tango Allegretto · Andante · Più mosso · Più mosso · Allegretto · Allegro ·Meno mosso · Allegro [No. 29]
 5. Intermezzo Allegretto [No. 10]
 6. Finale Allegro [No. 43]","3(II,III=picc).3(III=corA).3(III=Ebcl).3(III=dbn)-6.3.3.1-timp.perc:tgl/tamb/
 SD/BD/cym/tam-t/glsp/xyl-strings-banda:3crt/2tpt/2ahn/2thn/2barhn/2tuba",,,compiled by Alexander Gauk
@@ -213,8 +201,7 @@ Merle Puffer, Michel Dimitri Calvocoressi, Edward Downes and David Pountney.
 German translation by Jörg Morgener and Siegfried Schoenbohm."
 29.1,29a,"Suite from “Lady Macbeth of the Mtsensk District”, op. 29a","Сюита из оперы «Леди Макбет Мценского уезда» для симфонического оркестра, 
 Соч. 29a",,1932/12,"1. Allegro con brio
-2. Presto · Allegretto · Moderato · Presto · Moderato · Presto · Moderato ·
-Adagio · Allegro
+2. Presto · Allegretto · Moderato · Presto · Moderato · Presto · Moderato ·Adagio · Allegro
 3. Allegretto","orchestra
 3(III=picc).3(III=corA).4(III=Ebclar,IV=bcl).3(III=dbn)-4.3.3.1-timp.perc:tgl/
 wdbl/SD/BD/cym/tam-t/xyl-2hp-strings-banda:4crt/2tpt/2ahn/2thn/2barhn/
@@ -287,16 +274,14 @@ strings(4.4.2.2.2)",,,Music to a music-hall show by Vsevolod Voyevodin and Evgen
 2. Galop Allegro [No. 7] 
 3. Transition to the Field [Allegro  (q = 100)] [No. 8] attacca
 4. The Field [A Landscape] Andantino [No. 9]
-5. Introduction to Act II. Petrushka Allegro · L’istesso tempo [No. 16a]
-Garmoshka L’istesso tempo [No. 17]
+5. Introduction to Act II. Petrushka Allegro · L’istesso tempo [No. 16a] Garmoshka L’istesso tempo [No. 17]
 6. The Storm Allegro [No. 17b]
 7. The Arrival of the Lorry Allegro [No. 18] attacca
 8. Dance Andante · Allegro [No. 18a]
 9. Transition to the Kitchen (Jugglers and Waitresses) Allegretto (Allegro) [Nos.
 19, 21]
 10. Waitresses Allegro [No. 21a]
-11. Paradise. Flight of the Cherubim Allegretto [No. 26]
-Flight of the Angels L’istesso tempo [No. 27]
+11. Paradise. Flight of the Cherubim Allegretto [No. 26] Flight of the Angels L’istesso tempo [No. 27]
 12. Adagio [No. 28]
 13. Bacchanalia of John of Kronstadt and Paraskeva Pyatnitsa Presto [(No. 29)]
 14. Waltz Moderato [(No. 29a)]
@@ -304,8 +289,7 @@ Flight of the Angels L’istesso tempo [No. 27]
 16. Polka Con moto [No. 11]
 17. March (Camouflage) Allegretto [No. 12]
 18. River-Bed Moderato · Molto più mosso [No. 15]
-19. Finale to Act I: Dance of the Temporary Conquerors Moderato · Più allegro al
-fine [No. 16]","1.picc.1.1.bcl.2.ssax.tsax-1.2.2.1-timp.perc(4/5):tgl/SD/TD/BD/sus,cym/
+19. Finale to Act I: Dance of the Temporary Conquerors Moderato · Più allegro al fine [No. 16]","1.picc.1.1.bcl.2.ssax.tsax-1.2.2.1-timp.perc(4/5):tgl/SD/TD/BD/sus,cym/
 cyms/cym(l)/tam.t/tamb/wdbl/xyl/glsp/police whistle/whip/lion‘s roar/flex/
 claxon-pft-strings",,,compiled  and orchestrated by Gerard McBurney
 32,32,"Hamlet, op. 32","Гамлет. Музыка к Трагедии Уильяма Шекспира, Соч. 32",Leningrad-Moscow,1931/12-1932/2,,"2.picc.1.1.1-2.2.1.1-timp.perc:tgl/tamb/tom-t/SD/BD/cyms/gong/tam-t/flex
@@ -313,8 +297,7 @@ strings-soprano.mezzo-soprano.bass choir",,,"Incidental music to William Shakesp
 Russian translation by Mikhail Lozinsky with insertions from texts by Desiderius 
 Erasmus"
 32.1,32a,"Suite from ""Hamlet"", op. 32a","Сюита из музыки к трагедии В. Шекспира «Гамлет» для малого оркестра, Соч. 
-32a",Leningrad-Moscow,1932,"1. Introduction and Night Patrol Allegro non troppo · Moderato. Poco allegretto
-[Nos. 1, 2]
+32a",Leningrad-Moscow,1932,"1. Introduction and Night Patrol Allegro non troppo · Moderato. Poco allegretto [Nos. 1, 2]
 2. Funeral March Adagio [No. 4]
 3. Flourish and Dancing Music Allegro [Nos. 7, 8]
 4. The Hunt Allegro [No. 16]
@@ -322,8 +305,7 @@ Erasmus"
 6. Procession Moderato [No. 25 = ‘Entrance of the Guests’]
 7. Musical Pantomime Allegro [No. 29 = ‘Pantomime’]
 8. The Banquet Allegro [No. 38 = ‘Can-can’]
-9. Ophelia’s Song Allegro · Meno mosso · Meno mosso · Meno mosso · Presto
-[No. 39]
+9. Ophelia’s Song Allegro · Meno mosso · Meno mosso · Meno mosso · Presto [No. 39]
 10. Lullaby Andantino [No. 41]
 11. Requiem Adagio [No. 44]
 12. The Tournament Allegro [No. 45]
@@ -436,10 +418,8 @@ glsp-hp-strings",,,
 4. Allegro (q = 176)",,,Dedicated to Viktor Lvovich Kubatsky,
 41,41,"Maxim’s Youth, op. 41","Юность Максима. Музыка к кинофильму, Соч. 41",Leningrad,1934 – 1935,,,,,Music to the film
 41.1,41a,"Girlfriends, op. 41a","Полруги. Музыка к кинофильму, Соч. 41a",Leningrad,1934 – 1935,"1. Introduction Moderato [string quartet]
-2. The Year 1914: The workers’ residential block and factory gates Allegretto
-[string quartet]
-3. The families wait for the strikers to return Allegretto [string quartet, trumpet,
-piano]
+2. The Year 1914: The workers’ residential block and factory gates Allegretto [string quartet]
+3. The families wait for the strikers to return Allegretto [string quartet, trumpet, piano]
 4. ‘The Keys to Happiness’ Allegretto moderato [string quartet, trumpet, piano]
 5. The children attempt to sing their ‘poppy song’ Allegretto [ensemble]*
 6. By the river: Revolutionary song ‘Tormented by Lack of Freedom’ [solo voices]*
@@ -455,8 +435,7 @@ piano]
 16. The Forester’s Hut Andante [piano, string quartet]
 17. Fanfare: Andrei arrives with news from the front [2 trumpets, side drum]*
 18. Fanfare [two trumpets]*
-19. The girls find a chicken Allegro [piano, trumpet, string quartet, music not
-used in the film, which may represent the original opening music]
+19. The girls find a chicken Allegro [piano, trumpet, string quartet, music not used in the film, which may represent the original opening music]
 20. Natasha and Zoya sing: ‘Where are those warm nights?’*
 21. Natasha and Zoya are rescued Allegro molto [full orchestra]*
 22. Fanfare: Andrei and Senka arrive [2 trumpets]*
@@ -470,8 +449,7 @@ barhn/2euph",,Dedicated to Romain Rolland,
 4. Moderato
 5. Allegretto","small orchestra
 1.picc.1.corA.3(II=Ebcl,III=bcl).2(II=dbn)-2.1.1.1-perc:SD/xyl-hp-strings",,,
-43,43,"Symphony No. 4 in C minor, op. 43","Симфония № 4, Соч. 43",Leningrad,1935/9/13–1936/4/26,"1. Allegro poco moderato (q = 92) · q = 54 · e = 108 · e = 138 · e = 60 · e = 108 · Presto
-(q = 168) · q = 184 · q = 69 · q = 92 · e = 60 · q = 108 · q = 72 · e = 69
+43,43,"Symphony No. 4 in C minor, op. 43","Симфония № 4, Соч. 43",Leningrad,1935/9/13–1936/4/26,"1. Allegro poco moderato (q = 92) · q = 54 · e = 108 · e = 138 · e = 60 · e = 108 · Presto (q = 168) · q = 184 · q = 69 · q = 92 · e = 60 · q = 108 · q = 72 · e = 69
 2. Moderato con moto (e = 144)
 3. Largo (q = 69) · Allegro (h k = 84) · q = 126 · q = 184 · q = 100 · h k = 100 · h k = 50","4.2picc.4(IV=corA).4.Ebcl.bcl.3.dbn-8.4.3.2-timp.perc(6):tgl/cast/wdbl/SD/
 BD/cyms/tam-t/glsp/xyl-2hp-cel-strings",,,
@@ -532,8 +510,7 @@ II. Largo",3(III=picc).2.2.2-4.3.3.1-timp.perc:SD/BD/cyms-strings-male choir,,,M
 50,50,"Vyborg District, op. 50","Выборгская сторона. Музыка к кинофильму, Соч. 50",Leningrad,1938/12,,,,,"Music to the film (part III in the ‘Maxim’ trilogy, which was awarded the Stalin Prize, 
 First Class, in 1941 together with part I and II of the trilogy.)"
 50.1,50a,"Suite From the ‘Maxim’ Film Trilogy, op. 50a","Сюита из музыки к кинотрилогии «Максим» для смешанного хора и оркестра, 
-Соч. 50a",,,"1. Prelude (‘Boldly, Friends, on we March!’) Moderato · Allegro non troppo ·
-Adagio
+Соч. 50a",,,"1. Prelude (‘Boldly, Friends, on we March!’) Moderato · Allegro non troppo · Adagio
 2. Attack Sequence Allegro
 3. Death of the Old Worker Adagio
 4. Waltz Allegro sostenuto
@@ -552,15 +529,12 @@ District’, Op. 50, by Levon Atovmyan (1961)"
 4. Smolny Allegretto [No. 3a]
 5. Finale Moderato [No. 4]","2.picc.2.2.2.dbn-4.3.3.1-timp.perc:tgl/SD/BD/cyms/glsp-strings-banda:2crt/2tpt/
 2ahn/2thn/2barhn/2tubas",,,Music to the film
-54,54,"Symphony No. 6 in B minor, op. 54","Симфония № 6, Соч. 54",Leningrad,1939/7–1939/10,"1. Largo (e = 72) · q = 44 · Poco più mosso e poco rubato (q = 52) · Moderato (q = 66) ·
-Sostenuto · q = 52 · Sostenuto · Largo (q = 44)
+54,54,"Symphony No. 6 in B minor, op. 54","Симфония № 6, Соч. 54",Leningrad,1939/7–1939/10,"1. Largo (e = 72) · q = 44 · Poco più mosso e poco rubato (q = 52) · Moderato (q = 66) · Sostenuto · q = 52 · Sostenuto · Largo (q = 44)
 2. Allegro (q = 88-96)
 3. Presto (h = 152)","3(III=picc).3(III=corA).4(III=Ebcl,IV=bcl).3(III=dbn)-4.3.3.1-timp.perc:tgl/
 tamb/SD/BD/cym/tam-t/xyl-hp-cel-strings",,,
 55,55,"the Great Citizen, op. 55","Великий гражданин. Музыка к кинофильму, Соч. 55",Leningrad,1938/8–1939,,,,,music to the film (part II)
-56,56,"the Story of a Silly Baby Mouse, op. 56","Сказка о глупом мышонке. Музыка к мультипликационному фильму, Соч. 56",Leningrad,1939 Spring,"Allegretto (q = 80) · Moderato (q = 60) · Allegro (q = 152) · Moderato con moto (q = 76) ·
-Presto (h = 120) · Moderato (q = 60) · Allegro (h = 60) · Moderato (q = 60) · Allegro 
-(q = h) · Moderato (q = 60) · q = 120 · q = 60","2(II=picc).2(II=corA).2(II=bcl).2(II=dbn)-4.2.2.0-timp.perc:tgl/wdbl/tamb/SD/
+56,56,"the Story of a Silly Baby Mouse, op. 56","Сказка о глупом мышонке. Музыка к мультипликационному фильму, Соч. 56",Leningrad,1939 Spring,Allegretto (q = 80) · Moderato (q = 60) · Allegro (q = 152) · Moderato con moto (q = 76) · Presto (h = 120) · Moderato (q = 60) · Allegro (h = 60) · Moderato (q = 60) · Allegro (q = h) · Moderato (q = 60) · q = 120 · q = 60,"2(II=picc).2(II=corA).2(II=bcl).2(II=dbn)-4.2.2.0-timp.perc:tgl/wdbl/tamb/SD/
 BD/cyms/susp.cyms/glsp/xyl-hp-cel-strings(2.2.2.2.2)",,,"Music to an animated cartoon, devoid of separate numbers, for eight singers and 
 small orchestra"
 57,57,"Piano Quintet in G minor, op. 57","Квинтет для двух скрипок, альта, виолончели и фортепиано, Соч. 57",Shalovo-Leningrad,1940/7–1940/9/14,"1. Prelude Lento (q = 72) · Poco più mosso (q . = 72) · Lento (q = 58) attacca
@@ -570,21 +544,18 @@ small orchestra"
 5. Finale Allegretto (h  = 96)",,,,
 58,58,"Boris Godunov, op. 58",М. Мусоргский. Борис Годунов.,Leningrad-Gaspra,1939/11/24–1940/5/10,"prologue
 1. Scene 1 ‘Courtyard of the Moscow Novodevichy Convent’
-2. Scene 2 ‘Yard in the Moscow Kremlin. Entrance of the Tsar’s appartments.
-solemn sound of the bells’
+2. Scene 2 ‘Yard in the Moscow Kremlin. Entrance of the Tsar’s appartments. solemn sound of the bells’
 act i
 3. Scene 3 ‘Cell in the Chudovi Monastery. Night’
 4. Scene 4 ‘Inn at the Lithuanian border’
 act ii
-5. Scene 5 ‘The Tsar’s appartment in the Moscow Kremlin’ (first and second
-redaction)
+5. Scene 5 ‘The Tsar’s appartment in the Moscow Kremlin’ (first and second redaction)
 act iii
 6. Scene 6 ‘Sandomir Castle. Marina Mnishek at the dressing table. Girls’
 7. Scene 7 ‘Sandomir Castle. Garden. Fountain. Moonlit night’
 act iv
 8. Scene 8 ‘Square in front of St. Basil’s Cathedral. Crowd of the poor.
-9. Scene 9 ‘The Granovitaya Palata in the Moscow Kremlin: The boyars’ extra
-ordinary meeting’
+9. Scene 9 ‘The Granovitaya Palata in the Moscow Kremlin: The boyars’ extraordinary meeting’
 10. Scene 10 ‘Clearing near Kromy. Night’","3(III=picc).3(III=corA).2.Ebcl.bcl.3(III=dbn)-4.3.3.1-timp.perc:tgl/tamb/SD/
 BD/cyms/tam-t/t.bells/glsp/xyl-2-4hp-pft-cel-strings-banda on stage:2-4crt/3-6
 hn/4tpt/6hn/4barsaxhn/2-4tubas-balalaikas.domras(opt)",,,"[modest musorgsky (1839 – 1881)] 
@@ -617,12 +588,9 @@ of the Fool’)"
 4. Music at the Restaurant Moderato non troppo
 5. Finale Andantino","2.picc.2.3(III=Ebcl).2-4.2.2.1-timp.perc:tgl/tamb/SD/BD/cyms/xyl-hp-pft(No. 
 3 for piano solo, four hands)-strings-mixed choir",,,Music to the film
-60,60,"Symphony No. 7 in C major, ‘Leningrad’, op. 60","Симфония № 7, Соч. 60",Leningrad-Kuibyshev,1941/7/19 – 1941/12/27,"1. Allegretto (q = 116) · Poco più mosso (q = 126) · Poco più mosso (q = 108) · Meno
-mosso (q = 69) · Poco più mosso (q = 92) · Allegretto (q = 126)
+60,60,"Symphony No. 7 in C major, ‘Leningrad’, op. 60","Симфония № 7, Соч. 60",Leningrad-Kuibyshev,1941/7/19 – 1941/12/27,"1. Allegretto (q = 116) · Poco più mosso (q = 126) · Poco più mosso (q = 108) · Meno mosso (q = 69) · Poco più mosso (q = 92) · Allegretto (q = 126)
 2. Moderato (poco allegretto) (q = 96)
-3. Adagio (q = 112) · Largo (q = 92) · Adagio (q = 112) · Largo (q = 92) · Adagio
-(q = 112) · Largo (q = 92) · Moderato risoluto (q = 120) · Largo (q = 92) · q = 120 ·
-Largo (q = 92) · Adagio (q = 112) · Largo (q = 92) · Adagio (q = 112) attacca
+3. Adagio (q = 112) · Largo (q = 92) · Adagio (q = 112) · Largo (q = 92) · Adagio (q = 112) · Largo (q = 92) · Moderato risoluto (q = 120) · Largo (q = 92) · q = 120 · Largo (q = 92) · Adagio (q = 112) · Largo (q = 92) · Adagio (q = 112) attacca
 4. Allegro non troppo (h = 132) · Moderato (q = 100)","3(III=picc,afl).3(III=corA).4(III=Ebcl,IV=bcl).3(III=dbn)-4.3.3.1-timp.
 perc(5):tgl/tamb/2-3SD/BD/cyms/tam-t/xyl-2hp-pft-strings(16-20.14-18.12
 16.10-14.8-12)-banda:4hn/3tpt/3trbn",,Dedicated to the City of Leningrad,
@@ -686,19 +654,16 @@ Arrangement for large orchestra"
 ,,5 Preludes,Пять прелюдий,Petrograd,1921(?),"1. A minor Allegro moderato e scherzando [No. 5 from op. 2]
 2. G major Andante [No. 2 from op. 2]
 3. E minor Allegro moderato [No. 3 from op. 2]
-4. D flat major Moderato · Andante amoroso · Moderato · Andante cantabile
-[No. 7 from op. 2]
+4. D flat major Moderato · Andante amoroso · Moderato · Andante cantabile [No. 7 from op. 2]
 5. F minor Andantino [No. 6 from op. 2]",piano,,,
 ,,the Little Mermaid,Морская царевна,Petrograd,1922 – 1923,,,lost,,Ballet on a libretto by Yuri Iosifovich Slonimsky and Dmitri Shostakovich after Hans Christian Anderen’s eponymous fairy tale
-,,7 Fugues,Семь фуг,Petrograd,1922 – 1923,"| Fugue | Key | voci | 含义 |
-|---|---|---:|---|
-| 1 | C major | 2 | 2声部赋格 |
-| 2 | F major | 4 | 4声部赋格 |
-| 3 | E minor | 4 | 4声部赋格 |
-| 4 | D minor | 4 | 4声部赋格 |
-| 5 | C minor | 4 incomplete | 4声部，但未完成 |
-| 6 | D major | 4 incomplete | 4声部，但未完成 |
-| 7 | C minor | 4 incomplete | 4声部，但未完成 |",piano,,,
+,,7 Fugues,Семь фуг,Petrograd,1922 – 1923,"| 1 | C major | 2            |
+| 2 | F major | 4            |
+| 3 | E minor | 4            |
+| 4 | D minor | 4            |
+| 5 | C minor | 4 incomplete |
+| 6 | D major | 4 incomplete |
+| 7 | C minor | 4 incomplete |",piano,,,
 ,,Piano Piece in G major,Фортепианная пьеса,Petrograd,1922 – 1924,Mistico,,,,
 ,,Piano Quintet,Квинтет,Petrograd,1923,"1. lost
 2. Fantastic Scherzo [beginning]",,unfinished,,
@@ -738,16 +703,13 @@ gong/glsp/xyl/flex/tam-t-harp-strings",unfinished,,Libretto by Nikolai Aseev
 5. [Nastya’s Dance] Allegro
 6. [Foreigners I and II, Veselchak, choir] Moderato
 7. [Zoologist] Alla marcia
-8. [Susanna, Foreigners I and II, Zoologist, Orango, Veselchak, choir] Allegro
-moderato · Meno mosso · Allegro
+8. [Susanna, Foreigners I and II, Zoologist, Orango, Veselchak, choir] Allegro moderato · Meno mosso · Allegro
 9. [Nastya’s taming dance] Allegretto · Adagio · Adagio · Allegretto · Allegretto
-10. [Susanna, Zoologist, Orango, Veselchak, Voice from the crowd, choir Ada
-gio · Andantino · Allegretto · Meno mosso
-11. [Renée, Armand, Paul, Veselchak, choir Allegretto · Tempo di valse · L’istesso
-tempo · Alla marcia · Presto","2.picc.2.corA.2.Ebcl.ssax.asax.2.dbn-6.3.3.1-perc:timp/tgl/rattle/wdbl/cast/
+10. [Susanna, Zoologist, Orango, Veselchak, Voice from the crowd, choir Adagio · Andantino · Allegretto · Meno mosso
+11. [Renée, Armand, Paul, Veselchak, choir Allegretto · Tempo di valse · L’istesso tempo · Alla marcia · Presto","2.picc.2.corA.2.Ebcl.ssax.asax.2.dbn-6.3.3.1-perc:timp/tgl/rattle/wdbl/cast/
 ratchet/tamb/SD/BD/cyms/tam-t/whistle/claxon-charleston/SD/tD/BD/susp.
 cym-swanee whistle/flex/glsp/xyl)-banjo-strings",unfinished,,Libretto by Count Alexei Tolstoy and Alexander Starchakov
-,,From Karl Marx to Our Own Days,От Карла Маркса до наших дней,,1932/8,Text by Nikolai Aseev,,"unfinished, lost",,
+,,From Karl Marx to Our Own Days,От Карла Маркса до наших дней,,1932/8,,,"unfinished, lost",,Text by Nikolai Aseev
 ,,Madrigal (Impromptu),Мадригал (Экспромт),Leningrad,1933/2/22,Allegretto maestoso,tenor and piano,,,Text: Mikhail Pravdin
 ,,I Love…,Я люблю ...,Gaspra,1933/9/6,,tenor and piano,,,Text: Dmitri Shostakovich (?)
 ,,Suite for Bassoon and Piano,Сюита для фагота и фортепиано,,1934(?),,,,,sketches only
@@ -781,8 +743,7 @@ tam-t/glsp/xyl-3gtr-3banjos-pft-strings(6.0.0.0.2)",,Commissioned by the USSR St
 Most likely Shostakovich only sketched a few portions of the work."
 ,,Suite on Finnish Themes,Семь обработок финских народных песен (Сюита на финские темы),,1939/12/3,"1. Introduction. Feast days are for lads like these ... Energico [instrumental] 
 2. The blue sky above me ... Giocoso · Meno mosso · Tempo I
-3. I went out into the grove on a summer’s night ... Lento non troppo
-[instrumental]
+3. I went out into the grove on a summer’s night ... Lento non troppo [instrumental]
 4. Here in our village ... Andante
 5. Dark red woodland berry ... Moderato, tempo giusto
 6. Oh, would I be free ... Allegretto

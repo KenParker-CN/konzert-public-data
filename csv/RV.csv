@@ -1,48 +1,4 @@
 SORT,Catalogue,Opus,Date,Title,Type,Key,Section,Instrumentation,Note
-579.0000 ,RV 579,,,"""Concerto funèbre""",Concerto,B-flat major,"1. Largo (si bémol majeur)
-[voir RV 738, III:12]
-2. Allegro poco poco (si bémol majeur)
-3. Adagio (do mineur)
-4. Allegro (si bémol majeur)
-Tutti senza sordini
-[voir 3e movement de RV 123]","Violin, Oboe, salmoe, 3 Violas da gamba, Strings, Basso Continuo",
-572.0000 ,RV 572,,,"""Il Proteo o sia il mondo al rovescio""",Concerto,F major,"1. Allegro (fa majeur)
-[voir 1er movement de RV 544]
-2. Largo (do majeur)
-3. ... (fa majeur)
-[voir 3e movement de RV 544]","Violin, Cello, 2 Transverse Flutes, 2 Oboe, Strings, Basso Continuo. (Harpsichord)",
-570.0000 ,RV 570,,,"""La tempesta di mare""",Concerto,F major,"1. ... (fa majeur)
-avec violon solo
-[voir 1er movement de RV 98 et de RV 433]
-2. Largo (sol mineur)
-[voir 2e movement de RV 98]
-3. Presto (fa majeur)
-[voir 3e movement de RV 98]","Transverse Flute, Oboe, Bassoon, Strings, Basso Continuo",[Incomplet]
-581.0000 ,RV 581,,,"""Per la Santissima Assontione di Maria Vergine""",Concerto,C major,"1. Adagio e staccato (do majeur) / Allegro ma poco
-[voir 1er movement de RV 179 et RV 179a]
-2. Largo (do majeur)
-[voir 2e movement de RV 179 et RV 179a]
-3. Allegro (do majeur)
-[voir 3e movement de RV 179]","Violin, 2 String Orchestras, Basso Continuo",
-582.0000 ,RV 582,,,"""Per la Santissima Assontione di Maria Vergine""",Concerto,D major,"1. Allegro (ré majeur)
-2. Grave (ré mineur)
-violon solo et violons du chœur I
-3. Allegro (ré majeur)","Violin, 2 String Orchestras, Basso Continuo (Organ)",
-556.0000 ,RV 556,,,"""Per la Solennita di San Lorenzo""",Concerto,C major,"1. Largo (do majeur) / Allegro molto
-2. Largo e cantabile (sol mineur)
-instrumentation (?)
-3. ... (do majeur)","2 Violins, 2 Recorders, 2 Oboes, 2 Trumpets, Bassoon, Lute(?), Strings, Basso Continuo",
-556.1000 ,RV 556a,,,"""Per la Solennita di San Lorenzo""",Concerto,C major,,,
-562.0000 ,RV 562,,,"""Per la Solennita di San Lorenzo""",Concerto,D major,"1. Andante (ré majeur) / Allegro
-2. Grave/Adagio (ré mineur)
-violon solo, cordes et basse continue (?)
-3. Allegro (ré majeur)
-avec cadence
-[voir 3e movement de RV 562a et cadence de RV 208]","Violin, 2 Oboe, 2 Horns, Strings, Basso Continuo (Organ or Harpsichord)",[Incomplet]
-577.0000 ,RV 577,,,"""Per l'orchestra di Dresda""",Concerto,G minor,"1. ... (sol mineur)
-2. Largo non molto (do mineur)
-violon ou hautbois solo et basson
-3. Allegro (sol mineur)","2 Violins, 2 Recorders, 2 Oboe, Bassoon, Strings, Basso Continuo",
 999.0630 ,RV Anh. 63,,,13 Motets,Motet,,,,[Oeuvre de Filippo Vitali]
 746.0000 ,RV 746,,,2 Pieces,,A major,,Organ,
 999.0590 ,RV Anh. 59,,,28 Arias anonymes attributed to Vivaldi,,,"RV Anh. 59/1. ""Che m'ami ti prega""
@@ -76,8 +32,8 @@ RV Anh. 59/28. ""Tortorella innamorata""",,[Pastiche]
 999.1270 ,RV Anh. 127,,,32 Opéras non entièrement de Vivaldi,,,,,
 999.1271 ,RV Anh. 127a,,,47 Opéras contenant des airs de Vivaldi,,,,,
 999.0610 ,RV Anh. 61,,,7 Cantates,,,,,[Faussement identifiés par Rinaldi - 5 cantates RN 318 et 2 cantates RN 319]
-999.0360 ,RV Anh. 36,,,Ad te levavi,,,,,[Œuvre de Giuseppe Antonio Bernabei]
-999.0400 ,RV Anh. 40,,,Alessandro nell'Indie,,,,,[Œuvre de Johann Adolph Hasse]
+999.0360 ,RV Anh. 36,,,Ad te levavi,,,,,[by Giuseppe Antonio Bernabei]
+999.0400 ,RV Anh. 40,,,Alessandro nell'Indie,,,,,[by Johann Adolph Hasse]
 670.0000 ,RV 670,,,"Alla caccia, alla caccia",Cantata,,"1. Alla caccia dell'alme e de' cori
 air pour alto et basse continue
 Allegro (ré majeur)
@@ -136,7 +92,7 @@ réciatif pour alto
 4. Se à me rivolge il ciglio
 air pour alto avec cordes et basse continue
 Allegro (do majeur)","A, Strings, Basso Continuo",Texte: Inconnu Même texte que RV 651
-999.1170 ,RV Anh. 117,,,Andromeda liberata,,,,,[Pastiche]
+999.1170 ,RV Anh. 117,,,Andromeda liberata,Pasticcio,,,,[Pastiche]
 697.1000 ,RV 697A,,,Argippo,Opera,,,,"Viennese version, 1730"
 999.1370 ,RV Anh. 137,,,Argippo,Opera,,,,by Antonio Denzio?
 697.0000 ,RV 697,,,"Argippo, Prague, 1730",Opera,,"Act 1
@@ -167,10 +123,11 @@ Act 3
 [Perdu]"
 647.0000 ,RV 647,,,Aria de Sanctis: Nato pastor pro me /Eja voces plausum date,Aria,E-flat major,,"Bass, Strings, Basso Continuo","see Anh 59:23
 [parodie de l'air ""Benche nasconda"", RV 728, II:2]"
+748.0000 ,RV 748,,,Aria in G major,Aria,G major,,S,Per la communione
 999.0420 ,RV Anh. 42,,,Ariodante,,,,,[Composition collective]
 698.0000 ,RV 698,,,Aristide,Opera,,,,[see Anh. 89]
 699.0000 ,RV 699,,,Armida al campo d'Egitto,Opera,,,,Libretto : Giovanni Palazzi
-699.2000 ,RV 699b,,,"Armida al campo d'Egitto, Mantova, 1718",,,"Act 1
+699.2000 ,RV 699b,,,"Armida al campo d'Egitto, Mantova, 1718",Opera,,"Act 1
 1. Recitative ""Viva del Mundo il Lume"" [see RV 699A I:1]
 2. Aria ""E legge il tuo piacer"" (Adrasto)
 3. Aria ""Del tuo viso in un momento"" (Tisaferno)
@@ -214,7 +171,7 @@ Act 3
 10. Aria ""Sento in seno ch'in pioggia di lagrime"" (Osmira) [see RV 717 III:1; RV 737 II:13]
 11. Aria ""Se pietoso il moi destino"" (Erminia) [see RV 699A III:11]
 13. Chorus ""A pugnar, a ferir, a svenar"" [see RV 699A III:13]","B, A, S, ?, ?, A, ?, SAB Choir, Instrumentation Inconnue",[Lost]
-699.1000 ,RV 699a,,,"Armida al campo d'Egitto, Venise, 1718",,,"0. Sinfonia ""Allegro"" / ""..."" / ""Allegro"" [see RV 710 Sinfonia]
+699.1000 ,RV 699a,,,"Armida al campo d'Egitto, Venise, 1718",Opera,,"0. Sinfonia ""Allegro"" / ""..."" / ""Allegro"" [see RV 710 Sinfonia]
 
 Act 1
 1. Recitative ""O'dell'altra Mensi, e dell'oppressa amica""
@@ -308,7 +265,7 @@ Act 3
 
 13. Recitative ""Ecco il Reo Principessa, tu la pena prescrivi alla sua culpa""
 13. Chorus ""A'pugnar, à ferir, à svenar"" (Chorus)","S1, S2, S3, A1, A2, A3, B, SAB Choir, Solo Violin, Solo Violoncello, 2 Horns, Strings, Basso Continuo",[Incomplete]
-699.4000 ,RV 699d,,,"Armida al campo d'Egitto, Venise, 1738",,,"0. Sinfonia [see RV 699A (Sinfonia, 3 movements)]
+699.4000 ,RV 699d,,,"Armida al campo d'Egitto, Venise, 1738",Opera,,"0. Sinfonia [see RV 699A (Sinfonia, 3 movements)]
 
 Act 1
 1. Recitative ""O dell' altera Mensi""
@@ -368,7 +325,7 @@ Act 3
 
 11. Recitative ""Ecco il Reo Principessa"" [see RV 699A III:13]
 11. Chorus ""A pugnar, a ferir, a svenar"" (Chorus) [see RV 699A III:13]","B, A, S1, S2, S3, A1, A2, SAB Choir, Solo Violin, Solo Cello, Strings, Basso Continuo",[Incomplete]
-699.3000 ,RV 699c,,,"Armida al campo d'Egitto, Vicenza, 1720",,,"Act 1
+699.3000 ,RV 699c,,,"Armida al campo d'Egitto, Vicenza, 1720",Opera,,"Act 1
 1. Chorus ""Viva del Mundo il Lume"" [see RV 699A I:1]
 2. Duet ""Questo ferro, e questo petto / Un tuo cenno un tuo commando"" (Adrasto, Tisaferno) [see RV 699A I:2]
 3. Aria ""Molli affetti"" (Armida)
@@ -749,7 +706,7 @@ choeur I : choeur (SATB) avec 2 hautbois, cordes et basse continue; choeur II : 
 … (C major)","Double Choirs I: Soloists (SATB), SATB Choir, 2 Oboes, Strings, Basso Continuo (Organ); II: S, SATB Choir, Strings, Basso Continuo (Organ)",[Version de RV 795]
 598.0000 ,RV 598,,,Beatus vir,Psalm,B-flat major,I. Beatus vir qui timet Dominum Allegro (B-flat major),"Soloists (SSA), SATB Choir, Strings, Basso Continuo",Texte: Inconnu
 599.0000 ,RV 599,,,Beatus vir,Psalm,,,,[Lost]
-999.0280 ,RV Anh. 28,,,Beatus vir,,,,,[Anonyme]
+999.0280 ,RV Anh. 28,,,Beatus vir,Psalm,,,,[Anonyme]
 795.0000 ,RV 795,,,"Beatus vir, psaume 111",Psalm,C major,"I. Beatus vir
 choeur (SATB) avec cordes et basse continue
 Allegro (C major)
@@ -815,7 +772,7 @@ III. Avenae rusticae sinceri
 aria pour soprano avec hautbois, cordes et basse continue
 Allegro (G major)","S, 2 or 4 Oboes, 2 String Orchestras, Basso Continuo","Texte: Inconnu
 introduction à un Dixit"
-999.0600 ,RV Anh. 60,,,Cantates,,,,,[Aucune cantate au nom de Vivaldi dans le recueil]
+999.0600 ,RV Anh. 60,,,Cantatas,Cantata,,,,[Aucune cantate au nom de Vivaldi dans le recueil]
 624.0000 ,RV 624,,,Carae rosae respirate,Motet,,"I. Carae rosae respirate
 aria pour soprano avec violons I/II et basse continue
 Allegro (G major)
@@ -1028,6 +985,7 @@ aria pour alto, cordes et basse continue
 Allegro (F major)","A, Strings, Basso Continuo",Texte: Inconnu
 743.0000 ,RV 743,,,Composition instrumentale,,F major,,,
 750.0000 ,RV 750,,,Compositions diverses,,,,,
+999.0020 ,RV Anh. 2,,,Concerto / Sinfonia in C major,Concerto / Sinfonia,C major,,"Strings, Basso Continuo",[Oeuvre de Giovanni Battista Sammartini
 531.0000 ,RV 531,,,Concerto for 2 Cellos in G minor,Concerto,G minor,"1. Allegro (sol mineur)
 2. Largo (sol mineur)
 2 violoncelles et basse continue
@@ -1248,6 +1206,12 @@ flûte traversière et violons I/II
 violon et violoncelle solo avec basse continue
 3. ... (fa majeur
 [voir 3e movement de RV 572]","Violin, Cello, Strings, Basso Continuo",
+396.0000 ,RV 396,,,Concerto in A major,Concerto,A major,"1. Allegro (la majeur)
+[voir 1er movement de RV 768]
+2. Andante (la majeur)
+viole d'amour, violons I/II et alto
+3. Allegro (la majeur)
+[voir 3e movement de RV 768]","Viola d'amore, Strings, Basso Continuo",
 546.0000 ,RV 546,,,Concerto in A major,Concerto,A major,"1. Allegro (la majeur)
 [voir 1er movement de RV 780]
 2. Andante (la majeur)
@@ -1255,9 +1219,41 @@ violon, violoncelle, violons I/II, alto et basse continue
 [voir 2e movement de RV 780]
 3. Allegro (la majeur)
 [voir 3e movement de RV 780]","Violin, Cello ""all'Inglese"", Strings, Basso Continuo",[Même oeuvre que RV 780]
+552.0000 ,RV 552,,,Concerto in A major,Concerto,A major,"1. Allegro (la majeur)
+2. Larghetto (si mineur)
+violon solo, violons I/II et alto; Echo : violon solo et violons I/II
+3. Allegro (la majeur)","Violin, Echo Violin or 3 Violins, Strings, Basso Continuo",
+585.0000 ,RV 585,,,Concerto in A major,Concerto,A major,"1. … (la majeur)
+2. … (la majeur)
+3. … (ré majeur)
+4. … (la majeur)
+avec violoncelle dans les deux choeurs","Coro I：
+2 Violins, 2 Recorders, Strings, Basso Continuo (Organ/Violoncello)
+Coro II：
+2 Solo Violins, 2 Recorders, Organ, Strings, Basso Continuo (Organ)",
+763.0000 ,RV 763,,,Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Cotinuo",L'Ottavina
+768.0000 ,RV 768,,,Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Cotinuo",
+780.0000 ,RV 780,,,Concerto in A major,Concerto,A major,"1. Allegro (la majeur)
+[voir 1er movement de RV 546]
+2. Andante (la majeur)
+clavecin, violons I/II, alto et basse continue
+[voir 2e movement de RV 546]
+3. Allegro (la mejeur)
+[voir 3e movement de RV 546]","Harpsichord, Strings, Basso Continuo",Même œuvre que RV 546
+792.0000 ,RV 792,,,Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Cotinuo",
+817.0000 ,RV 817,,,Concerto in A major,Concerto,A major,,,previously RV Anh. 86
 108.0000 ,RV 108,,,Concerto in A minor,Concerto,A minor,"I. Allegro (A minor)
 II. Largo (A minor)
 III. Allegro (A minor)","Recorder, 2 Violins, Basso Continuo",
+397.0000 ,RV 397,,,Concerto in A minor,Concerto,A minor,"1. Allegro (la mineur)
+2. Largo (la mineur)
+viole d'amour, 2 violons solo et un alto solo
+3. Allegro (la mineur)","Viola d'amore, Strings, Basso Continuo",
+522.1000 ,RV 522a,,,Concerto in A minor,Concerto,A minor,,2 Violins,
+580.0000 ,RV 580,op. 3/10,,Concerto in B minor,Concerto,B minor,"1. Allegro (si mineur)
+2. Largo (si mineur)
+3. Larghetto (si mineur)
+4. Allegro (si mineur)","4 Violins, Cello, Strings (+2 Violas), Basso Continuo (Harpsichord)",
 547.0000 ,RV 547,,,Concerto in B-flat major,Concerto,B-flat major,"1. Allegro (si bémol majeur)
 2. Andante (fa majeur)
 violon, violoncelle et basse continue
@@ -1268,6 +1264,31 @@ violon, violoncelle et basse continue
 [voir 2e movement de RV 764 et 2e movement de RV 107]
 3. Allegro (si bémol majeur)
 [voir 3e movement de RV 764]","Violin, Oboe, Strings, Basso Continuo",[Même oeuvre que RV 764]
+553.0000 ,RV 553,,,Concerto in B-flat major,Concerto,B-flat major,"1. Allegro (si bémol majeur)
+2. Largo (ré mineur)
+3. Allegro (si bémol majeur)","4 Violins, Violas, Basso Continuo",
+583.0000 ,RV 583,,,Concerto in B-flat major,Concerto,B-flat major,"1. Largo e spiccato (si bémol majeur) / Presto
+2. Andante (si bémol majeur)
+violon solo avec violons I/II du chœur I et violons I/II, alto et basse continue du chœur II
+[voir 2e movement de RV 372a]
+3. Allegro (si bémol majeur) avec cadence","Discorded Violin, 2 String Orchestras, Basso Continuo",
+764.0000 ,RV 764,,,Concerto in B-flat major,Concerto,B-flat major,"1. Allegro (si bémol majeur)
+[voir 1er movement de RV 548]
+2. Largo (sol mineur)
+[voir 2e movement de RV 107 et RV 548]
+3. Allegro (si bémol majeur)
+[voir 3e movement de RV 548]","2 Violins, Strings, Basso Continuo",[Même oeuvre que RV 548]
+788.0000 ,RV 788,,,Concerto in B-flat major,Concerto,B-flat major,"1. Allegro (si bémol majeur)
+2. Larghetto (ré mineur)
+3. Allegro (si bémol majeur)","Cello, Strings, Basso Continuo",
+790.0000 ,RV 790,,,Concerto in B-flat major,Concerto,B-flat major,,"Violin, Strings, Basso Continuo",
+579.0000 ,RV 579,,,"Concerto in B-flat major ""Concerto funèbre""",Concerto,B-flat major,"1. Largo (si bémol majeur)
+[voir RV 738, III:12]
+2. Allegro poco poco (si bémol majeur)
+3. Adagio (do mineur)
+4. Allegro (si bémol majeur)
+Tutti senza sordini
+[voir 3e movement de RV 123]","Violin, Oboe, salmoe, 3 Violas da gamba, Strings, Basso Continuo",
 87.0000 ,RV 87,,,Concerto in C major,Concerto,C major,"I. Adagio (C major) / Allegro
 II. Largo (C major) flûte à bec et basse continue
 III. Allegro assai (C major)","Recorder, Oboe, 2 Violins, Basso Continuo",
@@ -1278,6 +1299,84 @@ III. Allegro molto (C major)","Transverse Flute, Oboe, Violin, Bassoon, Basso Co
 II. Grave ou Adagio (C major)
 [voie 2e movement de RV 298]
 III. Allegro (C major)","Strings (+?Oboe), Basso Continuo (Organ)",
+554.0000 ,RV 554,,,Concerto in C major,Concerto,C major,"1. ... (do majeur)
+[voir 1er movement de RV 554a]
+2. ... (do majeur)
+violon, hautbois et orgue
+[voir 2e movement de RV 554a]
+3. Allegro (do majeur)
+[voir 3e movement de RV 554a]","Violin, Organ/Violin, Oboe, Strings, Basso Continuo",
+554.1000 ,RV 554a,,,Concerto in C major,Concerto,C major,"1. ... (do majeur)
+[voir 1er movement de RV 554]
+2. ... (do majeur)
+[voir 2e movement de RV 554]
+3. Allegro (do majeur)
+[voir 3e movement de RV 554]","Violin, Organ/Violin, Cello, Strings, Basso Continuo",[Même oeuvre que RV 554]
+555.0000 ,RV 555,,,Concerto in C major,Concerto,C major,"1. Allegro (do majeur)
+2. Largo a piacimento (do majeur)
+violon solo et 2 clavevins
+3. Allegro (do majeur)
+avec 2 trompettes","3 Violins, Oboe, 2 Recorders, 2 Violas da gamba, 2 Salmoes, 2 Cellos, 2 Harpsichords, Strings, Basso Continuo",
+557.0000 ,RV 557,,,Concerto in C major,Concerto,C major,"1. Allegro non molto (do majeur)
+2 violons solo, 2 hautbois, cordes et basse continue
+2. Largo (sol majeur)
+2 flûtes à bec et basson
+3. Allegro non molto (do majeur)
+2 violons solo, 2 hautbois, cordes et basse continue","2 Violins, 2 Oboes, Strings, Basso Continuo",
+558.0000 ,RV 558,,,Concerto in C major,Concerto,C major,"1. Allegro molto (do majeur)
+2. Andante molto (sol majeur)
+violons I/II, alto, mandoline et basse continue
+3. Allegro (do majeur)","2 Violins ""in tromba"", 2 Recorders, 2 Mandolins, 2 Salmoes, 2 Theorbos, Cello, Strings, Basso Continuo",
+559.0000 ,RV 559,,,Concerto in C major,Concerto,C major,"1. Larghetto (do majeur)
+2. Largo (do majeur)
+2 clarinettes et 2 hautbois
+3. Allegro (do majeur)","2 Oboe, 2 clarinettes, Strings, Basso Continuo",
+560.0000 ,RV 560,,,Concerto in C major,Concerto,C major,"1. Larghetto (do majeur)
+2. Largo (fa majeur)
+2 hautbois, violons I/II, alto et basse continue
+3. ... (do majeur)","2 Oboe, 2 clarinettes, Strings, Basso Continuo",
+561.0000 ,RV 561,,,Concerto in C major,Concerto,C major,"1. Allegro (do majeur)
+[voir RV 778, III:4]
+2. Largo (do majeur)
+violon, 2 violoncelles et basse continue
+3. Allegro (do majeur)","Violin, 2 Cellos, Strings, Basso Continuo",
+774.0000 ,RV 774,,,Concerto in C major,Concerto,C major,"1. Allegro (do majeur)
+[voir 1er movement de RV 123]
+2. Adagio (sol majeur)
+3. Allegro (do majeur)","Violin, Organ, Strings, Basso Continuo",[Incomplet]
+793.0000 ,RV 793,,,Concerto in C major,Concerto,C major,"1. … (do majeur)
+2. Andante ??
+3. Allegro (do majeur)","2 Organs, 2 String Orchestras, Basso Continuo",[Incomplet]
+808.0000 ,RV 808,,,Concerto in C major,Concerto,C major,"1. ... (do majeur)
+2. Largo (do majeur)
+3. Allegro (do majeur)","Violin, Organ, Strings, Basso Continuo",[Incomplet]
+581.0000 ,RV 581,,,"Concerto in C major ""Per la Santissima Assontione di Maria Vergine""",Concerto,C major,"1. Adagio e staccato (do majeur) / Allegro ma poco
+[voir 1er movement de RV 179 et RV 179a]
+2. Largo (do majeur)
+[voir 2e movement de RV 179 et RV 179a]
+3. Allegro (do majeur)
+[voir 3e movement de RV 179]","Violin, 2 String Orchestras, Basso Continuo",
+556.0000 ,RV 556,,,"Concerto in C major ""Per la Solennita di San Lorenzo""",Concerto,C major,"1. Largo (do majeur) / Allegro molto
+2. Largo e cantabile (sol mineur)
+instrumentation (?)
+3. ... (do majeur)","2 Violins, 2 Recorders, 2 Oboes, 2 Trumpets, Bassoon, Lute(?), Strings, Basso Continuo",
+556.1000 ,RV 556a,,,"Concerto in C major ""Per la Solennita di San Lorenzo""",Concerto,C major,,,
+441.0000 ,RV 441,,,Concerto in C minor,Concerto,C minor,"1. Allegro non molto (do mineur)
+2. Largo (do mineur)
+3. ... (do mineur)","Alto Recorder, Strings, Basso Continuo",
+761.0000 ,RV 761,,,Concerto in C minor,Concerto,C minor,"1. Allegro (do mineur)
+2. Largo (do mineur)
+3. Allegro (do mineur)","Violin, Strings, Basso Continuo (Harpsichord)","""Amato bene"""
+766.0000 ,RV 766,,,Concerto in C minor,Concerto,C minor,"1. Allegro (do mineur)
+[voir 1er movement de RV 510]
+2. Largo (do mineur)
+violon solo et orgue
+[voir 2e movement de RV 510]
+3. Allegro (do mineur)
+[voir 3e movement de RV 510]","Violin, Organ, Strings, Basso Continuo",[Même oeuvre que RV 510]
+771.0000 ,RV 771,,,Concerto in C minor,Concerto,C minor,"1. Andante (do mineur)
+2. Grave (do mineur)
+3. Allegro (do mineur)","Violin, Strings, Basso Continuo",
 89.0000 ,RV 89,,,Concerto in D major,Concerto,D major,,"Transverse Flute, 2 Violins, Basso Continuo (Harpsichord)",[see Anh. 102]
 90.0000 ,RV 90,,,Concerto in D major,Concerto,D major,"I. Allegro (D major)
 [see 1er movement de RV 90a, RV 90b, RV 428]
@@ -1322,9 +1421,72 @@ III. Allegro (D major)","Recorder, Oboe, Violin, Bassoon, Basso Continuo",
 II. Largo (D major)
 violon et basse continue
 III. Allegro (D major)","3 Violins, Cello, Basso Continuo",[Même oeuvre que RV 95 mais instruments différents]
+392.0000 ,RV 392,,,Concerto in D major,Concerto,D major,"1. ... (ré majeur)
+2. Largo (si mineur)
+3. Allegro (ré majeur)","Viola d'amore, Strings, Basso Continuo",
+562.1000 ,RV 562a,,,Concerto in D major,Concerto,D major,"1. Allegro (ré majeur)
+2. Grave (ré majeur)
+violon solo, cordes et basse continue
+3. Allegro (ré majeur)
+[voir 3e movement de RV 562, sans cadence]","Violin, 2 Oboes, 2 Horns, Timpani, Strings, Basso Continuo",
+563.0000 ,RV 563,,,Concerto in D major,Concerto,D major,,"Violin, 2 Oboe, Strings, Basso Continuo",[Même oeuvre que RV 781]
+564.0000 ,RV 564,,,Concerto in D major,Concerto,D major,"1. Allegro (ré mineur)
+[voir 1er movement de RV 564a et RV 710, II:13]
+2. Largo (ré majeur)
+3. Allegro (ré majeur)
+[voir 3e movement de RV 564a]","2 Violins, 2 Cellos, Strings, Basso Continuo",
+564.1000 ,RV 564a,,,Concerto in D major,Concerto,D major,"1. Allegro (ré mineur)
+[voir 1er movement de RV 564 et RV 710, II:13]
+2. Adagio non molto (ré majeur)
+2 violons solo, basson, cordes et basse continue
+3. Allegro (ré majeur)
+[voir 3e movement de RV 564]","2 Violins, 2 Oboe, Bassoon, Strings, Basso Continuo",
+751.0000 ,RV 751,,,Concerto in D major,Concerto,D major,,"2 Transverse Flutes, 2 Violins, 2 Bassoons
+Bassoon, Strings, Basso Continuo",[Lost]
+752.0000 ,RV 752,,,Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",
+772.0000 ,RV 772,,,Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",
+781.0000 ,RV 781,,,Concerto in D major,Concerto,D major,"1. Allegro (ré majeur)
+2. Grave (fa majeur)
+violon solo, cordes et basse continue
+3. Allegro (ré majeur)","2 Trumpets(/Oboes), Strings, Basso Continuo","[Même œuvre pour hautbois, RV 563]"
+783.0000 ,RV 783,,,Concerto in D major,Concerto,D major,"1. ... (ré majeur)
+2. Largo (ré majeur)
+flûte traversière, violons I/II et alto
+3. Allegro (ré majeur)","Transverse Flute, Strings, Basso Continuo",
+818.0000 ,RV 818,,,Concerto in D major,Concerto,D major,,,"[Incomplet]
+previously RV Anh. 72"
+582.0000 ,RV 582,,,"Concerto in D major ""Per la Santissima Assontione di Maria Vergine""",Concerto,D major,"1. Allegro (ré majeur)
+2. Grave (ré mineur)
+violon solo et violons du chœur I
+3. Allegro (ré majeur)","Violin, 2 String Orchestras, Basso Continuo (Organ)",
+562.0000 ,RV 562,,,"Concerto in D major ""Per la Solennita di San Lorenzo""",Concerto,D major,"1. Andante (ré majeur) / Allegro
+2. Grave/Adagio (ré mineur)
+violon solo, cordes et basse continue (?)
+3. Allegro (ré majeur)
+avec cadence
+[voir 3e movement de RV 562a et cadence de RV 208]","Violin, 2 Oboe, 2 Horns, Strings, Basso Continuo (Organ or Harpsichord)",[Incomplet]
 96.0000 ,RV 96,,,Concerto in D minor,Concerto,D minor,"I. Allegro (D minor)
 II. Largo (B-flat major)
 III. Allegro (D minor)","Transverse Flute, Violin, Bassoon, Basso Continuo (Harpsichord)",
+393.0000 ,RV 393,,,Concerto in D minor,Concerto,D minor,"1. ... (ré mineur)
+[voir 1er movement de RV 769]
+2. ... (ré mineur)
+viole d'amour et basse continue
+[voir 2e movement de RV 769]
+3. ... (ré mineur)
+[voir 3e movement de RV 769]","Viola d'amore, Strings, Basso Continuo",
+394.0000 ,RV 394,,,Concerto in D minor,Concerto,D minor,"1. Allegro (ré mineur)
+2. Largo (ré mineur)
+viole d'amour, cordes et basse sans clavecin
+3. Allegro (ré mineur)","Viola d'amore, Strings, Basso Continuo (Harpsichord)",
+395.0000 ,RV 395,,,Concerto in D minor,Concerto,D minor,"1. Allegro (ré mineur)
+[voir 1er movement de RV 395a et RV 770]
+2. Largo (ré mineur)
+viole d'amour, violons I/II et alto
+[voir 2e movement de RV 395a et RV 770]
+3. Allegro (ré mineur)
+[voir 3e movement de RV 395a et de RV 770]","Viola d'amore, Strings, Basso Continuo",
+395.1000 ,RV 395a,,,Concerto in D minor,Concerto,D minor,,"Viola d'amore, Strings, Basso Continuo",
 540.0000 ,RV 540,,,Concerto in D minor,Concerto,D minor,"1. Allegro (ré mineur)
 2. Largo (fa majeur)
 viole d'amour, luth et violons I/II
@@ -1333,10 +1495,24 @@ viole d'amour, luth et violons I/II
 2. Grave (sol mineur)
 violon, orgue et basse continue (?)
 3. ... (ré mineur)","Violin, Organ, Strings, Basso Continuo",
+565.0000 ,RV 565,op. 3/11,,Concerto in D minor,Concerto,D minor,"1. Allegro (ré mineur) / Adagio e spiccato
+2. Allegro (ré mineur)
+3. Largo e spiccato (ré mineur)
+4. Allegro (ré mineur)","2 Violins, Cello, Strings, Basso Continuo (Harpsichord)",[Transcrit par Bach - BWV 596]
+566.0000 ,RV 566,,,Concerto in D minor,Concerto,D minor,"1. Allegro assai (fa majeur)
+2. Largo (do majeur)
+2 flûtes et basson
+3. Allegro (fa majeur)","2 Violins, 2 Recorders, 2 Oboe, Bassoon, Strings, Basso Continuo",
+769.0000 ,RV 769,,,Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo","[Même œuvre que pour viole d'amour, 393]"
+770.0000 ,RV 770,,,Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo","[Même oeuvre pour viole de gambe, 395]"
 129.0000 ,RV 129,,,"Concerto in D minor ""Madrigalesco""",Concerto,D minor,"I. Adagio (D minor) / Allegro
 [see 2e movement de RV 491, 1er movement de RV 587 et 1er movement de RV 610 et RV 611]
 II. Adagio (D minor)
 III. ... (D minor)","Strings, Basso Continuo",
+762.0000 ,RV 762,,,Concerto in E major,Concerto,E major,,"Violin, Strings, Basso Cotinuo (Organ)",
+787.0000 ,RV 787,,,Concerto in E major,Concerto,E major,"1. Allegro (mi mineur)
+2. Largo (mi mineur)
+3. Allegro molto (mi mineur)","Cello, Strings, Basso Continuo",
 97.0000 ,RV 97,,,Concerto in F major,Concerto,F major,"I. Largo (F major)
 II. Allegro (F major)
 III. Largo (A minor)
@@ -1358,6 +1534,13 @@ III. Allegro (F major)
 100.0000 ,RV 100,,,Concerto in F major,Concerto,F major,"I. Allegro (F major)
 II. ... (C major) flûte traversière et basson
 III. Allegro (F major)","Transverse Flute, Violin, Bassoon, Basso Continuo",
+442.0000 ,RV 442,,,Concerto in F major,Concerto,F major,"1. Allegro ma non molto (fa majeur)
+[voir 1er movement de RV 434]
+2. Largo cantabile (fa mineur) / Largo cantabile (fa majeur)
+1ere version : flûte à bec alto, violons I/II, alto et basse continue; 2e version : flûte à bec, violons I/II sordini et alto sordini
+[1ere version : voir 2e movement de RV 434, RV 740, II:4 et RV 749.24]
+3. flûte à bec alto, cordes sordini et basse continue
+[voir 3e movement de RV 434]","Alto Recorder, Strings, Basso Continuo",
 542.0000 ,RV 542,,,Concerto in F major,Concerto,F major,"1. ... (fa majeur)
 2. ... (fa majeur)
 violon et orgue
@@ -1373,6 +1556,67 @@ violon et hautbois solo, cordes et basse continue
 [voir 3e movement de RV 139]
 4. Minuet (fa majeur)
 cordes et basse continue","Violin, Oboe, Strings, Basso Continuo",
+567.0000 ,RV 567,op. 3/7,,Concerto in F major,Concerto,F major,"1. Andante (fa majeur)
+2. Adagio (fa majeur)
+3. Allegro (fa majeur)
+4. Adagio (fa majeur)
+5. Allegro (fa majeur)","4 Violins, Cello, Strings, Basso Continuo (Harpsichord)",
+568.0000 ,RV 568,,,Concerto in F major,Concerto,F major,"1. Allegro assai (fa majeur)
+2. Grave (do majeur)
+hautbois solo et basse continue
+3. Allegro assai (fa majeur)","Violin, 2 Oboe, 2 Horns, Bassoon, Strings, Basso Continuo (Harpsichord)",
+569.0000 ,RV 569,,,Concerto in F major,Concerto,F major,"1. Allegro (fa majeur)
+2. Grave (fa majeur)
+violon solo, cordes et basse continue
+3. Allegro (fa majeur)
+avec violoncelle solo","Violin, 2 Oboe, 2 Horns, Bassoon, Strings, Basso Continuo (Harpsichord)",
+571.0000 ,RV 571,,,Concerto in F major,Concerto,F major,"1. Allegro (fa majeur)
+avec violoncelle solo
+[voir 1er movement de RV 99]
+2. Largo (si bémol majeur)
+violon solo, violons I/II et alto
+[voir 2e movement de RV 99]
+3. Allegro (fa majeur)
+[voir 3e movement de RV 99 et RV 729a, II:1]","Violin, 2 Oboe, 2 Horns, Bassoon, Strings, Basso Continuo (Organ or Harpsichord)",
+573.0000 ,RV 573,,,Concerto in F major,Concerto,F major,"1. Allegro (fa majeur)
+2. Largo
+3. Presto","2 Oboe, 2 Horns, 2 Bassoons, Strings, Basso Continuo",[Perdu]
+574.0000 ,RV 574,,,Concerto in F major,Concerto,F major,"1. Allegro (fa majeur)
+2. Grave (fa majeur)
+3. Allegro (fa majeur)
+avec violoncelle solo","Violin, 2 Oboe, 2 Trombones, Bassoon, Strings, Basso Continuo (Organ or Harpsichord)",
+584.0000 ,RV 584,,,Concerto in F major,Concerto,F major,1. Allegro non molto (fa majeur),"2 Violins, 2 Solo Organs, 2 String Orchestras, Basso Continuo",[Incomplet]
+765.0000 ,RV 765,,,Concerto in F major,Concerto,F major,"1. Allegro (fa majeur)
+[voir 1er movement de RV 767]
+2. Larghetto (la mineur)
+2 violons et basse continue
+[voir 2e movement de RV 767]
+3. Allegro (fa majeur)
+[voir 3e movement de RV 767]","2 Violins, Strings, Basso Continuo",[Même oeuvre que RV 767]
+767.0000 ,RV 767,,,Concerto in F major,Concerto,F major,"1. Allegro (fa majeur)
+[voir 1er movement de RV 765]
+2. Larghetto (la mineur)
+[voir 2e movement de RV 765]
+3. Allegro (fa majeur)
+[voir 3e movement de RV 765]","Violin, Organ, Strings, Basso Continuo",[Même oeuvre que RV 765]
+773.0000 ,RV 773,,,Concerto in F major,Concerto,F major,,"Violin, Strings, Basso Cotinuo",see RV Anh. 154
+775.0000 ,RV 775,,,Concerto in F major,Concerto,F major,"1. ...(fa majeur)
+[voir 1er movement de RV 285]
+2. ... (la mineur)
+3. ... (fa majeur)","Violin, Organ, Strings, Basso Continuo",[Incomplet]
+794.0000 ,RV 794,,,Concerto in F major,Concerto,F major,,"Violin, Strings, Basso Cotinuo",
+570.0000 ,RV 570,,,"Concerto in F major  ""La tempesta di mare""",Concerto,F major,"1. ... (fa majeur)
+avec violon solo
+[voir 1er movement de RV 98 et de RV 433]
+2. Largo (sol mineur)
+[voir 2e movement de RV 98]
+3. Presto (fa majeur)
+[voir 3e movement de RV 98]","Transverse Flute, Oboe, Bassoon, Strings, Basso Continuo",[Incomplet]
+572.0000 ,RV 572,,,"Concerto in F major ""Il Proteo o sia il mondo al rovescio""",Concerto,F major,"1. Allegro (fa majeur)
+[voir 1er movement de RV 544]
+2. Largo (do majeur)
+3. ... (fa majeur)
+[voir 3e movement de RV 544]","Violin, Cello, 2 Transverse Flutes, 2 Oboe, Strings, Basso Continuo. (Harpsichord)",
 101.0000 ,RV 101,,,Concerto in G major,Concerto,G major,"I. ... (G major)
 [see 4e movement de RV 3 et 1er movement de RV 437]
 II. Largo (D minor)
@@ -1380,10 +1624,17 @@ II. Largo (D minor)
 III. Allegro (G major)
 [see 3e movement de RV 437]","Recorder, Oboe, Violin, Bassoon, Basso Continuo",
 102.0000 ,RV 102,,,Concerto in G major,Concerto,G major,,"Transverse Flute, 2 Violins, Basso Continuo",[see Anh. 103]
+438.1000 ,RV 438a,,,Concerto in G major,Concerto,G major,,Transverse Flute,
 545.0000 ,RV 545,,,Concerto in G major,Concerto,G major,"1. Andante molto (sol majeur)
 2. Largo (sol majeur)
 hautbois, basson et basse continue
 3. Allegro molto (sol majeur)","Oboe, Bassoon, Strings, Basso Continuo",
+575.0000 ,RV 575,,,Concerto in G major,Concerto,G major,"1. Allegro (sol majeur)
+2. Largo (mi mineur)
+2 violons, 2 violoncelles et basse continue
+3. Allegro (sol majeur)","2 Violins, 2 Cellos, Strings, Basso Continuo",[Incomplet(?)]
+784.0000 ,RV 784,,,Concerto in G major,Concerto,G major,1. ... (sol majeur),"Transverse Flute, Strings, Basso Continuo",
+814.0000 ,RV 814,,,Concerto in G major,Concerto,G major,,"Violin, Cello, Strings",[Incomplet]
 103.0000 ,RV 103,,,Concerto in G minor,Concerto,G minor,"I. Allegro ma cantabile (G minor)
 II. Largo (G minor)
 III. Allegro non molto (G minor)","Recorder, Oboe, Bassoon [Basso Continuo]",
@@ -1427,6 +1678,20 @@ III. Allegro (G minor)","2 Violins, Cello, Basso Continuo",[Même oeuvre que RV 
 II. Largo (G minor)
 [see 2e movement de RV 548 et RV 764]
 III. Allegro (B-flat major)","Transverse Flute, Oboe, Violin, Bassoon, Basso Continuo (Harpsichord)",
+576.0000 ,RV 576,,,Concerto in G minor,Concerto,G minor,"1. ... (sol mineur)
+2. Larghetto (ré mineur)
+violon ou hautbois solo, 2 flûtes à bec, 2 hautbois, cordes, basson et basse continue
+3. Allegro (sol mineur)","Violin, Oboe, 2 Recorders, 2 Oboe, Bassoon, Strings, Basso Continuo (Harpsichord)",
+578.0000 ,RV 578,op. 3/2,,Concerto in G minor,Concerto,G minor,"1. Adagio e spiccato (sol mineur)
+2. Allegro (sol mineur)
+3. Larghetto (sol mineur)
+4. Allegro (sol mineur)","2 Violins, Cello, Strings, Basso Continuo (Harpsichord)",
+578.1000 ,RV 578a,,,Concerto in G minor,Concerto,G minor,,"2 Violins, Cello",
+812.0000 ,RV 812,,,Concerto in G minor,Concerto,G minor,,"Oboe, Violin, Cello, Strings",
+577.0000 ,RV 577,,,"Concerto in G minor ""Per l'orchestra di Dresda""",Concerto,G minor,"1. ... (sol mineur)
+2. Largo non molto (do mineur)
+violon ou hautbois solo et basson
+3. Allegro (sol mineur)","2 Violins, 2 Recorders, 2 Oboe, Bassoon, Strings, Basso Continuo",
 648.0000 ,RV 648,,,Concertus italicus: Ad corda reclina,Aria,F major,,"A, Strings, Basso Continuo","see Anh 59:15
 [parodie de l'air ""Vedrai nel volto"", RV 700, II:8]"
 646.0000 ,RV 646,,,Concertus italicus: Ihr Himmel nun,Aria,E major,,"A, Solo Violin, Strings, Basso Continuo","see Anh 59:19
@@ -1513,13 +1778,13 @@ récitatif pour soprano avec basse continue
 4. Sempre in vano il Dio d'amore
 air pour soprano avec basse continue
 Allegro (sol mineur)","S, Basso Continuo",Texte: Inconnu
-999.0440 ,RV Anh. 44,,,Demetrio,,,,,[Œuvre de Johann Adolph Hasse]
+999.0440 ,RV Anh. 44,,,Demetrio,,,,,[by Johann Adolph Hasse]
 999.1230 ,RV Anh. 123,,,Der rasende Roland,,,,,
 999.0570 ,RV Anh. 57,,,Der über Liebe und Hass siegende beständigkeit oder Tigranes König von Armenien,,,,,[Composition collective]
 612.0000 ,RV 612,,,Deus tuorum militum,Hymn,C major,"I. Deus tuorum militum
 solistes (AT) avec 2 hautbois, cordes et basse continue (orgue)
 Allegro (C major)","Soloists (AT), 2 Oboes, Strings, Basso Continuo (Organ)",
-999.0670 ,RV Anh. 67,,,Didone abbandonata,,,,,"[Œuvre de Georg Friedrich Händel, HWV A12]"
+999.0670 ,RV Anh. 67,,,Didone abbandonata,Opera,,,,"Georg Friedrich Handel's opera, see HWV A12"
 999.1180 ,RV Anh. 118,,,Didone abbandonata,,,,,[Pastiche]
 594.0000 ,RV 594,,,Dixit Dominus,Psalm,D major,"I. Dixit Dominus
 choeur I : SATB avec 2 trompettes, 2 hautbois, cordes et basse continue; choeur II : SATB avec cordes et basse continue
@@ -1817,8 +2082,8 @@ Allegro (D major)
 [see RV 588 (14)]","Soloists (SSA), SATB Choir, Trumpet, Oboe, Solo Violin, Strings, Basso Continuo",
 590.0000 ,RV 590,,,Gloria,Mass,D major,,"5 Voices, Oboe in trombae",[Lost]
 999.0220 ,RV Anh. 22,,,Gloria,,,,,[Anonyme]
-999.0230 ,RV Anh. 23,,,Gloria,,,,,[Œuvre de Giovanni Maria Ruggieri - Relié à RV 588 et 589]
-999.0240 ,RV Anh. 24,,,Gloria,,,,,[Œuvre de Giovanni Maria Ruggieri]
+999.0230 ,RV Anh. 23,,,Gloria,,,,,[by Giovanni Maria Ruggieri - Relié à RV 588 et 589]
+999.0240 ,RV Anh. 24,,,Gloria,,,,,[by Giovanni Maria Ruggieri]
 999.0480 ,RV Anh. 48,,,Griselda,,,,,[Pastiche de Antonio Bioni]
 718.0000 ,RV 718,,,"Griselda, Venise, 1735",Opera,,,,
 999.1190 ,RV Anh. 119,,,Henrich der Vogler,,,,,[Pastiche]
@@ -3225,7 +3490,7 @@ récitatif pour soprano avec basse continue
 4. Beltà spetata
 air pour soprano avec basse continue
 Allegro (la mineur)","S, Basso Continuo",Texte: Inconnu
-999.0060 ,RV Anh. 6,,,Sinfonia in A major,Sinfonia,A major,,Strings,[Œuvre de Antonio Brioschi]
+999.0060 ,RV Anh. 6,,,Sinfonia in A major,Sinfonia,A major,,Strings,[by Antonio Brioschi]
 168.0000 ,RV 168,,,Sinfonia in B minor,Sinfonia,B minor,"I. Allegro (B minor)
 [see 1er movement de RV 390]
 II. Andante (F-sharp minor)
@@ -3271,6 +3536,9 @@ III. Presto (D major)","Strings, Basso Continuo (Harpsichord)",[Ajout ultérieur
 II. Adagio (B minor)
 III. Allegro (D major)","Strings, Basso Continuo","[Incomplete]
 RV Anh. 156"
+786.0000 ,RV 786,,,Sinfonia in D major,Sinfonia,D major,"I. Allegro molto (D major)
+II. Andante (D major)
+III. Minuetto (D major)","Strings, Basso Continuo",[Incomplete]
 131.0000 ,RV 131,,,Sinfonia in E major,Sinfonia,E major,"I. ... (E major)
 II. Andante (E minor)
 violons I/II, alto, basse (sans clavecin)
@@ -3290,7 +3558,7 @@ III. Presto (G major)","Strings, Basso Continuo (Harpsichord)",
 149.0000 ,RV 149,,,Sinfonia in G major,Sinfonia,G major,"I. Allegro molto (G major)
 II. Andante (G minor) violons I/II con l'arco, violons III/IV pizzicati, alto, violoncelle pizzicati, sans clavecin
 III. Allegro (G major)","Strings, Basso Continuo (Harpsichord)",
-999.0040 ,RV Anh. 4,,,Sinfonia in G major,Sinfonia,G major,,"Strings, Basso Continuo",[Œuvre de Johann Adolph Hasse]
+999.0040 ,RV Anh. 4,,,Sinfonia in G major,Sinfonia,G major,,"Strings, Basso Continuo",[by Johann Adolph Hasse]
 735.0000 ,RV 735,,,Siroe re di Persia,Opera,,,,
 735.2000 ,RV 735b,,,"Siroe re di Persia, Ancône, 1738",Opera,,,,"Libretto : Pietro Metastasio
 [Incomplet]"
@@ -3412,21 +3680,52 @@ IV. Allegro (C major)","Transverse Flute, Basso Continuo",
 II. Allegro (G minor)
 III. Andante (G minor)
 IV. Allegro (G minor)","Transverse Flute, Basso Continuo",
+779.0000 ,RV 779,,,Sonata in ,Sonata,,"I. Andante (C major)
+II. Allegro (C major)
+III. Largo cantabile (A minor)
+IV. Allegro (C major)","Violin, Oboe, Organ, Basso continuo (Salmoe ad libitum)",[Même œuvre que 779a mais avec différents instruments]
+999.0050 ,RV Anh. 5,,,Sonata in A major,Sonata,A major,,"Strings, Basso Continuo",[by Giovanni Battista Sammartini]
+999.0193 ,RV Anh. 19c,,,Sonata in A major,Sonata,A major,,"2 Violins, Haute-contre, Basso Continuo",
+999.0195 ,RV Anh. 19e,,,Sonata in A major,Sonata,A major,,"4 Violins, Haute-contre, Basso Continuo",
 86.0000 ,RV 86,,,Sonata in A minor,Sonata,A minor,"I. Largo (A minor)
 II. Allegro (A minor)
 III. Largo (C major)
 IV. Allegro molto (A minor)","Recorder, Bassoon, Basso Continuo",
+791.0000 ,RV 791,,,Sonata in B-flat major,Sonata,B-flat major,I. ...(en B-flat major),"Violin, Basso Continuo",[fragment]
 82.0000 ,RV 82,,,Sonata in C major,Sonata,C major,"I. Allegro non molto (C major)
 II. Larghetto (C minor)
 III. Allegro (C major)","Violin, Lute, Basso Continuo",
+779.1000 ,RV 779a,,,Sonata in C major,Sonata,C major,"I. Andante (C major)
+II. Allegro (C major)
+III. Largo cantabile (A minor)
+IV. Allegro (C major)","2 Violins, Oboe, Basso Continuo",[Même oeuvre que RV 779 mais avec différents instruments]
+801.0000 ,RV 801,,,Sonata in C major,Sonata,C major,"I. Largo (C major)
+II. Allegro (C major)
+III. Largo (C minor)
+IV. Allegro (C major)","Transverse Flute, Oboe, Bassoon, Harpsichord",
+999.0192 ,RV Anh. 19b,,,Sonata in C major,Sonata,C major,,"2 Violins, Violin, Haute-contre, Basso Continuo",
+999.0194 ,RV Anh. 19d,,,Sonata in C major,Sonata,C major,,"4 Violins, Haute-contre, Basso Continuo",
+999.0200 ,RV Anh. 19k,,,Sonata in C major,Sonata,C major,,"2 Violins, Haute-contre, Basso Continuo",
 83.0000 ,RV 83,,,Sonata in C minor,Sonata,C minor,"I. Allegro (C minor)
 II. Largo (C minor)
 III. Allegro (C minor)","Violin, Cello, Basso Continuo",
 84.0000 ,RV 84,,,Sonata in D major,Sonata,D major,"I. Allegro (D major)
 II. Andante (D major)
 III. Allegro (D major)","Transverse Flute, Violin, Basso Continuo",
+754.0000 ,RV 754,,,Sonata in D major,Sonata,D major,"I. Preludio. Largo (C major)
+II. Allemanda. Allegro (C major)
+III. Sarabanda. Largo (C minor)
+IV. Corrente. Allegro (C major)","Violin, Basso Continuo (Harpsichord)",
+785.0000 ,RV 785,,,Sonata in D major,Sonata,D major,,"Violin, Basso Continuo",[see Anh. 134]
+999.0191 ,RV Anh. 19a,,,Sonata in D major,Sonata,D major,,"3 Violins, Trumpet, Basso Continuo",
+999.0196 ,RV Anh. 19f,,,Sonata in D major,Sonata,D major,,"2 Violins, Trumpet, Haute-contre, Basso Continuo",
+999.0199 ,RV Anh. 19i,,,Sonata in D major,Sonata,D major,,"2 Violins, Haute-contre, Basso Continuo",
+999.0198 ,RV Anh. 19h,,,Sonata in E minor,Sonata,E minor,,"3 Violins, Basso Continuo",
 130.0000 ,RV 130,,,"Sonata in E-flat major ""Al Santo Sepolcro""",Sonata,E-flat major,"I. Largo molto (E-flat major)
 II. Allegro ma poco (E-flat major)","Strings, Basso Continuo",
+999.0197 ,RV Anh. 19g,,,Sonata in F major,Sonata,F major,,"2 Violins, Haute-contre, Basso Continuo",
+999.0200 ,RV Anh. 19j,,,Sonata in F major,Sonata,F major,,"2 Violins, Haute-contre, Basso Continuo",
+820.0000 ,RV 820,,,Sonata in G major,Sonata,G major,,"Violin, Cello, Basso Continuo",
 85.0000 ,RV 85,,,Sonata in G minor,Sonata,G minor,"I. Andante molto (G minor)
 II. Larghetto (G minor)
 III. Allegro (G minor)","Violin, Lute, Basso Continuo",
@@ -3756,8 +4055,8 @@ aria pour alto avec violons I/II, alto et basse continue
 351.0000 ,RV 351,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",
 352.0000 ,RV 352,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",
 353.0000 ,RV 353,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",
-999.0130 ,RV Anh. 13,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",[Œuvre de Giovanni Battista Somis]
-999.0140 ,RV Anh. 14,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",[Œuvre de Francesco Maria Veracini]
+999.0130 ,RV Anh. 13,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",[by Giovanni Battista Somis]
+999.0140 ,RV Anh. 14,,,Violin Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",[by Francesco Maria Veracini]
 335.1000 ,RV 335a,,,"Violin Concerto in A major ""Il Rosignuolo""",Concerto,A major,,"Violin, Strings, Basso Continuo",[Même oeuvre que RV 335]
 335.0000 ,RV 335,,,"Violin Concerto in A major ""The Cuckow""",Concerto,A major,,"Violin, Strings, Basso Continuo (Organ/Harpsichord)",
 354.0000 ,RV 354,op. 7/5,,Violin Concerto in A minor,Concerto,A minor,,"Violin, Strings, Basso Continuo (Organ)",
@@ -3921,7 +4220,7 @@ violon solo, violons I/II, alto et basse (sans clavecin)
 195.0000 ,RV 195,,,Violin Concerto in C major,Concerto,C major,"1. Allegro (do majeur)
 2. Adagio (sol majeur)
 3. Allegro (do majeur)","Violin, Strings, Basso Continuo (Organ)",
-999.0070 ,RV Anh. 7,,,Violin Concerto in C major,Concerto,C major,,"Violin, Strings, Basso Continuo",[Œuvre de Tomaso Albinoni]
+999.0070 ,RV Anh. 7,,,Violin Concerto in C major,Concerto,C major,,"Violin, Strings, Basso Continuo",[by Tomaso Albinoni]
 180.0000 ,RV 180,op. 8/6,,"Violin Concerto in C major ""Il piacere""",Concerto,C major,"I. Allegro (C major)
 II. Largo (E minor)
 III. Allegro (C major)","Violin, Strings, Basso Continuo",
@@ -4007,8 +4306,8 @@ III. Allegro (D major)
 232.0000 ,RV 232,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",
 233.0000 ,RV 233,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",
 742.0000 ,RV 742,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",[fragment]
-999.0080 ,RV Anh. 8,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",[Œuvre de Anton Giraneck - perdu]
-999.0090 ,RV Anh. 9,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",[Œuvre de Francesco Maria Veracini]
+999.0080 ,RV Anh. 8,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",[by Anton Giraneck - perdu]
+999.0090 ,RV Anh. 9,,,Violin Concerto in D major,Concerto,D major,,"Violin, Strings, Basso Continuo",[by Francesco Maria Veracini]
 208.0000 ,RV 208,,,"Violin Concerto in D major ""Grosso Mogul""",Concerto,D major,,"Violin, Strings, Basso Continuo (Harpsichord)",
 234.0000 ,RV 234,,,"Violin Concerto in D major ""L'inquietudine""",Concerto,D major,,"Violin, Strings, Basso Continuo (Organ)",
 212.0000 ,RV 212,,,"Violin Concerto in D major ""Per la Solennità della S. Lingua di S. Antonio in Padua""",Concerto,D major,,"Violin, Strings, Basso Continuo (Harpsichord/Organ)",
@@ -4027,8 +4326,8 @@ III. Allegro (D major)
 248.0000 ,RV 248,,,Violin Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo",
 249.0000 ,RV 249,op. 4/8,,Violin Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo (Organ/Harpsichord)",
 813.0000 ,RV 813,,,Violin Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo",
-999.0100 ,RV Anh. 10,,,Violin Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo",[Œuvre de Giuseppe Torelli ?]
-999.0160 ,RV Anh. 16,,,Violin Concerto in D minor,Concerto,D minor,,"Oboe, Strings, Basso Continuo",[Œuvre de Alessandro Marcello]
+999.0100 ,RV Anh. 10,,,Violin Concerto in D minor,Concerto,D minor,,"Violin, Strings, Basso Continuo",[by Giuseppe Torelli ?]
+999.0160 ,RV Anh. 16,,,Violin Concerto in D minor,Concerto,D minor,,"Oboe, Strings, Basso Continuo",[by Alessandro Marcello]
 242.0000 ,RV 242,op. 8/7,,"Violin Concerto in D minor ""Per Pisendel""",Concerto,D minor,,"Violin, Strings, Basso Continuo (Organ)",
 263.0000 ,RV 263,,,Violin Concerto in E major,Concerto,E major,,"Violin, Strings, Basso Continuo",
 263.1000 ,RV 263a,op. 9/4,,Violin Concerto in E major,Concerto,E major,"I. Allegro non molto (E major)
@@ -4134,8 +4433,8 @@ III. Allegro (F major)
 II. Adagio (G minor)
 III. Vivace (G major)
 [see 3e movement de RV 314]","Violin, Strings, Basso Continuo",
-999.0110 ,RV Anh. 11,,,Violin Concerto in G major,Concerto,G major,,"Violin, Strings, Basso Continuo",[Œuvre de Johann-Ernst von Sachsen-Weimer]
-999.0120 ,RV Anh. 12,,,Violin Concerto in G major,Concerto,G major,,"Violin, Strings, Basso Continuo",[Œuvre de Johann-Ernst von Sachsen-Weimer]
+999.0110 ,RV Anh. 11,,,Violin Concerto in G major,Concerto,G major,,"Violin, Strings, Basso Continuo",[by Johann-Ernst von Sachsen-Weimer]
+999.0120 ,RV Anh. 12,,,Violin Concerto in G major,Concerto,G major,,"Violin, Strings, Basso Continuo",[by Johann-Ernst von Sachsen-Weimer]
 309.0000 ,RV 309,,,"Violin Concerto in G major ""Il mare tempesto""",Concerto,G major,,"Violin, Strings, Basso Continuo",
 316.0000 ,RV 316,,,Violin Concerto in G minor,Concerto,G minor,,"Violin, Strings, Basso Continuo",
 316.1000 ,RV 316a,op. 4/6,,Violin Concerto in G minor,Concerto,G minor,"I. Allegro (G minor)
@@ -4160,7 +4459,7 @@ III. Allegro (G minor)","Violin, Strings, Basso Continuo (Organ)",
 332.0000 ,RV 332,op. 8/8,,Violin Concerto in G minor,Concerto,G minor,,"Violin, Strings, Basso Continuo (Organ)",
 333.0000 ,RV 333,,,Violin Concerto in G minor,Concerto,G minor,,"Violin, Strings, Basso Continuo",
 334.0000 ,RV 334,op. 9/3,,Violin Concerto in G minor,Concerto,G minor,,"Violin, Strings, Basso Continuo (Organ/Harpsichord)",
-999.0170 ,RV Anh. 17,,,Violin Concerto in G minor,Concerto,G minor,,"Violin, Oboe, Strings, Basso Continuo",[Œuvre de Georg Philip Telemann]
+999.0170 ,RV Anh. 17,,,Violin Concerto in G minor,Concerto,G minor,,"Violin, Oboe, Strings, Basso Continuo",[by Georg Philip Telemann]
 315.0000 ,RV 315,op. 8/2,,"Violin Concerto in G minor ""L'estate""",Concerto,G minor,,"Violin, Strings, Basso Continuo (Organ/Harpsichord)",
 29.0000 ,RV 29,,,Violin Sonata in A major,Sonata,A major,"I. ... (A major)
 II. ... (A major)
@@ -4346,381 +4645,77 @@ IV. Alleluia
 aria pour soprano avec cordes et basse continue (orgue)
 … (A major)","S, Strings, Basso Continuo (Organ)",motet pour la solennité de la fête S. Antoine
 811.0000 ,RV 811,,,"Vos invito, barbarae faces",Motet,,,"A, Strings",listed after RV 634
-134.0000 ,RV 134,,,,Concerto / Sinfonia,E minor,"I. ... (E minor)
+134.0000 ,RV 134,,,Concerto / Sinfonia in E minor,Concerto / Sinfonia,E minor,"I. ... (E minor)
 II. Andante e pianissimo (E minor)
 III. Allegro (E minor)","Strings, Basso Continuo",
-140.0000 ,RV 140,,,,Concerto / Sinfonia,F major,"I. Allegro molto (F major)
+140.0000 ,RV 140,,,Concerto / Sinfonia in F major,Concerto / Sinfonia,F major,"I. Allegro molto (F major)
 II. Andante (D minor)
 violon solo, alto et basse continue
 III. Allegro (F major)","Strings, Basso Continuo (Harpsichord)",
-146.0000 ,RV 146,,,,Sinfonia / Concerto,G major,"I. Allegro (G major)
+146.0000 ,RV 146,,,Sinfonia / Concerto in G major,Sinfonia / Concerto,G major,"I. Allegro (G major)
 II. Andante e sempre piano (G minor) violons I/II, alto et basse continue [see RV 699, III:6]
 III. Presto (G major) violons I/II, alto et basse continue","Strings, Basso Continuo (Harpsichord)",
-392.0000 ,RV 392,,,,Concerto,D major,"1. ... (ré majeur)
-2. Largo (si mineur)
-3. Allegro (ré majeur)","Viola d'amore, Strings, Basso Continuo",
-393.0000 ,RV 393,,,,Concerto,D minor,"1. ... (ré mineur)
-[voir 1er movement de RV 769]
-2. ... (ré mineur)
-viole d'amour et basse continue
-[voir 2e movement de RV 769]
-3. ... (ré mineur)
-[voir 3e movement de RV 769]","Viola d'amore, Strings, Basso Continuo",
-394.0000 ,RV 394,,,,Concerto,D minor,"1. Allegro (ré mineur)
-2. Largo (ré mineur)
-viole d'amour, cordes et basse sans clavecin
-3. Allegro (ré mineur)","Viola d'amore, Strings, Basso Continuo (Harpsichord)",
-395.0000 ,RV 395,,,,Concerto,D minor,"1. Allegro (ré mineur)
-[voir 1er movement de RV 395a et RV 770]
-2. Largo (ré mineur)
-viole d'amour, violons I/II et alto
-[voir 2e movement de RV 395a et RV 770]
-3. Allegro (ré mineur)
-[voir 3e movement de RV 395a et de RV 770]","Viola d'amore, Strings, Basso Continuo",
-395.1000 ,RV 395a,,,,Concerto,D minor,,"Viola d'amore, Strings, Basso Continuo",
-396.0000 ,RV 396,,,,Concerto,A major,"1. Allegro (la majeur)
-[voir 1er movement de RV 768]
-2. Andante (la majeur)
-viole d'amour, violons I/II et alto
-3. Allegro (la majeur)
-[voir 3e movement de RV 768]","Viola d'amore, Strings, Basso Continuo",
-397.0000 ,RV 397,,,,Concerto,A minor,"1. Allegro (la mineur)
-2. Largo (la mineur)
-viole d'amour, 2 violons solo et un alto solo
-3. Allegro (la mineur)","Viola d'amore, Strings, Basso Continuo",
-438.1000 ,RV 438a,,,,Concerto,G major,,Transverse Flute,
-441.0000 ,RV 441,,,,Concerto,C minor,"1. Allegro non molto (do mineur)
-2. Largo (do mineur)
-3. ... (do mineur)","Alto Recorder, Strings, Basso Continuo",
-442.0000 ,RV 442,,,,Concerto,F major,"1. Allegro ma non molto (fa majeur)
-[voir 1er movement de RV 434]
-2. Largo cantabile (fa mineur) / Largo cantabile (fa majeur)
-1ere version : flûte à bec alto, violons I/II, alto et basse continue; 2e version : flûte à bec, violons I/II sordini et alto sordini
-[1ere version : voir 2e movement de RV 434, RV 740, II:4 et RV 749.24]
-3. flûte à bec alto, cordes sordini et basse continue
-[voir 3e movement de RV 434]","Alto Recorder, Strings, Basso Continuo",
-522.1000 ,RV 522a,,,,Concerto,A minor,,2 Violins,
-552.0000 ,RV 552,,,,Concerto,A major,"1. Allegro (la majeur)
-2. Larghetto (si mineur)
-violon solo, violons I/II et alto; Echo : violon solo et violons I/II
-3. Allegro (la majeur)","Violin, Echo Violin or 3 Violins, Strings, Basso Continuo",
-553.0000 ,RV 553,,,,Concerto,B-flat major,"1. Allegro (si bémol majeur)
-2. Largo (ré mineur)
-3. Allegro (si bémol majeur)","4 Violins, Violas, Basso Continuo",
-554.0000 ,RV 554,,,,Concerto,C major,"1. ... (do majeur)
-[voir 1er movement de RV 554a]
-2. ... (do majeur)
-violon, hautbois et orgue
-[voir 2e movement de RV 554a]
-3. Allegro (do majeur)
-[voir 3e movement de RV 554a]","Violin, Organ/Violin, Oboe, Strings, Basso Continuo",
-554.1000 ,RV 554a,,,,Concerto,C major,"1. ... (do majeur)
-[voir 1er movement de RV 554]
-2. ... (do majeur)
-[voir 2e movement de RV 554]
-3. Allegro (do majeur)
-[voir 3e movement de RV 554]","Violin, Organ/Violin, Cello, Strings, Basso Continuo",[Même oeuvre que RV 554]
-555.0000 ,RV 555,,,,Concerto,C major,"1. Allegro (do majeur)
-2. Largo a piacimento (do majeur)
-violon solo et 2 clavevins
-3. Allegro (do majeur)
-avec 2 trompettes","3 Violins, Oboe, 2 Recorders, 2 Violas da gamba, 2 Salmoes, 2 Cellos, 2 Harpsichords, Strings, Basso Continuo",
-557.0000 ,RV 557,,,,Concerto,C major,"1. Allegro non molto (do majeur)
-2 violons solo, 2 hautbois, cordes et basse continue
-2. Largo (sol majeur)
-2 flûtes à bec et basson
-3. Allegro non molto (do majeur)
-2 violons solo, 2 hautbois, cordes et basse continue","2 Violins, 2 Oboes, Strings, Basso Continuo",
-558.0000 ,RV 558,,,,Concerto,C major,"1. Allegro molto (do majeur)
-2. Andante molto (sol majeur)
-violons I/II, alto, mandoline et basse continue
-3. Allegro (do majeur)","2 Violins ""in tromba"", 2 Recorders, 2 Mandolins, 2 Salmoes, 2 Theorbos, Cello, Strings, Basso Continuo",
-559.0000 ,RV 559,,,,Concerto,C major,"1. Larghetto (do majeur)
-2. Largo (do majeur)
-2 clarinettes et 2 hautbois
-3. Allegro (do majeur)","2 Oboe, 2 clarinettes, Strings, Basso Continuo",
-560.0000 ,RV 560,,,,Concerto,C major,"1. Larghetto (do majeur)
-2. Largo (fa majeur)
-2 hautbois, violons I/II, alto et basse continue
-3. ... (do majeur)","2 Oboe, 2 clarinettes, Strings, Basso Continuo",
-561.0000 ,RV 561,,,,Concerto,C major,"1. Allegro (do majeur)
-[voir RV 778, III:4]
-2. Largo (do majeur)
-violon, 2 violoncelles et basse continue
-3. Allegro (do majeur)","Violin, 2 Cellos, Strings, Basso Continuo",
-562.1000 ,RV 562a,,,,Concerto,D major,"1. Allegro (ré majeur)
-2. Grave (ré majeur)
-violon solo, cordes et basse continue
-3. Allegro (ré majeur)
-[voir 3e movement de RV 562, sans cadence]","Violin, 2 Oboes, 2 Horns, Timpani, Strings, Basso Continuo",
-563.0000 ,RV 563,,,,Concerto,D major,,"Violin, 2 Oboe, Strings, Basso Continuo",[Même oeuvre que RV 781]
-564.0000 ,RV 564,,,,Concerto,D major,"1. Allegro (ré mineur)
-[voir 1er movement de RV 564a et RV 710, II:13]
-2. Largo (ré majeur)
-3. Allegro (ré majeur)
-[voir 3e movement de RV 564a]","2 Violins, 2 Cellos, Strings, Basso Continuo",
-564.1000 ,RV 564a,,,,Concerto,D major,"1. Allegro (ré mineur)
-[voir 1er movement de RV 564 et RV 710, II:13]
-2. Adagio non molto (ré majeur)
-2 violons solo, basson, cordes et basse continue
-3. Allegro (ré majeur)
-[voir 3e movement de RV 564]","2 Violins, 2 Oboe, Bassoon, Strings, Basso Continuo",
-565.0000 ,RV 565,op. 3/11,,,Concerto,D minor,"1. Allegro (ré mineur) / Adagio e spiccato
-2. Allegro (ré mineur)
-3. Largo e spiccato (ré mineur)
-4. Allegro (ré mineur)","2 Violins, Cello, Strings, Basso Continuo (Harpsichord)",[Transcrit par Bach - BWV 596]
-566.0000 ,RV 566,,,,Concerto,D minor,"1. Allegro assai (fa majeur)
-2. Largo (do majeur)
-2 flûtes et basson
-3. Allegro (fa majeur)","2 Violins, 2 Recorders, 2 Oboe, Bassoon, Strings, Basso Continuo",
-567.0000 ,RV 567,op. 3/7,,,Concerto,F major,"1. Andante (fa majeur)
-2. Adagio (fa majeur)
-3. Allegro (fa majeur)
-4. Adagio (fa majeur)
-5. Allegro (fa majeur)","4 Violins, Cello, Strings, Basso Continuo (Harpsichord)",
-568.0000 ,RV 568,,,,Concerto,F major,"1. Allegro assai (fa majeur)
-2. Grave (do majeur)
-hautbois solo et basse continue
-3. Allegro assai (fa majeur)","Violin, 2 Oboe, 2 Horns, Bassoon, Strings, Basso Continuo (Harpsichord)",
-569.0000 ,RV 569,,,,Concerto,F major,"1. Allegro (fa majeur)
-2. Grave (fa majeur)
-violon solo, cordes et basse continue
-3. Allegro (fa majeur)
-avec violoncelle solo","Violin, 2 Oboe, 2 Horns, Bassoon, Strings, Basso Continuo (Harpsichord)",
-571.0000 ,RV 571,,,,Concerto,F major,"1. Allegro (fa majeur)
-avec violoncelle solo
-[voir 1er movement de RV 99]
-2. Largo (si bémol majeur)
-violon solo, violons I/II et alto
-[voir 2e movement de RV 99]
-3. Allegro (fa majeur)
-[voir 3e movement de RV 99 et RV 729a, II:1]","Violin, 2 Oboe, 2 Horns, Bassoon, Strings, Basso Continuo (Organ or Harpsichord)",
-573.0000 ,RV 573,,,,Concerto,F major,"1. Allegro (fa majeur)
-2. Largo
-3. Presto","2 Oboe, 2 Horns, 2 Bassoons, Strings, Basso Continuo",[Perdu]
-574.0000 ,RV 574,,,,Concerto,F major,"1. Allegro (fa majeur)
-2. Grave (fa majeur)
-3. Allegro (fa majeur)
-avec violoncelle solo","Violin, 2 Oboe, 2 Trombones, Bassoon, Strings, Basso Continuo (Organ or Harpsichord)",
-575.0000 ,RV 575,,,,Concerto,G major,"1. Allegro (sol majeur)
-2. Largo (mi mineur)
-2 violons, 2 violoncelles et basse continue
-3. Allegro (sol majeur)","2 Violins, 2 Cellos, Strings, Basso Continuo",[Incomplet(?)]
-576.0000 ,RV 576,,,,Concerto,G minor,"1. ... (sol mineur)
-2. Larghetto (ré mineur)
-violon ou hautbois solo, 2 flûtes à bec, 2 hautbois, cordes, basson et basse continue
-3. Allegro (sol mineur)","Violin, Oboe, 2 Recorders, 2 Oboe, Bassoon, Strings, Basso Continuo (Harpsichord)",
-578.0000 ,RV 578,op. 3/2,,,Concerto,G minor,"1. Adagio e spiccato (sol mineur)
-2. Allegro (sol mineur)
-3. Larghetto (sol mineur)
-4. Allegro (sol mineur)","2 Violins, Cello, Strings, Basso Continuo (Harpsichord)",
-578.1000 ,RV 578a,,,,Concerto,G minor,,"2 Violins, Cello",
-580.0000 ,RV 580,op. 3/10,,,Concerto,B minor,"1. Allegro (si mineur)
-2. Largo (si mineur)
-3. Larghetto (si mineur)
-4. Allegro (si mineur)","4 Violins, Cello, Strings (+2 Violas), Basso Continuo (Harpsichord)",
-583.0000 ,RV 583,,,,Concerto,B-flat major,"1. Largo e spiccato (si bémol majeur) / Presto
-2. Andante (si bémol majeur)
-violon solo avec violons I/II du chœur I et violons I/II, alto et basse continue du chœur II
-[voir 2e movement de RV 372a]
-3. Allegro (si bémol majeur) avec cadence","Discorded Violin, 2 String Orchestras, Basso Continuo",
-584.0000 ,RV 584,,,,Concerto,F major,1. Allegro non molto (fa majeur),"2 Violins, 2 Solo Organs, 2 String Orchestras, Basso Continuo",[Incomplet]
-585.0000 ,RV 585,,,,Concerto,A major,"1. … (la majeur)
-2. … (la majeur)
-3. … (ré majeur)
-4. … (la majeur)
-avec violoncelle dans les deux choeurs","Coro I：
-2 Violins, 2 Recorders, Strings, Basso Continuo (Organ/Violoncello)
-Coro II：
-2 Solo Violins, 2 Recorders, Organ, Strings, Basso Continuo (Organ)",
-748.0000 ,RV 748,,,,Aria,G major,,S,Per la communione
-749.0000 ,RV 749,,,,Aria,,,,Airs d'opéra non identifiables
-749.1600 ,RV 749.16a,,,,Aria,,,,from Non trova mai riposo
-749.3300 ,RV 749.33,,,,Aria,,,,from In quella solo in quella
-749.3400 ,RV 749.34,,,,Aria,,,,from Al folgorar del Armi
-751.0000 ,RV 751,,,,Concerto,D major,,"2 Transverse Flutes, 2 Violins, 2 Bassoons
-Bassoon, Strings, Basso Continuo",[Lost]
-752.0000 ,RV 752,,,,Concerto,D major,,"Violin, Strings, Basso Continuo",
-754.0000 ,RV 754,,,,Sonata,D major,"I. Preludio. Largo (C major)
-II. Allemanda. Allegro (C major)
-III. Sarabanda. Largo (C minor)
-IV. Corrente. Allegro (C major)","Violin, Basso Continuo (Harpsichord)",
-755.0000 ,RV 755,,,,Sonata,,"I. Preludio. Andante (D major)
+749.0000 ,RV 749,,,Arias from unknown works,Aria,,,,Airs d'opéra non identifiables
+749.1600 ,RV 749.16a,,,"an Aria from ""Non trova mai riposo“",Aria,,,,
+749.3300 ,RV 749.33,,,"an Aria from ""In quella solo in quella”",Aria,,,,
+749.3400 ,RV 749.34,,,"an Aria from ""Al folgorar del Armi“",Aria,,,,
+755.0000 ,RV 755,,,Sonata in D major,Sonata,D major,"I. Preludio. Andante (D major)
 II. Corrente. Allegro (D major)
 III. Andante (B minor)
 [see 2e movement de RV 229]
 IV. Corrente. Allegro (D major)
 [voir3e movement de RV 229]","Violin, Basso Continuo (Harpsichord)",
-756.0000 ,RV 756,,,,Sonata,,"I. Preludio. Largo (E-flat major)
+756.0000 ,RV 756,,,Sonata in E-flat major,Sonata,E-flat major,"I. Preludio. Largo (E-flat major)
 II. Allemanda. Allegro (E-flat major)
 III. Sarabanda. Andante (C minor)
 IV. Giga. Allegro (E-flat major)","Violin, Basso Continuo (Harpsichord)",
-757.0000 ,RV 757,,,,Sonata,,"I. Preludio.Largo (G minor)
+757.0000 ,RV 757,,,Sonata in G minor,Sonata,G minor,"I. Preludio.Largo (G minor)
 II. Allemanda. Allegro (G minor)
 III. Sarabanda. Grave (E-flat major)
 [see 2e movement de RV 329]
 IV. Corrente. Allegro (G minor)","Violin, Basso Continuo (Harpsichord)",
-758.0000 ,RV 758,,,,Sonata,,"I. Preludio. Largo (A major)
+758.0000 ,RV 758,,,Sonata in A major,Sonata,A major,"I. Preludio. Largo (A major)
 II. Corrente. Allegro (A major)
 III. Andante (A major)
 IV. Corrente. Presto (A major)","Violin, Basso Continuo",[Reliée à 746]
-759.0000 ,RV 759,,,,Sonata,,"I. Preludio. Largo (B-flat major)
+759.0000 ,RV 759,,,Sonata in B-flat major,Sonata,B-flat major,"I. Preludio. Largo (B-flat major)
 II. Allemanda. Allegro (B-flat major)
 III. Sarabanda. Largo (E-flat major)
 IV. Corrente. Allegro (B-flat major)","Violin, Basso Continuo (Harpsichord)",
-760.0000 ,RV 760,,,,Sonata,,"I. Preludio. Andante (B minor)
+760.0000 ,RV 760,,,Sonata in B minor,Sonata,B minor,"I. Preludio. Andante (B minor)
 II. Corrente. Allegro (B minor)
 III. Largo (F-sharp minor)
 IV. Giga. Allegro (B minor)","Violin, Basso Continuo (Harpsichord)",
-761.0000 ,RV 761,,,,Concerto,C minor,"1. Allegro (do mineur)
-2. Largo (do mineur)
-3. Allegro (do mineur)","Violin, Strings, Basso Continuo (Harpsichord)","""Amato bene"""
-762.0000 ,RV 762,,,,Concerto,E major,,"Violin, Strings, Basso Cotinuo (Organ)",
-763.0000 ,RV 763,,,,Concerto,A major,,"Violin, Strings, Basso Cotinuo",L'Ottavina
-764.0000 ,RV 764,,,,Concerto,B-flat major,"1. Allegro (si bémol majeur)
-[voir 1er movement de RV 548]
-2. Largo (sol mineur)
-[voir 2e movement de RV 107 et RV 548]
-3. Allegro (si bémol majeur)
-[voir 3e movement de RV 548]","2 Violins, Strings, Basso Continuo",[Même oeuvre que RV 548]
-765.0000 ,RV 765,,,,Concerto,F major,"1. Allegro (fa majeur)
-[voir 1er movement de RV 767]
-2. Larghetto (la mineur)
-2 violons et basse continue
-[voir 2e movement de RV 767]
-3. Allegro (fa majeur)
-[voir 3e movement de RV 767]","2 Violins, Strings, Basso Continuo",[Même oeuvre que RV 767]
-766.0000 ,RV 766,,,,Concerto,C minor,"1. Allegro (do mineur)
-[voir 1er movement de RV 510]
-2. Largo (do mineur)
-violon solo et orgue
-[voir 2e movement de RV 510]
-3. Allegro (do mineur)
-[voir 3e movement de RV 510]","Violin, Organ, Strings, Basso Continuo",[Même oeuvre que RV 510]
-767.0000 ,RV 767,,,,Concerto,F major,"1. Allegro (fa majeur)
-[voir 1er movement de RV 765]
-2. Larghetto (la mineur)
-[voir 2e movement de RV 765]
-3. Allegro (fa majeur)
-[voir 3e movement de RV 765]","Violin, Organ, Strings, Basso Continuo",[Même oeuvre que RV 765]
-768.0000 ,RV 768,,,,Concerto,A major,,"Violin, Strings, Basso Cotinuo",
-769.0000 ,RV 769,,,,Concerto,D minor,,"Violin, Strings, Basso Continuo","[Même œuvre que pour viole d'amour, 393]"
-770.0000 ,RV 770,,,,Concerto,D minor,,"Violin, Strings, Basso Continuo","[Même oeuvre pour viole de gambe, 395]"
-771.0000 ,RV 771,,,,Concerto,C minor,"1. Andante (do mineur)
-2. Grave (do mineur)
-3. Allegro (do mineur)","Violin, Strings, Basso Continuo",
-772.0000 ,RV 772,,,,Concerto,D major,,"Violin, Strings, Basso Continuo",
-773.0000 ,RV 773,,,,Concerto,F major,,"Violin, Strings, Basso Cotinuo",see RV Anh. 154
-774.0000 ,RV 774,,,,Concerto,C major,"1. Allegro (do majeur)
-[voir 1er movement de RV 123]
-2. Adagio (sol majeur)
-3. Allegro (do majeur)","Violin, Organ, Strings, Basso Continuo",[Incomplet]
-775.0000 ,RV 775,,,,Concerto,F major,"1. ...(fa majeur)
-[voir 1er movement de RV 285]
-2. ... (la mineur)
-3. ... (fa majeur)","Violin, Organ, Strings, Basso Continuo",[Incomplet]
-776.0000 ,RV 776,,,,Sonata,,,"Violin, Basso Continuo",[see Anh. 98]
-779.0000 ,RV 779,,,,Sonata,,"I. Andante (C major)
-II. Allegro (C major)
-III. Largo cantabile (A minor)
-IV. Allegro (C major)","Violin, Oboe, Organ, Basso continuo (Salmoe ad libitum)",[Même œuvre que 779a mais avec différents instruments]
-779.1000 ,RV 779a,,,,Sonata,C major,"I. Andante (C major)
-II. Allegro (C major)
-III. Largo cantabile (A minor)
-IV. Allegro (C major)","2 Violins, Oboe, Basso Continuo",[Même oeuvre que RV 779 mais avec différents instruments]
-780.0000 ,RV 780,,,,Concerto,A major,"1. Allegro (la majeur)
-[voir 1er movement de RV 546]
-2. Andante (la majeur)
-clavecin, violons I/II, alto et basse continue
-[voir 2e movement de RV 546]
-3. Allegro (la mejeur)
-[voir 3e movement de RV 546]","Harpsichord, Strings, Basso Continuo",Même œuvre que RV 546
-781.0000 ,RV 781,,,,Concerto,D major,"1. Allegro (ré majeur)
-2. Grave (fa majeur)
-violon solo, cordes et basse continue
-3. Allegro (ré majeur)","2 Trumpets(/Oboes), Strings, Basso Continuo","[Même œuvre pour hautbois, RV 563]"
-783.0000 ,RV 783,,,,Concerto,D major,"1. ... (ré majeur)
-2. Largo (ré majeur)
-flûte traversière, violons I/II et alto
-3. Allegro (ré majeur)","Transverse Flute, Strings, Basso Continuo",
-784.0000 ,RV 784,,,,Concerto,G major,1. ... (sol majeur),"Transverse Flute, Strings, Basso Continuo",
-785.0000 ,RV 785,,,,Sonata,D major,,"Violin, Basso Continuo",[see Anh. 134]
-786.0000 ,RV 786,,,,Sinfonia,D major,"I. Allegro molto (D major)
-II. Andante (D major)
-III. Minuetto (D major)","Strings, Basso Continuo",[Incomplete]
-787.0000 ,RV 787,,,,Concerto,E major,"1. Allegro (mi mineur)
-2. Largo (mi mineur)
-3. Allegro molto (mi mineur)","Cello, Strings, Basso Continuo",
-788.0000 ,RV 788,,,,Concerto,B-flat major,"1. Allegro (si bémol majeur)
-2. Larghetto (ré mineur)
-3. Allegro (si bémol majeur)","Cello, Strings, Basso Continuo",
-790.0000 ,RV 790,,,,Concerto,B-flat major,,"Violin, Strings, Basso Continuo",
-791.0000 ,RV 791,,,,Sonata,B-flat major,I. ...(en B-flat major),"Violin, Basso Continuo",[fragment]
-792.0000 ,RV 792,,,,Concerto,A major,,"Violin, Strings, Basso Cotinuo",
-793.0000 ,RV 793,,,,Concerto,C major,"1. … (do majeur)
-2. Andante ??
-3. Allegro (do majeur)","2 Organs, 2 String Orchestras, Basso Continuo",[Incomplet]
-794.0000 ,RV 794,,,,Concerto,F major,,"Violin, Strings, Basso Cotinuo",
-801.0000 ,RV 801,,,,Sonata,C major,"I. Largo (C major)
-II. Allegro (C major)
-III. Largo (C minor)
-IV. Allegro (C major)","Transverse Flute, Oboe, Bassoon, Harpsichord",
-808.0000 ,RV 808,,,,Concerto,C major,"1. ... (do majeur)
-2. Largo (do majeur)
-3. Allegro (do majeur)","Violin, Organ, Strings, Basso Continuo",[Incomplet]
-812.0000 ,RV 812,,,,Concerto,G minor,,"Oboe, Violin, Cello, Strings",
-814.0000 ,RV 814,,,,Concerto,G major,,"Violin, Cello, Strings",[Incomplet]
-817.0000 ,RV 817,,,,Concerto,A major,,,previously RV Anh. 86
-818.0000 ,RV 818,,,,Concerto,D major,,,"[Incomplet]
-previously RV Anh. 72"
-820.0000 ,RV 820,,,,Sonata,G major,,"Violin, Cello, Basso Continuo",
-999.0020 ,RV Anh. 2,,,,Concerto / Sinfonia,C major,,"Strings, Basso Continuo",[Oeuvre de Giovanni Battista Sammartini
-999.0050 ,RV Anh. 5,,,,Sonata,A major,,"Strings, Basso Continuo",[Œuvre de Giovanni Battista Sammartini]
-999.0191 ,RV Anh. 19a,,,,Sonata,D major,,"3 Violins, Trumpet, Basso Continuo",
-999.0192 ,RV Anh. 19b,,,,Sonata,C major,,"2 Violins, Violin, Haute-contre, Basso Continuo",
-999.0193 ,RV Anh. 19c,,,,Sonata,A major,,"2 Violins, Haute-contre, Basso Continuo",
-999.0194 ,RV Anh. 19d,,,,Sonata,C major,,"4 Violins, Haute-contre, Basso Continuo",
-999.0195 ,RV Anh. 19e,,,,Sonata,A major,,"4 Violins, Haute-contre, Basso Continuo",
-999.0196 ,RV Anh. 19f,,,,Sonata,D major,,"2 Violins, Trumpet, Haute-contre, Basso Continuo",
-999.0197 ,RV Anh. 19g,,,,Sonata,F major,,"2 Violins, Haute-contre, Basso Continuo",
-999.0198 ,RV Anh. 19h,,,,Sonata,E minor,,"3 Violins, Basso Continuo",
-999.0199 ,RV Anh. 19i,,,,Sonata,D major,,"2 Violins, Haute-contre, Basso Continuo",
-999.0200 ,RV Anh. 19j,,,,Sonata,F major,,"2 Violins, Haute-contre, Basso Continuo",
-999.0200 ,RV Anh. 19k,,,,Sonata,C major,,"2 Violins, Haute-contre, Basso Continuo",
-999.0620 ,RV Anh. 62,,,,Concerto,C major,,"Violin, Clavier",[Oeuvre de Fritz Kreisler]
-999.0640 ,RV Anh. 64,,,,Concerto,E minor,,"Transverse Flute, 2 Violins, Basso Continuo",[Œuvre de Johann Adolph Hasse]
-999.0641 ,RV Anh. 64a,,,,Concerto,E minor,,"Violin, 2 Violins, Basso Continuo",[see RV Anh 64 - 1st & 3rd movements]
-999.0650 ,RV Anh. 65,,,,Concerto,A major,,"Violin, Strings, Basso Continuo",[Œuvre de Joseph Meck]
-999.0660 ,RV Anh. 66,,,,Sonata,C major,,"Several instruments, Basso Continuo",[classifié sous RV 801]
-999.0680 ,RV Anh. 68,,,,Sinfonia,G major,,"Strings, Basso Continuo",[see RV 148]
-999.0690 ,RV Anh. 69,,,,Sonata,D minor,,"Flute, Basso Continuo",[Anonyme - see RV 52]
-999.1280 ,RV Anh. 128,,,,Concerto,B-flat major,,"Violin, Strings, Basso Continuo",[Incomplet]
-999.1290 ,RV Anh. 129,,,,Concerto,C major,,"Violin, Strings, Basso Continuo",
-999.1300 ,RV Anh. 130,,,,Concerto,F major,,"Violin, Strings, Basso Continuo (Organ)",
-999.1310 ,RV Anh. 131,,,,Concerto,F major,,"Violin, Strings, Basso Continuo",[Œuvre de Romaso Albinoni]
-999.1320 ,RV Anh. 132,,,,Concerto,F major,,"Violin, Strings, Basso Continuo","[Œuvre de Giuseppe Torelli, op. 8/11]"
-999.1330 ,RV Anh. 133,,,,Concerto,B-flat major,,"Violin, Strings, Basso Continuo",[Oeucre de Giuseppe Matteo Alberto op. 1/1]
-999.1340 ,RV Anh. 134,,,,Sonata,D major,,"Violin, Basso Continuo",[Œuvre de Andrea Zani op. 1/12]
-999.1350 ,RV Anh. 135,,,,Sinfonia,C major,,,
-999.1360 ,RV Anh. 136,,,,Sonata,C major,,Recorder,"Gaetano Meneghetto's work
+776.0000 ,RV 776,,,Violin Sonata,Sonata,,,"Violin, Basso Continuo",[see Anh. 98]
+999.0620 ,RV Anh. 62,,,Concerto in C major,Concerto,C major,,"Violin, Clavier",[Oeuvre de Fritz Kreisler]
+999.0640 ,RV Anh. 64,,,Concerto in E minor,Concerto,E minor,,"Transverse Flute, 2 Violins, Basso Continuo",[by Johann Adolph Hasse]
+999.0641 ,RV Anh. 64a,,,Concerto in E minor,Concerto,E minor,,"Violin, 2 Violins, Basso Continuo",[see RV Anh 64 - 1st & 3rd movements]
+999.0650 ,RV Anh. 65,,,Concerto in A major,Concerto,A major,,"Violin, Strings, Basso Continuo",[by Joseph Meck]
+999.0660 ,RV Anh. 66,,,Sonata in C major,Sonata,C major,,"Several instruments, Basso Continuo",[classifié sous RV 801]
+999.0680 ,RV Anh. 68,,,Sinfonia in G major,Sinfonia,G major,,"Strings, Basso Continuo",[see RV 148]
+999.0690 ,RV Anh. 69,,,Sonata in D minor,Sonata,D minor,,"Flute, Basso Continuo",[Anonyme - see RV 52]
+999.1280 ,RV Anh. 128,,,Concerto in B-flat major,Concerto,B-flat major,,"Violin, Strings, Basso Continuo",[Incomplet]
+999.1290 ,RV Anh. 129,,,Concerto in C major,Concerto,C major,,"Violin, Strings, Basso Continuo",
+999.1300 ,RV Anh. 130,,,Concerto in F major,Concerto,F major,,"Violin, Strings, Basso Continuo (Organ)",
+999.1310 ,RV Anh. 131,,,Concerto in F major,Concerto,F major,,"Violin, Strings, Basso Continuo",[by Tomaso Albinoni]
+999.1320 ,RV Anh. 132,,,Concerto in F major,Concerto,F major,,"Violin, Strings, Basso Continuo","[by Giuseppe Torelli, op. 8/11]"
+999.1330 ,RV Anh. 133,,,Concerto in B-flat major,Concerto,B-flat major,,"Violin, Strings, Basso Continuo",[by Giuseppe Matteo Alberto op. 1/1]
+999.1340 ,RV Anh. 134,,,Sonata in D major,Sonata,D major,,"Violin, Basso Continuo",[by Andrea Zani op. 1/12]
+999.1350 ,RV Anh. 135,,,Sinfonia in C major,Sinfonia,C major,,,
+999.1360 ,RV Anh. 136,,,Sonata in C major,Sonata,C major,,Recorder,"Gaetano Meneghetto's work
 previously RV 809"
-999.1400 ,RV Anh. 140,,,,Sonata,G major,,,previously RV 24
-999.1410 ,RV Anh. 141,,,,Concerto,B-flat major,,,"op. 7, libro 2, no. 1 (=7)
-previously RV 464"
-999.1420 ,RV Anh. 142,,,,Concerto,B-flat major,,,"op. 7, libro 1, no. 1
-previously RV 465"
-999.1430 ,RV Anh. 143,,,,Concerto,C major,,,"Carlo Tessarini's work
-previously RV 174"
-999.1440 ,RV Anh. 144,,,,Sinfonia,C major,,,previously RV 116
-999.1450 ,RV Anh. 145,,,,Concerto,D major,,,previously RV 404
-999.1460 ,RV Anh. 146,,,,Concerto,G major,,,previously RV 415
-999.1500 ,RV Anh. 150,,,,Concerto,A major,,,"Gaetano Meneghetto's work
-previously RV 351"
-999.1520 ,RV Anh. 152,,,,Concerto,F major,,,previously RV 458
-999.1530 ,RV Anh. 153,,,,Concerto,B-flat major,,,"op. 7, libro 2, no. 3 (=9)
-previously RV 373"
-999.1540 ,RV Anh. 154,,,,Concerto,F major,,,previously RV 773
-999.1550 ,RV Anh. 155,,,,Sinfonia,D major,,,previously RV 122
-999.1560 ,RV Anh. 156,,,,Sinfonia,D major,,,previously RV 125
-999.1570 ,RV Anh. 157,,,,Sinfonia,F major,,,previously RV 137
-999.1580 ,RV Anh. 158,,,,Sonata,A major,,,
+999.1400 ,RV Anh. 140,,,Sonata in G major,Sonata,G major,,,previously RV 24
+999.1410 ,RV Anh. 141,,,Concerto in B-flat major,Concerto,B-flat major,,,"op. 7, libro 2, no. 1 (=7), previously RV 464"
+999.1420 ,RV Anh. 142,,,Concerto in B-flat major,Concerto,B-flat major,,,"op. 7, libro 1, no. 1, previously RV 465"
+999.1430 ,RV Anh. 143,,,Concerto in C major,Concerto,C major,,,"by Carlo Tessarini, previously RV 174"
+999.1440 ,RV Anh. 144,,,Sinfonia in C major,Sinfonia,C major,,,previously RV 116
+999.1450 ,RV Anh. 145,,,Concerto in D major,Concerto,D major,,,previously RV 404
+999.1460 ,RV Anh. 146,,,Concerto in G major,Concerto,G major,,,previously RV 415
+999.1500 ,RV Anh. 150,,,Concerto in A major,Concerto,A major,,,"by Gaetano Meneghetto, previously RV 351"
+999.1520 ,RV Anh. 152,,,Concerto in F major,Concerto,F major,,,previously RV 458
+999.1530 ,RV Anh. 153,,,Concerto in B-flat major,Concerto,B-flat major,,,"op. 7, libro 2, no. 3 (=9), previously RV 373"
+999.1540 ,RV Anh. 154,,,Concerto in F major,Concerto,F major,,,previously RV 773
+999.1550 ,RV Anh. 155,,,Sinfonia in D major,Sinfonia,D major,,,previously RV 122
+999.1560 ,RV Anh. 156,,,Sinfonia in D major,Sinfonia,D major,,,previously RV 125
+999.1570 ,RV Anh. 157,,,Sinfonia in F major,Sinfonia,F major,,,previously RV 137
+999.1580 ,RV Anh. 158,,,Sonata in A major,Sonata,A major,,,

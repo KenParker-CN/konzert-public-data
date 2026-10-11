@@ -1807,7 +1807,7 @@ sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol ma
 [voir HWV 447(4)]
 6. Chaconne et Variations (26) (do majeur)
 [voir HWV 484]",Harpsichord,
-444.000 ,HWV 444,,,"Partita, en do mineur, pour clavecin",Partita,,"1. Prélude (do mineur)
+444.000 ,HWV 444,,,,Partita,C minor,"1. Prélude (do mineur)
 2. Allemande (do mineur)
 [voir HWV 445(2)]
 3. Courante (do mineur)
@@ -1844,7 +1844,7 @@ sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol ma
 [voir HWV 428(5)]
 6. Gigue (ré mineur)
 7. Menuet (ré mineur)",Harpsichord,
-450.000 ,HWV 450,,,"Partita, en sol majeur, pour clavecin",Partita,,"1. Prélude (sol majeur)
+450.000 ,HWV 450,,,,Partita,G major,"1. Prélude (sol majeur)
 2. Allemande (sol majeur)
 3. Courante (sol majeur)
 4. Sarabande (sol majeur)
@@ -1865,7 +1865,7 @@ sol majeur; Variation 1-8: sol majeur; Var. 9-16: sol mineur; Var. 17-21: sol ma
 3. Menuet I (sol mineur)
 4. Menuet II (sol mineur)
 5. Chaconne (sol mineur)",Harpsichord,
-454.000 ,HWV 454,,,"Partita, en la majeur, pour clavecin",Partita,,"1. Allemande (la majeur)
+454.000 ,HWV 454,,,,Partita,A major,"1. Allemande (la majeur)
 2. Courante (la majeur)
 3. Sarabande (la majeur)
 4. Gigue (la majeur)",Harpsichord,
@@ -2044,19 +2044,19 @@ Menuet favori de la princesse Sophia"
 561.000 ,HWV 561,,,,Prelude,D minor,"1. (ré mineur)
 [voir HWV 428, =437(1), 565]",Harpsichord,
 562.000 ,HWV 562,,,Prélude (Harpeggio),Prelude,D minor,,Harpsichord,
-563.000 ,HWV 563,,,Prelude,Prelude,D minor,,Harpsichord,
-564.000 ,HWV 564,,,Prelude,Prelude,D minor,,Harpsichord,
+563.000 ,HWV 563,,,,Prelude,D minor,,Harpsichord,
+564.000 ,HWV 564,,,,Prelude,D minor,,Harpsichord,
 565.000 ,HWV 565,,,,Prelude,D minor,"1. (ré mineur)
 [voir HWV 428, 561]",Harpsichord,
 566.000 ,HWV 566,,,,Prelude,E major,"1. (mi majeur)
 [voir HWV 430(1)]",Harpsichord,
-567.000 ,HWV 567,,,Prelude,Prelude,F major,,Harpsichord,
-568.000 ,HWV 568,,,Prelude,Prelude,F minor,,Harpsichord,
+567.000 ,HWV 567,,,,Prelude,F major,,Harpsichord,
+568.000 ,HWV 568,,,,Prelude,F minor,,Harpsichord,
 569.000 ,HWV 569,,,"Prélude ""Arpeggio del Cook""",Prelude,F minor,,Harpsichord,
 570.000 ,HWV 570,,,Prélude (Harpeggio),Prelude,F-sharp inor,,Harpsichord,
 571.000 ,HWV 571,,,"Prélude, Capriccio",Prelude,G major,"1. Prélude (sol majeur)
 2. Capriccio (sol majeur)",Harpsichord,
-572.000 ,HWV 572,,,Prelude,Prelude,G minor,,Harpsichord,
+572.000 ,HWV 572,,,,Prelude,G minor,,Harpsichord,
 573.000 ,HWV 573,,,Prélude (Harpeggio),Prelude,G minor,,Harpsichord,
 574.000 ,HWV 574,,,"Prélude, Allegro (Sonate)",Prelude,G minor,"1. Prélude (sol mineur)
 2. Allegro (sol mineur)",Harpsichord,
@@ -2065,7 +2065,7 @@ Menuet favori de la princesse Sophia"
 2. Allegro (la mineur)
 [voir HWV 287(4), 291(2), 390(4)]",Harpsichord,
 577.000 ,HWV 577,,,Sonate (Fantaisie),Sonata,C major,,Harpsichord,
-578.000 ,HWV 578,,,"Sonate, trio, gavotte",Sonata,C major,"1. Sonate. Allegro (so majeur)
+578.000 ,HWV 578,,,,Sonata,C major,"1. Sonate. Allegro (so majeur)
 [voir HWV 277]
 2. Trio. Larghetto (do majeur)
 [voir HWV 467]
@@ -2117,3 +2117,16 @@ Menuet favori de la princesse Sophia"
 610.000 ,HWV 610,,,Fugue ou Voluntary,,C minor,1. (do mineur),Organ/Harpsichord,
 611.000 ,HWV 611,,,Fugue ou Voluntary,,F major,,Organ/Harpsichord,
 612.000 ,HWV 612,,,Fugue ou Voluntary,,E major,,Organ/Harpsichord,
+999.010 ,HWV A1,,,"L'Elpidia, overo Li rivali generosi",Opera,,,,
+999.020 ,HWV A2,,,,,,,,
+999.030 ,HWV A3,,,Ormisda,Opera,,,,
+999.040 ,HWV A4,,,Venceslao,Opera,,,,
+999.050 ,HWV A5,,,,,,,,
+999.060 ,HWV A6,,,Lucio Papirio dittatore,Opera,,,,
+999.070 ,HWV A7,,,Catone,Opera,,,,
+999.080 ,HWV A8,,,"Semiramide, or Semiramis riconosciuta",Opera,,,,
+999.090 ,HWV A9,,,Caio Fabricio,Opera,,,,
+999.100 ,HWV A10,,,Arbace,Opera,,,,
+999.110 ,HWV A11,,,Didone,Opera,,,,
+999.120 ,HWV A12,,,,,,,,
+999.150 ,HWV A15,,,37 Minuets,Menuet,,,,Arranged from music of opera arias

@@ -45,6 +45,10 @@ per work — the conversion workflow will generate `csv/<CATALOG>.csv` on push.
 `commit-xlsx.bat` only stages `xlsx/` and `csv/`; anything else you have edited
 is listed at the end of the run and left untouched. If there is nothing new to
 commit but commits are still unpushed, running it again pushes them.
+If a GitHub Actions CSV-conversion commit reaches the remote first, the script
+temporarily stashes any uncommitted work, rebases over that CSV-only commit,
+restores the work, and retries the push. Other remote changes are reported for
+manual synchronization rather than overwritten.
 
 ```bash
 npm run commit:xlsx                        # commit (with prompt) and push

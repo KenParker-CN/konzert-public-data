@@ -31,6 +31,66 @@ function git(args, allowFailure = false) {
 }
 
 /**
+ * Push the current branch, rebasing over concurrent CSV-only workflow commits.
+ * @returns {void}
+ */
+function pushWithRetry() {
+  const firstPush = git(['push'], true);
+  if (firstPush.status === 0) return;
+
+  const pushError = `${firstPush.stderr}\n${firstPush.stdout}`.toLowerCase();
+  const rejected = pushError.includes('[rejected]')
+    || pushError.includes('non-fast-forward')
+    || pushError.includes('fetch first');
+  if (!rejected) {
+    throw new Error(`git push failed: ${firstPush.stderr || firstPush.stdout}`);
+  }
+
+  const upstreamResult = git(
+    ['rev-parse', '--abbrev-ref', '--symbolic-full-name', '@{upstream}'],
+    true,
+  );
+  if (upstreamResult.status !== 0) {
+    throw new Error(`git push failed: ${firstPush.stderr || firstPush.stdout}`);
+  }
+
+  const fetchResult = git(['fetch'], true);
+  if (fetchResult.status !== 0) {
+    throw new Error(`git fetch failed: ${fetchResult.stderr || fetchResult.stdout}`);
+  }
+
+  const upstream = upstreamResult.stdout;
+  const remoteCommits = git(['rev-list', '--count', `HEAD..${upstream}`]);
+  if (Number(remoteCommits.stdout) === 0) {
+    throw new Error(`git push failed: ${firstPush.stderr || firstPush.stdout}`);
+  }
+
+  const mergeBase = git(['merge-base', 'HEAD', upstream]);
+  const remoteChanges = git([
+    'diff',
+    '--name-only',
+    `${mergeBase.stdout}..${upstream}`,
+  ]).stdout.split('\n').filter(Boolean);
+  const onlyGeneratedCsv = remoteChanges.length > 0
+    && remoteChanges.every((file) => file.startsWith('csv/') && file.endsWith('.csv'));
+
+  if (!onlyGeneratedCsv) {
+    throw new Error(
+      `Push rejected because the remote branch has non-CSV changes. `
+      + `Sync with ${upstream} and retry. ${firstPush.stderr || firstPush.stdout}`,
+    );
+  }
+
+  console.log('Remote CSV conversion commit detected; rebasing local changes and retrying push...');
+  // Local CSVs were generated from the XLSX changes being rebased.
+  git(['rebase', '--autostash', '--strategy-option=theirs', upstream]);
+  const retry = git(['push'], true);
+  if (retry.status !== 0) {
+    throw new Error(`git push failed after rebase: ${retry.stderr || retry.stdout}`);
+  }
+}
+
+/**
  * Excel creates ~$ lock files next to the workbook while it is open. They are
  * git-ignored, but they can still show up as untracked on some setups.
  * @param {string} filePath - Path to check
@@ -154,7 +214,7 @@ async function main({ message, push, ask }) {
 
       if (pending.status === 0 && pending.stdout) {
         console.log(`\nUnpushed commits:\n${pending.stdout}\n`);
-        git(['push']);
+        pushWithRetry();
         console.log('✓ Pushed.');
       } else {
         console.log('Nothing to push.');
@@ -190,7 +250,7 @@ async function main({ message, push, ask }) {
   }
 
   if (push) {
-    git(['push']);
+    pushWithRetry();
     console.log('✓ Pushed.');
   } else {
     console.log('\nNot pushed. Run: git push');

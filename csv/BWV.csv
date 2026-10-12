@@ -795,12 +795,12 @@ Hercules auf dem Scheidemege"
 [Cantate perdue sauf pour la fugue finale]"
 224,,BWV 224,"Reisst euch los, bedrängte Sinnen",Cantata,,,,"occasion non précisée
 [Cantate perdue sauf pour un aria pour soprano]"
-232,,BWV 232,,Mass,B minor,,"S, A, T, B, SAATTBB, 2 flûtes traversières, 2 hautbois d'amour, 3 hautbois, 2 bassons, 3 trombones, cor, timpani, cordes, continuo",
-233,,BWV 233,,Mass,F major,,"S, A, B, SATB, 2 hautbois, 2 cors, basson, 2 violons, alto, continuo",
+232,,BWV 232,Mass in B minor,Mass,B minor,,"S, A, T, B, SAATTBB, 2 flûtes traversières, 2 hautbois d'amour, 3 hautbois, 2 bassons, 3 trombones, cor, timpani, cordes, continuo",
+233,,BWV 233,Mass in F major,Mass,F major,,"S, A, B, SATB, 2 hautbois, 2 cors, basson, 2 violons, alto, continuo",
 233.1,,BWV 233a,"Kyrie eleison, Christe du Lamm Gottes",Mass,,,"SSATB, continuo",Autre version pour le Kyrie de la Messe BWV 233
-234,,BWV 234,,Mass,A major,,"S, A, B, SATB, 2 flûtes traversières, 2 violons, alto, continuo",
-235,,BWV 235,,Mass,G minor,,"A, T, B, SATB, 2 hautbois, 2 violons, alto, continuo",
-236,,BWV 236,,Mass,G major,,"S, A,T,B, SATB, 2 hautbois, 2 violons, alto, continuo",
+234,,BWV 234,Mass in A major,Mass,A major,,"S, A, B, SATB, 2 flûtes traversières, 2 violons, alto, continuo",
+235,,BWV 235,Mass in G minor,Mass,G minor,,"A, T, B, SATB, 2 hautbois, 2 violons, alto, continuo",
+236,,BWV 236,Mass in G major,Mass,G major,,"S, A,T,B, SATB, 2 hautbois, 2 violons, alto, continuo",
 237,,BWV 237,Sanctus,Mass,C major,,"SATB, 2 hautbois, 3 trombones, timpani, 2 violons, alto, continuo (orgue)",
 238,,BWV 238,Sanctus,Mass,D major,,"SATB, cornet, 2 violons, alto, continuo (orgue)",
 239,,BWV 239,Sanctus,Mass,D minor,,"SATB, 2 violons, alto, continuo (orgue)",
@@ -866,7 +866,7 @@ anniversaire de naissance de Grafen von Flemming"
 276,,BWV 276,Christ ist erstanden,,,,"choral, en ré mineur, pour choeur (SATB)",
 277,,BWV 277,Christ lag in Todesbanden,,,,"choral, en la mineur, pour choeur (SATB)",
 278,,BWV 278,Christ lag in Todesbanden,,,,"choral, en mi mineur, pour choeur (SATB)",
-279,,BWV 279,Christ lag in Todesbanden,,,,"choral, en mi mineur, pour choeur (SATB)",Variante de BWV 278 
+279,,BWV 279,Christ lag in Todesbanden,,,,"choral, en mi mineur, pour choeur (SATB)",Variante de BWV 278
 280,,BWV 280,"Christ, unser Herr, zum Jordan kam",,,,"choral, en la mineur, pour choeur (SATB)",
 281,,BWV 281,"Christus, der ist mein Leben",,,,"choral, en fa majeur, pour choeur (SATB)",
 282,,BWV 282,"Christus, der ist mein Leben",,,,"choral, en sol majeur, pour choeur (SATB)",
@@ -1112,27 +1112,27 @@ anniversaire de naissance de Grafen von Flemming"
 521,,BWV 521,"Gott, mein Herz dir Dank zusendet",,,,"chant sacré, en sol majeur, pour soliste (V) avec continuo",
 522,,BWV 522,"Meine Seele, lass es gehen",,,,"chant sacré, en fa mineur, pour soliste (V) avec continuo",
 523,,BWV 523,Ich gnüge mich an meinem Stände,,,,"chant sacré, en mi mineur, pour soliste (V) avec continuo",
-523.1,,BWV 532a,,Fugue,D major,,Organ,Variante à la Fugue de BWV 532
+523.1,,BWV 532a,Fugue in D major,Fugue,D major,,Organ,Variante à la Fugue de BWV 532
 524,,BWV 524,Der Backtrog,Quodlibet,F-e-g,,"solistes (S,A,T,B) avec continuo",fragment
-525,,BWV 525,,Sonata,E-flat major,"1. Allegro moderato
+525,,BWV 525,Organ Sonata in E-flat major,Sonata,E-flat major,"1. Allegro moderato
 2. Adagio (do mineur)
 3. Allegro",Organ,
-526,,BWV 526,,Sonata,C minor,"1. Vivace
+526,,BWV 526,Organ Sonata in C minor,Sonata,C minor,"1. Vivace
 2. Largo (mi bémol majeur)
 3. Allegro",Organ,
-527,,BWV 527,,Sonata,D minor,"1. Andante
+527,,BWV 527,Organ Sonata in D minor,Sonata,D minor,"1. Andante
 2. Adagio e dolce (fa majeur)
 repris du 2è mouvement de BWV 1044
 3. Vivace",Organ,
-528,,BWV 528,,Sonata,E minor,"1. Adagio repris de la Sinfonia # 8 de BWV 76
+528,,BWV 528,Organ Sonata in E minor,Sonata,E minor,"1. Adagio repris de la Sinfonia # 8 de BWV 76
 2. Vivace (si mineur) repris de la Sinfonia # 8 de BWV 76
 3. Andante (si mineur) apparenté à BWV 541
 4. Un poco Allegro",Organ,
-528.1,,BWV 528a,Andante,,D minor,,Organ,Variante de l'Andante (3è mouvement) de BWV 528
-529,,BWV 529,,Sonata,C major,"1. Allegro
+528.1,,BWV 528a,Andante d-Moll,,D minor,,Organ,Variante de l'Andante (3è mouvement) de BWV 528
+529,,BWV 529,Organ Sonata in C major,Sonata,C major,"1. Allegro
 2. Largo (la mineur)
 3. Allegro",Organ,
-530,,BWV 530,,Sonata,G major,"1. Vivace
+530,,BWV 530,Organ Sonata in G major,Sonata,G major,"1. Vivace
 2. Lento (mi mineur)
 3. Allegro",Organ,
 531,,BWV 531,Prélude & Fugue,,C major,,Organ,
@@ -1146,15 +1146,15 @@ repris du 2è mouvement de BWV 1044
 537,,BWV 537,"Prélude (Fantaisie), fugue",,C minor,,Organ,
 538,,BWV 538,"Prélude (Toccate), fugue ""Dorisch""",,D minor,,Organ,
 539,,BWV 539,Prélude & Fugue,,D minor,,Organ,
-539.1,,BWV 539a,,Fugue,D minor,,Organ,Variante fur violine allein (Repris dans BWV 1001 # 2)
+539.1,,BWV 539a,Fugue in D minor,Fugue,D minor,,Organ,Variante fur violine allein (Repris dans BWV 1001 # 2)
 540,,BWV 540,"Prélude (Toccate), fugue",,F major,,Organ,
 541,,BWV 541,Prélude & Fugue,,G major,,Organ,
 542,,BWV 542,"Prélude (Fantaisie), fugue ""Grand""",,G minor,,Organ,
-542.1,,BWV 542a,,Fugue,G minor,,Organ,Variante de BWV 542 (basé sur manuscrit de J.L. Krebs)
+542.1,,BWV 542a,Fugue in G minor,Fugue,G minor,,Organ,Variante de BWV 542 (basé sur manuscrit de J.L. Krebs)
 543,,BWV 543,Prélude & Fugue,,A minor,,Organ,
 544,,BWV 544,Prélude & Fugue,,B minor,,Organ,
 545,,BWV 545,Prélude & Fugue,,C major,,Organ,
-545.1,,BWV 545a,,Prelude,C major,,Organ,Variante de BWV 545 (Basé sur un manuscrit de Forkel)
+545.1,,BWV 545a,Prelude in C major,Prelude,C major,,Organ,Variante de BWV 545 (Basé sur un manuscrit de Forkel)
 546,,BWV 546,Prélude & Fugue,,C minor,,Organ,
 547,,BWV 547,Prélude & Fugue,,C major,,Organ,
 548,,BWV 548,"Prélude, fugue ""Grand""",,E minor,,Organ,
@@ -1170,65 +1170,65 @@ repris du 2è mouvement de BWV 1044
 558,,BWV 558,"Petit prélude, fugue",,G minor,,Organ,
 559,,BWV 559,"Petit prélude, fugue",,A minor,,Organ,
 560,,BWV 560,"Petit prélude, fugue",,B-flat major,,,
-561,,BWV 561,,Fantasia,A minor,,Organ,
-562,,BWV 562,,Fantasia,C minor,,Organ,Fugue inachevée
-563,,BWV 563,,Fantasia,B minor,,Organ,imitation
+561,,BWV 561,Fantasia in A minor,Fantasia,A minor,,Organ,
+562,,BWV 562,Fantasia in C minor,Fantasia,C minor,,Organ,Fugue inachevée
+563,,BWV 563,Fantasia in B minor,Fantasia,B minor,,Organ,imitation
 564,,BWV 564,"Toccate, adagio, fugue",,C major,,Organ,
 565,,BWV 565,"Toccate, fugue ""Célèbre""",,D minor,,Organ,
 566,,BWV 566,"Toccate, fugue",,E major,,Organ,
-566.1,,BWV 566a,,Tocatta,C major,,Organ,Version antérieure à BWV 566
-567,,BWV 567,,Prelude,C major,,Organ,
-568,,BWV 568,,Prelude,G major,,Organ,
-569,,BWV 569,,Prelude,A minor,,Organ,
-570,,BWV 570,,Fantasia,C major,,Organ,
-571,,BWV 571,,Fantasia,G major,,Organ,(Concerto)
-572,,BWV 572,,Fantasia,G major,,Organ,
-573,,BWV 573,,Fantasia,C major,,Organ,"(inachevée)
+566.1,,BWV 566a,Tocatta in C major,Tocatta,C major,,Organ,Version antérieure à BWV 566
+567,,BWV 567,Prelude in C major,Prelude,C major,,Organ,
+568,,BWV 568,Prelude in G major,Prelude,G major,,Organ,
+569,,BWV 569,Prelude in A minor,Prelude,A minor,,Organ,
+570,,BWV 570,Fantasia in C major,Fantasia,C major,,Organ,
+571,,BWV 571,Fantasia in G major,Fantasia,G major,,Organ,(Concerto)
+572,,BWV 572,Fantasia in G major,Fantasia,G major,,Organ,
+573,,BWV 573,Fantasia in C major,Fantasia,C major,,Organ,"(inachevée)
 Extrait de: Anna Magdalena Bach Notebook (1722) # 6"
 574,,BWV 574,Fugue sur un thème de Giovanni Legrenzi,Fugue,C minor,,Organ,
-574.1,,BWV 574a,,Fugue,C minor,,Organ,Variante de BWV 574
-575,,BWV 575,,Fugue,C minor,,Organ,
-576,,BWV 576,,Fugue,G major,,Organ,
-577,,BWV 577,,Fugue,G major,,Organ,(Gigue)
+574.1,,BWV 574a,Fugue in C minor,Fugue,C minor,,Organ,Variante de BWV 574
+575,,BWV 575,Fugue in C minor,Fugue,C minor,,Organ,
+576,,BWV 576,Fugue in G major,Fugue,G major,,Organ,
+577,,BWV 577,Fugue in G major,Fugue,G major,,Organ,(Gigue)
 578,,BWV 578,"Fugue ""Célèbre""",Fugue,G minor,,Organ,
 579,,BWV 579,Fugue sur un thème d'Arcangelo Corelli,Fugue,B minor,,Organ,Tiré de l'opus 3 # 4
-580,,BWV 580,,Fugue,D major,,Organ,
-581,,BWV 581,,Fugue,G major,,Organ,
-581.1,,BWV 581a,,Fugue,G minor,,Organ,Basée sur le Choeur # 1 de BWV 131
-582,,BWV 582,Passacaglia,,C minor,,Organ,
-583,,BWV 583,,Sonata,D minor,,Organ,(Adagio)
-584,,BWV 584,,Sonata,G minor,,Organ,Basé sur l'Aria # 2 (Adagio) de BWV 166
-585,,BWV 585,,Sonata,C minor,,Organ,Basé sur 2 mouvements d'une sonate à 3 de J.F. Fasch
-586,,BWV 586,,Sonata,G major,,Organ,Transcription d'une sonate à 3 de Georg Philip Telemann
-586.1,,BWV 586a,,Sonata,G major,,Organ,Transcription du 4è mouvement de la sonate BWV 1027a
-587,,BWV 587,,Aria,F major,,Organ,"Basé sur ""L'impériale"" (4è mouvement) de ""Les Nations"" de François Couperin"
-588,,BWV 588,Canzona,,D minor,,,
+580,,BWV 580,Fugue in D major,Fugue,D major,,Organ,
+581,,BWV 581,Fugue in G major,Fugue,G major,,Organ,
+581.1,,BWV 581a,Fugue in G minor,Fugue,G minor,,Organ,Basée sur le Choeur # 1 de BWV 131
+582,,BWV 582,Passacaglia c-Moll,,C minor,,Organ,
+583,,BWV 583,Organ Sonata in D minor,Sonata,D minor,,Organ,(Adagio)
+584,,BWV 584,Organ Sonata in G minor,Sonata,G minor,,Organ,Basé sur l'Aria # 2 (Adagio) de BWV 166
+585,,BWV 585,Organ Sonata in C minor,Sonata,C minor,,Organ,Basé sur 2 mouvements d'une sonate à 3 de J.F. Fasch
+586,,BWV 586,Organ Sonata in G major,Sonata,G major,,Organ,Transcription d'une sonate à 3 de Georg Philip Telemann
+586.1,,BWV 586a,Organ Sonata in G major,Sonata,G major,,Organ,Transcription du 4è mouvement de la sonate BWV 1027a
+587,,BWV 587,Aria in F major,Aria,F major,,Organ,"Basé sur ""L'impériale"" (4è mouvement) de ""Les Nations"" de François Couperin"
+588,,BWV 588,Canzona d-Moll,,D minor,,,
 589,,BWV 589,Allabreve,,D major,,Organ,
 590,,BWV 590,Pastorale,,F major,,Organ,
 591,,BWV 591,Petit labyrinthe harmonique,,C major,,Organ,
-592,,BWV 592,,Concerto,G major,"1. ...
+592,,BWV 592,Organ Concerto in G major,Concerto,G major,"1. ...
 2. Grave (mi mineur)
 3. Presto",Organ,"Transcription d'un concerto pour Violin, Strings, Basso Continuo
 d'après Johann Ernst von Sachsen-Weimar"
-592.1,,BWV 592a,,Concerto,G major,"1. ...
+592.1,,BWV 592a,Organ Concerto in G major,Concerto,G major,"1. ...
 2. Grave (mi mineur)
 3. Presto",Organ,"Arrangement pour Harpsichord
 d'après Johann Ernst von Sachsen-Weimar"
-593,,BWV 593,,Concerto,A minor,"1. ...
+593,,BWV 593,Organ Concerto in A minor,Concerto,A minor,"1. ...
 2. Adagio (ré mineur) senza pedale a due Harpsichorde
 3. Allegro",Organ,"Basé sur Op.3 # 8 pour 2 Violins, Basso Continuo (RV 522)"
-594,,BWV 594,,Concerto,C major,"1. ...
+594,,BWV 594,Organ Concerto in C major,Concerto,C major,"1. ...
 2. Recitativ. Adagio (la mineur)
 3. Allegro",Organ,"Basé sur Op. 7 # 5 pour Violin, Basso Continuo (RV 208)
 d'après Antonio Vivaldi"
-595,,BWV 595,,Concerto,C major,,Organ,"Utilisation du 1er mouvement seulement. Pour Harpsichord BWV 944
+595,,BWV 595,Organ Concerto in C major,Concerto,C major,,Organ,"Utilisation du 1er mouvement seulement. Pour Harpsichord BWV 944
 d'après Johann Ernst von Sachsen-Weimar"
-596,,BWV 596,,Concerto,D minor,"1. ...
+596,,BWV 596,Organ Concerto in D minor,Concerto,D minor,"1. ...
 2. Fuga
 3. Largo
 4. Finale.",Organ,"Basé sur Op. 3/11 - RV 565 de Vivaldi ou Op. X11 de Wilhelm Friedeman Bach
 d'après Antonio Vivaldi ou W.F. Bach"
-597,,BWV 597,,Concerto,E-flat major,"1. ...
+597,,BWV 597,Organ Concerto in E-flat major,Concerto,E-flat major,"1. ...
 2. Gigue",Organ,d'un auteur inconnu
 598,,BWV 598,Pedal Exercitium,,G minor,,Organ,[fragment]
 599,,BWV 599,Nun komm' der Heiden Heiland,Choralvorspiel,A minor,,Organ,
@@ -1436,42 +1436,42 @@ d'après Antonio Vivaldi ou W.F. Bach"
 769,,BWV 769,"Vom Himmel hoch, da komm' ich her",Choralpartita,C major,,Organ,[5 variations canoniques]
 770,,BWV 770,"Ach, was soll ich Sünder machen?",Choralpartita,E minor,,Organ,[10 variations]
 771,,BWV 771,Allein Gott in der Höh' sei Ehr',Choralpartita,G major,,Organ,[17 variations]
-772,,BWV 772,,Invention,C major,,Keyboard,
-772.1,,BWV 772a,,Invention,C major,,Keyboard,Variante
-773,,BWV 773,,Invention,C minor,,Keyboard,
-774,,BWV 774,,Invention,D major,,Keyboard,
-775,,BWV 775,,Invention,D minor,,Keyboard,
-776,,BWV 776,,Invention,E-flat major,,Keyboard,
-777,,BWV 777,,Invention,E major,,Keyboard,
-778,,BWV 778,,Invention,E minor,,Keyboard,
-779,,BWV 779,,Invention,F major,,Keyboard,
-780,,BWV 780,,Invention,F minor,,Keyboard,
-781,,BWV 781,,Invention,G major,,Keyboard,
-782,,BWV 782,,Invention,G minor,,Keyboard,
-783,,BWV 783,,Invention,A major,,Keyboard,
-784,,BWV 784,,Invention,A minor,,Keyboard,
-785,,BWV 785,,Invention,B-flat major,,Keyboard,
-786,,BWV 786,,Invention,B minor,,Keyboard,
-787,,BWV 787,,Sinfonia,C major,,Keyboard,
-788,,BWV 788,,Sinfonia,C minor,,Keyboard,
-789,,BWV 789,,Sinfonia,D major,,Keyboard,
-790,,BWV 790,,Sinfonia,D minor,,Keyboard,
-791,,BWV 791,,Sinfonia,E-flat major,,Keyboard,
-792,,BWV 792,,Sinfonia,E major,,Keyboard,
-793,,BWV 793,,Sinfonia,E minor,,Keyboard,
-794,,BWV 794,,Sinfonia,F major,,Keyboard,
-795,,BWV 795,,Sinfonia,F minor,,Keyboard,
-796,,BWV 796,,Sinfonia,G major,,Keyboard,
-797,,BWV 797,,Sinfonia,G major,,Keyboard,
-798,,BWV 798,,Sinfonia,A major,,Keyboard,
-799,,BWV 799,,Sinfonia,A minor,,Keyboard,
-800,,BWV 800,,Sinfonia,B-flat major,,Keyboard,
-801,,BWV 801,,Sinfonia,B minor,,Keyboard,
+772,,BWV 772,Invention in C major,Invention,C major,,Keyboard,
+772.1,,BWV 772a,Invention in C major,Invention,C major,,Keyboard,Variante
+773,,BWV 773,Invention in C minor,Invention,C minor,,Keyboard,
+774,,BWV 774,Invention in D major,Invention,D major,,Keyboard,
+775,,BWV 775,Invention in D minor,Invention,D minor,,Keyboard,
+776,,BWV 776,Invention in E-flat major,Invention,E-flat major,,Keyboard,
+777,,BWV 777,Invention in E major,Invention,E major,,Keyboard,
+778,,BWV 778,Invention in E minor,Invention,E minor,,Keyboard,
+779,,BWV 779,Invention in F major,Invention,F major,,Keyboard,
+780,,BWV 780,Invention in F minor,Invention,F minor,,Keyboard,
+781,,BWV 781,Invention in G major,Invention,G major,,Keyboard,
+782,,BWV 782,Invention in G minor,Invention,G minor,,Keyboard,
+783,,BWV 783,Invention in A major,Invention,A major,,Keyboard,
+784,,BWV 784,Invention in A minor,Invention,A minor,,Keyboard,
+785,,BWV 785,Invention in B-flat major,Invention,B-flat major,,Keyboard,
+786,,BWV 786,Invention in B minor,Invention,B minor,,Keyboard,
+787,,BWV 787,Sinfonia in C major,Sinfonia,C major,,Keyboard,
+788,,BWV 788,Sinfonia in C minor,Sinfonia,C minor,,Keyboard,
+789,,BWV 789,Sinfonia in D major,Sinfonia,D major,,Keyboard,
+790,,BWV 790,Sinfonia in D minor,Sinfonia,D minor,,Keyboard,
+791,,BWV 791,Sinfonia in E-flat major,Sinfonia,E-flat major,,Keyboard,
+792,,BWV 792,Sinfonia in E major,Sinfonia,E major,,Keyboard,
+793,,BWV 793,Sinfonia in E minor,Sinfonia,E minor,,Keyboard,
+794,,BWV 794,Sinfonia in F major,Sinfonia,F major,,Keyboard,
+795,,BWV 795,Sinfonia in F minor,Sinfonia,F minor,,Keyboard,
+796,,BWV 796,Sinfonia in G major,Sinfonia,G major,,Keyboard,
+797,,BWV 797,Sinfonia in G major,Sinfonia,G major,,Keyboard,
+798,,BWV 798,Sinfonia in A major,Sinfonia,A major,,Keyboard,
+799,,BWV 799,Sinfonia in A minor,Sinfonia,A minor,,Keyboard,
+800,,BWV 800,Sinfonia in B-flat major,Sinfonia,B-flat major,,Keyboard,
+801,,BWV 801,Sinfonia in B minor,Sinfonia,B minor,,Keyboard,
 802,,BWV 802,"Clavier-Übung III, 4 Duetti Nr. 1",Duo,E minor,,Keyboard,
 803,,BWV 803,"Clavier-Übung III, 4 Duetti Nr. 2",Duo,F major,,Keyboard,
 804,,BWV 804,"Clavier-Übung III, 4 Duetti Nr. 3",Duo,G major,,Keyboard,
 805,,BWV 805,"Clavier-Übung III, 4 Duetti Nr. 4",Duo,A minor,,Keyboard,
-806,,BWV 806,,Suite,A major,"1. Prélude
+806,,BWV 806,Suite in A major,Suite,A major,"1. Prélude
 2. Allemande
 3. Courante I
 4. Courante II
@@ -1481,35 +1481,35 @@ d'après Antonio Vivaldi ou W.F. Bach"
 8. Bourrée I
 9. Bourrée II (la mineur)
 10. Gigue",Keyboard,
-807,,BWV 807,,Suite,A minor,"1. Prélude
+807,,BWV 807,Suite in A minor,Suite,A minor,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Bourrée I
 6. Bourrée II (la majeur)
 7. Gigue",Keyboard,
-808,,BWV 808,,Suite,G minor,"1. Prélude
+808,,BWV 808,Suite in G minor,Suite,G minor,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Gavotte I
 6. Gavotte II ""La Musette"" (sol majeur)
 7. Gigue",Keyboard,
-809,,BWV 809,,Suite,F major,"1. Prélude
+809,,BWV 809,Suite in F major,Suite,F major,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Menuet I
 6. Menuet II (ré mineur)
 7. Gigue",Keyboard,
-810,,BWV 810,,Suite,E minor,"1. Prélude
+810,,BWV 810,Suite in E minor,Suite,E minor,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Passepied I en rondeau
 6. Passepied II (mi majeur)
 7. Gigue",Keyboard,
-811,,BWV 811,,Suite,D minor,"1. Prélude. Allegro
+811,,BWV 811,Suite in D minor,Suite,D minor,"1. Prélude. Allegro
 2. Allemande
 3. Courante
 4. Sarabande
@@ -1517,42 +1517,42 @@ d'après Antonio Vivaldi ou W.F. Bach"
 6. Gavotte I
 7. Gavotte II (ré majeur)
 8. Gigue",Keyboard,
-812,,BWV 812,,Suite,A minor,"1. Allemande
+812,,BWV 812,Suite in A minor,Suite,A minor,"1. Allemande
 2. Courante
 3. Sarabande
 4. Menuet I
 5. Menuet II
 6. Gigue",Keyboard,
-813,,BWV 813,,Suite,C minor,"1. Allemande
+813,,BWV 813,Suite in C minor,Suite,C minor,"1. Allemande
 2. Courante
 3. Sarabande
 4. Air
 5. Menuet
 6. Gigue",Keyboard,
-813.1,,BWV 813a,,Suite,C minor,,Keyboard,Mouvement additionnel
-814,,BWV 814,,Suite,B minor,"1. Allemande
+813.1,,BWV 813a,Suite in C minor,Suite,C minor,,Keyboard,Mouvement additionnel
+814,,BWV 814,Suite in B minor,Suite,B minor,"1. Allemande
 2. Courante
 3. Sarabande
 4. Menuet
 5. Trio
 6. Anglaise
 7. Gigue",Keyboard,
-815,,BWV 815,,Suite,E-flat major,"1. Allemande
+815,,BWV 815,Suite in E-flat major,Suite,E-flat major,"1. Allemande
 2. Courante
 3. Sarabande
 4. Gavotte
 5. Air",,
-815.1,,BWV 815a,,Suite,E-flat major,"1. Praeludium. Gavotte I
+815.1,,BWV 815a,Suite in E-flat major,Suite,E-flat major,"1. Praeludium. Gavotte I
 2. Gavotte II
 3. Menuet",,Mouvements additionnels
-816,,BWV 816,,Suite,G major,"1. Allemande
+816,,BWV 816,Suite in G major,Suite,G major,"1. Allemande
 2. Courante
 3. Sarabande
 4. Gavotte
 5. Bourrée
 6. Loure
 7. Gigue",Keyboard,
-817,,BWV 817,,Suite,E major,"1. Allemande
+817,,BWV 817,Suite in E major,Suite,E major,"1. Allemande
 2. Courante
 3. Sarabande
 4. Gavotte
@@ -1560,36 +1560,36 @@ d'après Antonio Vivaldi ou W.F. Bach"
 6. Bourrée
 7. Menuet
 8. Gigue",Keyboard,
-818,,BWV 818,,Suite,A minor,"1. Allemande
+818,,BWV 818,Suite in A minor,Suite,A minor,"1. Allemande
 2. Courante
 3. Sarabande simple
 4. Sarabande double
 5. Gigue",Keyboard,
-818.1,,BWV 818a,,Suite,A minor,"1. Prélude
+818.1,,BWV 818a,Suite in A minor,Suite,A minor,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Menuet
 6. Gigue",Keyboard,2è version
-819,,BWV 819,,Suite,E-flat major,"1. Allemande
+819,,BWV 819,Suite in E-flat major,Suite,E-flat major,"1. Allemande
 2. Courante
 3. Sarabande
 4. Bourrée
 5. Manuet I - alternatif
 6. Manuet II - trio (mi bémol mineur)",,
-819.1,,BWV 819a,,Suite,E-flat major,1. Allemande,,Mouvement alternatif
-820,,BWV 820,,Ouverture-Suite,F major,"1. (Prélude)
+819.1,,BWV 819a,Suite in E-flat major,Suite,E-flat major,1. Allemande,,Mouvement alternatif
+820,,BWV 820,Ouverture-Suite in F major,Ouverture-Suite,F major,"1. (Prélude)
 2. Entrée
 3. Menuet
 4. Trio
 5. Bourrée
 6. Gigue",Keyboard,
-821,,BWV 821,,Suite,B major,"1. (Praeludium)
+821,,BWV 821,Suite in B major,Suite,B major,"1. (Praeludium)
 2. Allemande
 3. Courante
 4. Sarabande
 7. Echo. Allegro",Keyboard,
-822,,BWV 822,,Suite,G minor,"1. Ouverture
+822,,BWV 822,Suite in G minor,Suite,G minor,"1. Ouverture
 2. Aria
 3. Gavotte en rondeau
 4. ...
@@ -1597,10 +1597,10 @@ d'après Antonio Vivaldi ou W.F. Bach"
 6. Menuet II
 7. Menuet - trio (sol majeur)
 8. Gigue",Keyboard,
-823,,BWV 823,,Suite,F minor,"1. Prélude
+823,,BWV 823,Suite in F minor,Suite,F minor,"1. Prélude
 2. Sarabande
 3. Gigue",Keyboard,Fragment
-824,,BWV 824,,Suite,A major,"1. Allemande
+824,,BWV 824,Suite in A major,Suite,A major,"1. Allemande
 2. Courante
 3. Gigue",Keyboard,Fragment
 825,,BWV 825,Clavier-Übung I/1,Partita,B-flat major,"1. Praeludium
@@ -1653,7 +1653,7 @@ d'après Antonio Vivaldi ou W.F. Bach"
 9. Bourrée II
 10. Gigue
 11. Echo",,
-832,,BWV 832,,Partita,A major,"1. Allemande
+832,,BWV 832,Partita in A major,Partita,A major,"1. Allemande
 2. Air pour les trompettes
 3. Sarabande
 4. Bourrée
@@ -1664,16 +1664,16 @@ d'après Antonio Vivaldi ou W.F. Bach"
 4. Sarabande
 5. Double. Allegro
 6. Air. Allegro",Keyboard,
-834,,BWV 834,Allemande,,C minor,,Keyboard,
-835,,BWV 835,Allemande,,A minor,,Keyboard,
-836,,BWV 836,Allemande,,G minor,,Keyboard,Extrait de: Klavierbuchlein fur Wilhelm Friedeman Bach
-837,,BWV 837,Allemande,,G minor,,Keyboard,"(fragment)
+834,,BWV 834,Allemande c-Moll,,C minor,,Keyboard,
+835,,BWV 835,Allemande a-Moll,,A minor,,Keyboard,
+836,,BWV 836,Allemande g-Moll,,G minor,,Keyboard,Extrait de: Klavierbuchlein fur Wilhelm Friedeman Bach
+837,,BWV 837,Allemande g-Moll,,G minor,,Keyboard,"(fragment)
 Extrait de: Klavierbuchlein fur Wilhelm Friedeman Bach"
 838,,BWV 838,"Allemande, Courante",,A major,,Keyboard,
-839,,BWV 839,Sarabande,,G minor,,Keyboard,Extrait de: Notenbuch der Zeumerin
-840,,BWV 840,Courante,,G major,,Keyboard,Extrait de: Notenbuch der Zeumerin
-841,,BWV 841,Menuet,,G major,,Keyboard,Extrait de: Klavierbuchlein de W.F. Bach (A.M. Bach 1722/9)
-842,,BWV 842,Menuet,,G minor,,Keyboard,Extrait de: Klavierbuchlein fur W.F. Bach
+839,,BWV 839,Sarabande g-Moll,,G minor,,Keyboard,Extrait de: Notenbuch der Zeumerin
+840,,BWV 840,Courante G-Dur,,G major,,Keyboard,Extrait de: Notenbuch der Zeumerin
+841,,BWV 841,Menuet G-Dur,,G major,,Keyboard,Extrait de: Klavierbuchlein de W.F. Bach (A.M. Bach 1722/9)
+842,,BWV 842,Menuet g-Moll,,G minor,,Keyboard,Extrait de: Klavierbuchlein fur W.F. Bach
 846,,BWV 846,"Prélude & Fugue, The Well-Tempered Clavier I/1",,C major,,Keyboard,
 846.1,,BWV 846a,"Prélude & Fugue, The Well-Tempered Clavier I/2",Prelude,C major,,Keyboard,Variante de BWV 846
 847,,BWV 847,"Prélude & Fugue, The Well-Tempered Clavier I/2",,C minor,,Keyboard,
@@ -1702,7 +1702,7 @@ Extrait de: Klavierbuchlein fur Wilhelm Friedeman Bach"
 869,,BWV 869,"Prélude & Fugue, The Well-Tempered Clavier I/24",,B minor,,Keyboard,
 870,,BWV 870,"Prélude & Fugue, The Well-Tempered Clavier II/1",,C major,,Keyboard,
 870.1,,BWV 870a,Prélude & Fugue,,C major,,Keyboard,Variante de BWV 870
-870.2,,BWV 870b,,Prelude,C major,,Keyboard,Variante de BWV 870
+870.2,,BWV 870b,Prelude in C major,Prelude,C major,,Keyboard,Variante de BWV 870
 871,,BWV 871,"Prélude & Fugue, The Well-Tempered Clavier II/2",,C minor,,Keyboard,
 872,,BWV 872,"Prélude & Fugue, The Well-Tempered Clavier II/3",,C-sharp major,,Keyboard,
 872.1,,BWV 872a,"Prélude, fugue",,C-sharp major,,Keyboard,Variante de BWV 872
@@ -1732,154 +1732,154 @@ Extrait de: Klavierbuchlein fur Wilhelm Friedeman Bach"
 895,,BWV 895,Prélude & Fugue,,A minor,,Keyboard,
 896,,BWV 896,Prélude & Fugue,,A major,,Keyboard,
 897,,BWV 897,Prélude & Fugue,,A minor,,Keyboard,
-898,,BWV 898,"Prélude, fuguesur le nom de BACH",,B-flat major,,Keyboard,
+898,,BWV 898,"Prélude, fugue sur le nom de BACH",,B-flat major,,Keyboard,
 899,,BWV 899,Prélude & Fugue,,D minor,,Keyboard,
 900,,BWV 900,Prélude & Fugue,,E minor,,Keyboard,
 901,,BWV 901,Prélude & Fugue,,F major,,Keyboard,Reprise de la Fugue de BWV 886
 902,,BWV 902,Prélude & Fugue,,G major,,Keyboard,"Variante de la Fugue de BWV 884, du Prélude de BWV 902a"
 902.1,,BWV 902a,Prélude sur la fugue de BWV 902,Prelude,G major,,Keyboard,
 903,,BWV 903,"Fantaisie chromatique, fugue",,D minor,,Keyboard,Fantaisie reprise en variante dans BWV 903a
-903.1,,BWV 903a,,Fantasia,D minor,,Keyboard,Variante de BWV 903
+903.1,,BWV 903a,Fantasia in D minor,Fantasia,D minor,,Keyboard,Variante de BWV 903
 904,,BWV 904,"Fantaisie, fugue",,A minor,,Keyboard,
 905,,BWV 905,"Fantaisie, fugue",,D minor,,Keyboard,
 906,,BWV 906,"Fantaisie, fugue",,C minor,,Keyboard,
 907,,BWV 907,"Fantaisie, fugue",,B-flat major,,Keyboard,
 908,,BWV 908,"Fantaisie, fugue",,D major,,Keyboard,
 909,,BWV 909,"Concerto, fugue",Fantasia,C minor,,Keyboard,
-910,,BWV 910,,Tocatta,F-sharp minor,,Keyboard,
-911,,BWV 911,,Tocatta,C minor,,Keyboard,
-912,,BWV 912,,Tocatta,D major,,Keyboard,Inspiré du Prélude BWV 532
+910,,BWV 910,Tocatta in F-sharp minor,Tocatta,F-sharp minor,,Keyboard,
+911,,BWV 911,Tocatta in C minor,Tocatta,C minor,,Keyboard,
+912,,BWV 912,Tocatta in D major,Tocatta,D major,,Keyboard,Inspiré du Prélude BWV 532
 912.1,,BWV 912a,Variations on a movement of the Toccata BWV 912,Tocatta,D major,,Keyboard,
-913,,BWV 913,,Tocatta,D minor,,Keyboard,
-914,,BWV 914,,Tocatta,E minor,,Keyboard,
-915,,BWV 915,,Tocatta,G minor,,Keyboard,
-916,,BWV 916,,Tocatta,G major,,Keyboard,
-917,,BWV 917,,Fantasia,G minor,,Keyboard,
+913,,BWV 913,Tocatta in D minor,Tocatta,D minor,,Keyboard,
+914,,BWV 914,Tocatta in E minor,Tocatta,E minor,,Keyboard,
+915,,BWV 915,Tocatta in G minor,Tocatta,G minor,,Keyboard,
+916,,BWV 916,Tocatta in G major,Tocatta,G major,,Keyboard,
+917,,BWV 917,Fantasia in G minor,Fantasia,G minor,,Keyboard,
 918,,BWV 918,Fantaisie on a Rondo,Fantasia,C minor,,Keyboard,
-919,,BWV 919,,Fantasia,C minor,,Keyboard,
-920,,BWV 920,,Fantasia,G minor,,Keyboard,
+919,,BWV 919,Fantasia in C minor,Fantasia,C minor,,Keyboard,
+920,,BWV 920,Fantasia in G minor,Fantasia,G minor,,Keyboard,
 921,,BWV 921,Prélude (Fantaisie),Prelude,C minor,,Keyboard,
 922,,BWV 922,Prélude (Fantaisie),Prelude,A minor,,Keyboard,
 923,,BWV 923,Prélude sur un thème d'Albinoni,Prelude,B minor,,Keyboard,Voir BWV 951
-923.1,,BWV 923a,,Prelude,A minor,,Keyboard,Variante de BWV 923
-924,,BWV 924,,Prelude,C major,,Keyboard,Variante de BWV 924
-924.1,,BWV 924a,,Prelude,C major,,Keyboard,
-925,,BWV 925,,Prelude,D major,,Keyboard,
-926,,BWV 926,,Prelude,D minor,,Keyboard,
-927,,BWV 927,,Prelude,F major,,Keyboard,
-928,,BWV 928,,Prelude,F major,,Keyboard,
-929,,BWV 929,,Prelude,G minor,,Keyboard,
-930,,BWV 930,,Prelude,G minor,,Keyboard,
-931,,BWV 931,,Prelude,A minor,,Keyboard,
-932,,BWV 932,,Prelude,E minor,,Keyboard,
-933,,BWV 933,,Prelude,C major,,Keyboard,
-934,,BWV 934,,Prelude,C minor,,Keyboard,
-935,,BWV 935,,Prelude,D minor,,Keyboard,
-936,,BWV 936,,Prelude,D major,,Keyboard,
-937,,BWV 937,,Prelude,E major,,Keyboard,
-938,,BWV 938,,Prelude,E minor,,Keyboard,
-939,,BWV 939,,Prelude,C major,,Keyboard,
-940,,BWV 940,,Prelude,D minor,,Keyboard,
-941,,BWV 941,,Prelude,E minor,,Keyboard,
-942,,BWV 942,,Prelude,A minor,,Keyboard,
-943,,BWV 943,,Prelude,C major,,Keyboard,
-944,,BWV 944,,Fugue,A minor,,Keyboard,Variante de la Fugue de BWV 543
-945,,BWV 945,,Fugue,E minor,,Keyboard,
-946,,BWV 946,,Fugue,C major,,Keyboard,
-947,,BWV 947,,Fugue,A minor,,Keyboard,
-948,,BWV 948,,Fugue,D minor,,Keyboard,
-949,,BWV 949,,Fugue,A major,,Keyboard,
+923.1,,BWV 923a,Prelude in A minor,Prelude,A minor,,Keyboard,Variante de BWV 923
+924,,BWV 924,Prelude in C major,Prelude,C major,,Keyboard,Variante de BWV 924
+924.1,,BWV 924a,Prelude in C major,Prelude,C major,,Keyboard,
+925,,BWV 925,Prelude in D major,Prelude,D major,,Keyboard,
+926,,BWV 926,Prelude in D minor,Prelude,D minor,,Keyboard,
+927,,BWV 927,Prelude in F major,Prelude,F major,,Keyboard,
+928,,BWV 928,Prelude in F major,Prelude,F major,,Keyboard,
+929,,BWV 929,Prelude in G minor,Prelude,G minor,,Keyboard,
+930,,BWV 930,Prelude in G minor,Prelude,G minor,,Keyboard,
+931,,BWV 931,Prelude in A minor,Prelude,A minor,,Keyboard,
+932,,BWV 932,Prelude in E minor,Prelude,E minor,,Keyboard,
+933,,BWV 933,Prelude in C major,Prelude,C major,,Keyboard,
+934,,BWV 934,Prelude in C minor,Prelude,C minor,,Keyboard,
+935,,BWV 935,Prelude in D minor,Prelude,D minor,,Keyboard,
+936,,BWV 936,Prelude in D major,Prelude,D major,,Keyboard,
+937,,BWV 937,Prelude in E major,Prelude,E major,,Keyboard,
+938,,BWV 938,Prelude in E minor,Prelude,E minor,,Keyboard,
+939,,BWV 939,Prelude in C major,Prelude,C major,,Keyboard,
+940,,BWV 940,Prelude in D minor,Prelude,D minor,,Keyboard,
+941,,BWV 941,Prelude in E minor,Prelude,E minor,,Keyboard,
+942,,BWV 942,Prelude in A minor,Prelude,A minor,,Keyboard,
+943,,BWV 943,Prelude in C major,Prelude,C major,,Keyboard,
+944,,BWV 944,Fugue in A minor,Fugue,A minor,,Keyboard,Variante de la Fugue de BWV 543
+945,,BWV 945,Fugue in E minor,Fugue,E minor,,Keyboard,
+946,,BWV 946,Fugue in C major,Fugue,C major,,Keyboard,
+947,,BWV 947,Fugue in A minor,Fugue,A minor,,Keyboard,
+948,,BWV 948,Fugue in D minor,Fugue,D minor,,Keyboard,
+949,,BWV 949,Fugue in A major,Fugue,A major,,Keyboard,
 950,,BWV 950,Fugue sur un thème de Tomaso Albinoni,Fugue,A major,,Keyboard,"Basé sur la Sonate en trio, Op. 1"
 951,,BWV 951,Fugue sur un thème de Tomaso Albinoni,Fugue,B minor,,Keyboard,"Basé sur la Sonate en trio, Op. 1. Voir aussi BWV 923"
-951.1,,BWV 951a,,Fugue,B minor,,Keyboard,Variante de BWV 951
-952,,BWV 952,,Fugue,C major,,Keyboard,
-953,,BWV 953,,Fugue,C major,,Keyboard,Extrait de: Klavierbuchlein fur Wilhelm Fridemann Bach
+951.1,,BWV 951a,Fugue in B minor,Fugue,B minor,,Keyboard,Variante de BWV 951
+952,,BWV 952,Fugue in C major,Fugue,C major,,Keyboard,
+953,,BWV 953,Fugue in C major,Fugue,C major,,Keyboard,Extrait de: Klavierbuchlein fur Wilhelm Fridemann Bach
 954,,BWV 954,Fugue sur un thème de Jan Adams Reinkens,Fugue,B-flat major,,Keyboard,"Basé sur l'Allegro de la Sonate # 6 ""Hortus musicus"""
 955,,BWV 955,Fugue sur un fugue de J.C. Erselius,Fugue,B-flat major,,Keyboard,
-956,,BWV 956,,Fugue,E minor,,Keyboard,
-957,,BWV 957,,Fugue,G major,,Keyboard,
-958,,BWV 958,,Fugue,A minor,,Keyboard,
-959,,BWV 959,,Fugue,A minor,,Keyboard,
-960,,BWV 960,,Fugue,E minor,,Keyboard,(inachevée)
-961,,BWV 961,,Fugue,C minor,,Keyboard,
-962,,BWV 962,,Fugue,E minor,,Keyboard,
-963,,BWV 963,,Sonata,D major,"1. ...
+956,,BWV 956,Fugue in E minor,Fugue,E minor,,Keyboard,
+957,,BWV 957,Fugue in G major,Fugue,G major,,Keyboard,
+958,,BWV 958,Fugue in A minor,Fugue,A minor,,Keyboard,
+959,,BWV 959,Fugue in A minor,Fugue,A minor,,Keyboard,
+960,,BWV 960,Fugue in E minor,Fugue,E minor,,Keyboard,(inachevée)
+961,,BWV 961,Fugue in C minor,Fugue,C minor,,Keyboard,
+962,,BWV 962,Fugue in E minor,Fugue,E minor,,Keyboard,
+963,,BWV 963,Sonata in D major,Sonata,D major,"1. ...
 2. ...(si mineur)
 3. Adagio (si mineur)
 4. Thema all'Imitatio Gallina Cucoa",Keyboard,
-964,,BWV 964,,Sonata,D minor,"1. Adagio
+964,,BWV 964,Sonata in D minor,Sonata,D minor,"1. Adagio
 2. Fuga. Allegro
 3. Andante (fa majeur)
 4. Allegro",Keyboard,"Arrangement de la Sonate en la mineur pour violon, BWV 1003"
-965,,BWV 965,,Sonata,A minor,"1. Adagio
+965,,BWV 965,Sonata in A minor,Sonata,A minor,"1. Adagio
 2. Fuga. Allegro
 3. Adagio
 4. Allemande
 5. Courante
 6. Sarabande
 7. Gigue",Keyboard,"Basé sur la Sonate # 1 de Jan Adams Reinkens ""Hotus musicus"""
-966,,BWV 966,,Sonata,D major,"1. Praeludium
+966,,BWV 966,Sonata in D major,Sonata,D major,"1. Praeludium
 2. Fugue
 3. Adagio
 4. Allemande",Keyboard,"Basé sur la Sonate #11 de Jan Adams Reinkens ""Hotus musicus"""
-967,,BWV 967,,Sonata,A minor,(1 mouvement),Keyboard,"Adaptation pour clavier d'une sonate pour instrument, clavecin"
+967,,BWV 967,Sonata in A minor,Sonata,A minor,(1 mouvement),Keyboard,"Adaptation pour clavier d'une sonate pour instrument, clavecin"
 968,,BWV 968,Adagio,,G major,,Keyboard,"Adaptation du 1er mouvement de la 3e sonate pour violon, BWV1005"
 969,,BWV 969,Andante,,G minor,,Keyboard,
 970,,BWV 970,Presto,,D minor,,Keyboard,
 971,,BWV 971,Clavier-Übung II/1,Concerto,F major,"1. ...
 2. Andante (ré mineur)
 3. Presto",Keyboard,
-972,,BWV 972,,Concerto,D major,"1. ...
+972,,BWV 972,Concerto in D major,Concerto,D major,"1. ...
 2. Larghetto
 3. Allegro",Keyboard,"Basé sur Concerto Op. 3, # 7 de Vivaldi"
-973,,BWV 973,,Concerto,G major,"1. ...
+973,,BWV 973,Concerto in G major,Concerto,G major,"1. ...
 2. Largo (mi mineur)
 3. Allegro",Keyboard,"Basé sur le Concerto Op. 7, # 2 de Vivaldi"
-974,,BWV 974,,Concerto,D minor,"1. ...
+974,,BWV 974,Concerto in D minor,Concerto,D minor,"1. ...
 2. Adagio
 3. Presto",Keyboard,Basé sur Concerto pour hautbois de Benedetto Marcello
-975,,BWV 975,,Concerto,G minor,"1. ...
+975,,BWV 975,Concerto in G minor,Concerto,G minor,"1. ...
 2. Largo (ré mineur)
 3. Gigue. Presto",Keyboard,"Basé sur Concerto, Op. 4, # 6 de Vivaldi"
-976,,BWV 976,,Concerto,C major,"1. ...
+976,,BWV 976,Concerto in C major,Concerto,C major,"1. ...
 2. Largo
 3. Allegro",Keyboard,"Basé sur Concerto, Op. 3, # 12 de Vivaldi"
-977,,BWV 977,,Concerto,C major,"1. ...
+977,,BWV 977,Concerto in C major,Concerto,C major,"1. ...
 2. Adagio (la mineur)
 3. Gigue",Keyboard,Basé sur un oeuvre non identifiée de Benedetto Marcello
-978,,BWV 978,,Concerto,F major,"1. Allegro
+978,,BWV 978,Concerto in F major,Concerto,F major,"1. Allegro
 2. Largo (ré mineur)
 3. Allegro",Keyboard,"Basé sur Concerto, Op. 3, # 3 de Vivaldi"
-979,,BWV 979,,Concerto,B minor,"1. ...Allegro
+979,,BWV 979,Concerto in B minor,Concerto,B minor,"1. ...Allegro
 2. Adagio
 3. Allegro
 4. Andante
 5. Adagio
 6. Allegro",Keyboard,Basé sur une oeuvre d'auteur inconnu
-980,,BWV 980,,Concerto,G major,"1. ...
+980,,BWV 980,Concerto in G major,Concerto,G major,"1. ...
 2. Largo (si mineur)
 3. Allegro",Keyboard,Basé sur Concerto Op. 4 # 1 de Vivaldi
-981,,BWV 981,,Concerto,C minor,"1. Adagio
+981,,BWV 981,Concerto in C minor,Concerto,C minor,"1. Adagio
 2. Vivace
 3. ...
 4. Prestissimo",Keyboard,Basé sur une oeuvre d'un auteur inconnu
-982,,BWV 982,,Concerto,B-flat major,"1. ...
+982,,BWV 982,Concerto in B-flat major,Concerto,B-flat major,"1. ...
 2. Adagio (sol mineur)
 3. Allegro (sol mineur)
 4. Allegro",Keyboard,Basé sur Op. 1 de John Ernst von Sachen-Weimar
-983,,BWV 983,,Concerto,G minor,"1. ...
+983,,BWV 983,Concerto in G minor,Concerto,G minor,"1. ...
 2. Adagio (sol mineur)
 3. Allegro",Keyboard,Basé sur une oeuvre d'un auteur inconnu
-984,,BWV 984,,Concerto,C major,"1. ...
+984,,BWV 984,Concerto in C major,Concerto,C major,"1. ...
 2. Adagio e affettuoso (fa mineur)
 3. Allegro assai",Keyboard,Reprise de BWV 595
-985,,BWV 985,,Concerto,G minor,"1. ...
+985,,BWV 985,Concerto in G minor,Concerto,G minor,"1. ...
 2. Adagio (do mineur)
 3. Allegro",Keyboard,Basé sur un concerto perdu pour violon de Telemann
-986,,BWV 986,,Concerto,G major,"1. ...
+986,,BWV 986,Concerto in G major,Concerto,G major,"1. ...
 2. Adagio (mi mineur)
 3. Allegro",Keyboard,Basé sur une oeuvre attribuée à Telemann
-987,,BWV 987,,Concerto,D minor,"1. ...
+987,,BWV 987,Concerto in D minor,Concerto,D minor,"1. ...
 2. Presto
 3. Allegro
 4. Adagio
@@ -1953,7 +1953,7 @@ Provient de: Anna Magdalena Bach Notebook - 1722 # 7"
 5. Aria di Postiglione. Adagio poco
 6. Fuga all'imitazione della cornetta di Postiglione",Keyboard,
 993,,BWV 993,Cappricio en l'honneur de Johann Christoph Bach,,E major,,Keyboard,Klavierbuchlein fur Widhelm Friedemann Bach
-995,,BWV 995,,Suite,G minor,"1. Praludium
+995,,BWV 995,Suite in G minor,Suite,G minor,"1. Praludium
 2. Presto
 3. Allemande
 4. Courante
@@ -1961,13 +1961,13 @@ Provient de: Anna Magdalena Bach Notebook - 1722 # 7"
 6. Gavotte I
 7. Gavotte II
 8. Gigue",Lute,"Adaptation de la suite # 5 pour Cello, BWV 1011"
-996,,BWV 996,,Suite,E minor,"1. Passaggio. ...Presto
+996,,BWV 996,Suite in E minor,Suite,E minor,"1. Passaggio. ...Presto
 2. Allemande
 3. Courante
 4. Sarabande
 5. Bourrée
 6. Gigue",Lute,
-997,,BWV 997,,Partita,C minor,"1. Preludio
+997,,BWV 997,Partita in C minor,Partita,C minor,"1. Preludio
 2. Fuga
 3. Sarabande
 4. Gigue
@@ -1975,9 +1975,9 @@ Provient de: Anna Magdalena Bach Notebook - 1722 # 7"
 998,,BWV 998,"Prélude, fugue, adagio",,E-flat major,"1. Praludium
 2. Fuga
 3. Allegro",Lute,
-999,,BWV 999,,Prelude,C minor,,Lute,
-1000,,BWV 1000,,Fugue,G minor,,Lute,"Adaptation du 2è mouvement de Sonate pour Violin, BWV 1001"
-1001,,BWV 1001,,Sonata,G minor,"1. Adagio
+999,,BWV 999,Prelude in C minor,Prelude,C minor,,Lute,
+1000,,BWV 1000,Fugue in G minor,Fugue,G minor,,Lute,"Adaptation du 2è mouvement de Sonate pour Violin, BWV 1001"
+1001,,BWV 1001,Violin Sonata in G minor,Sonata,G minor,"1. Adagio
 2. Fuga. Allegro
 Repris dans la Fugue BWV 539, BWV 1000
 3. Siciliano
@@ -1986,7 +1986,7 @@ Repris dans la Fugue BWV 539, BWV 1000
 Repris dans la Fugue BWV 539, BWV 1000
 3. Siciliano
 4. Presto",Solo Violin,
-1002,,BWV 1002,,Partita,B minor,"1. Allemande
+1002,,BWV 1002,Violin Partita in B minor,Partita,B minor,"1. Allemande
 2. Double
 3. Courante
 4. Double. Presto
@@ -1994,22 +1994,22 @@ Repris dans la Fugue BWV 539, BWV 1000
 6. Double
 7. Tempo di Bourrée
 8. Double",Solo Violin,
-1003,,BWV 1003,,Sonata,A minor,"1. Grave
+1003,,BWV 1003,Violin Sonata in A minor,Sonata,A minor,"1. Grave
 2. Fuga
 3. Andante
 Repris dans la sonate BWV 964
 4. Allegro",Solo Violin,
-1004,,BWV 1004,,Partita,D minor,"1. Allemande
+1004,,BWV 1004,Violin Partita in D minor,Partita,D minor,"1. Allemande
 2. Courante
 3. Sarabande
 4. Gigue
 5. Chaconne",Solo Violin,
-1005,,BWV 1005,,Sonata,C major,"1. Adagio
+1005,,BWV 1005,Violin Sonata in C major,Sonata,C major,"1. Adagio
 Repris de l'Adagio, BWV 968
 2. Fuga. Alla breve
 3. Largo (fa majeur)
 4. Allegro assai",Solo Violin,
-1006,,BWV 1006,,Partita,E major,"1. Preludio
+1006,,BWV 1006,Violin Partita in E major,Partita,E major,"1. Preludio
 Repris de la Sinfonia # 1 de BWV 29, du Choeur # 1 de BWV 120a
 2. Loure
 3. Gavotte en rondeau
@@ -2017,81 +2017,81 @@ Repris de la Sinfonia # 1 de BWV 29, du Choeur # 1 de BWV 120a
 5. Menuet II
 6. Bourrée
 7. Gigue",Solo Violin,
-1006.1,,BWV 1006a,,Partita,E major,"1. Prélude
+1006.1,,BWV 1006a,Harp Partita in E major,Partita,E major,"1. Prélude
 2. Loure
 3. Gavotte en rondeau
 4. Menuet I
 5. Menuet II
 6. Bourrée
 7. Gigue",Harp,Transcription probablement pour harpe
-1007,,BWV 1007,,Suite,G major,"1. Prélude
+1007,,BWV 1007,Cello Suite in G major,Suite,G major,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Menuet I
 6. Menuet II (sol mineur)
 7. Gigue",Solo Cello,
-1008,,BWV 1008,,Suite,D minor,"1. Prélude
+1008,,BWV 1008,Cello Suite in D minor,Suite,D minor,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Menuet I
 6. Menuet II (ré majeur)
 7. Gigue",Solo Cello,
-1009,,BWV 1009,,Suite,C major,"1. Prélude
+1009,,BWV 1009,Cello Suite in C major,Suite,C major,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Bourrée I
 6. Bourrée II (do mineur)
 7. Gigue",Solo Cello,
-1010,,BWV 1010,,Suite,E-flat major,"1. Prélude
+1010,,BWV 1010,Cello Suite in E-flat major,Suite,E-flat major,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Bourrée I
 6. Bourrée II
 7. Gigue",Solo Cello,
-1011,,BWV 1011,,Suite,C minor,"1. Prélude
+1011,,BWV 1011,Cello Suite in C minor,Suite,C minor,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Gavotte I
 6. Gavotte II
 7. Gigue",Solo Cello,"Adaptation de la Suite en sol mineur, BWV 995"
-1012,,BWV 1012,,Suite,D major,"1. Prélude
+1012,,BWV 1012,Cello Suite in D major,Suite,D major,"1. Prélude
 2. Allemande
 3. Courante
 4. Sarabande
 5. Gavotte I
 6. Gavotte II
 7. Gigue",Solo Cello,
-1013,,BWV 1013,,Sonata,A minor,"1. Allemande
+1013,,BWV 1013,Flute Sonata in A minor,Sonata,A minor,"1. Allemande
 2. Courante
 3. Sarabande
 4. Bourrée anglaise",Solo Flute,
-1014,,BWV 1014,,Sonata,B minor,"1. Adagio
+1014,,BWV 1014,Violin Sonata in B minor,Sonata,B minor,"1. Adagio
 2. Allegro
 3. Andante (ré majeur)
 4. Allegro","Violin, Harpsichord",
-1015,,BWV 1015,,Sonata,A major,"1. ...
+1015,,BWV 1015,Violin Sonata in A major,Sonata,A major,"1. ...
 2. Allegro assai
 3. Andante un poco (fa dièse mineur)
 4. Presto","Violin, Harpsichord",
-1016,,BWV 1016,,Sonata,E major,"1. Adagio
+1016,,BWV 1016,Violin Sonata in E major,Sonata,E major,"1. Adagio
 2. Allegro
 3. Adagio ma non tanto (do dièse mineur)
 4. Allegro","Violin, Harpsichord",
-1017,,BWV 1017,,Sonata,C minor,"1. Siciliano. Largo
+1017,,BWV 1017,Violin Sonata in C minor,Sonata,C minor,"1. Siciliano. Largo
 2. Allegro
 3. Adagio (mi bémol majeur)
 4. Allegro","Violin, Harpsichord",
-1018,,BWV 1018,,Sonata,F minor,"1. Largo
+1018,,BWV 1018,Violin Sonata in F minor,Sonata,F minor,"1. Largo
 2. Allegro
 3. Adagio (do mineur)
 4. Vivace","Violin, Harpsichord",
 1018.1,,BWV 1018a,Adagio,Sonata,F minor,,"Violin, Harpsichord","Mouvement alternatif pour l'Adagio, BWV 1018"
-1019,,BWV 1019,,Sonata,G major,"1. Allegro
+1019,,BWV 1019,Violin Sonata in G major,Sonata,G major,"1. Allegro
 2. Largo (mi mineur)
 3. Allegro (mi mineur)
 4. Adagio (si mineur)
@@ -2103,25 +2103,25 @@ Basé sur l'Aria # 4 de BWV 120
 2. Adagio
 Mouvement alternatif pout le 4è mouvement (Adagio)
 Variation de la Courante, Gavotte de BWV 830","Violin, Keyboard",Mouvements alternatifs pour BWV 1019
-1020,,BWV 1020,,Sonata,G minor,"1. Allegro moderato
+1020,,BWV 1020,Sonata in G minor,Sonata,G minor,"1. Allegro moderato
 2. Adagio (mi bémol majeur)
 3. Allegro","Violin/Flute , Harpsichord",
-1021,,BWV 1021,,Sonata,G major,"1. Adagio
+1021,,BWV 1021,Violin Sonata in G major,Sonata,G major,"1. Adagio
 2. Vivace
 3. Largo (mi mineur)
 4. Presto
 Repris dans le Presto de BWV 1022, BWV 1038","Violin, Harpsichord",
-1022,,BWV 1022,,Sonata,F major,"1. ...
+1022,,BWV 1022,Violin Sonata in F major,Sonata,F major,"1. ...
 2. Allegro e presto
 3. Adagio (ré mineur)
 4. Presto
 Repris du Presto de BWV 1021, BWV 1038","Violin, Harpsichord",
-1023,,BWV 1023,,Sonata,E minor,"1. Preludio
+1023,,BWV 1023,Violin Sonata in E minor,Sonata,E minor,"1. Preludio
 2. Adagio ma non tanto
 3. Allemande
 4. Gigue","Violin, Harpsichord",
-1024,,BWV 1024,,Sonata,C minor,,"Violin, Harpsichord",
-1025,,BWV 1025,,Sonata,A major,"1. Fantasia
+1024,,BWV 1024,Violin Sonata in C minor,Sonata,C minor,,"Violin, Harpsichord",
+1025,,BWV 1025,Violin Sonata in A major,Sonata,A major,"1. Fantasia
 2. Courante
 3. Entrée
 4. Rondeau
@@ -2129,81 +2129,81 @@ Repris du Presto de BWV 1021, BWV 1038","Violin, Harpsichord",
 6. Menuet
 7. Allegro","Violin, Harpsichord",
 1026,,BWV 1026,Fugue,Sonata,G minor,,"Violin, Harpsichord",
-1027,,BWV 1027,,Sonata,G major,"1. Adagio
+1027,,BWV 1027,Cello Sonata in G major,Sonata,G major,"1. Adagio
 2. Allegro ma non tanto
 3. Andante (mi mineur)
 4. Allegro moderato","Cello, Harpsichord",Adaptation de BWV 1039.
-1027.1,,BWV 1027a,,Sonata,G major,,Organ,Arrangement de l'Allegro moderato de BWV 1027.
-1028,,BWV 1028,,Sonata,D major,"1. Adagio
+1027.1,,BWV 1027a,Organ Sonata in G major,Sonata,G major,,Organ,Arrangement de l'Allegro moderato de BWV 1027.
+1028,,BWV 1028,Cello Sonata in D major,Sonata,D major,"1. Adagio
 2. Allegro
 3. Andante (si mineur)
 4. Allegro","Cello, Harpsichord",
-1029,,BWV 1029,,Sonata,G minor,"1. Vivace
+1029,,BWV 1029,Cello Sonata in G minor,Sonata,G minor,"1. Vivace
 2. Adagio (si bémol majeur)
 3. Allegro","Cello, Harpsichord",
-1030,,BWV 1030,,Sonata,B minor,"1. Andante
+1030,,BWV 1030,Flute Sonata in B minor,Sonata,B minor,"1. Andante
 2. Largo e dolce (ré majeur)
 3. Presto
 4. Allegro","Transverse Flute, Harpsichord",
-1031,,BWV 1031,,Sonata,E-flat major,"1. Allegro
+1031,,BWV 1031,Sonata in E-flat major,Sonata,E-flat major,"1. Allegro
 2. Siciliano (sol mineur)
 3. Allegro","Transverse Flute, Harpsichord",
-1032,,BWV 1032,,Sonata,A major,,"Transverse Flute, Harpsichord",
-1033,,BWV 1033,,Sonata,C major,"1. Andante...Presto
+1032,,BWV 1032,Flute Sonata in A major,Sonata,A major,,"Transverse Flute, Harpsichord",
+1033,,BWV 1033,Flute Sonata in C major,Sonata,C major,"1. Andante...Presto
 2. Allegro
 3. Adagio (la mineur)
 4. Menuetto I
 5. Menuetto II (la mineur)","Transverse Flute, Harpsichord",
-1034,,BWV 1034,,Sonata,E minor,"1. Adagio ma non tanto
+1034,,BWV 1034,Flute Sonata in E minor,Sonata,E minor,"1. Adagio ma non tanto
 2. Allegro
 3. Andante (aol majeur)
 4. Allegro","Transverse Flute, Harpsichord",
-1035,,BWV 1035,,Sonata,E major,"1. Adagio ma non tanto
+1035,,BWV 1035,Flute Sonata in E major,Sonata,E major,"1. Adagio ma non tanto
 2. Allegro
 3. Siciliano (do dièse mineur)
 4. Allegro assai","Transverse Flute, Harpsichord",
-1036,,BWV 1036,,Sonata,D minor,"1. Adagio
+1036,,BWV 1036,Sonata in D minor,Sonata,D minor,"1. Adagio
 2. Allegro
 3. Largo (fa majeur)
 4. Vivace","2 Violins, Harpsichord",
-1037,,BWV 1037,,Sonata,C major,"1. Adagio
+1037,,BWV 1037,Sonata in C major,Sonata,C major,"1. Adagio
 2. Alla breve
 3. Largo (la mineur)
 4. Gigue. Presto","2 Violins, Harpsichord",
-1038,,BWV 1038,,Sonata,G major,"1. Largo
+1038,,BWV 1038,Flute Sonata in G major,Sonata,G major,"1. Largo
 2. Vivace
 3. Adagio (mi mineur)
 4. Presto
 Repris du Presto de BWV 1021, BWV 1022","Transverse Flute, Violin, Harpsichord",
-1039,,BWV 1039,,Sonata,G major,"1. Adagio
+1039,,BWV 1039,Sonata in G major,Sonata,G major,"1. Adagio
 2. Allegro ma non presto
 3. Adagio e piano (mi mineur)
 4. Presto","2 Transverse Flutes, Harpsichord",Arrangement de BWV 1027.
 1040,,BWV 1040,Mouvement instrumental,Sonata,F major,,"Violin, Oboes, Harpsichord","Inspiré de l'Air # 13 de BWV 208, l'Air # 2 de BWV 68."
-1041,,BWV 1041,,Concerto,A minor,"1. ...
+1041,,BWV 1041,Violin Concerto in A minor,Concerto,A minor,"1. ...
 2. Andante (do majeur)
 3. Allegro assai","Violin , Strings (2 Violins, Viola), Harpsichord","Transcrit pour clavecin, en sol mineur, BWV 1058"
-1042,,BWV 1042,,Concerto,E major,"1. Allegro
+1042,,BWV 1042,Violin Concerto in E major,Concerto,E major,"1. Allegro
 2. Adagio (do dièse mineur)
 3. Allegro assai","Violin , Strings (2 Violins, Viola), Harpsichord","Transcrit pour clavecin, en ré majeur, BWV 1054."
-1043,,BWV 1043,,Concerto,D minor,"1. Vivace
+1043,,BWV 1043,Violin Concerto in D minor,Concerto,D minor,"1. Vivace
 2. Largo ma non tanto (fa majeur)
 3. Allegro","Violin , Strings (2 Violins, Viola), Harpsichord","Transcrit pour 2 clavecins, en do mineur, BWV 1062"
-1044,,BWV 1044,,Concerto,A minor,"1. Allegro
+1044,,BWV 1044,Flute Concerto in A minor,Concerto,A minor,"1. Allegro
 Repris du Praeludium, en la mineur, BWV 894
 2. Adagio ma non tanto e dolce (do majeur)
 Repris de l'Adagio, en ré mineur, BWV 527
 3. Alla breve
 Repris de la Fugue, en la mineur, BWV 894","Transverse Flute, Violin, clavecin , Strings (2 Violins, Viola), Basso Continuo",
-1045,,BWV 1045,Concerto brandebourgeois,Concerto,D major,,"Violin, 3 Trumpets, Timpani, 2 Oboes, 2 Violins, Viola, Basso Continuo",Fagment d'une sinfonia.
-1046,,BWV 1046,Concerto brandebourgeois,Concerto,F major,"1. Allegro
+1045,,BWV 1045,Brandenburg Concerto in D major,Concerto,D major,,"Violin, 3 Trumpets, Timpani, 2 Oboes, 2 Violins, Viola, Basso Continuo",Fagment d'une sinfonia.
+1046,,BWV 1046,Brandenburg Concerto in F major,Concerto,F major,"1. Allegro
 2. Adagio (ré mineur)
 3. Allegro Inspiré du Choeur # 1 de BWV 207
 4. Menuetto
 5. Trio I (2 Oboes, Bassoon)
 6. Polacca (Violins, Violas)
 7. Trio II (2 Horns,  3 Oboes à l'unisson）Repris de la Ritournelle # 7 de BWV 207","2 Corni da caccia,  Bassoon, 3 Oboes, Violin piccolo concertante, Strings (2 Violins, Viola, Cello), Basso Continuo","Mouvements 1,2,4,5, 7: repris dans BWV 1071"
-1047,,BWV 1047,Concerto brandebourgeois,Concerto,F major,"1. Allegro
+1047,,BWV 1047,Brandenburg Concerto in F major,Concerto,F major,"1. Allegro
 2. Andante (ré mineur)
 3. Allegro assai
 1. Allegro
@@ -2211,71 +2211,71 @@ Repris de la Sinfonia de BWV 174
 2. Adagio
 3. Allegro
 Inspité de la Pastorale, BWV 590","Trumpet, Recorder, Oboes, Violin concertante , Strings (2 Violins, Viola, Cello), Basso Continuo",
-1048,,BWV 1048,Concerto brandebourgeois,Concerto,G major,"1. Allegro
+1048,,BWV 1048,Brandenburg Concerto in G major,Concerto,G major,"1. Allegro
 Repris de la Sinfonia de BWV 174
 2. Adagio
 3. Allegro
 Inspité de la Pastorale, BWV 590","3 Violins, 3 Violas, 3 Cellos, Basso Continuo",
-1049,,BWV 1049,Concerto brandebourgeois,Concerto,G major,"1. Allegro
+1049,,BWV 1049,Brandenburg Concerto in G major,Concerto,G major,"1. Allegro
 2. Andante (mi mineur)
 3. Presto","Violin principal, 2 Recorders , Strings (2 Violins, Viola, Cello), Basso Continuo","Transcrit pour clavecin en fa majeur, BWV 1057"
-1050,,BWV 1050,Concerto brandebourgeois,Concerto,D major,"1. Allegro
+1050,,BWV 1050,Brandenburg Concerto in D major,Concerto,D major,"1. Allegro
 2. Affettuoso (si mineur)
 3. Allegro","Transverse Flute , Strings (2 Violins, Viola, Cello), Basso Continuo",
-1051,,BWV 1051,Concerto brandebourgeois,Concerto,B-flat major,"1. Moderato
+1051,,BWV 1051,Brandenburg Concerto in B-flat major,Concerto,B-flat major,"1. Moderato
 2. Adagio ma non tanto (mi bémol majeur)
 3. Allegro","2 Violas, 2 Violas da Gamba, Cello, Basso Continuo",
-1052,,BWV 1052,,Concerto,D minor,"1. Allegro
+1052,,BWV 1052,Harpsichord Concerto in D minor,Concerto,D minor,"1. Allegro
 Repris de l'Instrumentalstatz # 1 de BWV 146
 2. Adagio (sol mineur)
 3. Allegro","Harpsichord, 2 Violins, Viola, Basso Continuo",Servi d'inspiration pour l'introduction de BWV 188
-1052.1,,BWV 1052a,,Concerto,D minor,"1. Allegro
+1052.1,,BWV 1052a,Harpsichord Concerto in D minor,Concerto,D minor,"1. Allegro
 2. Adagio (sol mineur)
 3. Allegro","Harpsichord, 2 Violins, Viola, Basso Continuo",Variante de BWV 1052
-1053,,BWV 1053,,Concerto,E major,"1. Allegro
+1053,,BWV 1053,Harpsichord Concerto in E major,Concerto,E major,"1. Allegro
 Repris de la Sinfonia de BWV 169
 2. Siciliano (do dièse mineur)
 Repris de l'Aria # 5 de BWV 169
 3. Allegro
 Repris de la Sinfonia de BWV 49","Harpsichord, 2 Violins, Viola, Basso Continuo",
-1054,,BWV 1054,,Concerto,D major,"1. Allegro
+1054,,BWV 1054,Harpsichord Concerto in D major,Concerto,D major,"1. Allegro
 2. Adagio e piano sempre (si mineur)
 3. Allegro","Harpsichord, 2 Violins, Viola, Basso Continuo","Transcrit pour Violin en mi majeur, BWV 1042"
-1055,,BWV 1055,,Concerto,A major,"1. Allegro
+1055,,BWV 1055,Harpsichord Concerto in A major,Concerto,A major,"1. Allegro
 2. Larghetto (fa dièse mineur)
 3. Allegro ma non tanto","Harpsichord, 2 Violins, Viola, Basso Continuo",
-1056,,BWV 1056,,Concerto,F minor,"1. Allegro moderato
+1056,,BWV 1056,Harpsichord Concerto in F minor,Concerto,F minor,"1. Allegro moderato
 2. Largo (la bémol majeur) Repris de la Sinfonia de BWV 156
 3. Presto","Harpsichord, 2 Violins, Viola, Basso Continuo",
-1057,,BWV 1057,,Concerto,F major,"1. Allegro
+1057,,BWV 1057,Harpsichord Concerto in F major,Concerto,F major,"1. Allegro
 2. Andante (ré mineur)
 3. Allegro assai","Harpsichord, 2 Recorders, 2 Violins, Viola, Basso Continuo","Transcription du concerto # 4, BWV 1049"
-1058,,BWV 1058,,Concerto,G minor,"1. Allegro
+1058,,BWV 1058,Harpsichord Concerto in G minor,Concerto,G minor,"1. Allegro
 2. Andante (si bémol majeur)
 3. Allegro assai","Harpsichord, 2 Violins, Viola, Basso Continuo","Transcription du concerto pour Violin en la mineur, BWV 1041"
-1059,,BWV 1059,,Concerto,D minor,,"Harpsichord, Oboe, 2 Violins, Viola, Basso Continuo","Adaptation partielle de Sinfonia # 1, Aria # 2 de BWV 35"
-1060,,BWV 1060,,Concerto,C minor,"1. Allegro
+1059,,BWV 1059,Harpsichord Concerto in D minor,Concerto,D minor,,"Harpsichord, Oboe, 2 Violins, Viola, Basso Continuo","Adaptation partielle de Sinfonia # 1, Aria # 2 de BWV 35"
+1060,,BWV 1060,Concerto for 2 Harpsichords in C minor,Concerto,C minor,"1. Allegro
 2. Adagio (mi bémol majeur)
 3. Allegro","2 Harpsichords, 2 Violins, Viola, Basso Continuo","Based on a lost concerto, possibly for oboe and violin or two violins"
-1060.1,,BWV 1060R,,Concerto,C minor,"1. Allegro
+1060.1,,BWV 1060R,Oboe Concerto in C minor,Concerto,C minor,"1. Allegro
 2. Adagio (mi bémol majeur)
 3. Allegro","Solo Oboe, Solo Violin, 2 Violins, Viola, Basso Continuo",Reconstruction of the lost original concerto
-1061,,BWV 1061,,Concerto,C major,"1. Allegro
+1061,,BWV 1061,Concerto for 2 Harpsichords in C major,Concerto,C major,"1. Allegro
 2. Adagio ovvero Largo (la mineur)
 3. Fuga","2 Harpsichords, 2 Violins, Viola, Basso Continuo",
-1062,,BWV 1062,,Concerto,C minor,"1. Allegro
+1062,,BWV 1062,Concerto for 2 Harpsichords in C minor,Concerto,C minor,"1. Allegro
 2. Andante (mi bémol majeur)
 3. Allegro assai","2 Harpsichords, 2 Violins, Viola, Basso Continuo","Adaptation du concerto pour 2 Violins, BWV 1043"
-1063,,BWV 1063,,Concerto,D minor,"1. Allegro
+1063,,BWV 1063,Concerto for 3 Harpsichords in D minor,Concerto,D minor,"1. Allegro
 2. Alla Siciliano (fa majeur)
 3. Allegro","3 Harpsichords, 2 Violins, Viola, Basso Continuo",
-1064,,BWV 1064,,Concerto,C major,"1. Allegro
+1064,,BWV 1064,Concerto for 3 Harpsichords in C major,Concerto,C major,"1. Allegro
 2. Adagio (la mineur)
 3. Allegro assai","3 Harpsichords, 2 Violins, Viola, Basso Continuo",
-1065,,BWV 1065,,Concerto,A minor,"1. Allegro
+1065,,BWV 1065,Concerto for 4 Harpsichords in A minor,Concerto,A minor,"1. Allegro
 2. Largo
 3. Allegro","4 Harpsichords, 2 Violins, Viola, Basso Continuo","based on concerto b-Moll, Op 3/10 by Vivaldi"
-1066,,BWV 1066,,Ouverture-Suite,C major,"1. Ouverture
+1066,,BWV 1066,Ouverture-Suite in C major,Ouverture-Suite,C major,"1. Ouverture
 2. Courante
 3. Gavotte I - alternativement
 4. Gavotte II
@@ -2286,7 +2286,7 @@ Repris de la Sinfonia de BWV 49","Harpsichord, 2 Violins, Viola, Basso Continuo"
 9. Bourrée II (do mineur)
 10. Passepied I
 11. Passepied II","2 Oboes, Bassoon, 2 Violins, Viola, Basso Continuo",
-1067,,BWV 1067,,Ouverture-Suite,B minor,"1. Ouverture
+1067,,BWV 1067,Ouverture-Suite in B minor,Ouverture-Suite,B minor,"1. Ouverture
 2. Lentement
 3. Rondeau
 4. Sarabande
@@ -2296,13 +2296,13 @@ Repris de la Sinfonia de BWV 49","Harpsichord, 2 Violins, Viola, Basso Continuo"
 8. Double
 9. Menuet
 10. Badinerie","Transverse Flute, 2 Violins, Viola, Basso Continuo",
-1068,,BWV 1068,,Ouverture-Suite,D major,"1. Ouverture
+1068,,BWV 1068,Ouverture-Suite in D major,Ouverture-Suite,D major,"1. Ouverture
 2. Air
 3. Gavotte I
 4. Gavotte II
 5. Bourrée
 6. Gigue","3 Trumpets, timpani, 2 Oboes, 2 Violins, Viola, Basso Continuo",
-1069,,BWV 1069,,Ouverture-Suite,D major,"1. Ouverture
+1069,,BWV 1069,Ouverture-Suite in D major,Ouverture-Suite,D major,"1. Ouverture
 Repris du Choeur # 1 de BWV 110
 2. Bourrée I
 3. Bourrée II (si mineur)
@@ -2310,13 +2310,13 @@ Repris du Choeur # 1 de BWV 110
 5. Menuet I - alternativement
 6. Menuet II (2 Violins, Viola), Basso Continuo)
 7. Réjouissance","3 Trumpets, timpani, 3 Oboes, Bassoon, 2 Violins, Viola, Basso Continuo",
-1070,,BWV 1070,,Ouverture-Suite,G minor,"1. Larghetto...Un poco Allegro
+1070,,BWV 1070,Ouverture-Suite in G minor,Ouverture-Suite,G minor,"1. Larghetto...Un poco Allegro
 2. Torneo
 3. Aria. Adagio (mi bémol majeur)
 4. Menuetto alternativo
 5. Trio (sol majeur)
 6. Capriccio",,
-1071,,BWV 1071,,Sinfonia,F major,"1. Allegro
+1071,,BWV 1071,Sinfonia in F major,Sinfonia,F major,"1. Allegro
 Repris de l'Allegro de BWV 1046, de la Sinfonia de BWV 52
 2. Adagio (ré mineur)
 Repris de l'Adagio de BWV 1046
@@ -2326,13 +2326,13 @@ Repris du Menuet de BWV 1046
 Repris du Trio I de BWV 1046>
 5. Trio II (2 Horns,  Violin)
 Repris du Trio II de BWV 1046",,
-1072,,BWV 1072,,Canon,C major,,"V1, V2, V3, V4, V5, V6, V7, V8",
-1073,,BWV 1073,,Canon,A minor,,"V1, V2, V3, V4",
-1074,,BWV 1074,,Canon,D minor,,"V1, V2, V3, V4, V5",
-1075,,BWV 1075,,Canon,C major,,"V1, V2",
-1076,,BWV 1076,,Canon,G major,,"V1, V2, V3, V4, V5, V6",
-1077,,BWV 1077,,Canon,G major,,"V1, V2, V3",
-1078,,BWV 1078,,Canon,F major,,"V1, V2, V3, V4, V5, V6, V7",
+1072,,BWV 1072,Canon in C major,Canon,C major,,"V1, V2, V3, V4, V5, V6, V7, V8",
+1073,,BWV 1073,Canon in A minor,Canon,A minor,,"V1, V2, V3, V4",
+1074,,BWV 1074,Canon in D minor,Canon,D minor,,"V1, V2, V3, V4, V5",
+1075,,BWV 1075,Canon in C major,Canon,C major,,"V1, V2",
+1076,,BWV 1076,Canon in G major,Canon,G major,,"V1, V2, V3, V4, V5, V6",
+1077,,BWV 1077,Canon in G major,Canon,G major,,"V1, V2, V3",
+1078,,BWV 1078,Canon in F major,Canon,F major,,"V1, V2, V3, V4, V5, V6, V7",
 1079,,BWV 1079,Offrande musicale,,C minor,"1. Ricercare a 3 voci, pour clavecin
 2. Canon perpetuus super thema regium, pour instruments à Strings
 3. Canones diversi
@@ -2392,7 +2392,7 @@ Repris du Trio II de BWV 1046",,
 14 Amen pour soprano, Viola, en fa mineur / fa majeur","V1, V2, 2 Violins, Viola, Basso Continuo.",Parodie du Stabat mater de Giovanni Battista Pergolesi
 1084,,BWV 1084,"O hilf, Christe, Gottes Sohn",Choralvorspiel,G minor,,SATB,
 1085,,BWV 1085,"O Lamm Gottes, unschuldig",Choralvorspiel,F major,,Organ,
-1086,,BWV 1086,,Canon,C major,,"V1, V2",
+1086,,BWV 1086,Canon in C major,Canon,C major,,"V1, V2",
 1087,,BWV 1087,14 Canons sur les 8 premières notes fondamentales de l'Air des Variations Goldberg,,G major,"1. Canon simplex
 2. All' roverscio
 3. Beede vorigen Canones zugleich, motu recto e contrario
@@ -2440,7 +2440,7 @@ Repris du Trio II de BWV 1046",,
 1118,,BWV 1118,"Werde munter, mein Gemüte",,D major,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
 1119,,BWV 1119,Wie nach einer Wasserquelle,,A minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
 1120,,BWV 1120,"Christ, der du bist der helle Tag",,E minor,,Organ,Manuscrit Johann Gottfried Neumeister - Yale University
-1121,,BWV 1121,,Fantasia,C minor,,Organ,Anciennement Anh 205
+1121,,BWV 1121,Fantasia in C minor,Fantasia,C minor,,Organ,Anciennement Anh 205
 1122,,BWV 1122,"Denket doch, Ihr Menschenkinder",,,,SATB,"texte: Johann Hübner
 d'après une copie de J.L. Dietel"
 1123,,BWV 1123,Wo Gott zum Haus nicht gibt sein Gut,,,,SATB,"texte: Johann Kolrose, 1535

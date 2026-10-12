@@ -1,25 +1,25 @@
 SORT,TH,ČW,Opus,Year,Title,Type,Key,Instrumentation,Note
-1,TH 1,ČW 1,3,1867–68,The Voyevoda,Opera,,,Opera in 3 acts and 4 scenes
-2,TH 2,ČW 2,,1869,Undina,Opera,,,Opera in 3 acts
-3,TH 3,ČW 3,,1870–72,The Oprichnik,Opera,,,Opera in 4 acts and 5 scenes
-4,TH 4,ČW 4,14,1874,Vakula the Smith,Opera,,,Comic opera in 3 acts and 8 scenes
-5,TH 5,ČW 5,24,1877–78,Yevgeny Onegin,Opera,,"S,2M,A,2T,Bar,3B,mime; chorus;
+1,TH 1,ČW 1,3,1867–68,Воево́да (the Voyevoda),Opera,,,Opera in 3 acts and 4 scenes
+2,TH 2,ČW 2,,1869,Ундина (Undina),Opera,,,Opera in 3 acts
+3,TH 3,ČW 3,,1870–72,Опричник (the Oprichnik),Opera,,,Opera in 4 acts and 5 scenes
+4,TH 4,ČW 4,14,1874,Кузнец Вакула (Vakula the Smith),Opera,,,Comic opera in 3 acts and 8 scenes
+5,TH 5,ČW 5,24,1877–78,Евгений Онегин (Yevgeny Onegin),Opera,,"S,2M,A,2T,Bar,3B,mime; chorus;
 2(II=picc).2.2.2-4.2.3.0-timp-harp-strings",Lyrical scenes in 3 acts and 7 tableaux
-6,TH 6,ČW 6,,1878–79,The Maid of Orleans,Opera,,"2S,S(M),2T,2Bar,5B; chorus; ballet;
+6,TH 6,ČW 6,,1878–79,Орлеанская дева (the Maid of Orleans),Opera,,"2S,S(M),2T,2Bar,5B; chorus; ballet;
 3.2(II=corA).2.0-4.2(II=crt).3.1-timp.perc(3)-harp-org-strings;
 Off-stage: 3trp-banda","Opera in 4 acts and 6 scenes, Libretto by the composer after Schiller's tragedy 'Die Jungfrau von Orleans'"
-7,TH 7,ČW 7,,1881–83,Mazepa,Opera,,"S,M,3T,Bar,2B; chorus;
+7,TH 7,ČW 7,,1881–83,Мазепа (Mazepa),Opera,,"S,M,3T,Bar,2B; chorus;
 3.2(II=corA).2.0-4.2(II=crt).3.1-timp.perc(2)-harp-strings;
 On-stage: banda","Opera in 3 acts and 6 scenes, Libretto by the composer and Viktor Burenin after Alexander Pushkin's epic poem 'Poltava'"
-8,TH 8,ČW 8,,1885,Cherevichki,Opera,,,Comic-fantastic opera in 4 acts and 8 scenes
-9,TH 9,ČW 9,,1885–87,The Enchantress,Opera,,,Opera in 4 acts
-10,TH 10,ČW 10,68,1890,The Queen of Spades,Opera,,"3S,2M,2A,4T,3Bar,2B; chorus; ballet;
+8,TH 8,ČW 8,,1885,Черевички (Cherevichki),Opera,,,Comic-fantastic opera in 4 acts and 8 scenes
+9,TH 9,ČW 9,,1885–87,Чародейка (the Enchantress),Opera,,,Opera in 4 acts
+10,TH 10,ČW 10,68,1890,Пиковая дама (the Queen of Spades),Opera,,"3S,2M,2A,4T,3Bar,2B; chorus; ballet;
 3.2(II=corA).2(bcl).0-4.2.3.1-timp.perc(1)-harp-pft-strings","Opera in 3 acts and 7 scenes, Libretto by Modest Tchaikovsky and the composer after the novel by Alexander Pushkin"
-11,TH 11,ČW 11,69,1891,Iolanta,Opera,,"2S,M,A,2T,2Bar,2B; chorus;
+11,TH 11,ČW 11,69,1891,Иоланта (Iolanta),Opera,,"2S,M,A,2T,2Bar,2B; chorus;
 2.2(II=corA).2.0-4.2.3.1-timp-2harp-strings","Lyric opera in one act, Libretto by Modest Tchaikovsky after the play 'King René's Daughter' by Henrik Hertz"
-12,TH 12,ČW 12,20,1875–76,Swan Lake,Ballet,,,Ballet in 4 acts
-13,TH 13,ČW 13,66,1888–89,The Sleeping Beauty,Ballet,,2(=picc).2(CorA).2.2-4.2(II=Cor).3.1-timp.perc:1-strings,Ballet in a prologue and 3 acts
-14,TH 14,ČW 14,71,1891–92,The Nutcracker,Ballet,,3.2(CorA).2(bcl).2-4.2.3.1-timp.perc:3-2harp-cel-strings,Fairy ballet in 2 acts and 3 scenes
+12,TH 12,ČW 12,20,1875–76,Лебединое озеро (Swan Lake),Ballet,,,Ballet in 4 acts
+13,TH 13,ČW 13,66,1888–89,Спящая красавица (the Sleeping Beauty),Ballet,,2(=picc).2(CorA).2.2-4.2(II=Cor).3.1-timp.perc:1-strings,Ballet in a prologue and 3 acts
+14,TH 14,ČW 14,71,1891–92,Щелкунчик (the Nutcracker),Ballet,,3.2(CorA).2(bcl).2-4.2.3.1-timp.perc:3-2harp-cel-strings,Fairy ballet in 2 acts and 3 scenes
 15,TH 15,ČW 423,,1863–65 (?),Boris Godunov,Incidental Music,,,Music for the Fountain Scene in Pushkin's tragedy
 16,TH 16,ČW 17,,1867 (?),Dmitry the Pretender and Vasily Shuysky,Incidental Music,,,Introduction and Mazurka for Aleksandr Ostrovsky's dramatic chronicle
 17,TH 17,ČW 424,,1867,The Tangle,Incidental Music,,,Recitatives and music to a couplet for Pavel Fyodorov's vaudeville
@@ -29,8 +29,8 @@ On-stage: banda","Opera in 3 acts and 6 scenes, Libretto by the composer and Vik
 21,TH 21,ČW 426,,1880,Montenegro,Incidental Music,,,Music for a tableau vivant
 22,TH 22,ČW 20,,1886,The Voyevoda,Incidental Music,,,Melodrama for the Domovoy's monologue in Aleksandr Ostrovsky's comedy
 23,TH 23,ČW 16,67b,1891,Hamlet,Incidental Music,,,Music for Shakespeare's tragedy
-24,TH 24,ČW 21,13,"1866–68, 1874",Symphony No. 1,Symphony,G minor,2(=picc).2.2.2-4.2.3.1-timp.perc:2-strings,
-25,TH 25,ČW 22,17,"1872,",Symphony No. 2,Symphony,C minor,2(=picc).2.2.2-4.2.3.1-timp.perc:2-strings,
+24,TH 24,ČW 21,13,"1866–68, 1874","Symphony No. 1 ""Зимние грёзы""",Symphony,G minor,2(=picc).2.2.2-4.2.3.1-timp.perc:2-strings,
+25,TH 25,ČW 22,17,"1872,","Symphony No. 2 ""Малороссийская""",Symphony,C minor,2(=picc).2.2.2-4.2.3.1-timp.perc:2-strings,
 26,TH 26,ČW 23,29,1875,Symphony No. 3,Symphony,D major,2(=picc).2.2.2-4.2.3.1-timp-strings,
 27,TH 27,ČW 24,36,1877,Symphony No. 4,Symphony,F minor,2.picc.2.2.2-4.2.3.1-timp.perc:3-strings,
 28,TH 28,ČW 25,58,1885,"Symphony ""Manfred""",Symphony,B minor,3(III=picc).2.corA.2.bcl.3-4.2.2crt.3.1-timp.perc:6-2harp-org-strings,

@@ -1,218 +1,204 @@
 SORT,Catalogue,Opus,Date,Title,Type,Key,Movement,Instrumentation,Note
-1,Hob. I:1,,1759,Symphony in D major,Symphony,D major,"1. Presto (D major)
+1.001,Hob. I:1,,1759,Symphony in D major,Symphony,D major,"1. Presto (D major)
 2. Andante (G major)
 3. Finale. Presto (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:10,,1763,Symphony in D major,Symphony,D major,"1. Allegro (D major)
+1.002,Hob. I:2,,1760,Symphony in C major,Symphony,C major,"1. Allegro (C major)
+2. Andante (G major)
+3. Finale: Presto (C major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.003,Hob. I:3,,1762,Symphony in G major,Symphony,G major,"1. Allegro (G major)
+2. Andante moderato (G minor)
+3. Menuetto (G major), Trio
+4. Finale: Presto (G major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.004,Hob. I:4,,1762,Symphony in D major,Symphony,D major,"1. Presto (D major)
+2. Andante (D minor)
+3. Finale: Tempo di Menuetto (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.005,Hob. I:5,,1762,Symphony in A major,Symphony,A major,"1. Adagio non troppo (A major)
+2. Allegro (A major)
+3. Menuetto (A major), Trio
+4. Finale: Presto (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.006,Hob. I:6,,1761,"Symphony in D major ""Le Matin""",Symphony,D major,"1. Adagio (D major); Allegro
+2. Adagio (G major); Andante; Adagio
+[Strings seulement]
+3. Menuetto (D major), Trio (la mineur)
+4. Finale: Allegro (D major)","Violin concertant, 2 Violins, Viola, Cello concertant, Cello, Contrebassoon, Flute, 2 Oboes, Bassoon, 2 Horns,",
+1.007,Hob. I:7,,1761,"Symphony in C major ""Le Midi""",Symphony,C major,"1. Adagio (C major); Allegro
+2. Recitativo: Adagio (C minor); Allegro; Adagio
+3. Adagio (G major)
+4. Menuetto (C major), Trio
+5. Finale: Allegro (C major)","2 Concertante Violins, 2 Violins ripieno, Viola, Cello, Basso Continuo, 2 Flutes, 2 Oboes, Bassoon, 2 Horns",
+1.008,Hob. I:8,,1761,"Symphony in G major ""Le Soir""",Symphony,G major,"1. Allegro molto (G major)
+2. Andante (C major)
+3. Menuetto (G major), Trio (C major)
+4. La Tempesta: Presto (G major)","Flute, 2 Oboes, Solo Bassoon, 2 Horns, 2 Violins (both also solo), Viola, Cello, Basso",
+1.009,Hob. I:9,,1762,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
+2. Andante (G major)
+3. Finale: Menuetto, trio (C major)","2 Oboes, 2 Horns, 2 Violins, Viola, Basso",
+1.01,Hob. I:10,,1763,Symphony in D major,Symphony,D major,"1. Allegro (D major)
 2. Andante (G major)
 3. Finale: Vivace (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:100,,1794,"Symphony in G major ""Military""",Symphony,G major,"1.Adagio (G major); Allegro
-2. Allegretto (C major)
-3. Menuet: Moderato (G major), Trio
-4. Finale: Presto (G major)","2 Flutes, 2 Oboes, (2 Clarinets), 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, triangle, cymbales, grosse caisse, 2 Violins, 2 Violas, Cello, Basso",Londres 12
-1,Hob. I:101,,1794,"Symphony in D major ""The Clock""",Symphony,D major,"1. Adagio (D minor); Presto (D major)
-2. Andante (G major)
-3. Menuet: Allegretto (D major), Trio
-4. Finale: Vivace (D major)",,Londres 11
-1,Hob. I:102,,1794,Symphony in B-flat major,Symphony,B-flat major,"1. Largo (B-flat major); Vivace
-2. Adagio (F major)
-3. Menuet: Allegro (B-flat major), Trio
-4. Finale: Presto (B-flat major)","2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, Solo Cello, 2 Violins, Viola, Cello, Basso",Londres 9
-1,Hob. I:103,,1795,"Symphony in E-flat major ""Drum-roll""",Symphony,E-flat major,"1. Adagio (E-flat major); Allegro con spirito
-2. Andante piu tosto Allegretto (C minor)
-3. Menuet (E-flat major), Trio
-4. Finale: Allegro con spirito (E-flat major)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 8
-1,Hob. I:104,,1795,"Symphony in D major ""London""",Symphony,D major,"1. Adagio (D minor); Allegro (D major)
-2. Andante (G major)
-3. Menuetto. Allegro (D major), Trio (B-flat major)
-4. Finale: Spirituoso (D major)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 7
-1,Hob. I:105,,1792,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro (B-flat major)
-2. Andante (F major)
-3. Allegro con spirito (B-flat major)","2 Oboes, Bassoon, Violin, Cello, Flute, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:106,,,Symphony in D major,Symphony,D major,1. Allegro,Orchestra,
-1,Hob. I:107,,1762,"Symphony in B-flat major ""Sinfonia A""",Symphony,B-flat major,"1. Allegro (B-flat major)
-2. Andante (E-flat major)
-3. Allegro molto (B-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso","[version authentique du Quatuor, op. 1, # 5 - Hob. III:5]"
-1,Hob. I:108,,1765,"Symphony in B-flat major ""Sinfonia B""",Symphony,B-flat major,"1. Allegro molto moderato (B-flat major)
-2. Menuetto (B-flat major), Trio (E-flat major)
-3. Adagio (G minor)
-4. Finale: Presto (B-flat major)","2 Oboes, Solo Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:11,,1763,Symphony in E-flat major,Symphony,E-flat major,"1. Adagio cantabile (E-flat major)
+1.011,Hob. I:11,,1763,Symphony in E-flat major,Symphony,E-flat major,"1. Adagio cantabile (E-flat major)
 2. Allegro (E-flat major)
 3. Menuetto (E-flat major), Trio (B-flat major)
 4. Finale: Presto (E-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:12,,1763,Symphony in E major,Symphony,E major,"1. Allegro (E major)
+1.012,Hob. I:12,,1763,Symphony in E major,Symphony,E major,"1. Allegro (E major)
 2. Adagio (E minor)
 3. Finale: Presto (E major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:13,,1763,Symphony in D major,Symphony,D major,"1. Allegro molto (D major)
+1.013,Hob. I:13,,1763,Symphony in D major,Symphony,D major,"1. Allegro molto (D major)
 2. Adagio cantabile (G major)
 3. Menuet (D major), Trio (G major)
 4. Finale: Allegro molto (D major)","Flute, 2 Oboes, 4 Horns, (Timpani), Solo Cello, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:14,,1764,Symphony in A major,Symphony,A major,"1. Allegro molto (A major)
+1.014,Hob. I:14,,1764,Symphony in A major,Symphony,A major,"1. Allegro molto (A major)
 2. Andante (D major)
 3. Menuetto (A major), Trio (la mineur)
 4. Finale: Allegro (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:15,,1764,Symphony in D major,Symphony,D major,"1. Adagio (D major); Presto; Adagio
+1.015,Hob. I:15,,1764,Symphony in D major,Symphony,D major,"1. Adagio (D major); Presto; Adagio
 2. Menuetto (D major), trio (G major)
 3. Andante (G major)
 4. Presto (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:16,,1766,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro (B-flat major)
+1.016,Hob. I:16,,1766,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro (B-flat major)
 2. Andante (E-flat major)
 3. Finale: Presto (B-flat major)","2 Oboes, (2 Horns), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:17,,1764,Symphony in F major,Symphony,F major,"1. Allegro (F major)
+1.017,Hob. I:17,,1764,Symphony in F major,Symphony,F major,"1. Allegro (F major)
 2. Andante (F minor)
 3. Finale: Allegro molto (F major)","(2 Oboes), 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:18,,1764,Symphony in G major,Symphony,G major,"1. Andante molto (G major)
+1.018,Hob. I:18,,1764,Symphony in G major,Symphony,G major,"1. Andante molto (G major)
 2. Allegro molto (G major)
 3. Tempo di Menuetto (G major / G minor)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:19,,1764,Symphony in D major,Symphony,D major,"1. Allegro molto (D major)
+1.019,Hob. I:19,,1764,Symphony in D major,Symphony,D major,"1. Allegro molto (D major)
 2. Andante (D minor)
 3. Presto (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:2,,1760,Symphony in C major,Symphony,C major,"1. Allegro (C major)
-2. Andante (G major)
-3. Finale: Presto (C major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:20,,1764,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
+1.02,Hob. I:20,,1764,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
 2. Andante cantabile (G major)
 3. Menuetto (C major), Trio (F major)
 4. Presto (C major)","2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:21,,1764,"Symphony in A major ""Brukenthal""",Symphony,A major,"1. Adagio (A major)
+1.021,Hob. I:21,,1764,"Symphony in A major ""Brukenthal""",Symphony,A major,"1. Adagio (A major)
 2. Presto (A major)
 3. Menuetto (A major), Trio (la mineur)
 4. Finale: Allegro molto (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:22,,1764,"Symphony in E-flat major ""Der Philosoph""",Symphony,E-flat major,"1. Adagio (E-flat major)
+1.022,Hob. I:22,,1764,"Symphony in E-flat major ""Der Philosoph""",Symphony,E-flat major,"1. Adagio (E-flat major)
 2. Presto (E-flat major)
 3. Menuetto (E-flat major), Trio
 4. Finale: Presto (E-flat major)
 *. Andante grazioso (la bémol majeur)
 2 Oboes, 2 Horns, Strings
 mouvement supplémentaire alternatif","2 English Horns, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:23,,1764,Symphony in G major,Symphony,G major,"1. Allegro (G major)
+1.023,Hob. I:23,,1764,Symphony in G major,Symphony,G major,"1. Allegro (G major)
 2. Andante (C major)
 3. Menuet (G major), Trio (C major)
 4. Finale: Presto assai (G major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:24,,1764,Symphony in D major,Symphony,D major,"1. Allegro (D major)
+1.024,Hob. I:24,,1764,Symphony in D major,Symphony,D major,"1. Allegro (D major)
 2. Adagio cantabile (G major)
 3. Menuet (D major), Trio
 4. Finale: Allegro (D major)","Solo Flute, 2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:25,,1765,Symphony in C major,Symphony,C major,"1. Adagio (C major); Allegro molto
+1.025,Hob. I:25,,1765,Symphony in C major,Symphony,C major,"1. Adagio (C major); Allegro molto
 2. Menuetto (C major), Trio
 3. Presto (C major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:26,,1765,"Symphony in D minor ""Lamentatione / Weihnacht""",Symphony,D minor,"1. Allegro assai con spirito (D minor)
+1.026,Hob. I:26,,1765,"Symphony in D minor ""Lamentatione / Weihnacht""",Symphony,D minor,"1. Allegro assai con spirito (D minor)
 2. Adagio (F major)
 3. Menuetto (D minor), Trio (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:27,,1765,Symphony in G major,Symphony,G major,"1. Allegro molto (G major)
+1.027,Hob. I:27,,1765,Symphony in G major,Symphony,G major,"1. Allegro molto (G major)
 2. Andante: Siciliano (C major)
 3. Finale: Presto (G major)","2 Oboes, (2 Horns), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:28,,1765,Symphony in A major,Symphony,A major,"1. Allegro di molto (A major)
+1.028,Hob. I:28,,1765,Symphony in A major,Symphony,A major,"1. Allegro di molto (A major)
 2. Poco Adagio (D major)
 3. Menuet: Allegro molto (A major), Trio (la mineur)
 4. Presto assai (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:29,,1765,Symphony in E major,Symphony,E major,"1. Allegro di molto (E major)
+1.029,Hob. I:29,,1765,Symphony in E major,Symphony,E major,"1. Allegro di molto (E major)
 2. Andante (A major)
 3. Menuet: Allegretto (E major), Trio (E minor)
 4. Finale: Presto (E major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:3,,1762,Symphony in G major,Symphony,G major,"1. Allegro (G major)
-2. Andante moderato (G minor)
-3. Menuetto (G major), Trio
-4. Finale: Presto (G major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:30,,1765,"Symphony in C major ""Alleluja""",Symphony,C major,"1. Allegro (C major)
+1.03,Hob. I:30,,1765,"Symphony in C major ""Alleluja""",Symphony,C major,"1. Allegro (C major)
 2. Andante (G major)
 3. Finale: Tempo di Menuet piu tosto Allegretto (C major)","Flute, 2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:31,,1765,"Symphony in D major ""Hornsignal""",Symphony,D major,"1. Allegro (D major)
+1.031,Hob. I:31,,1765,"Symphony in D major ""Hornsignal""",Symphony,D major,"1. Allegro (D major)
 2. Adagio (G major)
 3. Menuetto (D major), Trio
 4. Finale: Moderato molto (D major), 7 variations; Presto","Flute, 2 Oboes, 4 Horns, Violin concertant, 2 Violins, Viola, Cello obligé, Basso (, Bassoon)",
-1,Hob. I:32,,1766,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
+1.032,Hob. I:32,,1766,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
 2. Menuetto (C major), Trio (C minor)
 3. Adagio ma non troppo (F major)
 4. Presto (C major)","2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:33,,1767,Symphony in C major,Symphony,C major,"1. Vivace (C major)
+1.033,Hob. I:33,,1767,Symphony in C major,Symphony,C major,"1. Vivace (C major)
 2. Andante (C minor)
 3. Menuetto (C major), Trio (F major)
 4. Finale: Allegro (C major)","2 Oboes, 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:34,,1766,Symphony in D minor,Symphony,D minor,"1. Adagio (D minor)
+1.034,Hob. I:34,,1766,Symphony in D minor,Symphony,D minor,"1. Adagio (D minor)
 2. Allegro (D major)
 3. Menuetto (D major), Trio
 4. Presto assai (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:35,,1767,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro di molto (B-flat major)
+1.035,Hob. I:35,,1767,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro di molto (B-flat major)
 2. Andante (E-flat major)
 3. Menuet: Un poco Allegretto (B-flat major), Trio (E-flat major)
 4. Finale: Presto (B-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:36,,1765,Symphony in E-flat major,Symphony,E-flat major,"1. Vivace (E-flat major)
+1.036,Hob. I:36,,1765,Symphony in E-flat major,Symphony,E-flat major,"1. Vivace (E-flat major)
 2. Adagio (E-flat major)
 3. Menuetto (E-flat major), Trio (B-flat major)
 4. Allegro (E-flat major)","2 Oboes, 2 Horns, Violin, Cello obligés, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:37,,1758,Symphony in C major,Symphony,C major,"1. Presto (C major)
+1.037,Hob. I:37,,1758,Symphony in C major,Symphony,C major,"1. Presto (C major)
 2. Andante (C minor)
 3. Menuetto (C major), Trio (C minor)
 4. Presto (C major)","2 Oboes, 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:38,,1766,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
+1.038,Hob. I:38,,1766,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
 2. Andante molto (F major)
 3. Menuetto (C major), Trio (F major)
 4. Allegro (C major)","2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:39,,1770,"Symphony in G minor ""Tempesta di mare""",Symphony,G minor,"1. Allegro assai (G minor)
+1.039,Hob. I:39,,1770,"Symphony in G minor ""Tempesta di mare""",Symphony,G minor,"1. Allegro assai (G minor)
 2. Andante (E-flat major)
 3. Menuetto (G minor), Trio (B-flat major)
 4. Finale: Allegro molto (G minor)","2 Oboes, 4 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:4,,1762,Symphony in D major,Symphony,D major,"1. Presto (D major)
-2. Andante (D minor)
-3. Finale: Tempo di Menuetto (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:40,,1763,Symphony in F major,Symphony,F major,"1. Allegro (F major)
+1.04,Hob. I:40,,1763,Symphony in F major,Symphony,F major,"1. Allegro (F major)
 2. Andante piu tosto Allegretto (B-flat major)
 3. Menuet (F major), Trio
 4. Finale: Fugue - Allegro (F major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:41,,1771,Symphony in C major,Symphony,C major,"1. Allegro con spirito (C major)
+1.041,Hob. I:41,,1771,Symphony in C major,Symphony,C major,"1. Allegro con spirito (C major)
 2. Poco Andante (F major)
 3. Menuetto (C major), Trio
 4. Presto (C major)","Solo Flute, 2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:42,,1771,Symphony in D major,Symphony,D major,"1. Moderato e maestoso (D major)
+1.042,Hob. I:42,,1771,Symphony in D major,Symphony,D major,"1. Moderato e maestoso (D major)
 2. Andantino (A major)
 3. Menuet: Allegretto (D major), Trio
 4. Finale: Scherzando e Presto (D major)","2 Oboes, 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:43,,1772,"Symphony in E-flat major ""Mercury""",Symphony,E-flat major,"1. Allegro (E-flat major)
+1.043,Hob. I:43,,1772,"Symphony in E-flat major ""Mercury""",Symphony,E-flat major,"1. Allegro (E-flat major)
 2. Adagio (la bémol majeur)
 3. Menuetto (E-flat major), Trio (C minor)
 4. Finale: Allegro (E-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:44,,1772,"Symphony in E minor ""Trauer""",Symphony,E minor,"1. Allegro con brio (E minor)
+1.044,Hob. I:44,,1772,"Symphony in E minor ""Trauer""",Symphony,E minor,"1. Allegro con brio (E minor)
 2. Menuet: Allegretto - Canone in diapason (E minor), Trio (E major)
 3. Adagio (E major)
 4. Finale: Presto (E minor)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:45,,1772,"Symphony in F-sharp minor ""Abschieds""",Symphony,F-sharp minor,"1. Allegro assai (fa dièse mineur)
+1.045,Hob. I:45,,1772,"Symphony in F-sharp minor ""Abschieds""",Symphony,F-sharp minor,"1. Allegro assai (fa dièse mineur)
 2. Adagio (A major)
 3. Menuet: Allegretto (fa dièse majeur), Trio
 4. Finale: Presto (fa dièse mineur); Adagio (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:46,,1772,Symphony in B major,Symphony,B major,"1. Vivace (B major)
+1.046,Hob. I:46,,1772,Symphony in B major,Symphony,B major,"1. Vivace (B major)
 2. Poco Adagio (B minor)
 3. Menuet: Allegretto (B major), Trio (B minor)
 4. Finale: Presto e Scherzando (B major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:47,,1772,"Symphony in G major ""Palindrome""",Symphony,G major,"1. Allegro (G major)
+1.047,Hob. I:47,,1772,"Symphony in G major ""Palindrome""",Symphony,G major,"1. Allegro (G major)
 2. Un pco Adagio (D major)
 3. Menuet al Roverso (G major), Trio al Roverso
 4. Finale: Presto assai (G major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:48,,1773?,"Symphony in C major ""Maria Theresia""",Symphony,C major,"1. Allegro (C major)
+1.048,Hob. I:48,,1773?,"Symphony in C major ""Maria Theresia""",Symphony,C major,"1. Allegro (C major)
 2. Adagio (F major)
 3. Menuetto (C major), Trio (C minor)
 4. Finale: Allegro (C major)","2 Oboes, 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:49,,1768,La Passione,Symphony,F major,"1. Adagio (F minor)
+1.049,Hob. I:49,,1768,La Passione,Symphony,F major,"1. Adagio (F minor)
 2. Allegro di molto (F minor)
 3. Menuet (F minor), Trio (F major)
 4. Finale: Presto (F minor)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:5,,1762,Symphony in A major,Symphony,A major,"1. Adagio non troppo (A major)
-2. Allegro (A major)
-3. Menuetto (A major), Trio
-4. Finale: Presto (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:50,,1773,Symphony in C major,Symphony,C major,"1. Adagio e maestoso (C major); Allegro di molto
+1.05,Hob. I:50,,1773,Symphony in C major,Symphony,C major,"1. Adagio e maestoso (C major); Allegro di molto
 2. Andante moderato (G major)
 3. Menuetto (C major), Trio (F major)
 4. Finale: Presto (C major)","2 Oboes, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:51,,1772-1774,Symphony in B-flat major,Symphony,B-flat major,"1. Vivace (B-flat major)
+1.051,Hob. I:51,,1772-1774,Symphony in B-flat major,Symphony,B-flat major,"1. Vivace (B-flat major)
 2. Adagio (E-flat major)
 3. Menuetto (B-flat major), Trios I, II
 4. Finale: Allegro (B-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:52,,1772-1774,Symphony in C minor,Symphony,C minor,"1. Allegro assai (C minor)
+1.052,Hob. I:52,,1772-1774,Symphony in C minor,Symphony,C minor,"1. Allegro assai (C minor)
 2. Andante (C major)
 3. Menuetto (C minor), Trio (C major)
 4. Finale: Presto (C minor)","2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:53,,1775,"Symphony in D major ""L'Impériale""",Symphony,D major,"1. Largo maestoso (D major); Vivace
+1.053,Hob. I:53,,1775,"Symphony in D major ""L'Impériale""",Symphony,D major,"1. Largo maestoso (D major); Vivace
 2. Andante (A major)
 3. Menuet (D major), Trio
 4. Finale: Presto (D major)
@@ -223,50 +209,45 @@ mouvement supplémentaire alternatif","2 English Horns, 2 Horns, 2 Violins, Viol
 (finale: 3è version)
 *. Presto (D major)
 (finale: 4è version)","Flute, 2 Oboes, Bassoon (1st version: 2 Bassoons), 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:54,,1774,Symphony in G major,Symphony,G major,"1. Adagio maestoso (G major); Presto
+1.054,Hob. I:54,,1774,Symphony in G major,Symphony,G major,"1. Adagio maestoso (G major); Presto
 2. Adagio assai (C major)
 3. Menuet: Allegretto (G major), Trio
 4. Finale: Presto (G major)","(2 Flutes), 2 Oboes, 2 Bassoons, 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:55,,1774,"Symphony in E-flat major ""Der Schulmeister""",Symphony,E-flat major,"1. Allegro di molto (E-flat major)
+1.055,Hob. I:55,,1774,"Symphony in E-flat major ""Der Schulmeister""",Symphony,E-flat major,"1. Allegro di molto (E-flat major)
 2. Adagio, ma semplicemente (B-flat major)
 3. Menuetto (E-flat major), Trio
 4. Finale: Presto (E-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Basso (, Bassoon)",
-1,Hob. I:56,,1774,Symphony in C major,Symphony,C major,"1. Allegro di molto (C major)
+1.056,Hob. I:56,,1774,Symphony in C major,Symphony,C major,"1. Allegro di molto (C major)
 2. Adagio (F major)
 3. Menuetto (C major), Trio (F major)
 4. Finale: Prestissimo (C major)","2 Oboes, Solo Bassoon, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:57,,1774,Symphony in D major,Symphony,D major,"1. Adagio (D major); Allegro di molto
+1.057,Hob. I:57,,1774,Symphony in D major,Symphony,D major,"1. Adagio (D major); Allegro di molto
 2. Adagio (G major)
 3. Menuet: Allegretto (D major), Trio (D minor)
 4. Finale: Prestissimo (D major)","2 Oboes, 2 Horns, (Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:58,,1766?,Symphony in F major,Symphony,F major,"1. Allegro moderato (F major)
+1.058,Hob. I:58,,1766?,Symphony in F major,Symphony,F major,"1. Allegro moderato (F major)
 2. Andante (B-flat major)
 3. Menuetto alla Zoppo un poco Allegretto (F major), Trio
 4. Presto (F major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:59,,1769,"Symphony in A major ""Feuer""",Symphony,A major,"1. Presto (A major)
+1.059,Hob. I:59,,1769,"Symphony in A major ""Feuer""",Symphony,A major,"1. Presto (A major)
 2. Andante piu tosto Allegretto (la mineur)
 3. Menuetto (A major), Trio (la mineur)
 4. Allegro assai (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:6,,1761,"Symphony in D major ""Le Matin""",Symphony,D major,"1. Adagio (D major); Allegro
-2. Adagio (G major); Andante; Adagio
-[Strings seulement]
-3. Menuetto (D major), Trio (la mineur)
-4. Finale: Allegro (D major)","Violin concertant, 2 Violins, Viola, Cello concertant, Cello, Contrebassoon, Flute, 2 Oboes, Bassoon, 2 Horns,",
-1,Hob. I:60,,1775,"Symphony in C major ""Il Distratto""",Symphony,C major,"1. Adagio (C major); Allegro di molto
+1.06,Hob. I:60,,1775,"Symphony in C major ""Il Distratto""",Symphony,C major,"1. Adagio (C major); Allegro di molto
 2. Adagio (G major)
 3. Menuetto (C major), Trio (C minor)
 4. Presto (C minor)
 5. Adagio (F major)
 6. Finale: Prestissimo (C major)","2 Oboes, 2 Horns, (2 Trumpets), Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:61,,1776,Symphony in D major,Symphony,D major,"1. Vivace (D major)
+1.061,Hob. I:61,,1776,Symphony in D major,Symphony,D major,"1. Vivace (D major)
 2. Adagio (A major)
 3. Menuet: Allegretto (D major), Trio
 4. Finale: Prestissimo (D major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, (2 Trumpets), Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:62,,1780,Symphony in D major,Symphony,D major,"1. Allegro (D major)
+1.062,Hob. I:62,,1780,Symphony in D major,Symphony,D major,"1. Allegro (D major)
 2. Allegretto (D major)
 3. Menuetto (D major), Trio (G major)
 4. Allegro (D major)","Flute, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:63,,1777,"Symphony in C major ""La Roxelane""",Symphony,C major,"1. Vivace (C major)
+1.063,Hob. I:63,,1777,"Symphony in C major ""La Roxelane""",Symphony,C major,"1. Vivace (C major)
 2. Allegretto piu tosto Allegro (C minor)
 3a. Menuetto (C major), Trio
 (version initiale)
@@ -276,374 +257,222 @@ mouvement supplémentaire alternatif","2 English Horns, 2 Horns, 2 Violins, Viol
 (version initiale)
 4b. Finale: Prestissimo (C major)
 (version révisée)","Flute, 2 Oboes, 2 Bassoons (Revised version: Bassoon), 2 Horns, (Initial version: 2 Trumpets), Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:64,,1775,"Symphony in A major ""Tempora mutantur""",Symphony,A major,"1. Allegro con spirito (A major)
+1.064,Hob. I:64,,1775,"Symphony in A major ""Tempora mutantur""",Symphony,A major,"1. Allegro con spirito (A major)
 2. Largo (D major)
 3. Menuetto (A major), Trio
 4. Finale: Presto (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:65,,1772-1774,Symphony in A major,Symphony,A major,"1. Vivace con spirito (A major)
+1.065,Hob. I:65,,1772-1774,Symphony in A major,Symphony,A major,"1. Vivace con spirito (A major)
 2. Andante (D major)
 3. Menuetto (A major), Trio (la mineur)
 4. Finale: Presto (A major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:66,,1778-1779,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro con brio (B-flat major)
+1.066,Hob. I:66,,1778-1779,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro con brio (B-flat major)
 2. Adagio (F major)
 3. Menuetto (B-flat major), Trio
 4. Finale: Presto (B-flat major)","2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:67,,1778-1779,Symphony in F major,Symphony,F major,"1. Presto (F major)
+1.067,Hob. I:67,,1778-1779,Symphony in F major,Symphony,F major,"1. Presto (F major)
 2. Adagio (B-flat major)
 3. Menuetto (F major), Trio
 4. Finale: Allegro di molto (F major)","2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:68,,1778-1779,Symphony in B-flat major,Symphony,B-flat major,"1. Vivace (B-flat major)
+1.068,Hob. I:68,,1778-1779,Symphony in B-flat major,Symphony,B-flat major,"1. Vivace (B-flat major)
 2. Adagio cantabile (E-flat major)
 3. Menuetto (B-flat major), Trio
 4. Finale: Presto (B-flat major)","2 Oboes, 2 Bassoons, 2 Horns, (2 Trumpets), 2 Violins, Viola, Cello obligé, Basso",
-1,Hob. I:69,,1778-1779,Symphony in C major,Symphony,C major,"1. Allegro vivace (C major)
+1.069,Hob. I:69,,1778-1779,Symphony in C major,Symphony,C major,"1. Allegro vivace (C major)
 2. Un poco Adagio, piu tosto Andante (F major)
 3. Menuetto (C major), Trio
 4. Finale: Presto (C major)","2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, timpani, 2 Violins, Viola, Cello, Basso",Loudon (Laudon)
-1,Hob. I:7,,1761,"Symphony in C major ""Le Midi""",Symphony,C major,"1. Adagio (C major); Allegro
-2. Recitativo: Adagio (C minor); Allegro; Adagio
-3. Adagio (G major)
-4. Menuetto (C major), Trio
-5. Finale: Allegro (C major)","2 Concertante Violins, 2 Violins ripieno, Viola, Cello, Basso Continuo, 2 Flutes, 2 Oboes, Bassoon, 2 Horns",
-1,Hob. I:70,,1779,Symphony in D major,Symphony,D major,"1. Vivace con brio (D major)
+1.07,Hob. I:70,,1779,Symphony in D major,Symphony,D major,"1. Vivace con brio (D major)
 2. Andante (D minor)
 3. Menuetto (D major), Trio
 4. Finale: Allegro con brio (D minor); Fugato. Allegro","Flute, 2 Oboes, Bassoon, 2 Horns, (2 Trumpets, Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. I:71,,1780,Symphony in B-flat major,Symphony,B-flat major,"1. Adagio (B-flat major); Allegro con brio
+1.071,Hob. I:71,,1780,Symphony in B-flat major,Symphony,B-flat major,"1. Adagio (B-flat major); Allegro con brio
 2. Adagio con Variazioni (F major)
 3 variations, coda
 3. Menuetto (B-flat major), Trio
 4. Finale: Vivace (B-flat major)","Flute, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:72,,,Symphony in D major,Symphony,D major,"1. Allegro (D major)
+1.072,Hob. I:72,,,Symphony in D major,Symphony,D major,"1. Allegro (D major)
 2. Andante (G major)
 3. Menuetto (D major), Trio
 4. Andante (D major); 6 variations; Presto",Orchestra,
-1,Hob. I:73,,1781?,"Symphony in D major ""La Chasse""",Symphony,D major,"1. Adagio (D major); Allegro
+1.073,Hob. I:73,,1781?,"Symphony in D major ""La Chasse""",Symphony,D major,"1. Adagio (D major); Allegro
 2. Andante (G major)
 3. Menuetto (D major), Trio
 4. Presto (D major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:74,,1781,Symphony in E-flat major,Symphony,E-flat major,"1. Allegro (E-flat major)
+1.074,Hob. I:74,,1781,Symphony in E-flat major,Symphony,E-flat major,"1. Allegro (E-flat major)
 2. Adagio cantabile (B-flat major)
 3. Menuetto (E-flat major), Trio
 4. Allegro assai (E-flat major)","Flute, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:75,,1781,Symphony in D major,Symphony,D major,"1. Grave (D major); Presto
+1.075,Hob. I:75,,1781,Symphony in D major,Symphony,D major,"1. Grave (D major); Presto
 2. Andante con Variazioni (G major)
 4 variations
 3. Menuetto (D major), Trio
 4. Finale. Vivace (D major)","Flute, 2 Oboes, Bassoon, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello obligé, Basso",
-1,Hob. I:76,,1782,Symphony in E-flat major,Symphony,E-flat major,"1. Allegro (E-flat major)
+1.076,Hob. I:76,,1782,Symphony in E-flat major,Symphony,E-flat major,"1. Allegro (E-flat major)
 2. Adagio (B-flat major)
 3. Menuetto (E-flat major), Trio
 4. Finale: Allegro ma non troppo (E-flat major)","Flute, 2 Oboes, (1 ou) 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:77,,1782,Symphony in B-flat major,Symphony,B-flat major,"1. Vivace (B-flat major)
+1.077,Hob. I:77,,1782,Symphony in B-flat major,Symphony,B-flat major,"1. Vivace (B-flat major)
 2. Andante sostenuto (F major)
 3. Menuetto (B-flat major), Trio
 4. Finale: Presto (B-flat major)","Flute, 2 Oboes, (1 ou) 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:78,,1782,Symphony in C minor,Symphony,C minor,"1. Vivace (C minor)
+1.078,Hob. I:78,,1782,Symphony in C minor,Symphony,C minor,"1. Vivace (C minor)
 2. Adagio (E-flat major)
 3. Menuetto (C major), Trio (la mineur)
 4. Finale: Presto (C minor)","Flute, 2 Oboes, (1 ou) 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:79,,1784,Symphony in F major,Symphony,F major,"1. Allegro con spirito (F major)
+1.079,Hob. I:79,,1784,Symphony in F major,Symphony,F major,"1. Allegro con spirito (F major)
 2. Adagio cantabile (B-flat major); Un poco Allegro
 3. Menuetto (F major), Trio
 4. Finale: Vivace (F major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:8,,1761,"Symphony in G major ""Le Soir""",Symphony,G major,"1. Allegro molto (G major)
-2. Andante (C major)
-3. Menuetto (G major), Trio (C major)
-4. La Tempesta: Presto (G major)","Flute, 2 Oboes, Solo Bassoon, 2 Horns, 2 Violins (both also solo), Viola, Cello, Basso",
-1,Hob. I:80,,1784,Symphony in D minor,Symphony,D minor,"1. Allegro spirituoso (D minor)
+1.08,Hob. I:80,,1784,Symphony in D minor,Symphony,D minor,"1. Allegro spirituoso (D minor)
 2. Adagio (B-flat major)
 3. Menuetto (D minor), Trio (D major)
 4. Finale: Presto (D major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:81,,1784,Symphony in G major,Symphony,G major,"1. Vivace (G major)
+1.081,Hob. I:81,,1784,Symphony in G major,Symphony,G major,"1. Vivace (G major)
 2. Andante (D major)
 3. Menuetto (G major), Trio
 4. Allegro (G major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. I:82,,1786,"Symphony in C major ""L'Ours""",Symphony,C major,"1. Vivace (C major)
+1.082,Hob. I:82,,1786,"Symphony in C major ""L'Ours""",Symphony,C major,"1. Vivace (C major)
 2. Allegretto (F major)
 3. Menuetto (C major), Trio
 4. Finale: Vivace assai (C major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns/Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Paris 1
-1,Hob. I:83,,1785,"Symphony in G minor ""La Poule""",Symphony,G minor,"1. Allegro (G minor)
+1.083,Hob. I:83,,1785,"Symphony in G minor ""La Poule""",Symphony,G minor,"1. Allegro (G minor)
 2. Andante (E-flat major)
 3. Menuetto (G major), Trio
 4. Finale: Vivace (G major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",Paris 2
-1,Hob. I:84,,1786,"Symphony in E-flat major ""In nomine Domini""",Symphony,E-flat major,"1. Largo (E-flat major); Allegro
+1.084,Hob. I:84,,1786,"Symphony in E-flat major ""In nomine Domini""",Symphony,E-flat major,"1. Largo (E-flat major); Allegro
 2. Andante (B-flat major)
 3. Menuetto (E-flat major), Trio
 4. Finale: Vivace (E-flat major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",Paris 3
-1,Hob. I:85,,1785-1786,"Symphony in B-flat major ""La Reine""",Symphony,B-flat major,"1. Adagio (B-flat major); Vivace
+1.085,Hob. I:85,,1785-1786,"Symphony in B-flat major ""La Reine""",Symphony,B-flat major,"1. Adagio (B-flat major); Vivace
 2. Romanze: Allegretto (E-flat major)
 3. Menuetto (B-flat major), Trio
 4. Finale: Presto (B-flat major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",Paris 4
-1,Hob. I:86,,1786,Symphony in D major,Symphony,D major,"1. Adagio (D major); Allegro
+1.086,Hob. I:86,,1786,Symphony in D major,Symphony,D major,"1. Adagio (D major); Allegro
 2. Largo (G major)
 3. Menuetto (D major), Trio
 4. Finale: Allegro con spirito (D major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Paris 5
-1,Hob. I:87,,1785,Symphony in A major,Symphony,A major,"1. Vivace (A major)
+1.087,Hob. I:87,,1785,Symphony in A major,Symphony,A major,"1. Vivace (A major)
 2. Adagio (D major)
 3. Menuetto (A major), Trio
 4. Finale: Vivace (A major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",Paris 6
-1,Hob. I:88,,1787,Symphony in G major,Symphony,G major,"1. Adagio (G major); Allegro
+1.088,Hob. I:88,,1787,Symphony in G major,Symphony,G major,"1. Adagio (G major); Allegro
 2. Largo (D major)
 3. Menuetto (G major), Trio
 4. Finale: Allegro con spirito (G major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 tormpettes, Timpani, Solo Cello, 2 Violins, Viola, Cello, Basso",[composée pour Johann Tost]
-1,Hob. I:89,,1787,Symphony in F major,Symphony,F major,"1. Vivace (F major)
+1.089,Hob. I:89,,1787,Symphony in F major,Symphony,F major,"1. Vivace (F major)
 2. Andante con moto (C major)
 3. Menuet: Allegretto (F major), Trio
 4. Finale: Vivace assai (F major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",[composée pour Johann Tost]
-1,Hob. I:9,,1762,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
-2. Andante (G major)
-3. Finale: Menuetto, trio (C major)","2 Oboes, 2 Horns, 2 Violins, Viola, Basso",
-1,Hob. I:90,,1788,Symphony in C major,Symphony,C major,"1. Adagio (C major); Allegro assai
+1.09,Hob. I:90,,1788,Symphony in C major,Symphony,C major,"1. Adagio (C major); Allegro assai
 2. Andante (F major)
 3. Menuet (la mineur), Trio
 4. Allegro assai (C major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",[composée pour le Prince Ernst de Oettingen-Wallerstein]
-1,Hob. I:91,,1788,Symphony in E-flat major,Symphony,E-flat major,"1. Largo (E-flat major); Allegro
+1.091,Hob. I:91,,1788,Symphony in E-flat major,Symphony,E-flat major,"1. Largo (E-flat major); Allegro
 2. Andante (B-flat major)
 3. Menuetto (E-flat major), Trio
 4. Finale: Vivace (E-flat major)","2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",[composée pour le Prince Ernst de Oettingen-Wallerstein]
-1,Hob. I:92,,1788?,"Symphony in G major ""Oxford""",Symphony,G major,"1. Adagio (G major); Allegro spiritoso
+1.092,Hob. I:92,,1788?,"Symphony in G major ""Oxford""",Symphony,G major,"1. Adagio (G major); Allegro spiritoso
 2. Adagio (D major)
 3. Menuet (G major), Trio
 4. Finale: Presto (G major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Obligato Basso",[composée pour le Prince Ernst de Oettingen-Wallerstein]
-1,Hob. I:93,,1791,Symphony in D major,Symphony,D major,"1. Adagio (D major); Allegro assai
+1.093,Hob. I:93,,1791,Symphony in D major,Symphony,D major,"1. Adagio (D major); Allegro assai
 2. Largo cantabile (G major)
 3. Menuetto (D major), Trio
 4. Finale: Presto ma non troppo (D major)","2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 tormpettes, Timpani, 2 Violins, Viola, Cello, Basso",Londres 2
-1,Hob. I:94,,1791,"Symphony in G major ""Surprise""",Symphony,G major,"1. cantabile (G major); Vivace assai
+1.094,Hob. I:94,,1791,"Symphony in G major ""Surprise""",Symphony,G major,"1. cantabile (G major); Vivace assai
 2. Andante (C major)
 3. Menuetto (G major), Trio
 4. Finale: Allegro molto (G major)","2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 3
-1,Hob. I:95,,1791,Symphony in C minor,Symphony,C minor,"1. Allegro (C minor)
+1.095,Hob. I:95,,1791,Symphony in C minor,Symphony,C minor,"1. Allegro (C minor)
 2. Andante (E-flat major)
 3. Menuetto (C minor), Trio (C major)
 4. Finale: Vivace (C major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Obligato Cello, Basso",Londres 5
-1,Hob. I:96,,1791,"Symphony in D major ""Le Miracle""",Symphony,D major,"1. Adagio (D major); Allegro
+1.096,Hob. I:96,,1791,"Symphony in D major ""Le Miracle""",Symphony,D major,"1. Adagio (D major); Allegro
 2. Andante (G major)
 3. Menuetto (D major), Trio
 4. Finale: Vivace assai (D major)","2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 6
-1,Hob. I:97,,1792,Symphony in C major,Symphony,C major,"1. Adagio (C major); Vivace
+1.097,Hob. I:97,,1792,Symphony in C major,Symphony,C major,"1. Adagio (C major); Vivace
 2. Adagio ma non troppo (F major)
 3. Menuet: Allegretto (C major), Trio
 4. Finale: Spirituoso (C major)","2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 1
-1,Hob. I:98,,1792,Symphony in B-flat major,Symphony,B-flat major,"1. Adagio (B-flat major); Allegro
+1.098,Hob. I:98,,1792,Symphony in B-flat major,Symphony,B-flat major,"1. Adagio (B-flat major); Allegro
 2. Adagio cantabile (F major)
 3. Menuetto (B-flat major), Trio
 4. Finale: Presto (B-flat major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Solo Timpani, 2 Violins, Viola, Cello, Basso",Londres 4
-1,Hob. I:99,,1793,Symphony in E-flat major,Symphony,E-flat major,"1. Adagio (E-flat major); Vivace assai
+1.099,Hob. I:99,,1793,Symphony in E-flat major,Symphony,E-flat major,"1. Adagio (E-flat major); Vivace assai
 2. Adagio (G major)
 3. Menuet: Allegretto (E-flat major), Trio (C major
 4. Finale: Vivace (E-flat major)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 10
-1,Hob. I:A1,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
-1,Hob. I:A2,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
-1,Hob. I:A3,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
-1,Hob. I:A4,,,Symphony in A major,Symphony,A major,1. Andante (A major) / Allegro molto,Orchestra,
-1,Hob. I:A5,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
-1,Hob. I:A6,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
-1,Hob. I:A7,,,Symphony in A major,Symphony,A major,1. Allegro molto (A major),Orchestra,
-1,Hob. I:A8,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
-1,Hob. I:A9,,,Symphony in A major,Symphony,A major,1. ... (A major),Orchestra,
-1,Hob. I:B1,,,Symphony in B-flat major,Symphony,B-flat major,1. Grave (B-flat major),Orchestra,
-1,Hob. I:B10,,,Symphony in B-flat major,Symphony,B-flat major,1. Presto assai (B-flat major),Orchestra,
-1,Hob. I:B11,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro moderato (B-flat major),Orchestra,
-1,Hob. I:B12,,,Symphony in B-flat major,Symphony,B-flat major,1. ... (B-flat major),Orchestra,
-1,Hob. I:B13,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro moderato (B-flat major),Orchestra,
-1,Hob. I:B14,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
-1,Hob. I:B15,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro molto (B-flat major),Orchestra,
-1,Hob. I:B16,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro spirituoso (B-flat major),Orchestra,
-1,Hob. I:B2,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
-1,Hob. I:B3,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
-1,Hob. I:B4,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
-1,Hob. I:B5,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
-1,Hob. I:B6,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
-1,Hob. I:B7,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
-1,Hob. I:B8,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
-1,Hob. I:B9,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
-1,Hob. I:C1,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:c1,,,Symphony in C minor,Symphony,C minor,1. Allegro assai (C minor),Orchestra,
-1,Hob. I:C10,,,Symphony in C major,Symphony,C major,1. Allegro molto ( C major),Orchestra,
-1,Hob. I:C11,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C12,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C13,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C14,,,Symphony in C major,Symphony,C major,1. Allegro molto (C major),Orchestra,
-1,Hob. I:C15,,,Symphony in C major,Symphony,C major,1. Largo (C major) / Allegro assai,Orchestra,
-1,Hob. I:C16,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C17,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C18,,,Symphony in C major,Symphony,C major,1. Allegro con brio (C major),Orchestra,
-1,Hob. I:C19,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C2,,,Symphony in C major,Symphony,C major,1. Maestoso (C major),Orchestra,
-1,Hob. I:c2,,,Symphony in C minor,Symphony,C minor,1. Allegro (C minor),Orchestra,
-1,Hob. I:C20,,,Symphony in C major,Symphony,C major,1. Allegro con molto spirito (C major),Orchestra,
-1,Hob. I:C21,,,Symphony in C major,Symphony,C major,1. Vivace (C major),Orchestra,
-1,Hob. I:C22,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C23,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C24,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
-1,Hob. I:C25,,,Symphony in C major,Symphony,C major,1. Grave (C minor) / Allegro molto (C major),Orchestra,
-1,Hob. I:C26,,,Symphony in C major,Symphony,C major,1. Maestoso (C major),Orchestra,
-1,Hob. I:C27,,,Symphony in C major,Symphony,C major,1. Adagio (C major) / Allegro assai,Orchestra,
-1,Hob. I:C28,,,Symphony in C major,Symphony,C major,1. Allegro assai (C major),Orchestra,
-1,Hob. I:C29,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
-1,Hob. I:C3,,,Symphony in C major,Symphony,C major,1. Poco Adagio (C major),Orchestra,
-1,Hob. I:c3,,,Symphony in C minor,Symphony,C minor,1. Largo (C minor),Orchestra,
-1,Hob. I:C30,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
-1,Hob. I:C31,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
-1,Hob. I:C32,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
-1,Hob. I:C33,,,Symphony in C major,Symphony,C major,1. Allegro assai (C major),Orchestra,
-1,Hob. I:C34,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
-1,Hob. I:C4,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:c4,,,Symphony in C minor,Symphony,C minor,1. Largo (C minor) / Allegro con fuoco,Orchestra,
-1,Hob. I:C5,,,Symphony in C major,Symphony,C major,1. Allegro molto (C major),Orchestra,
-1,Hob. I:C6,,,Symphony in C major,Symphony,C major,"1. Allegro (C major)
+1.1,Hob. I:100,,1794,"Symphony in G major ""Military""",Symphony,G major,"1.Adagio (G major); Allegro
+2. Allegretto (C major)
+3. Menuet: Moderato (G major), Trio
+4. Finale: Presto (G major)","2 Flutes, 2 Oboes, (2 Clarinets), 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, triangle, cymbales, grosse caisse, 2 Violins, 2 Violas, Cello, Basso",Londres 12
+1.101,Hob. I:101,,1794,"Symphony in D major ""The Clock""",Symphony,D major,"1. Adagio (D minor); Presto (D major)
+2. Andante (G major)
+3. Menuet: Allegretto (D major), Trio
+4. Finale: Vivace (D major)",,Londres 11
+1.102,Hob. I:102,,1794,Symphony in B-flat major,Symphony,B-flat major,"1. Largo (B-flat major); Vivace
 2. Adagio (F major)
-3. Menuet (C major), Trio (D minor)
-4. Rondo. Allegro (C major)
-[see H 19:23]",Orchestra,
-1,Hob. I:C7,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
-1,Hob. I:C8,,,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
-2. Andante molto (C major)
-3. Minuetto (so majeur), Trio (F major)
-4. Finale. Allegro (C major)",Orchestra,
-1,Hob. I:C9,,,Symphony in C major,Symphony,C major,1. Allegro molto (C major),Orchestra,
-1,Hob. I:D1,,,Symphony in D major,Symphony,D major,1. Allegro spirituoso (D major),Orchestra,
-1,Hob. I:d1,,,Symphony in D minor,Symphony,D minor,1. Allegro (D minor),Orchestra,
-1,Hob. I:D10,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D11,,,Symphony in D major,Symphony,D major,1. Allegro assai (D major),Orchestra,
-1,Hob. I:D12,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D13,,,Symphony in D major,Symphony,D major,1. Allegro moderato (D major),Orchestra,
-1,Hob. I:D14,,,Symphony in D major,Symphony,D major,1. Largo (D major) / Allegro,Orchestra,
-1,Hob. I:D15,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D16,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D17,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D18,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D19,,,Symphony in D major,Symphony,D major,1. Allegro molto moderato (D major),Orchestra,
-1,Hob. I:D2,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:d2,,,Symphony in D minor,Symphony,D minor,1. Allegro (D minor),Orchestra,
-1,Hob. I:D20,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D21,,,Symphony in D major,Symphony,D major,1. Allegro assai (D major),Orchestra,
-1,Hob. I:D22,,,Symphony in D major,Symphony,D major,1. Adagio (D major) / Allegro assai,Orchestra,
-1,Hob. I:D23,,,Symphony in D major,Symphony,D major,1. Allegro con spirito (D major),Orchestra,
-1,Hob. I:D24,,,Symphony in D major,Symphony,D major,1. Maestoso (D minor) / Allegro con spirito quasi Presto (D major),Orchestra,
-1,Hob. I:D25,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D26,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D27,,,Symphony in D major,Symphony,D major,1. Adagio (D major) / Allegro,Orchestra,
-1,Hob. I:D28,,,Symphony in D major,Symphony,D major,1. Pastorella. Tempo giusto (D major),Orchestra,
-1,Hob. I:D29,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D3,,,Symphony in D major,Symphony,D major,1. Allegro molto (D major),Orchestra,
-1,Hob. I:d3,,,Symphony in D minor,Symphony,D minor,1. Allegro vivace (D minor),Orchestra,
-1,Hob. I:D30,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D31,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D32,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D33,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:D4,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
-1,Hob. I:d4,,,Symphony in D minor,Symphony,D minor,1. Allegro brillante (D minor),Orchestra,
-1,Hob. I:D5,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D6,,,Symphony in D major,Symphony,D major,1. Presto assai (D major),Orchestra,
-1,Hob. I:D7,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D8,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:D9,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
-1,Hob. I:E1,,,Symphony in E major,Symphony,E major,1. Allegro (E major),Orchestra,
-1,Hob. I:e1,,,Symphony in E minor,Symphony,E minor,1. Allegro (E minor),Orchestra,
-1,Hob. I:E2,,,Symphony in E major,Symphony,E major,1. Allegro (E major),Orchestra,
-1,Hob. I:E3,,,Symphony in E major,Symphony,E major,1. Allegro (E major),Orchestra,
-1,Hob. I:Es1,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro molto (E-flat major),Orchestra,
-1,Hob. I:Es10,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (E-flat major) / Allegro,Orchestra,
-1,Hob. I:Es11,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (E-flat major),Orchestra,
-1,Hob. I:Es12,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro moderato (E-flat major),Orchestra,
-1,Hob. I:Es13,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
-1,Hob. I:Es14,,,Symphony in E-flat major,Symphony,E-flat major,1. Andante (E-flat major),Orchestra,
-1,Hob. I:Es15,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (mi bémol mineur) / Allegro molto (E-flat major),Orchestra,
-1,Hob. I:Es16,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro assai (E-flat major),Orchestra,
-1,Hob. I:Es17,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro spirituoso (E-flat major),Orchestra,
-1,Hob. I:Es2,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro assai (E-flat major),Orchestra,
-1,Hob. I:Es3,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
-1,Hob. I:Es4,,,Symphony in E-flat major,Symphony,E-flat major,1.Andante (E-flat major),Orchestra,
-1,Hob. I:Es5,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
-1,Hob. I:Es6,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (E-flat major) / Allegro con spirito,Orchestra,
-1,Hob. I:Es7,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
-1,Hob. I:Es8,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
-1,Hob. I:Es9,,,Symphony in E-flat major,Symphony,E-flat major,1. Largo e cantabile (E-flat major),Orchestra,
-1,Hob. I:F1,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
-1,Hob. I:F10,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
-1,Hob. I:F11,,,Symphony in F major,Symphony,F major,1. Adagio (F major),Orchestra,
-1,Hob. I:F12,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
-1,Hob. I:F13,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
-1,Hob. I:F14,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
-1,Hob. I:F15,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
-1,Hob. I:F2,,,Symphony in F major,Symphony,F major,1. Vivace (F major),Orchestra,
-1,Hob. I:F3,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
-1,Hob. I:F4,,,Symphony in F major,Symphony,F major,1. Allegro assai (F major),Orchestra,
-1,Hob. I:F5,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
-1,Hob. I:F6,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
-1,Hob. I:F7,,,Symphony in F major,Symphony,F major,1. Presto (F major),Orchestra,
-1,Hob. I:F8,,,Symphony in F major,Symphony,F major,1. Allegro molto (F major),Orchestra,
-1,Hob. I:F9,,,Symphony in F major,Symphony,F major,1. Allegro molto (F major),Orchestra,
-1,Hob. I:G1,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. I:g1,,,Symphony in G minor,Symphony,G minor,1. Allegro (G minor),Orchestra,
-1,Hob. I:G2,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. I:G3,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. I:G4,,,Symphony in G major,Symphony,G major,1. … (G major) / Fuga. Presto,Orchestra,
-1,Hob. I:G5,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. I:G6,,,Symphony in G major,Symphony,G major,1. Allegro assai (G major),Orchestra,
-1,Hob. I:G7,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. I:G8,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. I:G9,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
-1,Hob. Ia,,1777,Overture in C major,Overture,C major,,,"Il mondo della luna
+3. Menuet: Allegro (B-flat major), Trio
+4. Finale: Presto (B-flat major)","2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, Solo Cello, 2 Violins, Viola, Cello, Basso",Londres 9
+1.103,Hob. I:103,,1795,"Symphony in E-flat major ""Drum-roll""",Symphony,E-flat major,"1. Adagio (E-flat major); Allegro con spirito
+2. Andante piu tosto Allegretto (C minor)
+3. Menuet (E-flat major), Trio
+4. Finale: Allegro con spirito (E-flat major)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 8
+1.104,Hob. I:104,,1795,"Symphony in D major ""London""",Symphony,D major,"1. Adagio (D minor); Allegro (D major)
+2. Andante (G major)
+3. Menuetto. Allegro (D major), Trio (B-flat major)
+4. Finale: Spirituoso (D major)","2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",Londres 7
+1.105,Hob. I:105,,1792,Symphony in B-flat major,Symphony,B-flat major,"1. Allegro (B-flat major)
+2. Andante (F major)
+3. Allegro con spirito (B-flat major)","2 Oboes, Bassoon, Violin, Cello, Flute, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
+1.106,Hob. I:106,,,Symphony in D major,Symphony,D major,1. Allegro,Orchestra,
+1.107,Hob. I:107,,1762,"Symphony in B-flat major ""Sinfonia A""",Symphony,B-flat major,"1. Allegro (B-flat major)
+2. Andante (E-flat major)
+3. Allegro molto (B-flat major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso","[version authentique du Quatuor, op. 1, # 5 - Hob. III:5]"
+1.108,Hob. I:108,,1765,"Symphony in B-flat major ""Sinfonia B""",Symphony,B-flat major,"1. Allegro molto moderato (B-flat major)
+2. Menuetto (B-flat major), Trio (E-flat major)
+3. Adagio (G minor)
+4. Finale: Presto (B-flat major)","2 Oboes, Solo Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.2,Hob. Ia,,1777,Overture in C major,Overture,C major,,,"Il mondo della luna
 [1er mouvement de la Symphonie # 63]
 Additions selon H.C. Robbins Landon"
-1,Hob. Ia,,1780,Overture in D major,Overture,D major,,,"La fedelta premiata
+1.2,Hob. Ia,,1780,Overture in D major,Overture,D major,,,"La fedelta premiata
 [dernier mouvement de la Symphonie # 73]
 Additions selon H.C. Robbins Landon"
-1,Hob. Ia:1,,1769-1773,Overture to L'infedelta delusa (Hob. XXVIII:5],Overture,C major,"1. Allegro (C major)
+1.201,Hob. Ia:1,,1769-1773,Overture to L'infedelta delusa (Hob. XXVIII:5],Overture,C major,"1. Allegro (C major)
 2. Poco Adagio (G major)
 3. Presto (C major)","Flute, 2 Oboes, Bassoon, 2 Horns, (Timpani), 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:10,,1782,Overture to Lo Speziale [Hob. XXVIII:3],Overture,G major,"1. Presto (G major)
+1.202,Hob. Ia:2,,1774,Overture to Il Ritorno di Tobia [Hob. XXI:1],Overture,C major,1. Largo (C minor) / Allegro di molto (C major),"2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
+1.203,Hob. Ia:3,,1794?,Overture to L'Anima del Filosofo (Hob. XXVIII:13],Overture,C major,1. Largo (C minor) / Presto (C major),Orchestra,
+1.204,Hob. Ia:4,,1785,Overture in D major,Overture,D major,1. Presto (D major),"Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",[Relate to Symphonie no. 73]
+1.205,Hob. Ia:5,,1762,Overture to Acide e Galatea (Hob. XXVIII:1],Overture,D major,"1. Allegro molto (D major)
+2. Andante gazioso (A major)
+3. Presto assai (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.206,Hob. Ia:6,,1774-1775,Overture to L'incontro improvviso ([Hob. XXVIII:6],Overture,D major,"1. Adagio maestoso (D major) / Presto
+2. Andantino (G major)
+3. Allegro di molto (D major)","2 Oboes, (Bassoon), 2 Horns, 2 Trumpets, Timpani, tambour, cymbales, Solo Cello, 2 Violins, Viola, Cello, Basso",
+1.207,Hob. Ia:7,,1777,Overture in D major,Overture,D major,1. Allegro son spirito (D major),"2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",[final alternatif pour la Symphonie # 53]
+1.208,Hob. Ia:8,,1773,Overture to Philemon und Baucis [Hob. XXIXa/1],Overture,D minor,"1. Con espressione (D minor)
+2. Andante poco Allegro (D major) / Allegro","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
+1.209,Hob. Ia:9,,,Overture to Konig Lear [Hob. XXX:5],Overture,E-flat major,1. Adagio maestoso (E-flat major),Orchestra,[oeuvre de W.G. Stegmann]
+1.21,Hob. Ia:10,,1782,Overture to Lo Speziale [Hob. XXVIII:3],Overture,G major,"1. Presto (G major)
 2. Andante sempre Piano (C major)
 3. Presto (G major)","Flute, 2 Oboes, (Bassoon), 2 Horns, 2 Violins,Viola, Cello, Basso",
-1,Hob. Ia:11,,1780,Overture in G major,Overture,G major,1. ... (G major),,"[introduction orchestrale au choeur du 1er acte de ""La Fedelta premiata"", H 28:10]"
-1,Hob. Ia:12,,1777,"Prélude to Act III in ""Il mondo della luna"", Hob. XXVIII:7",Overture,G minor,"1. Presto (G minor)
-2. Grazioso. Un poco Adagio (G major)
-3. Allegretto (G minor) [see H 22:8 Benedictus]",,
-1,Hob. Ia:13,,1779,Overture to L'Isola disabitata (Hob. XXVIII:9],Overture,G minor,"1. Largo (G minor)
+1.211,Hob. Ia:11,,1780,Overture in G major,Overture,G major,1. ... (G major),,"[introduction orchestrale au choeur du 1er acte de ""La Fedelta premiata"", H 28:10]"
+1.213,Hob. Ia:13,,1779,Overture to L'Isola disabitata (Hob. XXVIII:9],Overture,G minor,"1. Largo (G minor)
 2. Vivace assai (G minor)
 3. Allegretto (G major)
 4. Vivace assai (G minor)","Flute, 2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:14,,1783,Overture to Armida (Hob. XXVIII:13),Overture,B-flat major,"1. Vivace (B-flat major)
+1.214,Hob. Ia:14,,1783,Overture to Armida (Hob. XXVIII:13),Overture,B-flat major,"1. Vivace (B-flat major)
 2. Allegretto (B-flat major)
 3. Vivace (B-flat major)","Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:15,,1777,Overture to La vera Costanza (Hob. XXVIII:8],Overture,B-flat major,"1. Presto (B-flat major)
+1.215,Hob. Ia:15,,1777,Overture to La vera Costanza (Hob. XXVIII:8],Overture,B-flat major,"1. Presto (B-flat major)
 2. Allegretto (E-flat major)
 3. Moderato (B-flat major)
 4. Andante (B-flat major)
 5. Allegro moderato (B-flat major)","2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:16,,1782,Overture to Orlando Paladino (Hob. XXVIII:11],Overture,B-flat major,1. Vivace assai (B-flat major),"2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:2,,1774,Overture to Il Ritorno di Tobia [Hob. XXI:1],Overture,C major,1. Largo (C minor) / Allegro di molto (C major),"2 Oboes, 2 Bassoons, 2 Horns, 2 Trumpets, Timpani, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:3,,1794?,Overture to L'Anima del Filosofo (Hob. XXVIII:13],Overture,C major,1. Largo (C minor) / Presto (C major),Orchestra,
-1,Hob. Ia:4,,1785,Overture in D major,Overture,D major,1. Presto (D major),"Flute, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",[Relate to Symphonie no. 73]
-1,Hob. Ia:5,,1762,Overture to Acide e Galatea (Hob. XXVIII:1],Overture,D major,"1. Allegro molto (D major)
-2. Andante gazioso (A major)
-3. Presto assai (D major)","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:6,,1774-1775,Overture to L'incontro improvviso ([Hob. XXVIII:6],Overture,D major,"1. Adagio maestoso (D major) / Presto
-2. Andantino (G major)
-3. Allegro di molto (D major)","2 Oboes, (Bassoon), 2 Horns, 2 Trumpets, Timpani, tambour, cymbales, Solo Cello, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:7,,1777,Overture in D major,Overture,D major,1. Allegro son spirito (D major),"2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Viola, Cello, Basso",[final alternatif pour la Symphonie # 53]
-1,Hob. Ia:8,,1773,Overture to Philemon und Baucis [Hob. XXIXa/1],Overture,D minor,"1. Con espressione (D minor)
-2. Andante poco Allegro (D major) / Allegro","2 Oboes, 2 Horns, 2 Violins, Viola, Cello, Basso",
-1,Hob. Ia:9,,,Overture to Konig Lear [Hob. XXX:5],Overture,E-flat major,1. Adagio maestoso (E-flat major),Orchestra,[oeuvre de W.G. Stegmann]
-1,Hob. Ia:C1,,,Overture in C major,Overture,C major,1. Allegro spirituoso (C major),Orchestra,
-1,Hob. Ia:C1,,,Overture in C major,Overture,C major,1. Allegro spirituoso (C major),Orchestra,
-1,Hob. Ia:C2,,,Overture in C major,Overture,C major,1. Adagio (C minor) / Allegro molto (C major),Orchestra,
-1,Hob. Ia:C2,,,Overture in C major,Overture,C major,1. Adagio (C minor) / Allegro molto (C major),Orchestra,
-1,Hob. Ia:D1,,,Overture in D major,Overture,D major,1. Allegro assai (D major),Orchestra,
-1,Hob. Ia:D1,,,Overture in D major,Overture,D major,1. Allegro assai (D major),Orchestra,
-1,Hob. Ia:D2,,,Overture in D major,Overture,D major,1. Allegro spirituoso (D major),Orchestra,
-1,Hob. Ia:D2,,,Overture in D major,Overture,D major,1. Allegro spirituoso (D major),Orchestra,
-1,Hob. Ia:D3,,,Overture in D major,Overture,D major,1. … (D major),Orchestra,
-1,Hob. Ia:D3,,,Overture in D major,Overture,D major,1. … (D major),Orchestra,
-1,Hob. Ia:D4,,,Overture in D major,Overture,D major,1. Andante largo (D major) / Allegro vivace,Orchestra,
-1,Hob. Ia:D4,,,Overture in D major,Overture,D major,1. Andante largo (D major) / Allegro vivace,Orchestra,
-2,Hob. II,,1761/5,Cassation (Divertimento) in D major,Divertimento,D major,,"4 Horns, Violin, Viola, Basso",Additions selon H.C. Robbins Landon [Série DM 66]
-2,Hob. II,,1760,Divertimento in D major,Divertimento,D major,,"2 hautbois, 2 Bassoons, 2 Horns",Additions selon H.C. Robbins Landon [Série DM 86]
-2,Hob. II,,1760,Divertimento in G major,Divertimento,G major,,"2 hautbois, 2 Bassoons, 2 Horns",Additions selon H.C. Robbins Landon [Série DM 85]
+1.216,Hob. Ia:16,,1782,Overture to Orlando Paladino (Hob. XXVIII:11],Overture,B-flat major,1. Vivace assai (B-flat major),"2 Oboes, Bassoon, 2 Horns, 2 Violins, Viola, Cello, Basso",
 2,Hob. II:1,,1766,Divertimento in G major,Divertimento,G major,"1. Allegro (G major)
 2. Andante moderato (C major)
 3. Menuet (G major) avec Trio
@@ -823,77 +652,6 @@ Additions selon H.C. Robbins Landon"
 3. Adagio cantabile (C major)
 4. Menuett II (G major) avec Trio
 5. Finale. Presto (G major)","2 Oboes/Flutes, 2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:C1,,,Divertimento (Nocturno),Divertimento,C major,1. Allegro moderato (C major),"Flute, 2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:C10,,,Divertimento (Cassation),Divertimento,C major,1. Adagio (C major) / Allegro,"2 Trumpets ad lib, Strings",
-2,Hob. II:C11,,,Divertimento in C major,Divertimento,C major,1. Allegro (C major),"2 Violins, Viola, Basso Continuo",
-2,Hob. II:C2,,,Divertimento (Quintet),Divertimento,C major,1. Maestoso allabreve (C major),"1. 2 Violins, 2 Violas, Basso
-2. 3 Violins, Viola, Basso",
-2,Hob. II:C3,,,Divertimento (Cassation),Divertimento,C major,1. … (C major),"2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Basso",
-2,Hob. II:C4,,,Divertimento (Concertino),Divertimento,C major,1. … (C major),"2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:C5,,,Divertimento in C major,Divertimento,C major,1. Presto (C major),"2 Violins, Viola, Cello, Basso",
-2,Hob. II:C6,,,Divertimento (Cassation),Divertimento,C major,1. Tarde (C major) / Molto Allegro,"2 Oboes, 2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:C7,,,Divertimento (Quintet),Divertimento,C major,1. Allegro (C major),"2 Horns ad lib, 2 Violins, 2 Cellos, Basso",
-2,Hob. II:C8,,,Divertimento (Quatuor),Divertimento,C major,1. Allegro assai (C major),"Flute, Violin, Viola, Cello",
-2,Hob. II:C9,,,Divertimento (Quintet concertant),Divertimento,C major,1. Allegro spiritoso (C major),"2 Violins, 2 Violas, Basso",
-2,Hob. II:D1,,,Divertimento (Cassation),Divertimento,D major,1. Allegro (D major),"2 Horns, Violin, Viola, Basso",
-2,Hob. II:D10,,,Divertimento (Quatuor concertant),Divertimento,D major,1. Presto (D major),"Flute, Violin, Viola, Basso",
-2,Hob. II:D11,,,Divertimento (Quatuor concertant),Divertimento,D major,1. Presto (D major),"Flute, Violin, Viola, Basso",
-2,Hob. II:D12,,,Divertimento (Quintet),Divertimento,D major,1. Moderato (D major),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",
-2,Hob. II:D13,,,Divertimento (Concertino),Divertimento,D major,1. Thema. …(D major),"Oboe, 2 Horns, 2 Violins, Viola, Cello, Basso",
-2,Hob. II:D14,,,Divertimento (Concertino),Divertimento,D major,1. Allegro moderato (D major),"Oboe, 2 Horns, 2 Violins, Viola, Cello obligé, Basso",
-2,Hob. II:D15,,,Divertimento (Concertino),Divertimento,D major,1. Allegretto (D major),"Flute, 2 Horns, 2 Violins, Viola, Cello, Basso",
-2,Hob. II:D16,,,Divertimento (Quatuor),Divertimento,D major,1. Allegro moderato (D major),"Flute, Violin, Viola, Cello",
-2,Hob. II:D17,,,Divertimento (Cassation),Divertimento,D major,1. Allegro assai (D major),3/4 Instruments,
-2,Hob. II:D18,,,Divertimento (Quintet),Divertimento,D major,1. Allegro (D major),"2 Horns, 2 Violins, Cello",
-2,Hob. II:D19,,,Divertimento (Quintet),Divertimento,D major,1. … (D major),"Oboe, 2 Violins, Viola, Basso",
-2,Hob. II:D2,,,Divertimento (Cassation),Divertimento,D major,1. Allegro non troppo (D major),"2 Horns, Violin, Viola, Cello",
-2,Hob. II:D20,,,Divertimento (Nocturno),Divertimento,D major,1. … (D major),"2 Horns, 2 Violins, 2 Violas, Cello",[see H 2:Es7]
-2,Hob. II:D3,,,Divertimento (Sérénade),Divertimento,D major,1. … (D major),"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:D4,,,Divertimento (Cassation),Divertimento,D major,1. Allegro (D major),"Flute, 2 Horns, Violin, Viola, Basso",
-2,Hob. II:D5,,,Divertimento (Quatuor),Divertimento,D major,1. Marcia (D major),"2 Flutes, 2 Horns",
-2,Hob. II:D6,,,Divertimento in D major,Divertimento,D major,1. Tempo giusto (D major),"Flute, Concertante Violin, Viola, Basso",[? Œuvre de Leopold Hoffmann]
-2,Hob. II:D7,,,Divertimento (Cassation),Divertimento,D major,1. Allegro moderato (D major),"2 Flutes, 2 Horns, 2 Violins, Basso",
-2,Hob. II:D8,,,Divertimento in D major,Divertimento,D major,1. Introduzione. … (D major),"Flute/2 Flutes, 2 Violins, Viola",
-2,Hob. II:D9,,,Divertimento (Quatuor concertant),Divertimento,D major,1. Allegro assai (D major),"Flute, Violin, Viola, Basso",
-2,Hob. II:Es1,,,Divertimento (Cassation),Divertimento,E-flat major,1. Andante (E-flat major),"2 English Horns, Horn, Trumpet, Solo Viola, Basso",
-2,Hob. II:Es10,,,Divertimento (Quintet),Divertimento,E-flat major,1. Andante (E-flat major),"2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:Es11,,,Divertimento (Concertante),Divertimento,E-flat major,1. Adagio (E-flat major),"2 Clarinets, Bassoon, 2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:Es12,,,Divertimento (Parthia),Divertimento,E-flat major,1. Allegro assai (E-flat major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
-2,Hob. II:Es13,,,Divertimento in E-flat major,Divertimento,E-flat major,1. Allegro (E-flat major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
-2,Hob. II:Es14,,,Divertimento (Parthia),Divertimento,E-flat major,1. Allegro con espressione (E-flat major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
-2,Hob. II:Es15,,,Divertimento (Quatuor),Divertimento,E-flat major,1. Allegro (E-flat major),"Flute, Violin, Viola, Cello",
-2,Hob. II:Es16,,,Divertimento (Parthia),Divertimento,E-flat major,1. Allegro assai (E-flat major),"2 Clarinets, 2 Oboes, 2 Bassoons, 2 Horns",
-2,Hob. II:Es17,,,Divertimento (Suite à 6),Divertimento,E-flat major,1. … (E-flat major),"2 Clarinets, 2 Bassoons, 2 Horns",
-2,Hob. II:Es2,,,Divertimento (Cassation),Divertimento,E-flat major,1. Andante (E-flat major),"2 English Horns, Horn, Trumpet, Solo Viola, Basso continue",
-2,Hob. II:Es3,,,Divertimento (Cassation),Divertimento,E-flat major,1. Allegro moderato (E-flat major),"Oboe, English Horn, 2 Horns, Violin, Viola, Basso",
-2,Hob. II:Es4,,,Divertimento (Sinfonia/Cassation),Divertimento,E-flat major,1. Allegro molto (E-flat major),"2 Flutes, 2 Horns, 2 Violins, Basso",
-2,Hob. II:Es5,,,Divertimento (Nocturno),Divertimento,E-flat major,1. Marcia. Adagio maestoso (E-flat major),"2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:Es6,,,Divertimento (Sérénade),Divertimento,E-flat major,1. Menuet (E-flat major),"2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:Es7,,,Divertimento (Cassation),Divertimento,E-flat major,"1. Marche. Adagio (E-flat major)
-[see H 2:D20]","English Horn, Bassoon, 2 Horns, 2 Violins, Basso",
-2,Hob. II:Es8,,,Divertimento (Nocturno),Divertimento,E-flat major,1. Allegro moderato (E-flat major),"2 Violins, 2 Violas, Cello",
-2,Hob. II:Es9,,,Divertimento (Quintet),Divertimento,E-flat major,1. Scherzando (E-flat major),"2 Horns, Violin, Viola, Basso",
-2,Hob. II:F1,,,Divertimento in F major,Divertimento,F major,1. Allegro (F major),"2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:f1,,,Divertimento (Quintet),Divertimento,F minor,1. Adagio (F minor),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",
-2,Hob. II:F10,,,Divertimento (Quatuor),Divertimento,F major,1. Marche. Andante (F major),"3 Violins, Cello",
-2,Hob. II:F11,,,Divertimento (Sérénade),Divertimento,F major,1. Allegro vivace (F major),"2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:F12,,,Divertimento in F major,Divertimento,F major,1. Allegro (F major),"2 Oboes, Bassoon, 2 Horns",
-2,Hob. II:F2,,,Divertimento (Cassation),Divertimento,F major,1. Allegro moderato (F major),"Oboe, Bassoon, 2 Horns, Violin, Viola, Basso",
-2,Hob. II:F3,,,Divertimento (Cassation),Divertimento,F major,1. Presto (F major),"2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:F4,,,Divertimento (Cassation),Divertimento,F major,1. Vivace (F major),"2 Horns, Violin, Viola, Basso",
-2,Hob. II:F5,,,Divertimento (Quintet),Divertimento,F major,1. Allegro giusto (F major),"2 Horns, Violin, Viola, Basso",
-2,Hob. II:F6,,,Divertimento (Concertino),Divertimento,F major,1. Allegro (F major),"2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:F7,,,Divertimento (Parthia),Divertimento,F major,1. Allegro molto (F major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
-2,Hob. II:F8,,,Divertimento (Sinfonia),Divertimento,F major,1. Thema. Andante (F major),"2 Oboes, 2 Horns, 2 Violins, Viola, Basso",
-2,Hob. II:F9,,,Divertimento (Concertante),Divertimento,F major,1. … (F major),"Oboe, Bassoon, Horn, 2 Violins, Viola, Cello, viole",
-2,Hob. II:G1,,,Divertimento (Cassation),Divertimento,G major,"1. Allegro molto (G major)
-[see H 3:G2]","2 Oboes, 2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:G2,,,Divertimento (Cassation),Divertimento,G major,"1. Presto (G major)
-[see H 1:C24, 17:G1]","2 Horns, 2 Violins, 2 Violas, Basso",
-2,Hob. II:G2a,,,Divertimento in G major,Divertimento,G major,1. … (G major),"Flute, 2 Horns, 2 Violins, 2 Violas, Basso","[versions des 5e, 3e, 2e mouvements de H 2:G2]"
-2,Hob. II:G3,,,Divertimento (Parthia),Divertimento,G major,1. … (G major),"2 Violins, 2 Violas, Basso",
-2,Hob. II:G4,,,Divertimento (Quatuor),Divertimento,G major,1. Presto assai (G major),"Flute, Violin, Viola, Basso",
-2,Hob. II:G5,,,Divertimento (Quintet),Divertimento,G major,1. Moderato (G major),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",
 3,Hob. III:1,op. 1/1,1762,La chasse,Quartet,B-flat major,"1. Presto (B-flat major)
 2. Menuetto (B-flat major) avec Trio (E-flat major)
 3. Adagio (E-flat major)
@@ -3112,220 +2870,406 @@ Adagio (G major)",,
 (G major)",,
 22,Hob. XXII:G6,,,Mass in G major,Mass,G major,"1. Kyrie
 Moderato (G major)",,
-22,Hob. XXIIa:B1,,,Requiem in B-flat major,Requiem,B-flat major,"1. Requiem
+22.1,Hob. XXIIa:B1,,,Requiem in B-flat major,Requiem,B-flat major,"1. Requiem
 Adagio (B-flat major)",,
-22,Hob. XXIIa:B2,,,Requiem in B-flat major,Requiem,B-flat major,"1. Requiem
+22.1,Hob. XXIIa:B2,,,Requiem in B-flat major,Requiem,B-flat major,"1. Requiem
 ... (B-flat major)",,
-22,Hob. XXIIa:c1,,,Requiem in C minor,Requiem,C minor,"1. Requiem
+22.1,Hob. XXIIa:c1,,,Requiem in C minor,Requiem,C minor,"1. Requiem
 Adagio (C minor)",,
-22,Hob. XXIIa:c2,,,Requiem in C minor,Requiem,C minor,"1. Requiem
+22.1,Hob. XXIIa:c2,,,Requiem in C minor,Requiem,C minor,"1. Requiem
 Adagio (C minor)",,
-22,Hob. XXIIa:c3,,,Requiem in C minor,Requiem,C minor,"1. Requiem
+22.1,Hob. XXIIa:c3,,,Requiem in C minor,Requiem,C minor,"1. Requiem
 Lento (C minor)",,
-22,Hob. XXIIa:c4,,,Requiem in C minor,Requiem,C minor,"1. Requiem
+22.1,Hob. XXIIa:c4,,,Requiem in C minor,Requiem,C minor,"1. Requiem
 Largo (C minor)",,
-22,Hob. XXIIa:c5,,,Requiem in C minor,Requiem,C minor,"1. Requiem
+22.1,Hob. XXIIa:c5,,,Requiem in C minor,Requiem,C minor,"1. Requiem
 Andante (C minor)",,
-22,Hob. XXIIa:D1,,,Requiem in D major,Requiem,D major,"1. Requiem
+22.1,Hob. XXIIa:D1,,,Requiem in D major,Requiem,D major,"1. Requiem
 Largo (D major)",,
-22,Hob. XXIIa:Es1,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es1,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Adagio (E-flat major)",,
-22,Hob. XXIIa:Es10,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es10,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Tarde (E-flat major)",,
-22,Hob. XXIIa:Es11,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es11,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 ... (E-flat major)",,
-22,Hob. XXIIa:Es12,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es12,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Adagio (E-flat major)",,
-22,Hob. XXIIa:Es13,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es13,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 ... (E-flat major)",,
-22,Hob. XXIIa:Es2,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es2,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Adagio (E-flat major)",,
-22,Hob. XXIIa:Es3,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es3,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Adagissimo (E-flat major)",,
-22,Hob. XXIIa:Es5,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es5,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Tarde (E-flat major)",,Without Kyrie
-22,Hob. XXIIa:Es6,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es6,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Largo (E-flat major)",,
-22,Hob. XXIIa:Es7,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es7,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Adagio (E-flat major)",,
-22,Hob. XXIIa:Es8,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es8,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Adagio (E-flat major)",,
-22,Hob. XXIIa:Es9,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
+22.1,Hob. XXIIa:Es9,,,Requiem in E-flat major,Requiem,E-flat major,"1. Requiem
 Tarde (E-flat major)",,
-22,Hob. XXIIa:f1,,,Requiem in F minor,Requiem,F minor,"1. Requiem
+22.1,Hob. XXIIa:f1,,,Requiem in F minor,Requiem,F minor,"1. Requiem
 Adagio (F minor)",,
-22,Hob. XXIIb:1,,1790,Libera in D minor,Libera,D minor,"1. Libera me de morte arterna 
+22.2,Hob. XXIIb:1,,1790,Libera in D minor,Libera,D minor,"1. Libera me de morte arterna 
 ... (D minor)","V1, V2, V3, V4, 2 Violins, Basso, Organ",
-22,Hob. XXIIb:Es1,,,Libera in E-flat major,Libera,E-flat major,"1. Libera me
+22.2,Hob. XXIIb:Es1,,,Libera in E-flat major,Libera,E-flat major,"1. Libera me
 Andante (E-flat major)",,
-22,Hob. XXIIb:Es2,,,Libera in E-flat major,Libera,E-flat major,"1. Libera me
+22.2,Hob. XXIIb:Es2,,,Libera in E-flat major,Libera,E-flat major,"1. Libera me
 Adagio (E-flat major)",,
-22,Hob. XXIIb:Es3,,,Libera in E-flat major,Libera,E-flat major,"1. Libera me
+22.2,Hob. XXIIb:Es3,,,Libera in E-flat major,Libera,E-flat major,"1. Libera me
 Adagio (E-flat major)",,
-23,Hob. XXIIIa:1,,,"Motette ""Non nobis Domine""",Motet,,,verstimmigen Chor,
-23,Hob. XXIIIa:2,,,"Motette ""Animae Deo gratae"", bzw. ""Agite Properate""",Motet,,,"Soprano, verstimmigen gemischten Chor, 2 Violins, Basso, 2 Oboes, 2 Trumpets, Timpani, Organ",
-23,Hob. XXIIIa:3,,,"Hymne (Offertorium) ""Ens aeternum attende votis"", bzw. ""Walte gnädig o ew'ge Liebe""",Offertory,,,"verstimmigen gemischten Chor, 2 Violins, Basso, 2 Oboes, 2 Trumpets, Timpani, Organ",
-23,Hob. XXIIIa:4,,,"Motetto di Sancta Thecla ""Quis stella radius""",Motet,,,"Soprano, verstimmigen gemischten Chor, 2 Violins, Viola, Basso, Organ",
-23,Hob. XXIIIa:5,,,"Offertorium ""Ad aras convolate""",Offertory,,,"verstimmigen gemischten Chor, 2 Violins, Viola, 2 Oboes, 2 Trombones, Organ",
-23,Hob. XXIIIa:6,,,"Motette ""Salus et Gloria""",Motet,,,"verstimmigen gemischten Chor, 2 Violins, 2 Trumpets, Timpani, Organ",
-23,Hob. XXIIIa:7,,,"Motetto de Tempore ""Super flumina Babylonis""",Motet,,,"Alto Solo, Soprano, Tenor, Basso ripieno, 2 Violins, Viola, 2 Trumpets, Timpani, Organ",
-23,Hob. XXIIIa:8,,,"Offertorium ""Ardentes seraphini""",Offertory,,,"2 Sopranos, Alto, 2 Violins, Basso",
-23,Hob. XXIIIa:C1,,,"Offertorium ""O tremenda Majestas""",,,,,
-23,Hob. XXIIIa:C2,,,"Graduale ""Coelestis urbs Jerusalem""",,,,,
-23,Hob. XXIIIa:C3,,,"Offertorium ""Venite gentes""",,,,,
-,Hob. XXIIIa:C4,,,"Offertorium ""Exsultate Deo""",,,,,
-,Hob. XXIIIa:C5,,,"Offertorium de Venerabili  ""Sit laus plena""",,,,,
-,Hob. XXIIIa:C6,,,"Motetto ""Vidi cibitatem sanctam""",,,,,
-,Hob. XXIIIa:C7,,,"Motette de Beate ""Magna coeli Domina""",,,,,
-,Hob. XXIIIa:C8,,,"Motette ""Dulcis quies qua felix anima""",,,,,
-,Hob. XXIIIa:C9,,,"Offertorium ""Tanta in solemnitate""",,,,,
-,Hob. XXIIIa:C10,,,"Motetto all' Offertorio ""Laudate dominum""",,,,,
-,Hob. XXIIIa:C11,,,"Offertorium ""Fons vivos et origo""",,,,,
-,Hob. XXIIIa:C12,,,"Chorus ""Latetur ecclesia""",,,,,
-,Hob. XXIIIa:C13,,,"Motette ""Florete flores quasi lilium""",,,,,
-,Hob. XXIIIa:C14,,,"Offertorium ""Eja cantate et jubilate""",,,,,
-,Hob. XXIIIa:C15,,,"Graduale ""Tu es Deus""",,,,,
-,Hob. XXIIIa:D1,,,"Offertorium ""Mane nobiscum domine""",,,,,
-,Hob. XXIIIa:D2,,,"Offertorium ""Huc omnes volate, nobiscum exultate""",,,,,
-,Hob. XXIIIa:D3,,,"Motetto ""Benedicta et venerabilis""",,,,,
-,Hob. XXIIIa:D4,,,"Offertorium ""Pastores loquebantur""",,,,,
-,Hob. XXIIIa:D5,,,"Offertorium ""Te Deum reges""",,,,,
-,Hob. XXIIIa:d1,,,"Graduale ""Ubi sunt misericordiae""",,,,,
-,Hob. XXIIIa:d2,,,"Offertorium ""Laudate Dominum""",,,,,
-,Hob. XXIIIa:Es1,,,"Offertorium ""Non me ad te avertit amor""",,,,,
-,Hob. XXIIIa:Es2,,,"Offertorium ""Quis sicut Dominus""",,,,,
-,Hob. XXIIIa:Es3,,,"Offertorium ""Veni sancte Spiritus""",,,,,
-,Hob. XXIIIa:Es4,,,"Motetto ""Inimici circumcederunt nos""",,,,,
-,Hob. XXIIIa:Es5,,,"Motetto ""Alma Dei creatoris""",,,,,
-,Hob. XXIIIa:Es6,,,"Offertorium ""Salve o verum speculum""",,,,,
-,Hob. XXIIIa:Es7,,,Oratorium ad Sepulchrum Domini,,,,,
-,Hob. XXIIIa:Es8,,,Oratorium de Passione,,,,,
-,Hob. XXIIIa:F1,,,"Offertorium ""O sacrum convivium""",,,,,
-,Hob. XXIIIa:F2,,,"Motette ""Ad festum gaudiorum""",,,,,
-,Hob. XXIIIa:F3,,,"Offertorium de Venerabili  ""Caro cibus"" - ""A sumente""",,,,,
-,Hob. XXIIIa:G1,,,"Offertorium ""Confitemini Domino""",,,,,
-,Hob. XXIIIa:G2,,,"Motette ""Veni Sancte Spriritus""",,,,,
-,Hob. XXIIIa:G3,,,"Motetto ""Te adoro latens Deus""",,,,,
-,Hob. XXIIIa:G4,,,"Motetto ""Exaudi me tu Domine""",,,,,
-,Hob. XXIIIa:G5,,,"Motetto ""Gregem tuum, Pastor bone""",,,,,
-,Hob. XXIIIa:G6,,,"Offertorium ""Inveni David""",,,,,
-,Hob. XXIIIa:G7,,,"Offertorium ""Christum Regens""",,,,,
-,Hob. XXIIIa:G8,,,"Offertorium ""Exultate justi in Domino""",,,,,
-,Hob. XXIIIa:G9,,,"Motetto ""O coelitum beati""",,,,,
-,Hob. XXIIIa:A1,,,"Offertorium ""Parvulus filius""",,,,,
-,Hob. XXIIIa:A2,,,"Motette ""Veni ad me""",,,,,
-,Hob. XXIIIa:A3,,,"Graduale ""In deo speravit""",,,,,
-,Hob. XXIIIa:A4,,,"Graduale ""Alleluja""",,,,,
-,Hob. XXIIIa:A5,,,"Offertorium ""Ave Maris Stella""",,,,,
-,Hob. XXIIIa:a1,,,"Motetto ""Ave Maria""",,,,,
-,Hob. XXIIIa:B1,,,"Offertorium ""O sacramentum pietatis""",,,,,
-,Hob. XXIIIa:B2,,,"Graduale ""Mirabilis Deus""",,,,,
-,Hob. XXIIIa:B3,,,"Graduale ""Cum complerentur dies Pentecostes""",,,,,
-,Hob. XXIIIa:B4,,,"Graduale ""Iste est""",,,,,
-,Hob. XXIIIa:B5,,,"Offertorium ""Sub tuum praesidium""",,,,,
-,Hob. XXIIIb:1,,,Salve Regina,,E major,,"S-solo, vierstimmigen gemischten Chor, 2 vl, basso, org",
-,Hob. XXIIIb:2,,,"Salve Regina ""Salve Organo solo""",,G minor,,"s, alt, t, b, 2 vl, vla oblig, basso, konzertierende orgel",
-,Hob. XXIIIb:3,,,Ave Regina,,A major,,"s-solo, vier- bzw, 2stimmigen gemschten chor, 2 vl, org",
-,Hob. XXIIIb:4,,,Salve Regina in einem Satz,,,,"2stimmigen chor (s, alt, t), 2 vl, vla, basso, org",
-,Hob. XXIIIb:5,,,Salve Regina,,,,"s und alt-solo, 2 vl, basso, org",
-,Hob. XXIIIb:6,,,Ave Regina. Andante,,,,"4stimmigen gemischt chor, 2 vl, basso, 2 trmp, timp, org",
-,Hob. XXIIIb:C1,,,Salve Regina. Andante,,,,,
-,Hob. XXIIIb:C2,,,Salve Regina. Allegro,,,,,
-,Hob. XXIIIb:C3,,,Regina coeli laetare. Allegro moderato,,,,,
-,Hob. XXIIIb:C4,,,Regina coeli laetare. Allegro,,,,,
-,Hob. XXIIIb:C5,,,Salve Regina. Allegro,,,,,
-,Hob. XXIIIb:C6,,,Salve Regina. Moderato,,,,,
-,Hob. XXIIIb:C7,,,Salve Regina. Allegro - Allegro molto,,,,,
-,Hob. XXIIIb:D1,,,Salve Regina. Adagio,,,,,
-,Hob. XXIIIb:D2,,,Regina coeli laetare. Allegro,,,,,
-,Hob. XXIIIb:D3,,,Salve Regina. Allegro,,,,,
-,Hob. XXIIIb:D4,,,Salve Regina. Adagio,,,,,
-,Hob. XXIIIb:D5,,,Salve Regina. Allegro,,,,,
-,Hob. XXIIIb:D6,,,Regina coeli laetare,,,,,
-,Hob. XXIIIb:Es1,,,"Regina coeli laetare, Duetto. Allegro molto",,,,,
-,Hob. XXIIIb:Es2,,,"Regina coeli laetare, Duetto. Presto",,,,,
-,Hob. XXIIIb:Es3,,,Salve Regina. Adagio,,,,,
-,Hob. XXIIIb:Es4,,,Salve Regina,,,,,
-,Hob. XXIIIb:Es5,,,Salve Regina. Tradissimo,,,,,
-,Hob. XXIIIb:Es6,,,Salve Regina. Andante moderato,,,,,
-,Hob. XXIIIb:Es7,,,Salve Regina. Moderato,,,,,
-,Hob. XXIIIb:Es8,,,Salve Regina. Andante,,,,,
-,Hob. XXIIIb:E1,,,Alma redemptoris mater,,,,,
-,Hob. XXIIIb:F1,,,Salve Regina,,,,,
-,Hob. XXIIIb:F2,,,Ave Regina à Basso Solo,,,,,
-,Hob. XXIIIb:B1,,,Regina coeli laetare. Allegro,,,,,
-,Hob. XXIIIb:B2,,,"Regina coeli laetare, Duetto. Presto",,,,,
-,Hob. XXIIIb:B3,,,Salve Regina,,,,,
-,Hob. XXIIIb:B4,,,"Motette ""Alma redemptoris Mater""",,,,,
-,Hob. XXIIIc:1,,,Te Deum,,,,"4stimmigen gemischt chor, 2 vl, basso, 2 trmp, timp, org",
-,Hob. XXIIIc:2,,,(Großes) Te Deum,,,,"4stimmigen gemischt chor, 2 vl, vla, vlc, basso, fl, 2 ob, 2 fag, 2 cor, 3 trmp (3 poasaunen mit dem chor), timp, org",
-,Hob. XXIIIc:3,,,Alleluja,,,,"4stimmigen gemischt chor, 2 vl, basso, org",
-,Hob. XXIIIc:4,,,4 Responsoria de Venerabili,,,,"4 singstimmen, 2 vl, 2 cor, basso, org",
-,Hob. XXIIIc:5,,,"4 ""Hymne de Venerabili""",,,,"4 singstimmen, 2 vl, vla, 2 ob 2 trmp, basso, org",
-,Hob. XXIIIc:6,,,"Aria de Venera ""Lauda Sion""",,,,"alt-solo, 2 vl, 2 fl, vla, org",
-,Hob. XXIIIc:C1,,,Te Deum. Allegro,,,,,
-,Hob. XXIIIc:C2,,,Litaney. Andante,,,,,
-,Hob. XXIIIc:C3,,,Litaney. Allegro moderato,,,,,
-,Hob. XXIIIc:C4,,,Litaney. Adagio,,,,,
-,Hob. XXIIIc:C5,,,Tantum ergo. Allegro moderato,,,,,
-,Hob. XXIIIc:C6,,,Tantum ergo. Allegro moderato,,,,,
-,Hob. XXIIIc:C7,,,Tantum ergo. Largo,,,,,
-,Hob. XXIIIc:C8,,,Tantum ergo. Largo,,,,,
-,Hob. XXIIIc:C9,,,Tantum ergo. Allegro moderato,,,,,
-,Hob. XXIIIc:C10,,,Tantum ergo. Moderato,,,,,
-,Hob. XXIIIc:C11,,,Tantum ergo. Andante,,,,,
-,Hob. XXIIIc:C12,,,Tantum ergo. Allegro,,,,,
-,Hob. XXIIIc:C13,,,Tantum ergo. Allegro,,,,,
-,Hob. XXIIIc:C14,,,"Vesper ""Dixit Dominus""",,,,,
-,Hob. XXIIIc:C15,,,"Vesper ""Dixit Dominus""",,,,,
-,Hob. XXIIIc:C16,,,Litaney. Moderato,,,,,
-,Hob. XXIIIc:C17,,,Litaney. Adagio,,,,,
-,Hob. XXIIIc:C18,,,Litaney. Allegro ma poco,,,,,
-,Hob. XXIIIc:C19,,,Pastorella de Nocte,,,,,
-,Hob. XXIIIc:C20,,,Litaney. Adagio,,,,,
-,Hob. XXIIIc:C21,,,Tantum ergo. Allegro moderato,,,,,
-,Hob. XXIIIc:C22,,,Tantum ergo. Moderato,,,,,
-,Hob. XXIIIc:C23,,,"Chor ""Nichts ist edler""",,,,,
-,Hob. XXIIIc:c1,,,Miserere,,,,,
-,Hob. XXIIIc:Des1,,,Miserere,,,,,
-,Hob. XXIIIc:D1,,,Te Deum. Moderato,,,,,
-,Hob. XXIIIc:D2,,,Laudate pueri,,,,,
-,Hob. XXIIIc:D3,,,Tantum ergo. Moderato,,,,,
-,Hob. XXIIIc:D4,,,Tantum ergo. Andante,,,,,
-,Hob. XXIIIc:D5,,,Veni Sancte Spriritus,,,,,
-,Hob. XXIIIc:D6,,,Litaney. Adagio,,,,,
-,Hob. XXIIIc:D7,,,Litaney. Andante quasi Adagio (dorisch?),,,,,
-,Hob. XXIIIc:D8,,,Tantum ergo. Andante,,,,,
-,Hob. XXIIIc:D9,,,"Lob und Dankmsik (Chor) ""Mächtiger, Beschützer deiner Kinder""",,,,,
-,Hob. XXIIIc:Es1,,,Tantum ergo,,,,,
-,Hob. XXIIIc:F1,,,"Aria (für Chor) ""Menschen, frohlocket""",,,,,
-,Hob. XXIIIc:F2,,,"Lied (für Männerchor) ""O Sanctissima""",,,,,
-,Hob. XXIIIc:F3,,,Litaney. Andante,,,,,
-,Hob. XXIIIc:F4,,,Litaney. Allegro,,,,,
-,Hob. XXIIIc:G1,,,"Te Deum ""Großer Gott wir loben Dich""",,,,,
-,Hob. XXIIIc:G2,,,Litaney. Allegro non molto,,,,,
-,Hob. XXIIIc:G3,,,"Sequenz ""Lauda Sion""",,,,,
-,Hob. XXIIIc:G4,,,"Hymnus ""Ave maris stella""",,,,,
-,Hob. XXIIIc:G5,,,Pange lingua,,,,,
-,Hob. XXIIIc:g1,,,Miserere,,,,,
-,Hob. XXIIIc:B1,,,"Vesper ""Dixit Dominus""",,,,,
-,Hob. XXIIIc:B2,,,"Chor ""O Salutaris Hostia""",,,,,
-,Hob. XXIIIc:B3,,,"Aria pastorella ""Lauft ihr""",,,,,
-,Hob. XXIIIc:B4,,,Pange lingua,,,,,
-,Hob. XXIIIc:B5,,,Tantum ergo,,,,,
-,Hob. XXIIIc:B6,,,Tantum ergo,,,,,
-,Hob. XXIIId:1,,,"Cantilena pro Adventu ""Ein' Magd, ein' Dienerin""",,,,"s-solo, 2 vl, vla oblig, basso, 2 cor, org",
-,Hob. XXIIId:2,,,"Aria de Adventu ""Mutter Gottes mir erlaube""",,,,"s und alt-solo, 2 vl, basso, org",
-,Hob. XXIIId:3,,,"Cantilena pro Adventu ""Jesu Redemptor""",,,,"s, 2 vl, vla, 2 cor, basso, org",
-,Hob. XXIIId:C1,,,"Aria ""Quisquis gaudet Deo suo""",,,,,
-,Hob. XXIIId:C2,,,"Aria ""O Maria""",,,,,
-,Hob. XXIIId:C3,,,"Aria ""Banda fidelis turba""",,,,,
-,Hob. XXIIId:D1,,,"Aria ""Huc ad templum""",,,,,
-,Hob. XXIIId:D2,,,"Aria ""Cantate Domino""",,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+23.1,Hob. XXIIIa:1,,,"Motette ""Non nobis Domine""",Motet,,,verstimmigen Chor,
+23.1,Hob. XXIIIa:2,,,"Motette ""Animae Deo gratae"", bzw. ""Agite Properate""",Motet,,,"Soprano, verstimmigen gemischten Chor, 2 Violins, Basso, 2 Oboes, 2 Trumpets, Timpani, Organ",
+23.1,Hob. XXIIIa:3,,,"Hymne (Offertorium) ""Ens aeternum attende votis"", bzw. ""Walte gnädig o ew'ge Liebe""",Offertory,,,"verstimmigen gemischten Chor, 2 Violins, Basso, 2 Oboes, 2 Trumpets, Timpani, Organ",
+23.1,Hob. XXIIIa:4,,,"Motetto di Sancta Thecla ""Quis stella radius""",Motet,,,"Soprano, verstimmigen gemischten Chor, 2 Violins, Viola, Basso, Organ",
+23.1,Hob. XXIIIa:5,,,"Offertorium ""Ad aras convolate""",Offertory,,,"verstimmigen gemischten Chor, 2 Violins, Viola, 2 Oboes, 2 Trombones, Organ",
+23.1,Hob. XXIIIa:6,,,"Motette ""Salus et Gloria""",Motet,,,"verstimmigen gemischten Chor, 2 Violins, 2 Trumpets, Timpani, Organ",
+23.1,Hob. XXIIIa:7,,,"Motetto de Tempore ""Super flumina Babylonis""",Motet,,,"Alto Solo, Soprano, Tenor, Basso ripieno, 2 Violins, Viola, 2 Trumpets, Timpani, Organ",
+23.1,Hob. XXIIIa:8,,,"Offertorium ""Ardentes seraphini""",Offertory,,,"2 Sopranos, Alto, 2 Violins, Basso",
+23.1,Hob. XXIIIa:A1,,,"Offertorium ""Parvulus filius""",,,,,
+23.1,Hob. XXIIIa:a1,,,"Motetto ""Ave Maria""",,,,,
+23.1,Hob. XXIIIa:A2,,,"Motette ""Veni ad me""",,,,,
+23.1,Hob. XXIIIa:A3,,,"Graduale ""In deo speravit""",,,,,
+23.1,Hob. XXIIIa:A4,,,"Graduale ""Alleluja""",,,,,
+23.1,Hob. XXIIIa:A5,,,"Offertorium ""Ave Maris Stella""",,,,,
+23.1,Hob. XXIIIa:B1,,,"Offertorium ""O sacramentum pietatis""",,,,,
+23.1,Hob. XXIIIa:B2,,,"Graduale ""Mirabilis Deus""",,,,,
+23.1,Hob. XXIIIa:B3,,,"Graduale ""Cum complerentur dies Pentecostes""",,,,,
+23.1,Hob. XXIIIa:B4,,,"Graduale ""Iste est""",,,,,
+23.1,Hob. XXIIIa:B5,,,"Offertorium ""Sub tuum praesidium""",,,,,
+23.1,Hob. XXIIIa:C1,,,"Offertorium ""O tremenda Majestas""",,,,,
+23.1,Hob. XXIIIa:C10,,,"Motetto all' Offertorio ""Laudate dominum""",,,,,
+23.1,Hob. XXIIIa:C11,,,"Offertorium ""Fons vivos et origo""",,,,,
+23.1,Hob. XXIIIa:C12,,,"Chorus ""Latetur ecclesia""",,,,,
+23.1,Hob. XXIIIa:C13,,,"Motette ""Florete flores quasi lilium""",,,,,
+23.1,Hob. XXIIIa:C14,,,"Offertorium ""Eja cantate et jubilate""",,,,,
+23.1,Hob. XXIIIa:C15,,,"Graduale ""Tu es Deus""",,,,,
+23.1,Hob. XXIIIa:C2,,,"Graduale ""Coelestis urbs Jerusalem""",,,,,
+23.1,Hob. XXIIIa:C3,,,"Offertorium ""Venite gentes""",,,,,
+23.1,Hob. XXIIIa:C4,,,"Offertorium ""Exsultate Deo""",,,,,
+23.1,Hob. XXIIIa:C5,,,"Offertorium de Venerabili  ""Sit laus plena""",,,,,
+23.1,Hob. XXIIIa:C6,,,"Motetto ""Vidi cibitatem sanctam""",,,,,
+23.1,Hob. XXIIIa:C7,,,"Motette de Beate ""Magna coeli Domina""",,,,,
+23.1,Hob. XXIIIa:C8,,,"Motette ""Dulcis quies qua felix anima""",,,,,
+23.1,Hob. XXIIIa:C9,,,"Offertorium ""Tanta in solemnitate""",,,,,
+23.1,Hob. XXIIIa:D1,,,"Offertorium ""Mane nobiscum domine""",,,,,
+23.1,Hob. XXIIIa:d1,,,"Graduale ""Ubi sunt misericordiae""",,,,,
+23.1,Hob. XXIIIa:D2,,,"Offertorium ""Huc omnes volate, nobiscum exultate""",,,,,
+23.1,Hob. XXIIIa:d2,,,"Offertorium ""Laudate Dominum""",,,,,
+23.1,Hob. XXIIIa:D3,,,"Motetto ""Benedicta et venerabilis""",,,,,
+23.1,Hob. XXIIIa:D4,,,"Offertorium ""Pastores loquebantur""",,,,,
+23.1,Hob. XXIIIa:D5,,,"Offertorium ""Te Deum reges""",,,,,
+23.1,Hob. XXIIIa:Es1,,,"Offertorium ""Non me ad te avertit amor""",,,,,
+23.1,Hob. XXIIIa:Es2,,,"Offertorium ""Quis sicut Dominus""",,,,,
+23.1,Hob. XXIIIa:Es3,,,"Offertorium ""Veni sancte Spiritus""",,,,,
+23.1,Hob. XXIIIa:Es4,,,"Motetto ""Inimici circumcederunt nos""",,,,,
+23.1,Hob. XXIIIa:Es5,,,"Motetto ""Alma Dei creatoris""",,,,,
+23.1,Hob. XXIIIa:Es6,,,"Offertorium ""Salve o verum speculum""",,,,,
+23.1,Hob. XXIIIa:Es7,,,Oratorium ad Sepulchrum Domini,,,,,
+23.1,Hob. XXIIIa:Es8,,,Oratorium de Passione,,,,,
+23.1,Hob. XXIIIa:F1,,,"Offertorium ""O sacrum convivium""",,,,,
+23.1,Hob. XXIIIa:F2,,,"Motette ""Ad festum gaudiorum""",,,,,
+23.1,Hob. XXIIIa:F3,,,"Offertorium de Venerabili  ""Caro cibus"" - ""A sumente""",,,,,
+23.1,Hob. XXIIIa:G1,,,"Offertorium ""Confitemini Domino""",,,,,
+23.1,Hob. XXIIIa:G2,,,"Motette ""Veni Sancte Spriritus""",,,,,
+23.1,Hob. XXIIIa:G3,,,"Motetto ""Te adoro latens Deus""",,,,,
+23.1,Hob. XXIIIa:G4,,,"Motetto ""Exaudi me tu Domine""",,,,,
+23.1,Hob. XXIIIa:G5,,,"Motetto ""Gregem tuum, Pastor bone""",,,,,
+23.1,Hob. XXIIIa:G6,,,"Offertorium ""Inveni David""",,,,,
+23.1,Hob. XXIIIa:G7,,,"Offertorium ""Christum Regens""",,,,,
+23.1,Hob. XXIIIa:G8,,,"Offertorium ""Exultate justi in Domino""",,,,,
+23.1,Hob. XXIIIa:G9,,,"Motetto ""O coelitum beati""",,,,,
+23.2,Hob. XXIIIb:1,,,Salve Regina,,E major,,"S-solo, vierstimmigen gemischten Chor, 2 vl, basso, org",
+23.2,Hob. XXIIIb:2,,,"Salve Regina ""Salve Organo solo""",,G minor,,"s, alt, t, b, 2 vl, vla oblig, basso, konzertierende orgel",
+23.2,Hob. XXIIIb:3,,,Ave Regina,,A major,,"s-solo, vier- bzw, 2stimmigen gemschten chor, 2 vl, org",
+23.2,Hob. XXIIIb:4,,,Salve Regina in einem Satz,,,,"2stimmigen chor (s, alt, t), 2 vl, vla, basso, org",
+23.2,Hob. XXIIIb:5,,,Salve Regina,,,,"s und alt-solo, 2 vl, basso, org",
+23.2,Hob. XXIIIb:6,,,Ave Regina. Andante,,,,"4stimmigen gemischt chor, 2 vl, basso, 2 trmp, timp, org",
+23.2,Hob. XXIIIb:B1,,,Regina coeli laetare. Allegro,,,,,
+23.2,Hob. XXIIIb:B2,,,"Regina coeli laetare, Duetto. Presto",,,,,
+23.2,Hob. XXIIIb:B3,,,Salve Regina,,,,,
+23.2,Hob. XXIIIb:B4,,,"Motette ""Alma redemptoris Mater""",,,,,
+23.2,Hob. XXIIIb:C1,,,Salve Regina. Andante,,,,,
+23.2,Hob. XXIIIb:C2,,,Salve Regina. Allegro,,,,,
+23.2,Hob. XXIIIb:C3,,,Regina coeli laetare. Allegro moderato,,,,,
+23.2,Hob. XXIIIb:C4,,,Regina coeli laetare. Allegro,,,,,
+23.2,Hob. XXIIIb:C5,,,Salve Regina. Allegro,,,,,
+23.2,Hob. XXIIIb:C6,,,Salve Regina. Moderato,,,,,
+23.2,Hob. XXIIIb:C7,,,Salve Regina. Allegro - Allegro molto,,,,,
+23.2,Hob. XXIIIb:D1,,,Salve Regina. Adagio,,,,,
+23.2,Hob. XXIIIb:D2,,,Regina coeli laetare. Allegro,,,,,
+23.2,Hob. XXIIIb:D3,,,Salve Regina. Allegro,,,,,
+23.2,Hob. XXIIIb:D4,,,Salve Regina. Adagio,,,,,
+23.2,Hob. XXIIIb:D5,,,Salve Regina. Allegro,,,,,
+23.2,Hob. XXIIIb:D6,,,Regina coeli laetare,,,,,
+23.2,Hob. XXIIIb:E1,,,Alma redemptoris mater,,,,,
+23.2,Hob. XXIIIb:Es1,,,"Regina coeli laetare, Duetto. Allegro molto",,,,,
+23.2,Hob. XXIIIb:Es2,,,"Regina coeli laetare, Duetto. Presto",,,,,
+23.2,Hob. XXIIIb:Es3,,,Salve Regina. Adagio,,,,,
+23.2,Hob. XXIIIb:Es4,,,Salve Regina,,,,,
+23.2,Hob. XXIIIb:Es5,,,Salve Regina. Tradissimo,,,,,
+23.2,Hob. XXIIIb:Es6,,,Salve Regina. Andante moderato,,,,,
+23.2,Hob. XXIIIb:Es7,,,Salve Regina. Moderato,,,,,
+23.2,Hob. XXIIIb:Es8,,,Salve Regina. Andante,,,,,
+23.2,Hob. XXIIIb:F1,,,Salve Regina,,,,,
+23.2,Hob. XXIIIb:F2,,,Ave Regina à Basso Solo,,,,,
+23.3,Hob. XXIIIc:1,,,Te Deum,,,,"4stimmigen gemischt chor, 2 vl, basso, 2 trmp, timp, org",
+23.3,Hob. XXIIIc:2,,,(Großes) Te Deum,,,,"4stimmigen gemischt chor, 2 vl, vla, vlc, basso, fl, 2 ob, 2 fag, 2 cor, 3 trmp (3 poasaunen mit dem chor), timp, org",
+23.3,Hob. XXIIIc:3,,,Alleluja,,,,"4stimmigen gemischt chor, 2 vl, basso, org",
+23.3,Hob. XXIIIc:4,,,4 Responsoria de Venerabili,,,,"4 singstimmen, 2 vl, 2 cor, basso, org",
+23.3,Hob. XXIIIc:5,,,"4 ""Hymne de Venerabili""",,,,"4 singstimmen, 2 vl, vla, 2 ob 2 trmp, basso, org",
+23.3,Hob. XXIIIc:6,,,"Aria de Venera ""Lauda Sion""",,,,"alt-solo, 2 vl, 2 fl, vla, org",
+23.3,Hob. XXIIIc:B1,,,"Vesper ""Dixit Dominus""",,,,,
+23.3,Hob. XXIIIc:B2,,,"Chor ""O Salutaris Hostia""",,,,,
+23.3,Hob. XXIIIc:B3,,,"Aria pastorella ""Lauft ihr""",,,,,
+23.3,Hob. XXIIIc:B4,,,Pange lingua,,,,,
+23.3,Hob. XXIIIc:B5,,,Tantum ergo,,,,,
+23.3,Hob. XXIIIc:B6,,,Tantum ergo,,,,,
+23.3,Hob. XXIIIc:C1,,,Te Deum. Allegro,,,,,
+23.3,Hob. XXIIIc:c1,,,Miserere,,,,,
+23.3,Hob. XXIIIc:C10,,,Tantum ergo. Moderato,,,,,
+23.3,Hob. XXIIIc:C11,,,Tantum ergo. Andante,,,,,
+23.3,Hob. XXIIIc:C12,,,Tantum ergo. Allegro,,,,,
+23.3,Hob. XXIIIc:C13,,,Tantum ergo. Allegro,,,,,
+23.3,Hob. XXIIIc:C14,,,"Vesper ""Dixit Dominus""",,,,,
+23.3,Hob. XXIIIc:C15,,,"Vesper ""Dixit Dominus""",,,,,
+23.3,Hob. XXIIIc:C16,,,Litaney. Moderato,,,,,
+23.3,Hob. XXIIIc:C17,,,Litaney. Adagio,,,,,
+23.3,Hob. XXIIIc:C18,,,Litaney. Allegro ma poco,,,,,
+23.3,Hob. XXIIIc:C19,,,Pastorella de Nocte,,,,,
+23.3,Hob. XXIIIc:C2,,,Litaney. Andante,,,,,
+23.3,Hob. XXIIIc:C20,,,Litaney. Adagio,,,,,
+23.3,Hob. XXIIIc:C21,,,Tantum ergo. Allegro moderato,,,,,
+23.3,Hob. XXIIIc:C22,,,Tantum ergo. Moderato,,,,,
+23.3,Hob. XXIIIc:C23,,,"Chor ""Nichts ist edler""",,,,,
+23.3,Hob. XXIIIc:C3,,,Litaney. Allegro moderato,,,,,
+23.3,Hob. XXIIIc:C4,,,Litaney. Adagio,,,,,
+23.3,Hob. XXIIIc:C5,,,Tantum ergo. Allegro moderato,,,,,
+23.3,Hob. XXIIIc:C6,,,Tantum ergo. Allegro moderato,,,,,
+23.3,Hob. XXIIIc:C7,,,Tantum ergo. Largo,,,,,
+23.3,Hob. XXIIIc:C8,,,Tantum ergo. Largo,,,,,
+23.3,Hob. XXIIIc:C9,,,Tantum ergo. Allegro moderato,,,,,
+23.3,Hob. XXIIIc:D1,,,Te Deum. Moderato,,,,,
+23.3,Hob. XXIIIc:D2,,,Laudate pueri,,,,,
+23.3,Hob. XXIIIc:D3,,,Tantum ergo. Moderato,,,,,
+23.3,Hob. XXIIIc:D4,,,Tantum ergo. Andante,,,,,
+23.3,Hob. XXIIIc:D5,,,Veni Sancte Spriritus,,,,,
+23.3,Hob. XXIIIc:D6,,,Litaney. Adagio,,,,,
+23.3,Hob. XXIIIc:D7,,,Litaney. Andante quasi Adagio (dorisch?),,,,,
+23.3,Hob. XXIIIc:D8,,,Tantum ergo. Andante,,,,,
+23.3,Hob. XXIIIc:D9,,,"Lob und Dankmsik (Chor) ""Mächtiger, Beschützer deiner Kinder""",,,,,
+23.3,Hob. XXIIIc:Des1,,,Miserere,,,,,
+23.3,Hob. XXIIIc:Es1,,,Tantum ergo,,,,,
+23.3,Hob. XXIIIc:F1,,,"Aria (für Chor) ""Menschen, frohlocket""",,,,,
+23.3,Hob. XXIIIc:F2,,,"Lied (für Männerchor) ""O Sanctissima""",,,,,
+23.3,Hob. XXIIIc:F3,,,Litaney. Andante,,,,,
+23.3,Hob. XXIIIc:F4,,,Litaney. Allegro,,,,,
+23.3,Hob. XXIIIc:G1,,,"Te Deum ""Großer Gott wir loben Dich""",,,,,
+23.3,Hob. XXIIIc:g1,,,Miserere,,,,,
+23.3,Hob. XXIIIc:G2,,,Litaney. Allegro non molto,,,,,
+23.3,Hob. XXIIIc:G3,,,"Sequenz ""Lauda Sion""",,,,,
+23.3,Hob. XXIIIc:G4,,,"Hymnus ""Ave maris stella""",,,,,
+23.3,Hob. XXIIIc:G5,,,Pange lingua,,,,,
+23.4,Hob. XXIIId:1,,,"Cantilena pro Adventu ""Ein' Magd, ein' Dienerin""",,,,"s-solo, 2 vl, vla oblig, basso, 2 cor, org",
+23.4,Hob. XXIIId:2,,,"Aria de Adventu ""Mutter Gottes mir erlaube""",,,,"s und alt-solo, 2 vl, basso, org",
+23.4,Hob. XXIIId:3,,,"Cantilena pro Adventu ""Jesu Redemptor""",,,,"s, 2 vl, vla, 2 cor, basso, org",
+23.4,Hob. XXIIId:a1,,,Asperges me,,,,,
+23.4,Hob. XXIIId:As1,,,"Aria ""Maria Virgo et Mater""",,,,,
+23.4,Hob. XXIIId:B1,,,"Duett ""Herr ich will Dich loben""",,,,,
+23.4,Hob. XXIIId:B2,,,"Aria ""Veni tandem expectatus""",,,,,
+23.4,Hob. XXIIId:B3,,,"Aria ""Ah! Jesu recipe""",,,,,
+23.4,Hob. XXIIId:C1,,,"Aria ""Quisquis gaudet Deo suo""",,,,,
+23.4,Hob. XXIIId:C2,,,"Aria ""O Maria""",,,,,
+23.4,Hob. XXIIId:C3,,,"Aria ""Banda fidelis turba""",,,,,
+23.4,Hob. XXIIId:D1,,,"Aria ""Huc ad templum""",,,,,
+23.4,Hob. XXIIId:D2,,,"Aria ""Cantate Domino""",,,,,
+23.4,Hob. XXIIId:E1,,,"Aria pro Adventu ""O Gott, wie weit richt""",,,,,
+23.4,Hob. XXIIId:Es1,,,"Aria (Duetto) ""Non mundi amores""",,,,,
+23.4,Hob. XXIIId:F1,,,"Aria ""Digare me laudarete""",,,,,
+23.4,Hob. XXIIId:G1,,,"Aria ""Ei, wer hat ihm das Ding gedenkt""",,,,,
+23.4,Hob. XXIIId:G2,,,"Pastorella (Duett) ""Der Tag, der ist so freudenreich""",,,,,
+23.4,Hob. XXIIId:G3,,,"Arietta ""Jesu, o amor meus""",,,,,
+23.4,Hob. XXIIId:G4,,,"Aria ""Amore vulnerasti""",,,,,
+24.1,Hob. XXIVa:1,,,"Chor ""Vivan gl'illustri Sposi et! Als sich der Fürst Anton vermählte""",,,,,
+24.1,Hob. XXIVa:10,,,Kantate: „Berenice che fai“,,,,"2 Violinen, Viola, Violoncello, Kontrabaß, 2 Flöten, 2 Oboen, 2 Fagotte, 2 Hörner, 2 Trompeten und Pauken",
+24.1,Hob. XXIVa:11,,,Kantate: „Die Erwählung eines Kapellmeisters“,,,,"Sopran (Minerva), Alt (Apollo), Tenor (Bacchus), vierstimmigen gemischten Chor, Streicher (mit Violoncello und Fagott, die aber nur zu der Arie Nr.1 vorgezeichnet sind), 2 Oboen, 2 Hörner",
+24.1,Hob. XXIVa:2,,,"Kantate ""Destatevi o miei fidi""",,,,"2 Sopranos solo, t-solo, 2 sopra, tenor, bass (chor)m, string, 2 ob, 2 cor",
+24.1,Hob. XXIVa:3,,,"Kantate ""Al tuo arrivo felice""",,,,"Sopran,vierstimmigen gemischten Chor, Streicher, 2 Flöten, 2 Oboen, Fagott,
+2 Hörner und Cembalo solo",
+24.1,Hob. XXIVa:4,,,"Kantate ""Qual dubbio o(r)mai""",,,,"Sopran, vierstimmigen gemischten Chor, Streicher, 2 Oboen,2 Horner, Cembalo solo",
+24.1,Hob. XXIVa:5,,,"Chor ""Dei Clementi, bey wieder genesung des Furst(en) Nico: Ester...""",,,,,
+24.1,Hob. XXIVa:6,,,"Kantate ""Applausus""",,,,"Sopran(Temperantia), Alt (Prudentia),Tenor (Justitia),2 Basse (Fortitudo und Theologia, die im Textbudh Sapientia heiβt), vierstimmigen gemischten Chor, 2 Violinen (Violine I solo in Nr.7a), 2Violen (geteilt nur in Nr.4a), Violoncello, Baß, 2 Oboen, Fagott (Solo in Nr.6a), 2 Horner, 2 Trompeten, Pauken und Cembalo (Solo in Nr.4a)",
+24.1,Hob. XXIVa:7,,,"Kantate ""Miseri noi, misera Patria""",,,,"sopra, str,fl, 2 ob, fag, 2 cor",
+24.1,Hob. XXIVa:8,,,Chor („Madrigal“) „Der Sturm“,,,,"Sopran, Alt, Tenor, Baß, vierstimmigen gemischten Chor, Streicher,2 Flóten, 2 Oboen, 2 Fagotte, auf einen englischen Text von Peter Pindar. Spáter auf einen deut-schen Text umgearbeitet mit Hinzufügung von 2 Klarinetten, 2 Hórnern, 2 Trompeten, 2 Posaunen und Pauken",
+24.1,Hob. XXIVa:9,,,Arie „Nor can I think“ und Chor „Thy great endeavours“,,,,"Baß, fünfstimmigen Chor (2 Soprane, 2 Tenöre, Baß), Streicher, 2 Flöten, 2 Oboen, 2 Klarinetten (nur zu der Arie), 2 Fagotte, 2 Hörner, 2 Trompeten (in der Arie als „Clarini“, im Chor als „Trombe“ bezeichnet), Pauken",
+24.1,Hob. XXIVa:B1,,,Scherzhafte Sinfonie für Singstimmen,,,,,
+24.1,Hob. XXIVa:C1,,,Kantate: „Berenice ove sei“,,,,,
+24.1,Hob. XXIVa:C2,,,"„Der Cantor, eine Cantate von Haydn“",,,,,
+24.1,Hob. XXIVa:D1,,,„Musik zum Erndtefest“,,,,,
+24.1,Hob. XXIVa:D2,,,"""Applausus""",,,,,
+24.1,Hob. XXIVa:D3,,,Chor: „Si suone la tromba“,,,,,
+24.1,Hob. XXIVa:Es1,,,"Kantate: „Oime, dove m’ascondo“",,,,,
+24.1,Hob. XXIVa:F1,,,"Kantate: „Pianger vidi appresso un fonte""",,,,,
+24.1,Hob. XXIVa:G1,,,"Komische Kantate: „Hier liegt Constantia, Fernandens Frau begraben“",,,,,
+24.2,Hob. XXIVb:1,,,Arie: „Costretta piangere dolente“,,,,"Sopran (Dorina), Streicher, 2 Englisch Hörner und 2 Hörner",
+24.2,Hob. XXIVb:10,,,"Rezitativ: „Ah, tu non senti, amico"" - Arie: „Qual destra omicida“",,,,"Tenor, Streicher, Flóte, 2 Oboen, 2 Fagotte und 2 Hórner. Einlage für Oreste in der Oper „Ifigenia in Tauride” von Tommaso Traétta",
+24.2,Hob. XXIVb:11,,,Arie: „Un cor si tenero“,,,,"Baß, Streicher, 2 Oboen und 2 Hörner. Einlage für Corradino in der Oper „Il Disertore“ von Francesco Bianchi",
+24.2,Hob. XXIVb:12,,,"Arie: „Vada adagio, Signorina“",,,,"Sopran, Streicher, 2 Oboen, 2 Fagotte und 2 Hórner. Einlage für Cardellina in der Oper „La Quakera spiritosa“ von Pietro Gugli",
+24.2,Hob. XXIVb:13,,,Arie: „Chi vive amante“,,,,"Sopran, Streicher, Flóte, 2 Oboen, 2 Fagotte und 2 Hórner. Einlage für Erissena in der Oper „Alessandro nell’Indie“ von Francesco Bianchi",
+24.2,Hob. XXIVb:14,,,"Arie: „Se tu mi sprezzi, ingrata""",,,,"Tenor, Streicher, 2 Oboen, Fagott und 2 Hórner. Einlage für Cavaliere in der Oper „I finti Eredi“ von Giuseppe Sarti",
+24.2,Hob. XXIVb:15,,,Arie: „Infelice sventurata“,,,,"Sopran, Streicher, 2 Oboen, 2 Fagotte und 2 Hörner. Einlage für Beatrice in der Oper „I due supposti Conti“ von Domenico Cimarosa",
+24.2,Hob. XXIVb:16,,,Arie: „Da che penso a maritarmi“,,,,"Tenor, Streicher, Flóte, 2 Oboen, 2 Fagotte und 2 Hórner. Einlage für Titta in der Oper „L’Amore artigiano"" von Florian Leopold Gassmann",
+24.2,Hob. XXIVb:16bis,,,als Einlage in der Oper „L’Amore artigiano“ von Florian Leopold Gassmann,,,,,
+24.2,Hob. XXIVb:17,,,"Arie: „Il meglio mio carattere""",,,,"Sopran, Streicher, Flöte, 2 Oboen, Fagott und 2 Hörner. Einlage für Merlina in der Oper „L’impresario in angustie“ von Domenico Cimarosa",
+24.2,Hob. XXIVb:18,,,"Arie: „La moglie quando é buona""",,,,"Sopran, Streicher, Flóte, 2 Oboen, 2 Fagotte und 2 Hórner. Einlage für Giannina in der Oper „Giannina e Bernardone“ von Domenico Cimarosa",
+24.2,Hob. XXIVb:19,,,"Arie: „La mia pace, oh Dio“",,,,"Sopran, Streicher, 2 Oboen, 2 Fagotte, 2 Hórner",
+24.2,Hob. XXIVb:2,,,Arie: „D'una sposa meschinella“,,,,"Sopran, Streicher, 2 Oboen, 2 Hörner.",Vermutliche Einlage für Donna Stella in der Oper „La Frascatana“ von Giovanni Paisiello
+24.2,Hob. XXIVb:20,,,Arie: „Solo e pensoso“ (Petrarca),,,,"Sopran, Streicher, 2 Klarinetten, 2 Fagotte und 2 Hörner",
+24.2,Hob. XXIVb:21,,,Arie,,,,"Sopran, Streicher, 2 Flóten, 2 Oboen, 2 Fagotte, 2 Hórner. Einlage für Giannina in der Oper „I finti Eredi” von Giuseppe Sarti",
+24.2,Hob. XXIVb:22,,,Arie: „Tornate pur mia bella“,,,,"Tenor, Streicher, Flóte, 2 Oboen, 2 Fagotte, 2 Hórner",
+24.2,Hob. XXIVb:23,,,Arie: „Via siate bonino“,,,,"Sopran, Streicher, Flóte, 2 Oboen, 2 Fagotte, 2 Hórner",
+24.2,Hob. XXIVb:3,,,Arie: „Quando la rosa“,,,,"Sopran, Streicher, Flóte, Fagott, 2 Hórner. Einlage für Nanina in der Oper „La Metilde Ritrovata^ von Pasquale Anfossi",
+24.2,Hob. XXIVb:4,,,Arie: („Il cor nel seno balzar mi sento“?),,,,"Sopran, Streicher, 2 Oboen, 2 Hórner. Einlage für Carlotta in der Oper ""La scuola de'Gelosi"" von Antonio Salieri",
+24.2,Hob. XXIVb:5,,,Arie: „Dice benissimo chi si marita“,,,,"Ваß, Streicher und 2 Hörner. Einlage für Lumaca in der Oper „La Scuola de'Gelosi” von Antonio Salieri",
+24.2,Hob. XXIVb:6,,,Rezitativ: „Mora l’infido“ - Arie: „Mi sento nel seno“,,,,"Sopran, 2 Violinen, Baß. Die übrigen Stimmen nicht erhalten. Einlage für Donna Isabella in der Oper „Il convitato di pietra“ von Vincenzo Righini",
+24.2,Hob. XXIVb:7,,,"Arie: „Signor, voi sapete...“",,,,"Sopran, Streicher, Flöte, 2 Oboen, 2 Fagotte und 2 Hörner. Einlage für Rosina in der Oper „Il matrimonio per inganno“ von Pasquale Anfossi",
+24.2,Hob. XXIVb:8,,,Arie: „Dica pure chi vuol dire“,,,,"Sopran, Streicher, 2 Oboen, Fagott und 2 Hórner. Einlage in der Oper „Il geloso in cimento“ von Pasquale Anfossi",
+24.2,Hob. XXIVb:9,,,Cavatina: „Sono Alcina e sono ancora“,,,,"Sopran, Streicher, Flöte, 2 Oboen, 2 Fagotte und 2 Hörner. Einlage für Alcina in der Oper „L'Isola d'Alcina“ von Giuseppe Gazzaniga",
+24.2,Hob. XXIVb:A1,,,"Arie: „Aure dolci ch'io respiro""",,,,,
+24.2,Hob. XXIVb:A2,,,Arie: „Intendemi pavento gli Dei con me tiranni“,,,,,
+24.2,Hob. XXIVb:B1,,,Arie: „Si ti perdo amata sposa“,,,,,
+24.2,Hob. XXIVb:C1,,,Aria: „Odio furor dispetto“,,,,,
+24.2,Hob. XXIVb:Es1,,,"Arie: „Chi sarà quell' alma ingrata""",,,,,
+24.2,Hob. XXIVb:Es2,,,"Arie: „Come lasciar potrei""",,,,,
+24.2,Hob. XXIVb:Es3,,,"Arie: „Tende gia l'aura il suono""",,,,,
+24.2,Hob. XXIVb:G1,,,"Arie: „Männer sind wie der Wind""",,,,,
+25.1,Hob. XXVa:1,,,"2 Duette Nr. 1 ""Guarda qui, che lo vedrai""",,,,"sopra, tenor, clav",
+25.1,Hob. XXVa:2,,,"2 Duette Nr. 2 ""Saper vorrei se m'ami""",,,,"sopra, tenor, clav",
+25.1,Hob. XXVa:A1,,,Lied: „Der Schwur der Liebenden“,,,,,
+25.1,Hob. XXVa:A2,,,„Rundgesang für Studierende“ für Gesang und Klavier,,,,,
+25.1,Hob. XXVa:C1,,,"„Serenade“ für 2 Tenorstimmen ""Stille O großer Gott""",,,,,
+25.1,Hob. XXVa:F1,,,"Duett für Sopran und Alt: ""O meine Fürstin, ich lebewie""",,,,,
+25.2,Hob. XXVb:1,,,"Dreistimmige Gesänge Nr. 1 ""Ja, Vetter""",,,"3 voices (S/A/T or S/T/B or 2T/B), figured bass",,
+25.2,Hob. XXVb:2,,,"Dreistimmige Gesänge Nr. 2 ""Sie hat das Auge""",,,"3 voices (S/A/T or S/T/B or 2T/B), figured bass",,
+25.2,Hob. XXVb:3,,,"Dreistimmige Gesänge Nr. 3 ""Der Jüngling hofft des Greises Ziel""",,,"3 voices (S/A/T or S/T/B or 2T/B), figured bass",,
+25.2,Hob. XXVb:4,,,"Dreistimmige Gesänge Nr. 4 ""Natur gab Stieren Hörner""",,,3 voices (S/A/T or S/T/B or 2T/B),,
+25.2,Hob. XXVb:5,,,"Terzett: „Pietä di me, benigni Dei“",,,"2 Soprane, Tenor, Streicher, Englisch Horn, Fagott und Horn",,
+25.2,Hob. XXVb:A1,,,,,,,,
+25.2,Hob. XXVb:A2,,,,,,,,
+25.2,Hob. XXVb:B1,,,,,,,,
+25.2,Hob. XXVb:C1,,,,,,,,
+25.2,Hob. XXVb:c1,,,,,,,,
+25.2,Hob. XXVb:D1,,,,,,,,
+25.2,Hob. XXVb:D2,,,,,,,,
+25.2,Hob. XXVb:E1,,,,,,,,
+25.2,Hob. XXVb:F1,,,,,,,,
+25.2,Hob. XXVb:F2,,,,,,,,
+25.2,Hob. XXVb:F3,,,,,,,,
+25.2,Hob. XXVb:G1,,,,,,,,
+25.2,Hob. XXVb:G2,,,,,,,,
+25.2,Hob. XXVc:1,,,Vierstimmige Gesänge Nr. 1,,,,,
+25.2,Hob. XXVc:2,,,Vierstimmige Gesänge Nr. 2,,,,,
+25.2,Hob. XXVc:3,,,Vierstimmige Gesänge Nr. 3,,,,,
+25.2,Hob. XXVc:4,,,Vierstimmige Gesänge Nr. 4,,,,,
+25.2,Hob. XXVc:5,,,Vierstimmige Gesänge Nr. 5,,,,,
+25.2,Hob. XXVc:6,,,Vierstimmige Gesänge Nr. 6,,,,,
+25.2,Hob. XXVc:7,,,Vierstimmige Gesänge Nr. 7,,,,,
+25.2,Hob. XXVc:8,,,Vierstimmige Gesänge Nr. 8,,,,,
+25.2,Hob. XXVc:9,,,Vierstimmige Gesänge Nr. 9,,,,,
+26.1,Hob. XXVIa:1,,,24 Lieder von verschiedenen Dichtern Nr. 1,,,,,
+26.1,Hob. XXVIa:10,,,24 Lieder von verschiedenen Dichtern Nr. 10,,,,,
+26.1,Hob. XXVIa:11,,,24 Lieder von verschiedenen Dichtern Nr. 11,,,,,
+26.1,Hob. XXVIa:12,,,24 Lieder von verschiedenen Dichtern Nr. 12,,,,,
+26.1,Hob. XXVIa:13,,,24 Lieder von verschiedenen Dichtern Nr. 13,,,,,
+26.1,Hob. XXVIa:14,,,24 Lieder von verschiedenen Dichtern Nr. 14,,,,,
+26.1,Hob. XXVIa:15,,,24 Lieder von verschiedenen Dichtern Nr. 15,,,,,
+26.1,Hob. XXVIa:16,,,24 Lieder von verschiedenen Dichtern Nr. 16,,,,,
+26.1,Hob. XXVIa:17,,,24 Lieder von verschiedenen Dichtern Nr. 17,,,,,
+26.1,Hob. XXVIa:18,,,24 Lieder von verschiedenen Dichtern Nr. 18,,,,,
+26.1,Hob. XXVIa:19,,,24 Lieder von verschiedenen Dichtern Nr. 19,,,,,
+26.1,Hob. XXVIa:2,,,24 Lieder von verschiedenen Dichtern Nr. 2,,,,,
+26.1,Hob. XXVIa:20,,,24 Lieder von verschiedenen Dichtern Nr. 20,,,,,
+26.1,Hob. XXVIa:21,,,24 Lieder von verschiedenen Dichtern Nr. 21,,,,,
+26.1,Hob. XXVIa:22,,,24 Lieder von verschiedenen Dichtern Nr. 22,,,,,
+26.1,Hob. XXVIa:23,,,24 Lieder von verschiedenen Dichtern Nr. 23,,,,,
+26.1,Hob. XXVIa:24,,,24 Lieder von verschiedenen Dichtern Nr. 24,,,,,
+26.1,Hob. XXVIa:25,,,6 englische Kanzonetten Nr. 1,,,,,
+26.1,Hob. XXVIa:26,,,6 englische Kanzonetten Nr. 2,,,,,
+26.1,Hob. XXVIa:27,,,6 englische Kanzonetten Nr. 3,,,,,
+26.1,Hob. XXVIa:28,,,6 englische Kanzonetten Nr. 4,,,,,
+26.1,Hob. XXVIa:29,,,6 englische Kanzonetten Nr. 5,,,,,
+26.1,Hob. XXVIa:3,,,24 Lieder von verschiedenen Dichtern Nr. 3,,,,,
+26.1,Hob. XXVIa:30,,,6 englische Kanzonetten Nr. 6,,,,,
+26.1,Hob. XXVIa:31,,,6 englische Kanzonetten Nr. 1,,,,,
+26.1,Hob. XXVIa:32,,,6 englische Kanzonetten Nr. 2,,,,,
+26.1,Hob. XXVIa:33,,,6 englische Kanzonetten Nr. 3,,,,,
+26.1,Hob. XXVIa:34,,,6 englische Kanzonetten Nr. 4,,,,,
+26.1,Hob. XXVIa:35,,,6 englische Kanzonetten Nr. 5,,,,,
+26.1,Hob. XXVIa:36,,,6 englische Kanzonetten Nr. 6,,,,,
+26.1,Hob. XXVIa:37,,,"Lied ""Beim Schmerz der dieses Herz durchwühlt""",,,,,
+26.1,Hob. XXVIa:38,,,"Lied: Der schlaue Pudel ""Die ganze Welt will glücklich sein""",,,,,
+26.1,Hob. XXVIa:4,,,24 Lieder von verschiedenen Dichtern Nr. 4,,,,,
+26.1,Hob. XXVIa:5,,,24 Lieder von verschiedenen Dichtern Nr. 5,,,,,
+26.1,Hob. XXVIa:6,,,24 Lieder von verschiedenen Dichtern Nr. 6,,,,,
+26.1,Hob. XXVIa:7,,,24 Lieder von verschiedenen Dichtern Nr. 7,,,,,
+26.1,Hob. XXVIa:8,,,24 Lieder von verschiedenen Dichtern Nr. 8,,,,,
+26.1,Hob. XXVIa:9,,,24 Lieder von verschiedenen Dichtern Nr. 9,,,,,
+26.2,Hob. XXVIb:1,,,„Deutschlands Klage auf den Tod des grossen Friedrichs Borussens König“,,,eine Singstimme mit Begleitung des Barytons,,
+26.2,Hob. XXVIb:2,,,Kantate „Ariadne auf Naxos“,,,Sopran-Stimme und Klavier,,
+27.1,Hob. XXVIIa:1,,,Die heiligen zehn Gebote Nr. 1,,,,,
+27.1,Hob. XXVIIa:10,,,Die heiligen zehn Gebote Nr. 10,,,,,
+27.1,Hob. XXVIIa:2,,,Die heiligen zehn Gebote Nr. 2,,,,,
+27.1,Hob. XXVIIa:3,,,Die heiligen zehn Gebote Nr. 3,,,,,
+27.1,Hob. XXVIIa:4,,,Die heiligen zehn Gebote Nr. 4,,,,,
+27.1,Hob. XXVIIa:5,,,Die heiligen zehn Gebote Nr. 5,,,,,
+27.1,Hob. XXVIIa:6,,,Die heiligen zehn Gebote Nr. 6,,,,,
+27.1,Hob. XXVIIa:7,,,Die heiligen zehn Gebote Nr. 7,,,,,
+27.1,Hob. XXVIIa:8,,,Die heiligen zehn Gebote Nr. 8,,,,,
+27.1,Hob. XXVIIa:9,,,Die heiligen zehn Gebote Nr. 9,,,,,
+27.2,Hob. XXVIIb:20,,,42 Kanons Nr. 41,,,,,
+27.201,Hob. XXVIIb:1,,,42 Kanons Nr. 14,,,,,
+27.202,Hob. XXVIIb:2,,,42 Kanons Nr. 26,,,,,
+27.203,Hob. XXVIIb:3,,,42 Kanons Nr. 33,,,,,
+27.204,Hob. XXVIIb:4,,,42 Kanons Nr. 25,,,,,
+27.205,Hob. XXVIIb:5,,,42 Kanons Nr. 12,,,,,
+27.206,Hob. XXVIIb:6,,,42 Kanons Nr. 15,,,,,
+27.207,Hob. XXVIIb:7,,,42 Kanons Nr. 30,,,,,
+27.208,Hob. XXVIIb:8,,,42 Kanons Nr. 20,,,,,
+27.209,Hob. XXVIIb:9,,,42 Kanons Nr. 23,,,,,
+27.21,Hob. XXVIIb:10,,,42 Kanons Nr. 21,,,,,
+27.21,Hob. XXVIIb:21,,,42 Kanons Nr. 13,,,,,
+27.211,Hob. XXVIIb:11,,,42 Kanons Nr. 2,,,,,
+27.212,Hob. XXVIIb:12,,,42 Kanons Nr. 4,,,,,
+27.213,Hob. XXVIIb:13,,,42 Kanons Nr. 38,,,,,
+27.214,Hob. XXVIIb:14,,,42 Kanons Nr. 19,,,,,
+27.215,Hob. XXVIIb:15,,,42 Kanons Nr. 17,,,,,
+27.216,Hob. XXVIIb:16,,,42 Kanons Nr. 11,,,,,
+27.217,Hob. XXVIIb:17,,,42 Kanons Nr. 1,,,,,
+27.218,Hob. XXVIIb:18,,,42 Kanons Nr. 35,,,,,
+27.219,Hob. XXVIIb:19,,,42 Kanons Nr. 18,,,,,
+27.22,Hob. XXVIIb:22,,,42 Kanons Nr. 3,,,,,
+27.227,Hob. XXVIIb:27,,,42 Kanons Nr. 9,,,,,
+27.23,Hob. XXVIIb:23,,,42 Kanons Nr. 27,,,,,
+27.24,Hob. XXVIIb:24,,,42 Kanons Nr. 6,,,,,
+27.25,Hob. XXVIIb:25,,,42 Kanons Nr. 16,,,,,
+27.26,Hob. XXVIIb:26,,,42 Kanons Nr. 10,,,,,
+27.28,Hob. XXVIIb:28,,,42 Kanons Nr. 5,,,,,
+27.29,Hob. XXVIIb:29,,,42 Kanons Nr. 22,,,,,
+27.3,Hob. XXVIIb:30,,,42 Kanons Nr. 36,,,,,
+27.31,Hob. XXVIIb:31,,,42 Kanons Nr. 40,,,,,
+27.32,Hob. XXVIIb:32,,,42 Kanons Nr. 8,,,,,
+27.33,Hob. XXVIIb:33,,,42 Kanons Nr. 29,,,,,
+27.34,Hob. XXVIIb:34,,,42 Kanons Nr. 37,,,,,
+27.35,Hob. XXVIIb:35,,,42 Kanons Nr. 31,,,,,
+27.36,Hob. XXVIIb:36,,,42 Kanons Nr. 39,,,,,
+27.37,Hob. XXVIIb:37,,,42 Kanons Nr. 24,,,,,
+27.38,Hob. XXVIIb:38,,,42 Kanons Nr. 28,,,,,
+27.39,Hob. XXVIIb:39,,,42 Kanons Nr. 32,,,,,
+27.4,Hob. XXVIIb:40,,,42 Kanons Nr. 34,,,,,
+27.41,Hob. XXVIIb:41,,,42 Kanons Nr. 7,,,,,
+27.42,Hob. XXVIIb:42,,,42 Kanons Nr. 42,,,,,
 28,Hob. XXVIII:1,,1762,Acide e Galatea,Opera,,fête théâtrale en un acte,"solistes: (S: Galatea, Glauce; A: Tétide; T: Acide; B: Polyfemo), Strings, 2 Flutes, 2 hautbois, (2 Horns anglais), (2 Bassoons), 2 Horns",Libretto by Giovanni Battista Migliavacca
 28,Hob. XXVIII:10,,1780,La Fedelta premiata,Opera,,"dramma giocoso, en 3 actes","solistes (S: Amaranta, Nerina, Fillide/Celia, Diana; T: Lindoro, Fileno; B: Perruchetto, Melibeo), Strings, Flute, 2 hautbois, 2 Bassoons, 2 Horns, 2 trompettes, timbales",Libretto by Giovanni Barttista Lorenzi: L'Infedelta fedele
 28,Hob. XXVIII:11,,1782,Orlando Paladino,Opera,,"dramma eroicomico, en 3 actes","solistes (S: Angelica, Eurilla, Alcina; T: Orlando, Pasquale, Medoro, Licone; B: Rodomonte, Caronte), Strings, Flute, 2 hautbois, 2 clarinettes, 2 Bassoons, 2 Horns, 2 trompettes, timbales",Libretto by Nunziato Porta
@@ -3413,3 +3357,245 @@ Allegro (do majeur) [H 28/12 (10)]
 19. Air Timagene
 Allegretto (sol majeur) [H 28/12 (9)]","S1, S2, T1, T2, T3, B, Orchestra",[contribution de Haydn]
 32,Hob. XXXII:4,,1781,Der Apfeldieb,Pasticcio,,opérette comique en un acte,,[contribution de Haydn]
+1 Anh.,Hob. I:A1,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
+1 Anh.,Hob. I:A2,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
+1 Anh.,Hob. I:A3,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
+1 Anh.,Hob. I:A4,,,Symphony in A major,Symphony,A major,1. Andante (A major) / Allegro molto,Orchestra,
+1 Anh.,Hob. I:A5,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
+1 Anh.,Hob. I:A6,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
+1 Anh.,Hob. I:A7,,,Symphony in A major,Symphony,A major,1. Allegro molto (A major),Orchestra,
+1 Anh.,Hob. I:A8,,,Symphony in A major,Symphony,A major,1. Allegro (A major),Orchestra,
+1 Anh.,Hob. I:A9,,,Symphony in A major,Symphony,A major,1. ... (A major),Orchestra,
+1 Anh.,Hob. I:B1,,,Symphony in B-flat major,Symphony,B-flat major,1. Grave (B-flat major),Orchestra,
+1 Anh.,Hob. I:B10,,,Symphony in B-flat major,Symphony,B-flat major,1. Presto assai (B-flat major),Orchestra,
+1 Anh.,Hob. I:B11,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro moderato (B-flat major),Orchestra,
+1 Anh.,Hob. I:B12,,,Symphony in B-flat major,Symphony,B-flat major,1. ... (B-flat major),Orchestra,
+1 Anh.,Hob. I:B13,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro moderato (B-flat major),Orchestra,
+1 Anh.,Hob. I:B14,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
+1 Anh.,Hob. I:B15,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro molto (B-flat major),Orchestra,
+1 Anh.,Hob. I:B16,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro spirituoso (B-flat major),Orchestra,
+1 Anh.,Hob. I:B2,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
+1 Anh.,Hob. I:B3,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
+1 Anh.,Hob. I:B4,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
+1 Anh.,Hob. I:B5,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
+1 Anh.,Hob. I:B6,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro (B-flat major),Orchestra,
+1 Anh.,Hob. I:B7,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
+1 Anh.,Hob. I:B8,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
+1 Anh.,Hob. I:B9,,,Symphony in B-flat major,Symphony,B-flat major,1. Allegro assai (B-flat major),Orchestra,
+1 Anh.,Hob. I:C1,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:c1,,,Symphony in C minor,Symphony,C minor,1. Allegro assai (C minor),Orchestra,
+1 Anh.,Hob. I:C10,,,Symphony in C major,Symphony,C major,1. Allegro molto ( C major),Orchestra,
+1 Anh.,Hob. I:C11,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C12,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C13,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C14,,,Symphony in C major,Symphony,C major,1. Allegro molto (C major),Orchestra,
+1 Anh.,Hob. I:C15,,,Symphony in C major,Symphony,C major,1. Largo (C major) / Allegro assai,Orchestra,
+1 Anh.,Hob. I:C16,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C17,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C18,,,Symphony in C major,Symphony,C major,1. Allegro con brio (C major),Orchestra,
+1 Anh.,Hob. I:C19,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C2,,,Symphony in C major,Symphony,C major,1. Maestoso (C major),Orchestra,
+1 Anh.,Hob. I:c2,,,Symphony in C minor,Symphony,C minor,1. Allegro (C minor),Orchestra,
+1 Anh.,Hob. I:C20,,,Symphony in C major,Symphony,C major,1. Allegro con molto spirito (C major),Orchestra,
+1 Anh.,Hob. I:C21,,,Symphony in C major,Symphony,C major,1. Vivace (C major),Orchestra,
+1 Anh.,Hob. I:C22,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C23,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C24,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
+1 Anh.,Hob. I:C25,,,Symphony in C major,Symphony,C major,1. Grave (C minor) / Allegro molto (C major),Orchestra,
+1 Anh.,Hob. I:C26,,,Symphony in C major,Symphony,C major,1. Maestoso (C major),Orchestra,
+1 Anh.,Hob. I:C27,,,Symphony in C major,Symphony,C major,1. Adagio (C major) / Allegro assai,Orchestra,
+1 Anh.,Hob. I:C28,,,Symphony in C major,Symphony,C major,1. Allegro assai (C major),Orchestra,
+1 Anh.,Hob. I:C29,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
+1 Anh.,Hob. I:C3,,,Symphony in C major,Symphony,C major,1. Poco Adagio (C major),Orchestra,
+1 Anh.,Hob. I:c3,,,Symphony in C minor,Symphony,C minor,1. Largo (C minor),Orchestra,
+1 Anh.,Hob. I:C30,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
+1 Anh.,Hob. I:C31,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
+1 Anh.,Hob. I:C32,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
+1 Anh.,Hob. I:C33,,,Symphony in C major,Symphony,C major,1. Allegro assai (C major),Orchestra,
+1 Anh.,Hob. I:C34,,,Symphony in C major,Symphony,C major,1. ... (C major),Orchestra,
+1 Anh.,Hob. I:C4,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:c4,,,Symphony in C minor,Symphony,C minor,1. Largo (C minor) / Allegro con fuoco,Orchestra,
+1 Anh.,Hob. I:C5,,,Symphony in C major,Symphony,C major,1. Allegro molto (C major),Orchestra,
+1 Anh.,Hob. I:C6,,,Symphony in C major,Symphony,C major,"1. Allegro (C major)
+2. Adagio (F major)
+3. Menuet (C major), Trio (D minor)
+4. Rondo. Allegro (C major)
+[see H 19:23]",Orchestra,
+1 Anh.,Hob. I:C7,,,Symphony in C major,Symphony,C major,1. Allegro (C major),Orchestra,
+1 Anh.,Hob. I:C8,,,Symphony in C major,Symphony,C major,"1. Allegro molto (C major)
+2. Andante molto (C major)
+3. Minuetto (so majeur), Trio (F major)
+4. Finale. Allegro (C major)",Orchestra,
+1 Anh.,Hob. I:C9,,,Symphony in C major,Symphony,C major,1. Allegro molto (C major),Orchestra,
+1 Anh.,Hob. I:D1,,,Symphony in D major,Symphony,D major,1. Allegro spirituoso (D major),Orchestra,
+1 Anh.,Hob. I:d1,,,Symphony in D minor,Symphony,D minor,1. Allegro (D minor),Orchestra,
+1 Anh.,Hob. I:D10,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D11,,,Symphony in D major,Symphony,D major,1. Allegro assai (D major),Orchestra,
+1 Anh.,Hob. I:D12,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D13,,,Symphony in D major,Symphony,D major,1. Allegro moderato (D major),Orchestra,
+1 Anh.,Hob. I:D14,,,Symphony in D major,Symphony,D major,1. Largo (D major) / Allegro,Orchestra,
+1 Anh.,Hob. I:D15,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D16,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D17,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D18,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D19,,,Symphony in D major,Symphony,D major,1. Allegro molto moderato (D major),Orchestra,
+1 Anh.,Hob. I:D2,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:d2,,,Symphony in D minor,Symphony,D minor,1. Allegro (D minor),Orchestra,
+1 Anh.,Hob. I:D20,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D21,,,Symphony in D major,Symphony,D major,1. Allegro assai (D major),Orchestra,
+1 Anh.,Hob. I:D22,,,Symphony in D major,Symphony,D major,1. Adagio (D major) / Allegro assai,Orchestra,
+1 Anh.,Hob. I:D23,,,Symphony in D major,Symphony,D major,1. Allegro con spirito (D major),Orchestra,
+1 Anh.,Hob. I:D24,,,Symphony in D major,Symphony,D major,1. Maestoso (D minor) / Allegro con spirito quasi Presto (D major),Orchestra,
+1 Anh.,Hob. I:D25,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D26,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D27,,,Symphony in D major,Symphony,D major,1. Adagio (D major) / Allegro,Orchestra,
+1 Anh.,Hob. I:D28,,,Symphony in D major,Symphony,D major,1. Pastorella. Tempo giusto (D major),Orchestra,
+1 Anh.,Hob. I:D29,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D3,,,Symphony in D major,Symphony,D major,1. Allegro molto (D major),Orchestra,
+1 Anh.,Hob. I:d3,,,Symphony in D minor,Symphony,D minor,1. Allegro vivace (D minor),Orchestra,
+1 Anh.,Hob. I:D30,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D31,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D32,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D33,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:D4,,,Symphony in D major,Symphony,D major,1. ... (D major),Orchestra,
+1 Anh.,Hob. I:d4,,,Symphony in D minor,Symphony,D minor,1. Allegro brillante (D minor),Orchestra,
+1 Anh.,Hob. I:D5,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D6,,,Symphony in D major,Symphony,D major,1. Presto assai (D major),Orchestra,
+1 Anh.,Hob. I:D7,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D8,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:D9,,,Symphony in D major,Symphony,D major,1. Allegro (D major),Orchestra,
+1 Anh.,Hob. I:E1,,,Symphony in E major,Symphony,E major,1. Allegro (E major),Orchestra,
+1 Anh.,Hob. I:e1,,,Symphony in E minor,Symphony,E minor,1. Allegro (E minor),Orchestra,
+1 Anh.,Hob. I:E2,,,Symphony in E major,Symphony,E major,1. Allegro (E major),Orchestra,
+1 Anh.,Hob. I:E3,,,Symphony in E major,Symphony,E major,1. Allegro (E major),Orchestra,
+1 Anh.,Hob. I:Es1,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro molto (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es10,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (E-flat major) / Allegro,Orchestra,
+1 Anh.,Hob. I:Es11,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es12,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro moderato (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es13,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es14,,,Symphony in E-flat major,Symphony,E-flat major,1. Andante (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es15,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (mi bémol mineur) / Allegro molto (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es16,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro assai (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es17,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro spirituoso (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es2,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro assai (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es3,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es4,,,Symphony in E-flat major,Symphony,E-flat major,1.Andante (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es5,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es6,,,Symphony in E-flat major,Symphony,E-flat major,1. Adagio (E-flat major) / Allegro con spirito,Orchestra,
+1 Anh.,Hob. I:Es7,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es8,,,Symphony in E-flat major,Symphony,E-flat major,1. Allegro (E-flat major),Orchestra,
+1 Anh.,Hob. I:Es9,,,Symphony in E-flat major,Symphony,E-flat major,1. Largo e cantabile (E-flat major),Orchestra,
+1 Anh.,Hob. I:F1,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
+1 Anh.,Hob. I:F10,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
+1 Anh.,Hob. I:F11,,,Symphony in F major,Symphony,F major,1. Adagio (F major),Orchestra,
+1 Anh.,Hob. I:F12,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
+1 Anh.,Hob. I:F13,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
+1 Anh.,Hob. I:F14,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
+1 Anh.,Hob. I:F15,,,Symphony in F major,Symphony,F major,1. ... (F major),Orchestra,
+1 Anh.,Hob. I:F2,,,Symphony in F major,Symphony,F major,1. Vivace (F major),Orchestra,
+1 Anh.,Hob. I:F3,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
+1 Anh.,Hob. I:F4,,,Symphony in F major,Symphony,F major,1. Allegro assai (F major),Orchestra,
+1 Anh.,Hob. I:F5,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
+1 Anh.,Hob. I:F6,,,Symphony in F major,Symphony,F major,1. Allegro (F major),Orchestra,
+1 Anh.,Hob. I:F7,,,Symphony in F major,Symphony,F major,1. Presto (F major),Orchestra,
+1 Anh.,Hob. I:F8,,,Symphony in F major,Symphony,F major,1. Allegro molto (F major),Orchestra,
+1 Anh.,Hob. I:F9,,,Symphony in F major,Symphony,F major,1. Allegro molto (F major),Orchestra,
+1 Anh.,Hob. I:G1,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1 Anh.,Hob. I:g1,,,Symphony in G minor,Symphony,G minor,1. Allegro (G minor),Orchestra,
+1 Anh.,Hob. I:G2,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1 Anh.,Hob. I:G3,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1 Anh.,Hob. I:G4,,,Symphony in G major,Symphony,G major,1. … (G major) / Fuga. Presto,Orchestra,
+1 Anh.,Hob. I:G5,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1 Anh.,Hob. I:G6,,,Symphony in G major,Symphony,G major,1. Allegro assai (G major),Orchestra,
+1 Anh.,Hob. I:G7,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1 Anh.,Hob. I:G8,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1 Anh.,Hob. I:G9,,,Symphony in G major,Symphony,G major,1. Allegro (G major),Orchestra,
+1.1 Anh.,Hob. Ia:C1,,,Overture in C major,Overture,C major,1. Allegro spirituoso (C major),Orchestra,
+1.1 Anh.,Hob. Ia:C1,,,Overture in C major,Overture,C major,1. Allegro spirituoso (C major),Orchestra,
+1.1 Anh.,Hob. Ia:C2,,,Overture in C major,Overture,C major,1. Adagio (C minor) / Allegro molto (C major),Orchestra,
+1.1 Anh.,Hob. Ia:C2,,,Overture in C major,Overture,C major,1. Adagio (C minor) / Allegro molto (C major),Orchestra,
+1.1 Anh.,Hob. Ia:D1,,,Overture in D major,Overture,D major,1. Allegro assai (D major),Orchestra,
+1.1 Anh.,Hob. Ia:D1,,,Overture in D major,Overture,D major,1. Allegro assai (D major),Orchestra,
+1.1 Anh.,Hob. Ia:D2,,,Overture in D major,Overture,D major,1. Allegro spirituoso (D major),Orchestra,
+1.1 Anh.,Hob. Ia:D2,,,Overture in D major,Overture,D major,1. Allegro spirituoso (D major),Orchestra,
+1.1 Anh.,Hob. Ia:D3,,,Overture in D major,Overture,D major,1. … (D major),Orchestra,
+1.1 Anh.,Hob. Ia:D3,,,Overture in D major,Overture,D major,1. … (D major),Orchestra,
+1.1 Anh.,Hob. Ia:D4,,,Overture in D major,Overture,D major,1. Andante largo (D major) / Allegro vivace,Orchestra,
+1.1 Anh.,Hob. Ia:D4,,,Overture in D major,Overture,D major,1. Andante largo (D major) / Allegro vivace,Orchestra,
+1.21.2,Hob. Ia:12,,1777,"Prélude to Act III in ""Il mondo della luna"", Hob. XXVIII:7",Overture,G minor,"1. Presto (G minor)
+2. Grazioso. Un poco Adagio (G major)
+3. Allegretto (G minor) [see H 22:8 Benedictus]",,
+2 Anh.,Hob. II,,1761/5,Cassation (Divertimento) in D major,Divertimento,D major,,"4 Horns, Violin, Viola, Basso",Additions selon H.C. Robbins Landon [Série DM 66]
+2 Anh.,Hob. II,,1760,Divertimento in D major,Divertimento,D major,,"2 hautbois, 2 Bassoons, 2 Horns",Additions selon H.C. Robbins Landon [Série DM 86]
+2 Anh.,Hob. II,,1760,Divertimento in G major,Divertimento,G major,,"2 hautbois, 2 Bassoons, 2 Horns",Additions selon H.C. Robbins Landon [Série DM 85]
+2 Anh.,Hob. II:C1,,,Divertimento (Nocturno),Divertimento,C major,1. Allegro moderato (C major),"Flute, 2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:C10,,,Divertimento (Cassation),Divertimento,C major,1. Adagio (C major) / Allegro,"2 Trumpets ad lib, Strings",
+2 Anh.,Hob. II:C11,,,Divertimento in C major,Divertimento,C major,1. Allegro (C major),"2 Violins, Viola, Basso Continuo",
+2 Anh.,Hob. II:C2,,,Divertimento (Quintet),Divertimento,C major,1. Maestoso allabreve (C major),"1. 2 Violins, 2 Violas, Basso
+2. 3 Violins, Viola, Basso",
+2 Anh.,Hob. II:C3,,,Divertimento (Cassation),Divertimento,C major,1. … (C major),"2 Flutes, 2 Oboes, 2 Bassoons, 2 Horns, 2 Violins, Basso",
+2 Anh.,Hob. II:C4,,,Divertimento (Concertino),Divertimento,C major,1. … (C major),"2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:C5,,,Divertimento in C major,Divertimento,C major,1. Presto (C major),"2 Violins, Viola, Cello, Basso",
+2 Anh.,Hob. II:C6,,,Divertimento (Cassation),Divertimento,C major,1. Tarde (C major) / Molto Allegro,"2 Oboes, 2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:C7,,,Divertimento (Quintet),Divertimento,C major,1. Allegro (C major),"2 Horns ad lib, 2 Violins, 2 Cellos, Basso",
+2 Anh.,Hob. II:C8,,,Divertimento (Quatuor),Divertimento,C major,1. Allegro assai (C major),"Flute, Violin, Viola, Cello",
+2 Anh.,Hob. II:C9,,,Divertimento (Quintet concertant),Divertimento,C major,1. Allegro spiritoso (C major),"2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:D1,,,Divertimento (Cassation),Divertimento,D major,1. Allegro (D major),"2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:D10,,,Divertimento (Quatuor concertant),Divertimento,D major,1. Presto (D major),"Flute, Violin, Viola, Basso",
+2 Anh.,Hob. II:D11,,,Divertimento (Quatuor concertant),Divertimento,D major,1. Presto (D major),"Flute, Violin, Viola, Basso",
+2 Anh.,Hob. II:D12,,,Divertimento (Quintet),Divertimento,D major,1. Moderato (D major),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",
+2 Anh.,Hob. II:D13,,,Divertimento (Concertino),Divertimento,D major,1. Thema. …(D major),"Oboe, 2 Horns, 2 Violins, Viola, Cello, Basso",
+2 Anh.,Hob. II:D14,,,Divertimento (Concertino),Divertimento,D major,1. Allegro moderato (D major),"Oboe, 2 Horns, 2 Violins, Viola, Cello obligé, Basso",
+2 Anh.,Hob. II:D15,,,Divertimento (Concertino),Divertimento,D major,1. Allegretto (D major),"Flute, 2 Horns, 2 Violins, Viola, Cello, Basso",
+2 Anh.,Hob. II:D16,,,Divertimento (Quatuor),Divertimento,D major,1. Allegro moderato (D major),"Flute, Violin, Viola, Cello",
+2 Anh.,Hob. II:D17,,,Divertimento (Cassation),Divertimento,D major,1. Allegro assai (D major),3/4 Instruments,
+2 Anh.,Hob. II:D18,,,Divertimento (Quintet),Divertimento,D major,1. Allegro (D major),"2 Horns, 2 Violins, Cello",
+2 Anh.,Hob. II:D19,,,Divertimento (Quintet),Divertimento,D major,1. … (D major),"Oboe, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:D2,,,Divertimento (Cassation),Divertimento,D major,1. Allegro non troppo (D major),"2 Horns, Violin, Viola, Cello",
+2 Anh.,Hob. II:D20,,,Divertimento (Nocturno),Divertimento,D major,1. … (D major),"2 Horns, 2 Violins, 2 Violas, Cello",[see H 2:Es7]
+2 Anh.,Hob. II:D3,,,Divertimento (Sérénade),Divertimento,D major,1. … (D major),"2 Flutes, 2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:D4,,,Divertimento (Cassation),Divertimento,D major,1. Allegro (D major),"Flute, 2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:D5,,,Divertimento (Quatuor),Divertimento,D major,1. Marcia (D major),"2 Flutes, 2 Horns",
+2 Anh.,Hob. II:D6,,,Divertimento in D major,Divertimento,D major,1. Tempo giusto (D major),"Flute, Concertante Violin, Viola, Basso",[? Œuvre de Leopold Hoffmann]
+2 Anh.,Hob. II:D7,,,Divertimento (Cassation),Divertimento,D major,1. Allegro moderato (D major),"2 Flutes, 2 Horns, 2 Violins, Basso",
+2 Anh.,Hob. II:D8,,,Divertimento in D major,Divertimento,D major,1. Introduzione. … (D major),"Flute/2 Flutes, 2 Violins, Viola",
+2 Anh.,Hob. II:D9,,,Divertimento (Quatuor concertant),Divertimento,D major,1. Allegro assai (D major),"Flute, Violin, Viola, Basso",
+2 Anh.,Hob. II:Es1,,,Divertimento (Cassation),Divertimento,E-flat major,1. Andante (E-flat major),"2 English Horns, Horn, Trumpet, Solo Viola, Basso",
+2 Anh.,Hob. II:Es10,,,Divertimento (Quintet),Divertimento,E-flat major,1. Andante (E-flat major),"2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:Es11,,,Divertimento (Concertante),Divertimento,E-flat major,1. Adagio (E-flat major),"2 Clarinets, Bassoon, 2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:Es12,,,Divertimento (Parthia),Divertimento,E-flat major,1. Allegro assai (E-flat major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
+2 Anh.,Hob. II:Es13,,,Divertimento in E-flat major,Divertimento,E-flat major,1. Allegro (E-flat major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
+2 Anh.,Hob. II:Es14,,,Divertimento (Parthia),Divertimento,E-flat major,1. Allegro con espressione (E-flat major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
+2 Anh.,Hob. II:Es15,,,Divertimento (Quatuor),Divertimento,E-flat major,1. Allegro (E-flat major),"Flute, Violin, Viola, Cello",
+2 Anh.,Hob. II:Es16,,,Divertimento (Parthia),Divertimento,E-flat major,1. Allegro assai (E-flat major),"2 Clarinets, 2 Oboes, 2 Bassoons, 2 Horns",
+2 Anh.,Hob. II:Es17,,,Divertimento (Suite à 6),Divertimento,E-flat major,1. … (E-flat major),"2 Clarinets, 2 Bassoons, 2 Horns",
+2 Anh.,Hob. II:Es2,,,Divertimento (Cassation),Divertimento,E-flat major,1. Andante (E-flat major),"2 English Horns, Horn, Trumpet, Solo Viola, Basso continue",
+2 Anh.,Hob. II:Es3,,,Divertimento (Cassation),Divertimento,E-flat major,1. Allegro moderato (E-flat major),"Oboe, English Horn, 2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:Es4,,,Divertimento (Sinfonia/Cassation),Divertimento,E-flat major,1. Allegro molto (E-flat major),"2 Flutes, 2 Horns, 2 Violins, Basso",
+2 Anh.,Hob. II:Es5,,,Divertimento (Nocturno),Divertimento,E-flat major,1. Marcia. Adagio maestoso (E-flat major),"2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:Es6,,,Divertimento (Sérénade),Divertimento,E-flat major,1. Menuet (E-flat major),"2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:Es7,,,Divertimento (Cassation),Divertimento,E-flat major,"1. Marche. Adagio (E-flat major)
+[see H 2:D20]","English Horn, Bassoon, 2 Horns, 2 Violins, Basso",
+2 Anh.,Hob. II:Es8,,,Divertimento (Nocturno),Divertimento,E-flat major,1. Allegro moderato (E-flat major),"2 Violins, 2 Violas, Cello",
+2 Anh.,Hob. II:Es9,,,Divertimento (Quintet),Divertimento,E-flat major,1. Scherzando (E-flat major),"2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:F1,,,Divertimento in F major,Divertimento,F major,1. Allegro (F major),"2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:f1,,,Divertimento (Quintet),Divertimento,F minor,1. Adagio (F minor),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",
+2 Anh.,Hob. II:F10,,,Divertimento (Quatuor),Divertimento,F major,1. Marche. Andante (F major),"3 Violins, Cello",
+2 Anh.,Hob. II:F11,,,Divertimento (Sérénade),Divertimento,F major,1. Allegro vivace (F major),"2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:F12,,,Divertimento in F major,Divertimento,F major,1. Allegro (F major),"2 Oboes, Bassoon, 2 Horns",
+2 Anh.,Hob. II:F2,,,Divertimento (Cassation),Divertimento,F major,1. Allegro moderato (F major),"Oboe, Bassoon, 2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:F3,,,Divertimento (Cassation),Divertimento,F major,1. Presto (F major),"2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:F4,,,Divertimento (Cassation),Divertimento,F major,1. Vivace (F major),"2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:F5,,,Divertimento (Quintet),Divertimento,F major,1. Allegro giusto (F major),"2 Horns, Violin, Viola, Basso",
+2 Anh.,Hob. II:F6,,,Divertimento (Concertino),Divertimento,F major,1. Allegro (F major),"2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:F7,,,Divertimento (Parthia),Divertimento,F major,1. Allegro molto (F major),"2 Oboes, 2 Clarinets, 2 Bassoons, 2 Horns",
+2 Anh.,Hob. II:F8,,,Divertimento (Sinfonia),Divertimento,F major,1. Thema. Andante (F major),"2 Oboes, 2 Horns, 2 Violins, Viola, Basso",
+2 Anh.,Hob. II:F9,,,Divertimento (Concertante),Divertimento,F major,1. … (F major),"Oboe, Bassoon, Horn, 2 Violins, Viola, Cello, viole",
+2 Anh.,Hob. II:G1,,,Divertimento (Cassation),Divertimento,G major,"1. Allegro molto (G major)
+[see H 3:G2]","2 Oboes, 2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:G2,,,Divertimento (Cassation),Divertimento,G major,"1. Presto (G major)
+[see H 1:C24, 17:G1]","2 Horns, 2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:G2a,,,Divertimento in G major,Divertimento,G major,1. … (G major),"Flute, 2 Horns, 2 Violins, 2 Violas, Basso","[versions des 5e, 3e, 2e mouvements de H 2:G2]"
+2 Anh.,Hob. II:G3,,,Divertimento (Parthia),Divertimento,G major,1. … (G major),"2 Violins, 2 Violas, Basso",
+2 Anh.,Hob. II:G4,,,Divertimento (Quatuor),Divertimento,G major,1. Presto assai (G major),"Flute, Violin, Viola, Basso",
+2 Anh.,Hob. II:G5,,,Divertimento (Quintet),Divertimento,G major,1. Moderato (G major),"2 Violins, 2 Violas, Basso, 2 Horns ad lib",

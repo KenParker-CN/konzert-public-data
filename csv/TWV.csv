@@ -2445,6 +2445,8 @@ TWV 25:1-36,,Singende Geographie,,,,"Voice, Basso Continuo",pièces pédagogique
 TWV 25:39-85,,"Singe-, Spiel- und General-Bass-Übungen",,,,"Voice, Basso Continuo",(27 numéros)
 TWV 25:86-109,,"Vier und zwanzig, theils ernsthafte, theils scherzende Oden",,,,"Voice, Basso Continuo",(24 numéros)
 TWV 25:deest,,"Lass es gehn, wie es geht",,,,,
+TWV 30:1,,,Fugue,,,,Kleine Fugen #1
+TWV 30:2,,,Fugue,,,,Kleine Fugen #2
 TWV 30:3,,,Fugue,G major,,organ or Clavier,Kleine Fugen #3
 TWV 30:4,,,Fugue,E minor,,organ or Clavier,Kleine Fugen #4
 TWV 30:5,,,Fugue,D minor,,organ or Clavier,Kleine Fugen #5
@@ -3031,11 +3033,11 @@ TWV 36:161,,,Menuet,D minor,,Harpsichord,
 TWV 36:162,,,Menuet,F major,,Harpsichord,
 TWV 36:163,,,Menuet,F major,,Harpsichord,
 TWV 36:164,,,Menuet,G major,,Harpsichord,
-TWV 36:165,,Dem Gartner muss das Hertze lachen,Menuet,G major,,Harpsichord,"menuet, en sol majeur"
-TWV 36:166,,"Liebstes Kind, ich bin dir gut",Menuet,B-flat major,,Harpsichord,"menuet, en si bémol majeur"
+TWV 36:165,,Dem Gartner muss das Hertze lachen,Menuet,G major,,Harpsichord,
+TWV 36:166,,"Liebstes Kind, ich bin dir gut",Menuet,B-flat major,,Harpsichord,
 TWV 36:167,,,March,D major,,Harpsichord,
 TWV 36:168,,,March,D major,,Harpsichord,
-TWV 39:1,,,Partita,B-flat major,"I. Ouverture, en si bémol majeur
+TWV 39:1,,Partie Polonoise B-Dur für 2 Lauten,Partita,B-flat major,"I. Ouverture, en si bémol majeur
 II. Harlequinade, en si bémol majeur
 III. Le Ris, en si bémol majeur
 IV. Rigidon, en si bémol majeur
@@ -3043,7 +3045,7 @@ V. Combattans, en si bémol majeur
 VI. Hanaque, en si bémol majeur
 VII. Sarrois, en si bémol majeur
 VIII. Gigue, en si bémol majeur",2 lutes,
-TWV 39:2,,,Partita,G minor,"I. Ouverture, en sol mineur
+TWV 39:2,,Partie g-Moll für 2 Lauten,Partita,G minor,"I. Ouverture, en sol mineur
 II. Effronterie, en sol mineur
 III. Air, en sol mineur
 IV. Rigidon, en sol mineur
@@ -3051,125 +3053,125 @@ V. Menuet, en sol mineur
 VI. Trio, en sol majeur
 VII. Paysans, en sol majeur
 VIII. Anglaise, en sol mineur",2 lutes,
-TWV 40:1,,,Sonata,D major,"I. Andante
+TWV 40:1,,Sonate D-Dur für Viola da gamba ohne Gb.,Sonata,D major,"I. Andante
 II. Vivace
 III. Recitativo (si mineur) / Andante arioso (si mineur)
 IV. Vivace",viola da gamba,"Der getreue Music-Meister Lektion 14, S. 56"
-TWV 40:2,,,Fantasia,A major,"I. Vivace
+TWV 40:2,,Fantasia A-Dur für Traversflöte ohne B.c.,Fantasia,A major,"I. Vivace
 II. Allegro",transverse flute,
-TWV 40:3,,,Fantasia,A minor,"I. Grave
+TWV 40:3,,Fantasia a-Moll für Traversflöte ohne B.c.,Fantasia,A minor,"I. Grave
 II. Vivace
 III. Adagio (do majeur)
 IV. Allegro",transverse flute,
-TWV 40:4,,,Fantasia,B minor,"I. Largo / Vivace
+TWV 40:4,,Fantasia h-Moll für Traversflöte ohne B.c.,Fantasia,B minor,"I. Largo / Vivace
 II. Allegro",transverse flute,
-TWV 40:5,,,Fantasia,B-flat major,"I. Andante
+TWV 40:5,,Fantasia B-Dur für Traversflöte ohne B.c.,Fantasia,B-flat major,"I. Andante
 II. Allegro
 III. Presto",transverse flute,
-TWV 40:6,,,Fantasia,C major,"I. Presto / Largo
+TWV 40:6,,Fantasia C-Dur für Traversflöte ohne B.c.,Fantasia,C major,"I. Presto / Largo
 II. Allegro
 III. Allegro",transverse flute,
-TWV 40:7,,,Fantasia,D minor,"I. Dolce
+TWV 40:7,,Fantasia d-Moll für Traversflöte ohne B.c.,Fantasia,D minor,"I. Dolce
 II. Allegro
 III. Spirituoso",transverse flute,
-TWV 40:8,,,Fantasia,D major,"I. Alla francese
+TWV 40:8,,Fantasia D-Dur für Traversflöte ohne B.c.,Fantasia,D major,"I. Alla francese
 II. Presto",transverse flute,
-TWV 40:9,,,Fantasia,E minor,"I. Largo
+TWV 40:9,,Fantasia e-Moll für Traversflöte ohne B.c.,Fantasia,E minor,"I. Largo
 II. Spirituoso
 III. Allegro",transverse flute,
-TWV 40:10,,,Fantasia,E major,"I. Affettuoso
+TWV 40:10,,Fantasia E-Dur für Traversflöte ohne B.c.,Fantasia,E major,"I. Affettuoso
 II. Allegro
 III. Grave (do dièse mineur)
 IV. Vivace",transverse flute,
-TWV 40:11,,,Fantasia,F-sharp minor,"I. A tempo giusto
+TWV 40:11,,Fantasia fis-Moll für Traversflöte ohne B.c.,Fantasia,F-sharp minor,"I. A tempo giusto
 II. Presto (fa dièse mineur)
 III. Moderato",transverse flute,
-TWV 40:12,,,Fantasia,G major,"I. Allegro
+TWV 40:12,,Fantasia G-Dur für Traversflöte ohne B.c.,Fantasia,G major,"I. Allegro
 II. Adagio (mi mineur) / Vivace
 III. Allegro",transverse flute,
-TWV 40:13,,,Fantasia,G minor,"I. Grave / Allegro
+TWV 40:13,,Fantasia g-Moll für Traversflöte ohne B.c.,Fantasia,G minor,"I. Grave / Allegro
 II. Dolce / Allegro (si bémol majeur)
 III. Presto",transverse flute,
-TWV 40:14,,,Fantasia,B-flat major,"I. Largo
+TWV 40:14,,Fantasia B-Dur für Violine ohne B.c.,Fantasia,B-flat major,"I. Largo
 II. Allegro / Grave / Allegro",violin,
-TWV 40:15,,,Fantasia,G major,"I. Largo
+TWV 40:15,,Fantasia G-Dur für Violine ohne B.c.,Fantasia,G major,"I. Largo
 II. Allegro
 III. Allegro",violin,
-TWV 40:16,,,Fantasia,F minor,"I. Adagio
+TWV 40:16,,Fantasia f-Moll für Violine ohne B.c.,Fantasia,F minor,"I. Adagio
 II. Presto
 III. Grave (do mineur)
 IV. Vivace",violin,
-TWV 40:17,,,Fantasia,D major,"I. Vivace
+TWV 40:17,,Fantasia D-Dur für Violine ohne B.c.,Fantasia,D major,"I. Vivace
 II. Grave (si mineur) / Allegro",violin,
-TWV 40:18,,,Fantasia,A major,"I. Allegro / Presto
+TWV 40:18,,Fantasia A-Dur für Violine ohne B.c.,Fantasia,A major,"I. Allegro / Presto
 II. Andante (fa dièse mineur)
 III. Allegro",violin,
-TWV 40:19,,,Fantasia,E minor,"I. Grave
+TWV 40:19,,Fantasia e-Moll für Violine ohne B.c.,Fantasia,E minor,"I. Grave
 II. Presto
 III. Siciliana (sol majeur)
 IV. Allegro (mi mineur / mi majeur / mi mineur)",violin,
-TWV 40:20,,,Fantasia,E-flat major,"I. Dolce
+TWV 40:20,,Fantasia Es-Dur für Violine ohne B.c.,Fantasia,E-flat major,"I. Dolce
 II. Allegro
 III. Largo (do mineur)
 IV. Presto",violin,
-TWV 40:21,,,Fantasia,E major,"I. Piacevolmente
+TWV 40:21,,Fantasia E-Dur für Violine ohne B.c.,Fantasia,E major,"I. Piacevolmente
 II. Spirituoso
 III. Allegro",violin,
-TWV 40:22,,,Fantasia,B minor,"I. Siciliana
+TWV 40:22,,Fantasia h-Moll für Violine ohne B.c.,Fantasia,B minor,"I. Siciliana
 II. Vivace
 III. Allegro",violin,
-TWV 40:23,,,Fantasia,D major,"I. Presto
+TWV 40:23,,Fantasia D-Dur für Violine ohne B.c.,Fantasia,D major,"I. Presto
 II. Largo (si mineur)
 III. Allegro",violin,
-TWV 40:24,,,Fantasia,F major,"I. Un poco vivace
+TWV 40:24,,Fantasia F-Dur für Violine ohne B.c.,Fantasia,F major,"I. Un poco vivace
 II. Soave (sol mineur)
 III. Allegro",violin,
-TWV 40:25,,,Fantasia,A minor,"I. Moderato
+TWV 40:25,,Fantasia a-Moll für Violine ohne B.c.,Fantasia,A minor,"I. Moderato
 II. Vivace
 III. Presto (la majeur)",violin,
-TWV 40:26,,,Fantasia,C minor,,bass viol,
-TWV 40:27,,,Fantasia,D major,,bass viol,
-TWV 40:28,,,Fantasia,E minor,,bass viol,
-TWV 40:29,,,Fantasia,F major,,bass viol,
-TWV 40:30,,,Fantasia,B-flat major,,bass viol,
-TWV 40:31,,,Fantasia,G major,,bass viol,
-TWV 40:32,,,Fantasia,G minor,,bass viol,
-TWV 40:33,,,Fantasia,A major,,bass viol,
-TWV 40:34,,,Fantasia,C major,,bass viol,
-TWV 40:35,,,Fantasia,E major,,bass viol,
-TWV 40:36,,,Fantasia,D minor,,bass viol,
-TWV 40:37,,,Fantasia,E-flat major,,bass viol,
-TWV 40:101,,,Sonata,G major,"I. Soave
+TWV 40:26,,Fantasia c-Moll für Viola da gamba ohne B.c.,Fantasia,C minor,,bass viol,
+TWV 40:27,,Fantasia D-Dur für Viola da gamba ohne B.c.,Fantasia,D major,,bass viol,
+TWV 40:28,,Fantasia e-Moll für Viola da gamba ohne B.c.,Fantasia,E minor,,bass viol,
+TWV 40:29,,Fantasia F-Dur für Viola da gamba ohne B.c.,Fantasia,F major,,bass viol,
+TWV 40:30,,Fantasia B-Dur für Viola da gamba ohne B.c.,Fantasia,B-flat major,,bass viol,
+TWV 40:31,,Fantasia G-Dur für Viola da gamba ohne B.c.,Fantasia,G major,,bass viol,
+TWV 40:32,,Fantasia g-Moll für Viola da gamba ohne B.c.,Fantasia,G minor,,bass viol,
+TWV 40:33,,Fantasia A-Dur für Viola da gamba ohne B.c.,Fantasia,A major,,bass viol,
+TWV 40:34,,Fantasia C-Dur für Viola da gamba ohne B.c.,Fantasia,C major,,bass viol,
+TWV 40:35,,Fantasia E-Dur für Viola da gamba ohne B.c.,Fantasia,E major,,bass viol,
+TWV 40:36,,Fantasia d-Moll für Viola da gamba ohne B.c.,Fantasia,D minor,,bass viol,
+TWV 40:37,,Fantasia Es-Dur für Viola da gamba ohne B.c.,Fantasia,E-flat major,,bass viol,
+TWV 40:101,,Sonata G-Dur für 2 Traversflöten oder 2 Violinen oder 2 Blockflöten ohne B.c.,Sonata,G major,"I. Soave
 II. Allegro
 III. Andante (mi mineur)
 IV. Allegro",2 flutes/violins,
-TWV 40:102,,,Sonata,D major,"I. Dolce
+TWV 40:102,,Sonata D-Dur für 2 Traversflöten oder 2 Violinen oder 2 Blockflöten ohne B.c.,Sonata,D major,"I. Dolce
 II. Allegro
 III. Largo (si mineur)
 IV. Vivace",2 flutes/violins,
-TWV 40:103,,,Sonata,A major,"I. Siciliano
+TWV 40:103,,Sonata A-Dur für 2 Traversflöten oder 2 Violinen oder 2 Blockflöten ohne B.c.,Sonata,A major,"I. Siciliano
 II. Vivace
 III. Andante (fa dièse mineur)
 IV. Allegro",2 flutes/violins,
-TWV 40:104,,,Sonata,E minor,"I. Largo
+TWV 40:104,,Sonata e-Moll für 2 Traversflöten oder 2 Violinen oder 2 Blockflöten ohne B.c.,Sonata,E minor,"I. Largo
 II. Allegro
 III. Affettuoso (sol majeur)
 IV. Vivace",2 flutes/violins,
-TWV 40:105,,,Sonata,B minor,"I. Largo
+TWV 40:105,,Sonata h-Moll für 2 Traversflöten oder 2 Violinen oder 2 Blockflöten ohne B.c.,Sonata,B minor,"I. Largo
 II. Vivace
 III. Gratioso (ré majeur)
 IV. Allegro",2 flutes/violins,
-TWV 40:106,,,Sonata,E major,"I. Affettuoso
+TWV 40:106,,Sonata E-Dur für 2 Traversflöten oder 2 Violinen oder 2 Blockflöten ohne B.c.,Sonata,E major,"I. Affettuoso
 II. Presto
 III. Soave (do dièse mineur)
 IV. Spirituoso",2 flutes/violins,
-TWV 40:107,,,Sonata,B-flat major,"I. Affettuoso
+TWV 40:107,,Sonate B-Dur für 2 Blockflöten oder G-Dur für 2 Querflöten oder A-Dur für 2 Gamben ohne Gb.,Sonata,B-flat major,"I. Affettuoso
 II. Allegro
 III. Andante (sol mineur)
-IV. Presto","I. 2 recorders 
-II. en sol majeur: 2 transverse flutes
-III. en la majeur: 2 bass viols","Der getreue Music-Meister Lektion 3-5, S. 12, 13, 18, 19"
-TWV 40:108,,,Suite,D major,"I. Intrada. Spirituoso
+IV. Presto","1. B-Dur: 2 recorders 
+2. G-Dur: 2 transverse flutes
+3. A-Dur: 2 bass viols","Der getreue Music-Meister Lektion 3-5, S. 12, 13, 18, 19"
+TWV 40:108,,Suite D-Dur für 2 Violinen ohne Gb.,Suite,D major,"I. Intrada. Spirituoso
 II. Lilliputsche. Chaconne
 III. Brobdingnagische. Gigue
 IV. Reverie der Laputier, nebst ihren Aufweckern. Andante
@@ -3188,63 +3190,63 @@ TWV 40:114,,,Duet,,,"Transverse Flute, cello",Duos à traversière et violoncell
 TWV 40:115,,,Duet,,,"Transverse Flute, cello",Duos à traversière et violoncello #4
 TWV 40:116,,,Duet,,,"Transverse Flute, cello",Duos à traversière et violoncello #5
 TWV 40:117,,,Duet,,,"Transverse Flute, cello",Duos à traversière et violoncello #6
-TWV 40:118,,,Sonata,G major,"I. Vivace
+TWV 40:118,,Sonata G-Dur für 2 Traversflöten oder 2 Violinen oder 2 Gamben ohne B. c.,Sonata,G major,"I. Vivace
 II. Adagio (mi mineur)
 III. Allegro",2 recorders / 2 violins / 2 bass viols,18 Canons mélodieux ou 6 Sonates en duo #1
-TWV 40:119,,,Sonata,G minor,"I. Presto
+TWV 40:119,,Sonata für 2 Traversflöten oder 2 Violinen oder 2 Gamben ohne B. c.,Sonata,G minor,"I. Presto
 II. Largo (si bémol majeur)
 III. Vivace",2 recorders / 2 violins / 2 bass viols,18 Canons mélodieux ou 6 Sonates en duo #2
-TWV 40:120,,,Sonata,D major,"I. Spirituoso
+TWV 40:120,,Sonata für 2 Traversflöten oder 2 Violinen oder 2 Gamben ohne B. c.,Sonata,D major,"I. Spirituoso
 II. Larghetto (si mineur)
 III. Allegro assai",2 recorders / 2 violins / 2 bass viols,18 Canons mélodieux ou 6 Sonates en duo #3
-TWV 40:121,,,Sonata,D minor,"I. Vivace, ma moderato
+TWV 40:121,,Sonata für 2 Traversflöten oder 2 Violinen oder 2 Gamben ohne B. c.,Sonata,D minor,"I. Vivace, ma moderato
 II. Piacevole, non largo (sol mineur)
 III. Presto",2 recorders / 2 violins / 2 bass viols,18 Canons mélodieux ou 6 Sonates en duo #4
-TWV 40:122,,,Sonata,A major,"I. Vivace
+TWV 40:122,,Sonata für 2 Traversflöten oder 2 Violinen oder 2 Gamben ohne B. c.,Sonata,A major,"I. Vivace
 II. Cantabile (si mineur)
 III. Scherzando",2 recorders / 2 violins / 2 bass viols,18 Canons mélodieux ou 6 Sonates en duo #5
-TWV 40:123,,,Sonata,A minor,"I. Vivace
+TWV 40:123,,Sonata für 2 Traversflöten oder 2 Violinen oder 2 Gamben ohne B. c.,Sonata,A minor,"I. Vivace
 II. Soave (si bémol majeur)
 III. Allegro assai",2 recorders / 2 violins / 2 bass viols,18 Canons mélodieux ou 6 Sonates en duo #6
-TWV 40:124,,,Sonata,G major,"I. Vivace
+TWV 40:124,,Duetto G-Dur für 2 Violinen oder 2 Flöten oder 2 Oboen ohne B.c.,Sonata,G major,"I. Vivace
 II. Andantino (sol mineur)
 III. Spirituoso",2 flutes / 2 violins / 2 oboes,Second livre de duo #1
-TWV 40:125,,,Sonata,A minor,"I. Vivace
+TWV 40:125,,Duetto für 2 Violinen oder 2 Flöten oder 2 Oboen ohne B.c.,Sonata,A minor,"I. Vivace
 II. Moderato (do majeur)
 III. Allegro",2 flutes / 2 violins / 2 oboes,Second livre de duo #2
-TWV 40:126,,,Sonata,B minor,"I. Vivace
+TWV 40:126,,Duetto für 2 Violinen oder 2 Flöten oder 2 Oboen ohne B.c.,Sonata,B minor,"I. Vivace
 II. Poco presto (ré majeur)
 III. Allegro",2 flutes / 2 violins / 2 oboes,Second livre de duo #3
-TWV 40:127,,,Sonata,E minor,"I. Allegro
+TWV 40:127,,Duetto für 2 Violinen oder 2 Flöten oder 2 Oboen ohne B.c.,Sonata,E minor,"I. Allegro
 II. Andante (sol majeur)
 III. Vivace",2 flutes / 2 violins / 2 oboes,Second livre de duo #4
-TWV 40:128,,,Sonata,A major,"I. Allegro
+TWV 40:128,,Duetto für 2 Violinen oder 2 Flöten oder 2 Oboen ohne B.c.,Sonata,A major,"I. Allegro
 II. Allegremente (ré mineur)
 III. Poco presto",2 flutes / 2 violins / 2 oboes,Second livre de duo #5
-TWV 40:129,,,Sonata,E major,"I. Presto
+TWV 40:129,,Duetto für 2 Violinen oder 2 Flöten oder 2 Oboen ohne B.c.,Sonata,E major,"I. Presto
 II. Aria. Allegretto (mi mineur)
 III. Vivace assai",2 flutes / 2 violins / 2 oboes,Second livre de duo #6
-TWV 40:130,,,Duet,B-flat major,"I. Moderato
+TWV 40:130,,Duetto B-Dur für 2 Traversflöten ohne B.c.,Duet,B-flat major,"I. Moderato
 II. Presto
 III. Dolce (do mineur)
 IV. Allegro",2 flutes,Sei Duetti #1
-TWV 40:131,,,Duet,C minor,"I. Grave
+TWV 40:131,,Duetto für 2 Traversflöten ohne B.c.,Duet,C minor,"I. Grave
 II. Allegretto
 III. Larghetto (fa mineur)
 IV. Vivace",2 flutes,Sei Duetti #2
-TWV 40:132,,,Duet,C minor,"I. Grave
+TWV 40:132,,Duetto für 2 Traversflöten ohne B.c.,Duet,C minor,"I. Grave
 II. Allegro (mi bémol majeur)
 III. Dolce (do majeur)
 IV. Vivace (mi bémol majeur)",2 flutes,Sei Duetti #3
-TWV 40:133,,,Duet,F minor,"I. Adagio
+TWV 40:133,,Duetto für 2 Traversflöten ohne B.c.,Duet,F minor,"I. Adagio
 II. Allegro
 III. Larghetto (fa majeur)
 IV. Presto",2 flutes,Sei Duetti #4
-TWV 40:134,,,Duet,B-flat major,"I. Moderato
+TWV 40:134,,Duetto für 2 Traversflöten ohne B.c.,Duet,B-flat major,"I. Moderato
 II. Presto
 III. Amoroso (fa mineur)
 IV. ...",2 flutes,Sei Duetti #5
-TWV 40:135,,,Duet,E major,"I. Andante con affetto
+TWV 40:135,,Duetto für 2 Traversflöten ohne B.c.,Duet,E major,"I. Andante con affetto
 III. Vivace
 III. Amoroso (la mineur)
 IV. Presto",2 flutes,Sei Duetti #6
@@ -3257,48 +3259,48 @@ IV. Presto",,
 TWV 40:138,,Presto,Piece,A major,,2 flutes,d'une sonate pour 2 flûtes
 TWV 40:139,,Allegro,,A major,,,d'un duetto
 TWV 40:140,,Piacevole,Sonata,E minor,,,
-TWV 40:141,,,Sonata,B minor,"Vivace
+TWV 40:141,,Sonata h-Moll für zwei Traversflöten ohne Bc,Sonata,B minor,"Vivace
 Largo
 Presto",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #1
-TWV 40:142,,,Sonata,E minor,"Piacevole
+TWV 40:142,,Sonata für zwei Traversflöten ohne Bc,Sonata,E minor,"Piacevole
 Andante
 Scherzando",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #2
-TWV 40:143,,,Sonata,G major,"A tempo giusto
+TWV 40:143,,Sonata für zwei Traversflöten ohne Bc,Sonata,G major,"A tempo giusto
 Allegro
 Andante
 Allegro",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #3
-TWV 40:144,,,Sonata,A major,"Pomposo
+TWV 40:144,,Sonata für zwei Traversflöten ohne Bc,Sonata,A major,"Pomposo
 Vivace
 Largo
 Presto",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #4
-TWV 40:145,,,Sonata,G major,"Vivace
+TWV 40:145,,Sonata für zwei Traversflöten ohne Bc,Sonata,G major,"Vivace
 Grave
 Presto
 Menuet
 Allegro",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #5
-TWV 40:146,,,Sonata,E minor,"Allegro
+TWV 40:146,,Sonata für zwei Traversflöten ohne Bc,Sonata,E minor,"Allegro
 Affettuoso
 Allegro",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #6
-TWV 40:147,,,Sonata,B minor,"Adagio
+TWV 40:147,,Sonata für zwei Traversflöten ohne Bc,Sonata,B minor,"Adagio
 Vivace
 Adagio
 Presto",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #7
-TWV 40:148,,,Sonata,G major,"Vivace/Grave/Vivace
+TWV 40:148,,Sonata für zwei Traversflöten ohne Bc,Sonata,G major,"Vivace/Grave/Vivace
 Allegro
 Adagio
 Presto",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #8
-TWV 40:149,,,Sonata,D major,"Allegro
+TWV 40:149,,Sonata für zwei Traversflöten ohne Bc,Sonata,D major,"Allegro
 Affettuoso
 Vivace",2 transverse flutes,Neun Sonaten für 2 Traversflöten ohne B.c. #9
-TWV 40:150,,,Sonata,D major,"I. Dolce
+TWV 40:150,,Sonate für 3 Instrumente ohne B.c.,Sonata,D major,"I. Dolce
 II. Vivace
 III. Largo (si mineur)
 IV. Allegro",3 instruments without basso continuo,Sonates en trio (1738-1742) #4
-TWV 40:151,,,Sonata,E minor,"I. Largo
+TWV 40:151,,Sonate für 3 Instrumente ohne B.c.,Sonata,E minor,"I. Largo
 II. Allegro
 III. Soave (sol majeur)
 IV. Presto",3 instruments without basso continuo,Sonates en trio (1738-1742) #5
-TWV 40:152,,,Sonata,B minor,"I. Preludio. Largo
+TWV 40:152,,Sonate für 3 Instrumente ohne B.c.,Sonata,B minor,"I. Preludio. Largo
 II. Aria I
 III. Aria II (ré majeur)
 IV. Aria III. Vivace poco
@@ -3306,19 +3308,19 @@ V. Aria IV. Presto",3 instruments without basso continuo,Sonates en trio (1738-1
 TWV 40:200,,Quatuor,Sonata à 4,A major,"I. Affettuoso
 II. Allegro
 III. Vivace","2 violins, viola, cello",
-TWV 40:201,,,Concerto,G major,"I. Largo e staccato
+TWV 40:201,,Konzert G-Dur für vier Violinen ohne Gb.,Concerto,G major,"I. Largo e staccato
 II. Allegro
 III. Adagio (mi mineur)
 IV. Vivace",4 violins,
-TWV 40:202,,,Concerto,D major,"I. Adagio
+TWV 40:202,,Konzert für vier Violinen ohne Gb.,Concerto,D major,"I. Adagio
 II. Allegro
 III. Grave (si mineur)
 IV. Allegro",4 violins,
-TWV 40:203,,,Concerto,C major,"I. Grave
+TWV 40:203,,Konzert für vier Violinen ohne Gb.,Concerto,C major,"I. Grave
 II. Allegro
 III. Largo e staccato (la mineur)
 IV. Allegro",4 violins,
-TWV 40:204,,,Concerto,A major,"I. Grave
+TWV 40:204,,Konzert für vier Violinen ohne Gb.,Concerto,A major,"I. Grave
 II. Allegro
 III. Adagio (fa dièse mineur)
 IV. Spirituoso",4 violins,

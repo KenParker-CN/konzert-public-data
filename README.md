@@ -15,7 +15,7 @@ Public composer catalog data for the konzert application.
 - **KV** - Mozart (Köchel-Verzeichnis)
 - **TWV** - Telemann (Telemann-Werke-Verzeichnis)
 - **RV** - Vivaldi (Ryom-Verzeichnis)
-- **CPE** - C.P.E. Bach (Wotquenne/Helm catalog)
+- **CPE** - C.P.E. Bach (Wotquenne/Helm catalog, includes Wq.)
 - **BWV** - J.S. Bach (Bach-Werke-Verzeichnis)
 - **HWV** - Handel (Händel-Werke-Verzeichnis)
 - **Hob** - Haydn (Hoboken catalogue)
@@ -32,14 +32,6 @@ Public composer catalog data for the konzert application.
 Corelli and Shostakovich works are numbered by opus rather than a thematic
 catalogue prefix. `composers.csv` is not a work catalogue — it is the composer
 index (name, dates, era, nationalities, aliases) shared by all catalogs.
-
-## Planned Catalog Systems
-
-This system is on the roadmap but has no XLSX source yet. To add one, drop
-`xlsx/<CATALOG>.xlsx` into the `xlsx/` directory with a header row plus one row
-per work — the conversion workflow will generate `csv/<CATALOG>.csv` on push.
-
-- **Wq.** - C.P.E. Bach (Werkverzeichnis) — supplemental to the existing CPE columns
 
 ## Workflow
 

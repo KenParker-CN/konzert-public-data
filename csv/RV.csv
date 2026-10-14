@@ -561,7 +561,7 @@ III. Allegro (E major)","Strings, Basso Continuo (Harpsichord)",
 133.0000 ,RV 133,,,String Concerto in E minor,Concerto,E minor,"I. Allegro (E minor)
 II. Largo (E minor)
 III. Allegro (E minor)","Strings, Basso Continuo (Harpsichord)",
-134.0000 ,RV 134,,,Concerto / Sinfonia in E minor,Concerto / Sinfonia,E minor,"I. ... (E minor)
+134.0000 ,RV 134,,,Concerto / Sinfonia in E minor,Concerto,E minor,"I. ... (E minor)
 II. Andante e pianissimo (E minor)
 III. Allegro (E minor)","Strings, Basso Continuo",
 135.0000 ,RV 135,,,Sinfonia in F major,Sinfonia,F major,"I. Allegro (F major)
@@ -583,7 +583,7 @@ violons I/II, alto et basse continue","Strings, Basso Continuo",
 139.0000 ,RV 139,,,String Concerto in F major,Concerto,F major,"I. Allegro (F major) [see 1er movement de RV 543]
 II. Allegro alla Francese (D minor) [see 2e movement de RV 543]
 III. Allegro (F major) [see 3e movement de RV 543]","Strings, Basso Continuo",
-140.0000 ,RV 140,,,Concerto / Sinfonia in F major,Concerto / Sinfonia,F major,"I. Allegro molto (F major)
+140.0000 ,RV 140,,,Concerto / Sinfonia in F major,Concerto,F major,"I. Allegro molto (F major)
 II. Andante (D minor)
 violon solo, alto et basse continue
 III. Allegro (F major)","Strings, Basso Continuo (Harpsichord)",
@@ -600,7 +600,7 @@ III. ... (F minor)","Strings, Basso Continuo",
 145.0000 ,RV 145,,,String Concerto in G major,Concerto,G major,"I. Allegro molto (G major)
 II. Andante e sempre piano (G major)
 III. Presto (G major)","Strings, Basso Continuo",
-146.0000 ,RV 146,,,Sinfonia / Concerto in G major,Sinfonia / Concerto,G major,"I. Allegro (G major)
+146.0000 ,RV 146,,,Sinfonia / Concerto in G major,Sinfonia,G major,"I. Allegro (G major)
 II. Andante e sempre piano (G minor) violons I/II, alto et basse continue [see RV 699, III:6]
 III. Presto (G major) violons I/II, alto et basse continue","Strings, Basso Continuo (Harpsichord)",
 147.0000 ,RV 147,,,Sinfonia in G major,Sinfonia,G major,"I. Largo (G major) / Allegro
@@ -4491,7 +4491,7 @@ III. Presto",,[Lost]
 826.0000 ,RV 826,,,L'Intalia,Concerto,,,,[Lost]
 827.0000 ,RV 827,,,"Lætatus sum, pslam 121",Psalm,C major,,,
 999.0010 ,RV Anh. 1,,,Cello Sonata in A major,Sonata,A major,,"Cello, Basso Continuo",[Anonyme]
-999.0020 ,RV Anh. 2,,,Concerto / Sinfonia in C major,Concerto / Sinfonia,C major,,"Strings, Basso Continuo",[Oeuvre de Giovanni Battista Sammartini
+999.0020 ,RV Anh. 2,,,Concerto / Sinfonia in C major,Concerto,C major,,"Strings, Basso Continuo",[Oeuvre de Giovanni Battista Sammartini
 999.0030 ,RV Anh. 3,,,String Concerto in D minor,Concerto,D minor,,"Strings, Basso Continuo",[Anonyme]
 999.0040 ,RV Anh. 4,,,Sinfonia in G major,Sinfonia,G major,,"Strings, Basso Continuo",[by Johann Adolph Hasse]
 999.0050 ,RV Anh. 5,,,Sonata in A major,Sonata,A major,,"Strings, Basso Continuo",[by Giovanni Battista Sammartini]

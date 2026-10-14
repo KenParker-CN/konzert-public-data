@@ -1,0 +1,2273 @@
+SORT,Catalogue,Title,Type,Key,Movements,Instrumentation,Note
+1,G. 1,,Sonata,F major,"1. Allegro (F major)
+2. Largo (C major)
+3. Allegretto (F major)",violoncelle solo (et basse continue),
+2,G. 2,,Sonata,C minor,"1. Adagio (C minor)
+2. Allegro (C minor)
+3. Allegretto (C minor)",violoncelle solo (et basse continue),[première version]
+2.2,G. 2b,,Sonata,C minor,"1. Allegro (C minor)
+2. Largo (C minor)
+3. Allegretto (C minor) [même que 3e mouvement, G 2]",violoncelle solo (et basse continue),"[deuxième version, non publiée]"
+3,G. 3,,Sonata,C major,"1. Allegro (C major)
+2. Andante (G major)
+3. Minuetto (C major) [suivi de 4 variatioans pour violoncelle solo sans basse continue]",violoncelle solo (et basse continue),
+4,G. 4,,Sonata,A major,"1. Allegro moderato (A major)
+2. Adagio (A major)
+3. Affettuoso (A major)",violoncelle solo (et basse continue),[première version]
+4.2,G. 4b,,Sonata,A major,"1. Adagio (A major) [même que 1er mouvement, G 4]
+2. Allegro (A major)
+3. Affettuoso (A major)[même que 3e mouvement, G 4]",violoncelle solo (et basse continue),"[deuxième version, non publiée]"
+5,G. 5,,Sonata,G major,"1. Allegro militare (G major)
+2. Largo (G major)
+3. Tempo di Minuetto (G major)",violoncelle solo (et basse continue),
+6,G. 6,,Sonata,C major,"1. Allegro (C major)
+2. Largo assai (F major)
+3. Allegro moderato (C major)",violoncelle solo (et basse continue),
+7,G. 7,,Sonata,C major,"1. Allegro (C major)
+2. Andante (F major)
+3. Grazioso (C major)",violoncelle solo (et basse continue),
+8,G. 8,,Sonata,B-flat major,"1. Allegro (B-flat major)
+2. Andante affettuoso (F major)
+3. Allegro (B-flat major)",violoncelle solo (et basse continue),
+9,G. 9,,Sonata,F major,"1. Andantino (F major)
+2. Adagio assai (B-flat major)
+3. Tempo di Minuetto amoroso (F major)",violoncelle solo (et basse continue),
+10,G. 10,,Sonata,E-flat major,"1. Allegro (E-flat major)
+2. Adagio (E-flat major)
+3. Affettuoso (E-flat major)",violoncelle solo (et basse continue),
+11,G. 11,,Sonata,E-flat major,"1. Allegro (E-flat major)
+2. Largo (E-flat major)
+3. Tempo di Minuetto (E-flat major)",violoncelle solo (et basse continue),
+12,G. 12,,Sonata,B-flat major,"1. Allegro moderato (B-flat major)
+2. Grave (E-flat major)
+3. Minuetto (B-flat major)",violoncelle solo (et basse continue),
+13,G. 13,,Sonata,A major,"1. Allegro (A major) [thème aussi utilisé dans le Concerto, en A major, pour violoncelle et orchestre, G 475]
+2. Largo (D major)
+3. Allegro (A major)",violoncelle solo (et basse continue),
+14,G. 14,,Sonata,E-flat major,"1. Allegro brillante (E-flat major)
+2. Andante non tanto legato sempre (la bémol majeur)
+3. Minuetto con variazione (E-flat major) [suivi de 9 variations pour violoncelle solo sans basse continue]",violoncelle solo (et basse continue),
+15,G. 15,,Sonata,G major,"1. Allegro (G major)
+2. Larghetto (D major)
+3. Allegro (G major)",violoncelle solo (et basse continue),
+16,G. 16,,Sonata,E-flat major,"1. Allegro (E-flat major)
+2. Minuetto. Amoroso (E-flat major) / Trio (C minor)",violoncelle solo (et basse continue),
+17,G. 17,,Sonata,C major,"1. Allegro (C major)
+2. Largo assai (C minor) [thème aussi utilisé dans Trio, Opus. 14/1, G 95]
+3. Rondo. Allegro (C major)",violoncelle solo (et basse continue),
+18,G. 18,,Sonata,C minor,"1. Moderato (C minor)
+2. Largo (C minor)
+3. Minuetto (C minor) / Trio (E-flat major)",violoncelle solo (et basse continue),
+19,G. 19,,Sonata,F major,"1. Allegro (F major)
+2. Andante (B-flat major)
+3. Menuetto (F major)",violoncelle solo (et basse continue),
+20,G. 20,6 Sonates pour violon solo (et basse continue),Sonata,,,,[édition de sonates pour violoncelle]
+20.1,G. 20/1,,Sonata,A major,,violon solo (et basse continue),"[édition de la sonate pour violoncelle, G 13]"
+20.2,G. 20/2,,Sonata,C major,,violon solo (et basse continue),"[édition de la sonate pour violoncelle, G 6]"
+20.3,G. 20/3,,Sonata,G major,,violon solo (et basse continue),"[édition de la sonate pour violoncelle, G 5]"
+20.4,G. 20/4,,Sonata,E-flat major,,violon solo (et basse continue),"[édition de la sonate pour violoncelle, G 10]"
+20.5,G. 20/5,,Sonata,F major,,violon solo (et basse continue),"[édition de la sonate pour violoncelle, G 1]"
+20.6,G. 20/6,,Sonata,A major,,violon solo (et basse continue),"[édition de la sonate pour violoncelle, G 4]"
+21,G. 21,,Sinfonia,E-flat major,1. Largo (E-flat major) / Allegro,pianoforte,[authenticité douteuse]
+22,G. 22,,Sonata,E-flat major,,clavecin,"[provient de la partition de clavecin de la Sonate pour clavecin et violon, Op. 5/6, G 30]"
+23,G. 23,6 Sonates pour clavecin,Sonata,,,,[provient de la partition de clavecin de Trios pour clavecin et codes]
+23.1,G. 23/1,,Sonata,C major,,clavecin,"[provient de la partition de clavecin du Trio pour clavecin et codes, G 143]"
+23.2,G. 23/2,,Sonata,mi mineur,,clavecin,"[provient de la partition de clavecin du Trio pour clavecin et codes, G 144]"
+23.3,G. 23/3,,Sonata,E-flat major,,clavecin,"[provient de la partition de clavecin du Trio pour clavecin et codes, G 145]"
+23.4,G. 23/4,,Sonata,D major,,clavecin,"[provient de la partition de clavecin du Trio pour clavecin et codes, G 146]"
+23.5,G. 23/5,,Sonata,B-flat major,,clavecin,"[provient de la partition de clavecin du Trio pour clavecin et codes, G 147]"
+23.6,G. 23/6,,Sonata,G minor,,clavecin,"[provient de la partition de clavecin du Trio pour clavecin et codes, G 148]"
+24,G. 24,6 Sonates pour clavecin avec violon ad libitum,Sonata,,,,[provient de la partition de clavecin de Sonates pour clavecin et violon ad libitum]
+24.1,G. 24/1,,Sonata,F major,,clavecin (avec violon ad libitum),"[provient de la partition de clavecin de la Sonate pour clavecin et violon ad libitum, G 95]"
+24.2,G. 24/2,,Sonata,C minor,,clavecin (avec violon ad libitum),"[provient de la partition de clavecin de la Sonate pour clavecin et violon ad libitum, G 96]"
+24.3,G. 24/3,,Sonata,A major,,clavecin (avec violon ad libitum),"[provient de la partition de clavecin de la Sonate pour clavecin et violon ad libitum, G 97]"
+24.4,G. 24/4,,Sonata,A major,,clavecin (avec violon ad libitum),"[provient de la partition de clavecin de la Sonate pour clavecin et violon ad libitum, G 98]"
+24.5,G. 24/5,,Sonata,E-flat major,,clavecin (avec violon ad libitum),"[provient de la partition de clavecin de la Sonate pour clavecin et violon ad libitum, G 99]"
+24.6,G. 24/6,,Sonata,F major,,clavecin avec violon ad libitum,"[provient de la partition de clavecin de la Sonate pour clavecin et violon ad libitum, G 100]"
+25,G. 25,,Sonata,B-flat major,"1. Allegro con moto (B-flat major)
+2. Grave (E-flat major)
+3. Presto assai (B-flat major)",clavecin et violon,
+26,G. 26,,Sonata,C major,"1. Allegro e con spirito (C major)
+2. Largo (C minor)
+3. Allegretto (C major)",clavecin et violon,
+27,G. 27,,Sonata,B-flat major,"1. Moderato (B-flat major)
+2. Allegro (B-flat major)",clavecin et violon,
+28,G. 28,,Sonata,D major,"1. Andante (D major)
+[thème réutilisé dans Quintet pour 2 violoncelle, Opus 10/1, G 265]
+2. Allegro assai con brio (eé majeur)
+[mouvement réutilisé dans Symphonie, Opus 12/4, G 506)
+3. Rondo allegretto (D major)",clavecin et violon,
+29,G. 29,,Sonata,G minor,"1. Allegro molto (G minor)
+2. Andantino - Lento (E-flat major)
+3. Presto (G minor)",clavecin et violon,
+30,G. 30,,Sonata,E-flat major,"1. Allegro maestoso (E-flat major)
+[mouvement réusilié dans Trio, Opus 6/2, G 90 - 2 versions)
+2. Rondo allegretto (E-flat major)",clavecin et violon,
+31,G. 31,6 Sonates pour violon et piano,Sonata,,,,[ré-édition de G 25 - G 30]
+32,G. 32,3 Sonates pour violon et piano - livre 3,Sonata,,,,[perdu]
+33,G. 33,3 Sonates pour violon et piano - livre 4,Sonata,,,,[perdu]
+34,G. 34,,Sonata,C major,"1. Allegro con forza (C major)
+[Quintet, Opus 10/4, G 168, 1er mouvement]
+2. Adagio (C minor)
+[Quintet, Opus 10/4, G 168, 2e mouvement]
+3. Rondo grazioso (C major)
+[Quintet, Opus 10/4, G 168, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Thomas Billington]
+35,G. 35,,Sonata,E major,"1. Allegro moderato (E major)
+[Trio, Opus 4/3, G 85, 1er mouvement]
+2. Largo cantabile ma con um poco moto (A major)
+[Trio, Opus 4/3, G 85, 2e mouvement]
+3. Tempo di minuetto primo (E major)
+[Trio, Opus 4/3, G 85, 3e mouvement]
+4. Finale presso assai (E major)
+[non identifié]",clavecin (pianoforte) et violon obligé,[arrangement de Thomas Billington]
+36,G. 36,,Sonata,B-flat major,"1. Allegro assai (B-flat major)
+[Trio, Opus 4/2, G 84, 1er mouvement]
+2. Adagio (E-flat major)
+[Trio, Opus 4/2, G 84, 2e mouvement]
+3. Allegro (B-flat major)
+[non identifié]",clavecin (pianoforte) et violon obligé,[arrangement de Thomas Billington]
+37,G. 37,,Sonata,E-flat major,"1. Allegro (E-flat major)
+[Trio, Opus 4/1, G 83, 1er mouvement]
+2. Adagio (E-flat major)
+[Trio, Opus 4/1, G 83, 2e mouvement]
+3. Minuetto (E-flat major)
+[Trio, Opus 4/1, G 83, 3e mouvement]
+4. Allegro assai (E-flat major)
+[Quintet, Opus 10/5, 2e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Thomas Billington]
+38,G. 38,,Sonata,A major,"1. Andante grazioso (A major)
+[Trio, Opus 6/3, G 91, 1er mouvement]
+2. Allegro con spirito (A major)
+[Trio, Opus 6/3, G 91, 2e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Thomas Billington]
+39,G. 39,,Sonata,D major,"1. Andante (D major)
+[non identifié]
+2. Allegro con spirito (D major)
+[Trio, Opus 1/4, G 80, 2e mouvement]
+3. Rondo (D major)
+[Quator, Opus 8/1, G 165, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Thomas Billington]
+40,G. 40,,Sonata,C major,"1. Allegro con spirito (C major)
+[Quatuor, Opus 2/6, G 164, 1er mouvement]
+2. Minuetto amoroso (C major) / Trio (C minor)
+[Quintet, Opus 17/2, G 420, 2e mouvement]",clavecin (pianoforte ou harpe) et violon obligé,[arrangement de Naderman]
+41,G. 41,,Sonata,B-flat major,"1. Allegro moderato (B-flat major)
+[Quintet, Opus 17/4, G 422, 1er mouvement]
+2. Menuetto (B-flat major) / Trio (E-flat major)
+[Quintet, Opus 17/4, G 422, 2e mouvement]",clavecin (pianoforte ou harpe) et violon obligé,[arrangement de Naderman]
+42,G. 42,,Sonata,D minor,"1. Grave (D minor) / Allegro
+[Quatuor, Opus 9/2, G 172, 1er mouvement)
+2. Menuetto (D major) / Trio (D minor)
+[Quintet, Opus 17/1, G 419, 2e mouvement]",clavecin (pianoforte ou harpe) et violon obligé,[arrangement de Naderman]
+43,G. 43,,Sonata,C minor,"1. Allegro commodo (C minor)
+[Quatuor, Opus 2/1, G 159, 1er mouvement]
+2. Largo (E-flat major)
+[Quatuor, Opus 2/1, G 159, 2e mouvement]
+3. Allegro (C minor)
+[Quatuor, Opus 2/1, G 159, 3er mouvement]",clavecin (pianoforte ou harpe) et violon obligé,[arrangement de Naderman]
+44,G. 44,,Sonata,B-flat major,"1. Allegro non tanto (B-flat major)
+[Quatuor, Opus 2/2, G 160, 1er mouvement]
+2. Fuga con spirito (B-flat major)
+[Quatuor, Opus 2/2, G 160, 3e mouvement]
+1. Allegro (C minor)
+[Quatuor, Opus 9/1, G 171, 1er mouvement]",clavecin (pianoforte ou harpe) et violon obligé,[arrangement de Naderman]
+45,G. 45,,Sonata,C minor,"1. Allegro (C minor)
+[Quatuor, Opus 9/1, G 171, 1er mouvement]
+2. Rondeau. Allegro non molto (E-flat major)
+[Quintet, Opus 17/6, G 424, 2e mouvement]
+1. Allegro (C minor)
+[Quatuor, Opus 2/1, G 159, 3e mouvement]",clavecin (pianoforte ou harpe) et violon obligé,[arrangement de Naderman]
+46,G. 46,,Sonata,C minor,"1. Allegro (C minor)
+[Quatuor, Opus 2/1, G 159, 3e mouvement]
+2. Menuetto (E-flat major) / Trio (la bémol majeur)
+[Quatuor, Opus 9/1, G 171, 3e mouvement]
+3. Presto (C minor)
+[Quatuor, Opus 9/1, G 171, 4e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Mlle. Le Jeune]
+47,G. 47,,Sonata,D minor,"1. Allegro assai (D major)
+[Quatuor, Opus 8/1, G 165, 1er mouvement]
+2. Rondeau. Allegretto (D major)
+[Quatuor, Opus 8/1, G 165, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Mlle. Le Jeune]
+48,G. 48,,Sonata,B-flat major,"1. Andante (B-flat major)
+[Trio, Opus 6/1, G 89, 1er mouvement]
+2. Allegro (E-flat major)
+[Quatuor, Opus 8/3, G 167, 2e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Mlle. Le Jeune]
+49,G. 49,,Sonata,A major,"1. Allegro ma non troppo (E major)
+[Trio, Opus 4/3, G 85, 1er mouvement]
+2. Larghetto (G major)
+[Quatuor, Opus 2/3, G 161, 2e mouvement]
+3. Allegro (E-flat major)
+[Quintet, Opus 10/2, G 266, 4e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Mlle. Le Jeune]
+50,G. 50,,Sonata,E-flat major,"1. Allegro spiritoso (E-flat major)
+[Quatuor, Opus 2/4, G 162, 1er mouvement]
+2. Andante (B-flat major)
+[Quatuor, Opus 2/4, G 162, 2e mouvement]
+3. Allegro molto (E-flat major)
+[Trio, Opus 6/2, G 90, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Mlle. Le Jeune]
+51,G. 51,,Sonata,E major,"1. Larghetto (E major)
+[Quintet, Opus 13/6, G 282, 1er mouvement]
+2. Allegro con spirito (E major)
+[Quintet, Opus 13/6, G 282, 2er mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de Mlle. Le Jeune]
+52,G. 52,,Sonata,B-flat major,"1. Allegro assai (B-flat major)
+[Trio, Opus 4/2, G 84, 1er mouvement]
+2. Amoroso (B-flat major)
+[Trio, Opus 4/2, G 84, 2e mouvement]
+3. Presto assai (B-flat major)
+[Trio, Opus 1/2, G 78, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de M. Robinson]
+53,G. 53,,Sonata,E-flat major,"1. Allegro (E-flat major)
+[Trio, Opus 4/1, G 83, 1er mouvement]
+2. Tempo di minuetto (E-flat major)
+[Trio, Opus 4/1, G 83, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de M. Robinson]
+54,G. 54,,Sonata,E major,"1. Allegro moderato (E major)
+[Trio, Opus 4/3, G 85, 1er mouvement]
+2. Minuetto (A major)
+[Trio, Opus 4/3, G 85, 2e mouvement]
+3. Presto (E major)
+[Trio, Opus 4/3, G 85, 3e mouvement]",clavecin (pianoforte) et violon obligé,[arrangement de M. Robinson]
+55,G. 55,Rondo in G major,,G major,"1. Rondeau. Allegro (G major)
+[Trio, Opus 6/5, G 93, 2e mouvement]",clavecin et violon,[arrangement de M. XXX]
+56,G. 56,,Duo,G major,"1. Grazioso (G major)
+[réutilisé dans Trio, Opus 6/3, G 91, 1er mouvement]
+2. Allegro (G major)
+3. Presto (G major)",2 violons,
+57,G. 57,,Duo,F major,"1. Presto (F major)
+2. Largo (F major)
+3. Tempo di Minuetto (F major)
+[thème réutilisé dans Concerto, en B-flat major, pour violoncelle et orchestre, G 482, 3e mouvement]",2 violons,
+58,G. 58,,Duo,A major,"1. Allegro (A major)
+2. Largo (D major)
+3. Minuetto (A major) / Trio (D major)",2 violons,
+59,G. 59,,Duo,B-flat major,"1. Moderato (B-flat major)
+2. Largo (E-flat major)
+3. Allegro (B-flat major)",2 violons,
+60,G. 60,,Duo,E-flat major,"1. Presto (E-flat major)
+2. Adagio (C minor)
+3. Tempo di Minuetto (E-flat major)",2 violons,
+61,G. 61,,Duo,D major,"1. Allegro assai (D major)
+2. Adagio (D minor)
+3. Minuetto (D major) / Trio (D minor)",2 violons,
+62,G. 62,"Duo ""La bonna notte"" in E-flat major",Duo,E-flat major,"1. Amoroso (E-flat major)
+2. Rondo. Allegretto (E-flat major) / Allegro (C minor)
+3. Minuetto sostenuto (E-flat major) / Trio (C minor)
+4. Presto assai (E-flat major)",2 violons,
+63,G. 63,,Duo,G major,"1. Allegro (G major)
+[Trio, Opus 54/2, G 114, 1er mouvement]
+2. Minuetto moderato (G major) / Trio (C minor)
+[Trio, Opus 54/2, G 114, 2e mouvement]
+3. Rondo. Allegretto (G major)
+[Trio, Opus 54/2, G 114, 3e mouvment]",2 violons,[arrangement]
+64,G. 64,,Duo,E major,"1. Allegro giusto (E major)
+[Trio, Opus 34/6, G 106, 1er mouvement]
+2. Larghetto (A minor)
+[Trio, Opus 34/6, G 106, 2e mouvement]
+3. Minuetto. Allegretto (A major) / Trio (A minor)
+[Trio, Opus 34/6, G 106, 3er mouvement]",2 violons,[arrangement]
+65,G. 65,,Duo,F minor,"1. Andante lento (F minor)
+[Trio, Opus 34/1, G 101, 1er mouvement]
+2. Allegro assai (F major)
+[Trio, Opus 34/1, G 101, 2e mouvement]
+3. Minuetto. Cantabile (F minor) / Trio (F major)
+[Trio, Opus 34/1, G 101, 3e mouvement]",2 violons,[arrangement]
+66,G. 66,,Duo,C major,"1. Largo (C major)
+[Trio, Opus 34/5, G 105, 1er mouvement]
+2. Allegro vivace (C major)
+[Trio, Opus 34/5, G 105, 2e mouvement]
+3. Andante lento con variazioni (C major)
+[Trio, Opus 34/5, G 105, 3e mouvement]",2 violons,[arrangement]
+67,G. 67,,Duo,E-flat major,"1. Allegro (E-flat major)
+[Trio, Opus 54/3, G 115, 1er mouvement]
+2. Minuetto. Modetato (E-flat major)
+[Trio, Opus 54/3, G 115, 2e mouvement]
+3. Andantino lento (E-flat major)
+[Trio, Opus 54/3, G 115, 3e mouvement]
+4. Finale. Presto (E-flat major)
+[Trio, Opus 54/3, G 115, 4e mouvement]",2 violons,[arrangement]
+68,G. 68,,Duo,D minor,"1. Moderato (D minor)
+[Quintet, Opus 46/2, G 360, 1er mouvement]
+2. Andante (A major)
+[Quintet, Opus 46/2, G 360, 2e mouvement]
+3. Minuetto (D major) / Trio (D major)
+[Quintet, Opus 49/1, G 365, 3e mouvement]",2 violons,[arrangement]
+69,G. 69,,Duo,C major,"1. Moderato (C major)
+2. Largo (F major)
+3. Allegro Tempo giusto (C major)",2 violons,[authenticité douteuse]
+70,G. 70,,Duo,C major,"1. Andante (C major)
+2. Allegro (C major)
+3. Allegretto (G major)
+4. Presto (G major)",2 violons,[authenticité douteuse]
+71,G. 71,,Duo,D major,"1. Allegro (D major)
+[Trio, Opus 3/4, G 122, 3e mouvement]",2 violons,[arrangement]
+72,G. 72,6 Duos pour 2 violons,Duo,,,,[compositions de Argus]
+73,G. 73,Fugues pour 2 violoncelles ou 2 bassons,Duo,,,,
+73.1,G. 73/1,Fugue in C major,Duo,C major,,2 violoncelles ou 2 bassons,
+73.2,G. 73/2,Fugue in F major,Duo,F major,,2 violoncelles ou 2 bassons,
+73.3,G. 73/3,Fugue in B-flat major,Duo,B-flat major,,2 violoncelles ou 2 bassons,
+73.4,G. 73/4,Fugue in E-flat major,Duo,E-flat major,,2 violoncelles ou 2 bassons,
+73.5,G. 73/5,Fugue in A major,Duo,A major,,2 violoncelles ou 2 bassons,
+73.6,G. 73/6,Fugue in E major,Duo,E major,,2 violoncelles ou 2 bassons,
+74,G. 74,,Sonata,C major,"1. Allegro (C major)
+2. Largo (F major)
+3. Allegro (C major)",2 violoncelles,
+75,G. 75,,Sonata,E-flat major,"1. Allegro (E-flat major)
+[identique - Sonate, G 10, 2e mouvement]
+2. Allegro (E-flat major)
+[identique - Sonate, G 10, 1er mouvement]
+3. Menuetto (E-flat major)
+[identique - Sonate, G 10, 3e mouvement]",2 violoncelles,
+76,G. 76,6 Quatuors transcrits pour 2 clavecins,Quartet,,,,"[transcription des 6 Quatuors, Opus 26, G 195-200 - anonyme]"
+77,G. 77,,Trio,F major,"1. Allegro non tanto (F major)
+2. Largo (B-flat major)
+3. Pesto (F major)",2 violons et violoncelle,
+78,G. 78,,Trio,B-flat major,"1. Allegretto (B-flat major)
+2. Largo assai (E-flat major)
+3. Presto assai (B-flat major)",2 violons et violoncelle,
+79,G. 79,,Trio,A major,"1. Largo (A major)
+2. Allegro (A major)
+3. Tempo di Minuetto (A major)",2 violons et violoncelle,
+80,G. 80,,Trio,D major,"1. Adagio (D major)
+2. Allegro con spirito (D major)
+3. Fuga. Allegro (D major)",2 violons et violoncelle,
+81,G. 81,,Trio,G major,"1. Larghetto (G major)
+2. Allegro con brio (G major)
+3. Allegro (G major)",2 violons et violoncelle,
+82,G. 82,,Trio,C major,"1. Largo (C major)
+2. Allegro brioso (C major)
+3. Allegro (C major)",2 violons et violoncelle,
+83,G. 83,,Trio,E-flat major,"1. Allegro con spirito (E-flat major)
+2. Largo assai (E-flat major)
+3. Minuetto (E-flat major) / Trio (mi bémol mineur)",2 violons et violoncelle,
+84,G. 84,,Trio,B-flat major,"1. Allegro (B-flat major)
+2. Larghetto amoroso (E-flat major)
+3. Presto assai (B-flat major)",2 violons et violoncelle,
+85,G. 85,,Trio,E major,"1. Allegro molto (E major)
+2. Cantabile (A major)
+3. Minuetto (si majeur)
+4. Allegro (E major)",2 violons et violoncelle,
+86,G. 86,,Trio,F minor,"1. Largo e appassionato (F minor)
+2. Moderato (F minor)
+3. Minuetto (F major) / Trio (B-flat major)",2 violons et violoncelle,
+87,G. 87,,Trio,D major,"1. Moderato (D major)
+2. Andantino (G major)
+3. Tempo di Minuetto (D major) / Trio (F major)",2 violons et violoncelle,
+88,G. 88,,Trio,F major,"1. Amoroso (F major)
+2. Allegretto smorfioso (F major)
+3. Tempo di Minuetto (F major) / Trio (B-flat major)",2 violons et violoncelle,
+89,G. 89,,Trio,B-flat major,"1. Andantino amoroso (B-flat major)
+2. Allegro molto (B-flat major)
+3. Minuetto (B-flat major) / Trio (E-flat major)",2 violons et violoncelle,
+90,G. 90,,Trio,E-flat major,"1. Allegro maestoso (E-flat major)
+[utilisé dans la Sonata pour pianoforte et violon, Opus 75/6, G 30]
+2. Andante grazioso (B-flat major)
+3. Allegro molto (B-flat major)",2 violons et violoncelle,
+91,G. 91,,Trio,A major,"1. Andantino grazioso (A major)
+[thème emprunté du Duo, en G major, pour 2 violons, Opus 3/1, G 56]
+2. Allegro maestoso (A major)
+3. Minuetto (A major) / Trio (D major)",2 violons et violoncelle,
+92,G. 92,,Trio,F major,"1. Allegro (F major)
+2. Lento con espressione (B-flat major)
+3. Minuetto (F major) / Trio (B-flat major)",2 violons et violoncelle,
+93,G. 93,,Trio,G minor,"1. Adagio (G minor)
+2. Rondeau. Allegro (G major)
+3. Minuetto (G major) / Trio (E-flat major)",2 violons et violoncelle,
+94,G. 94,,Trio,C major,"1. Allegro assai (C major)
+2. Larghetto (mi mineur)
+3. Presto (C major)",2 violons et violoncelle,
+95,G. 95,,Trio,F major,"1. Allegro assai (F major)
+[arrangé en quatuor pour cordes, par Boccherini, G 255)
+2. Adagio (C minor)
+[thème réutilisé dans la Sonate, en C major, pour violoncelle, G 17]
+3. Minuetto. Allegro (F major) / Trio (F major)",2 violons et violoncelle,
+96,G. 96,,Trio,C minor,"1. Allegro moderato (C minor)
+2. Adagio (E-flat major)
+3. Tempo di Minuetto (F major) / Trio (B-flat major)
+[arrangé en quatuor pour cordes, par Boccherini, G 255]
+4. Prestissimo (C minor)",2 violons et violoncelle,
+97,G. 97,,Trio,A major,"1. Allegro moderato (A major)
+2. Largo (A major)
+3. Allegretto smorfioso (E major) / Adagio (E major)
+4. Minuetto (A major) / Trio (D major)",2 violons et violoncelle,
+98,G. 98,,Trio,D major,"1. Allegro giusto (D major)
+2. Andantino (D minor)
+[arrangé pour quatuor à cordes, par Boccherini, G 255]
+3. Allegro assai (D major)
+[arrangé pour quatuor pour cordes, par Boccherini, G 255]",2 violons et violoncelle,
+99,G. 99,,Trio,E-flat major,"1. Andantino (E-flat major)
+2. Allegro e con spirito (E-flat major)
+3. Variazioni. Allegro sostenuto (E-flat major)",2 violons et violoncelle,
+100,G. 100,,Trio,F major,"1. Larghetto (F major)
+2. Allegro (F major)
+3. Rondeau. Con moto (F major)",2 violons et violoncelle,
+101,G. 101,,Trio,F minor,"1. Andante lento (F minor)
+2. Allegro con brio (F major)
+3. Minuetto (F minor) / Trio (F major)",2 violons et violoncelle,
+102,G. 102,,Trio,G major,"1. Allegretto comodo assai (G major)
+2. Minuetto (G major) / Trio (C major)
+3. Adagio (B-flat major)
+4. Rondo. Allegro ma non presto (G major)",2 violons et violoncelle,
+103,G. 103,,Trio,E-flat major,"1. Allegro vivo ma non presto (E-flat major)
+2. Largo non tanto (B-flat major)
+3. Minuetto (B-flat major) / Trio (G minor)
+4. Rondo. Allegretto comodo (E-flat major)",2 violons et violoncelle,
+104,G. 104,,Trio,D major,"1. Allegro moderato assai (D major)
+2. Grave (D major) / Allegro (D minor)
+3. Grave (D major) / Tempo di Minuetto (D major)
+[répétition du 2e mouvement - Grave]",2 violons et violoncelle,
+105,G. 105,,Trio,C major,"1. Largo (C major)
+2. Allegro vivo (C major)
+3. Andante lento con variazioni (C major)
+[thème réutilisé dans Quintet pour 2 violoncelles, Opus 29/3, G 315]",2 violons et violoncelle,
+106,G. 106,,Trio,E major,"1. Allegro giusto (E major)
+2. Larghetto (A minor)
+3. Minuetto con moto (A major) / Trio (A minor)
+4. Rondo. Andante un poco lento (E major)",2 violons et violoncelle,
+107,G. 107,,Trio,A major,"1. Allegro moderato (A major)
+2. Tempo di Minuetto. Amoroso (A major) / Trio (C major)",2 violons et violoncelle,
+108,G. 108,,Trio,G major,"1. Andantino (G major)
+2. Tempo di Minuetto (G major) / Trio (C major)",2 violons et violoncelle,
+109,G. 109,,Trio,B-flat major,"1. Andante allegretto (B-flat major)
+2. Tempo di Minuetto (B-flat major) / Trio (B-flat major)",2 violons et violoncelle,
+110,G. 110,,Trio,E-flat major,"1. Adagio non tanto (E-flat major)
+2. Tempo di Minuetto (B-flat major) / Trio (E-flat major)",2 violons et violoncelle,
+111,G. 111,,Trio,D major,"1. Andantino moderato assai (D major)
+2. Tempo di Minuetto (D major) / Trio (D minor)",2 violons et violoncelle,
+112,G. 112,,Trio,F major,"1. Allegretto moderato assai (F major)
+2. Allegro non tanto (F major)",2 violons et violoncelle,
+113,G. 113,,Trio,D major,"1. Andantino (D major)
+2. Allegro maestoso (D major)
+3. Rondo. Allegro giusto (D major)",2 violons et violoncelle,"[arrangé en quatuor pour cordes, par Boccherini, G 250]"
+114,G. 114,,Trio,G major,"1. Allegro con moto (G major)
+2. Tempo di Minuetto (G major) / Trio (C minor)
+3. Rondeau. Allegro giusto (G major)",2 violons et violoncelle,"[arrangé en quatuor pour cordes, par Boccherini, G 251]"
+115,G. 115,,Trio,E-flat major,"1. Allegretto moderato assai (E-flat major)
+2. Tempo di Minuetto (E-flat major) / Trio (C minor)
+3. Andantino lento (E-flat major)
+4. Presto (E-flat major)",2 violons et violoncelle,
+116,G. 116,,Trio,C major,"1. Allegro con spirito (C major)
+2. Andantino (F major)
+3. Minuetto (F major) / Trio (B-flat major)
+4. Rondo. Allegretto moderato (C major)",2 violons et violoncelle,"[arrangé en quatuor pour cordes, par Boccherini, G 254]"
+117,G. 117,,Trio,D minor,"1. Allegretto moderato (D minor)
+2. Minuetto. Con moto (D major) / Trio (D minor)
+3. Larghetto (D minor)
+4. Finale. Presto (D minor)",2 violons et violoncelle,
+118,G. 118,,Trio,A major,"1. Presto assai (A major)
+2. Larghetto (D major)
+3. Tempo di Minuetto (D major) / Trio (D minor)
+4. Finale. Allegro vivo (A major)",2 violons et violoncelle,"[arrangé en quatuor pour cordes, par Boccherini, G 253]"
+119,G. 119,,Trio,C major,"1. Allegro (C major)
+2. Largo (C minor)
+3. Tempo di Minuetto (C major)",2 violons et violoncelle,
+120,G. 120,,Trio,A major,"1. Allegro moderato (A major)
+2. Adagio (E major)
+3. Tempo di Minuetto (A major)",2 violons et violoncelle,
+121,G. 121,,Trio,A major,"1. Allegro moderato (A major)
+2. Largo (mii majeur)
+3. Allegro (A major)",2 violons et violoncelle,
+122,G. 122,,Trio,D major,"1. Allegro (D major)
+2. Largo (G major)
+3. Allegro molto (D major)",2 violons et violoncelle,
+123,G. 123,,Trio,D major,"1. Allegro non tanto (D major)
+2. Largo (D major)
+3. Allegro assai (D major)",2 violons et violoncelle,
+124,G. 124,,Trio,E-flat major,"1. Largo (E-flat major)
+2. Allegretto (E-flat major)
+3. Tempo di Minuetto (E-flat major)",2 violons et violoncelle,
+131,G. 131,,Trio,D major,"1. Allegro moderato (D major)
+2. Minuetto (D major) / Trio (G major)",2 violons et violoncelle,
+132,G. 132,,Trio,E-flat major,"1. Allegro assai (E-flat major)
+2. Larghetto (B-flat major)
+3. Rondeau. Amoroso (E-flat major)",2 violons et violoncelle,
+133,G. 133,,Trio,C minor,"1. Andante sostenuto (C minor)
+2. Allegro (C minor)",2 violons et violoncelle,
+134,G. 134,,Trio,A major,"1. Andantino (A major)
+2. Menuetto (A major) / Trio (A minor)",2 violons et violoncelle,
+135,G. 135,,Trio,B-flat major,"1. Allegro assai (B-flat major)
+2.Andante. Aria con variazioni (B-flat major)",2 violons et violoncelle,
+136,G. 136,,Trio,G major,"1. Allegro moderato (G major)
+2. Andante sostenuto (G minor)
+3. Allegro (G major)
+4. Serenata. Allegro armonice (G major)",2 violons et violoncelle,
+137,G. 137,,Divertimento,B-flat major,"1. Adagio (B-flat major)
+2. Allegro moderato (B-flat major)
+3. Vivace (B-flat major)",2 violons et violoncelle,
+138,G. 138,,Divertimento,F major,"1. Adagio (F major)
+2. Un poco vivace (F major)
+3. Allegro moderato (D minor)",2 violons et violoncelle,
+139,G. 139,,Divertimento,G major,"1. Adagio (G major)
+2. Vivace (G major)
+3. Allegro moderato (G major)",2 violons et violoncelle,
+140,G. 140,,Divertimento,E-flat major,"1. Adagio (E-flat major)
+2. Un poco vivace (E-flat major)
+3. Allegro moderato (E-flat major)",2 violons et violoncelle,
+141,G. 141,,Divertimento,A major,"1. Menuetto (A major)
+2. Adagio (A major)
+3. Allegro moderato (A major)",2 violons et violoncelle,
+142,G. 142,,Divertimento,C major,"1. Adagio (C major)
+2. Un poco vivace (C major)
+3. Allegro moderato (C major)",2 violons et violoncelle,
+143,G. 143,,Sonata,C major,"1. Poco andante (C major)
+2. Allegro molto (C major)
+3. Tempo di Minuetto (C major) / Trio (C minor)","clavecin, violon et violoncelle",
+144,G. 144,,Sonata,mi mineur,"1. Allegro molto (mi mineur)
+2. Minuetto affettuoso (E major) / Trio (A major)","clavecin, violon et violoncelle",
+145,G. 145,,Sonata,E-flat major,"1. Allegro (E-flat major)
+2. Presto (E-flat major)","clavecin, violon et violoncelle",
+146,G. 146,,Sonata,D major,"1. Moderato e arioso (D major)
+2. Allegro molto (D major)
+3. Minuetto militare (D major)","clavecin, violon et violoncelle",
+147,G. 147,,Sonata,B-flat major,"1. Andante (B-flat major)
+2. Presto (B-flat major)","clavecin, violon et violoncelle",
+148,G. 148,,Sonata,G minor,"1. Presto (G minor)
+2. Allegro moderato (B-flat major)","clavecin, violon et violoncelle",
+149,G. 149,"3 Sonates pour clavecin, violon et violoncelle",Sonata,,,,[arrangement par Ignace Pleyel]
+149.1,G. 149/1,,Sonata,B-flat major,"1. Allegro vivace (B-flat major)
+[arrangement - Quintet, Opus 45/3, G 357, 1er mouvement]
+2. Andante (G minor)
+[arrangement, Quintet, Opus 45/3, G 357, 3e mouvement]
+3. Finale. Allegro (B-flat major)
+[arrangement - Quintet, Opus 45/3, G 357, 4e mouvement]","clavecin, violon et violoncelle",
+149.2,G. 149/2,,Sonata,D minor,"1. Moderato (D minor)
+[arrangement - Quintet, Opus 49/4, G 368, 1er mouvement]
+2. Menuet (D major) / Trio (D minor)
+[arranjgement - Quintet, Opus 49/4, G 368, 2e mouvement]
+3. Adagio con espressione (B-flat major)
+[arrangement - Quintet, Opus 49/4, G 368, 3e mouvement]
+4. Finale. Allegro molto (D minor)
+[arrangement - Quintet, Opus 49/4, G 368, 4e mouvement]","clavecin, violon et violoncelle",
+149.3,G. 149/3,,Sonata,C major,"1. Allegro (C major)
+[arrangement - Quintet, Opus 46/3, G 361, 1er mouvement]
+2. Andante semplice (A minor)
+[arrangement - Quintet, Opus 46/3, G 361, 2e mouvement]
+3. Menuetto (C major) / Trio (A minor)
+[arrangement - Quintet, Opus 46/3, G 361, 3e mouvement]
+4. Finale. Allegro molto )C major)
+[arrangement - Quintet, Opus 46/3, G 361, 4e mouvement]","clavecin, violon et violoncelle",
+150,G. 150,,Sonata,D minor,"1. Allegro assai (D minor)
+[arrangement - Quintet, Opus 46/2, G 360, 1er mouvement]
+2. Andante lentarello (A major)
+[arrangement - Quintet, Opus 46/2, G 360, 2e mouvement]
+3. Menuetto un poco vivo (D major) / Trio (D major)
+[arrangement - Quintet, Opus 46/2, G 360, 3e mouvement]
+4. Finale. Allegro assai (D minor)
+[arrangement - Quintet, Opus 46/2, G 360, 4e mouvement]","clavecin, violon et violoncelle",
+151,G. 151,,Sonata,B-flat major,"1. Adagio molto ( B-flat major)
+[arrangement - Quintet, Opus 46/1, G 359, 1er mouvement]
+2. Allegro vivace (B-flat major)
+[arrangement - Quintet, Opus 46/1, G 359, 2e mouvement]
+3. Tempo di Minuetto (E-flat major) / Trio (E-flat major)
+[arrangement - Quintet, Opus 46/1, G 359, 3e mouvement]","clavecin, violon et violoncelle",
+152,G. 152,,Trio,D minor,"1. Larghetto (D minor) / Allegro (D minor)
+[arrangement - Quintet, Opus 25/1, G 295, 1er mouvement]
+2. Menuetto (D minor) / Trio (D major)
+[arrangement - Quintet, Opus 25/1, G 295, 2e mouvement]
+3. Rondo. Allegretto (D major)
+[arrangement - Quintet, Opus 25/1, G 295, 3e mouvement]","clavecin, violon et violoncelle",
+153,G. 153,,Trio,G minor,"1. Moderato (G minor)
+[arrangement - Quintet, Opus 42/4, G 351, 1er mouvement]
+2. Minuetto (G major) / Trio (G major)
+[arrangement - Quintet, Opus 42/4, G 351, 2e mouvement]
+3. Larghetto (B-flat major)
+[arrangement - Quintet, Opus 42/4, G 351, 3e mouvement]
+4. Finale. Allegro (G minor)
+[arrangement - Quintet, Opus 42/4, G 351, 4e mouvement]","clavecin, violon et violoncelle",
+154,G. 154,"3 Sonates pour pianoforte, violon et alto",Trio,,,,[arrangement par Hérold]
+154.1,G. 154/1,,Sonata,C minor,"1. Grave assai (C minor) / Allegro assai (C major)
+[arrangement - Quintet, Opus 51/2, G 377, 1er mouvement]
+2. Andante con innocenza (C major)
+[arrangement - Quintet, Opus 51/2, G 377, 2e mouvement]
+3. Tempo di minuetto (F major) / Trio (B-flat major)
+[arrangement - Quintet, Opus 51/2, G 377, 3e mouvement]
+4. Grave assai (C minor) / Allegro assai (C major)
+[répétition du 1er mouvement]","pianoforte, violon et alto",
+154.2,G. 154/2,,Sonata,E-flat major,"1. Allegro vivo (E-flat major)
+[arrangement - Quintet, Opus 49/5, G 369, 1er mouvement]
+2. Larghetto (C minor)
+[arrangement - Quintet, Opus 49/5, G 369, 3e mouvement]
+3. Finale. Presto (E-flat major)
+[arrangement - Quintet, Opus 49/5, G 369, 4e mouvement]","pianoforte, violon et alto",
+154.3,G. 154/3,,Sonata,D major,"1. Allegro molto (D major)
+[arrangement - Quintet, Opus 49/1, G 365, 1er mouvement]
+2. Larghetto (G major)
+[arrangement - Quintet, Opus 49/1, G 365, 2e mouvement]
+3. Minuetto (D major) / Trio (D major)
+[arrangement - Quintet, Opus 49/1, G 365, 3e mouvement]
+4. Finale. Allegro assai (D major)
+[arrangement - Quintet, Opus 49/1, G 365, 4e mouvement]","pianoforte, violon et alto",
+155,G. 155,"3 Trios pour flûte, violon et violoncelle",Trio,,,,[arrangements - perdu]
+156,G. 156,"3 Trios pour flûte, violon et violoncelle",Trio,,,,[arrangements - perdu]
+157,G. 157,,Trio,C major,"1. Allegro (C major)
+[arrangement - Trio, Opus 4/2, G 84, 1er mouvement]
+2. Larghetto amoroso (F major)
+[arrangement - Trio, Opus 4/2, G 84, 2e mouvement]
+3. Presto assai (C major)
+[arrangement - Trio, Opus 4/2, G 84, 3e mouvement]",2 flûtes traversières et basse continue,
+158,G. 158,,Trio,D major,"1. Moderato (D major)
+[arrangement - Trio, Opus 4/5, G 87, 1er mouvement]
+2. Andantino (G major)
+[arrangement - Trio, Opus 4/5, G 87, 2e mouvement]
+3. Tempo di Minuetto (D major) / Trio (B-flat major)
+[arrangement - Trio, Opus 4/5, G 87, 3e mouvement]",flûte et basse continue,
+159,G. 159,,Quartet,C minor,"1. Allegro comodo (C minor)
+2. Largo (E-flat major)
+3.Allegro (C minor)
+[arrangé en mouvement sonate pour clavecin/pianoforte et violon par Mlle Le Jeune, G 46]","2 violons, alto et violoncelle","[arrangé en sonate pour clavecin/pianoforte ou harpe et violon, par Naderman, C 43]"
+160,G. 160,,Quartet,B-flat major,"1. Allegro non tanto (B-flat major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte ou harpe et violon, par Naderman, G 44]
+2. Largo (E-flat major)
+3. Fuga con spirito (B-flat major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte ou harpe et violon, par Naderman, G 44]","2 violons, alto et violoncelle","[arrangé comme quatuor # 3 pour flûte, clarinet, cor et basson, par O. Van den Broek, G 263]"
+161,G. 161,,Quartet,D major,"1. Allegro moderato (D major)
+2. Largo (G major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 49]
+3. Minuetto (D major) / Trio (G major)","2 violons, alto et violoncelle",
+162,G. 162,,Quartet,E-flat major,"1. Allegro spiritoso (E-flat major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 50]
+2. Adagio (B-flat major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 50]
+3. Minuetto (E-flat major) / Trio (B-flat major)","2 violons, alto et violoncelle",
+163,G. 163,,Quartet,E major,"1. Allegro moderato (E major)
+2. Adagio (A major)
+3. Allegro assai (E major)
+[arrangé comme mouvement du quatuor # 1 pour flûte, clarinet, cor et basson, par O. Van den Brock, G 263]","2 violons, alto et violoncelle",
+164,G. 164,,Quartet,C major,"1. Allegro con apirito (C major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte ou harpe et violon, par Naderman, G 40]
+2. Largo (C minor)
+3. Minuetto (C major) / Trio (F major)
+[arrangé comme mouvement pour orchestre à cordes, par Marescalchie, G 502]","2 violons, alto et violoncelle",
+165,G. 165,,Quartet,D major,"1. Allegro assai (D major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 47]
+2. Adagio (D minor)
+3. Rondeau. Allegro (D major)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 47;
+mouvement d'une sonate pour clavecin/pianoforte et violon, par Thomas Billington, G 39]","2 violons, alto et violoncelle",
+166,G. 166,,Quartet,C minor,"1. Moderato (C minor)
+2. Largo (E-flat major)
+3. Allegro (C minor)","2 violons, alto et violoncelle",
+167,G. 167,,Quartet,E-flat major,"1. Largo (E-flat major)
+2. Allegro (E-flat major
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 48;
+mouvement du quatuor # 1 pour clarinette, flûte, cor et basson, par O. Van den Broek, G 263]
+3. Tempo di Minuetto (E-flat major) / Trio (C minor)","2 violons, alto et violoncelle",
+168,G. 168,,Quartet,G minor,"1. Allegro (G minor)
+2. Grave (E-flat major)
+3. Allegro (G minor)","2 violons, alto et violoncelle",
+169,G. 169,,Quartet,F major,"1. Andantino (F major)
+2. Allegro (F major)
+3. Tempo di Minuetto (F major) / Trio (B-flat major)","2 violons, alto et violoncelle","[arrangé comme quatuor # 2 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 263]"
+170,G. 170,,Quartet,A major,"1. Allegro brillante (A major)
+2. Amoroso (E major)
+[arrangé comme mouvement du quatuor # 1 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 263]
+3. Allegro (A major)","2 violons, alto et violoncelle",
+171,G. 171,,Quartet,C minor,"1. Allegro (C minor)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte ou harpe et violon, par Naderman, G 45]
+2. Larghetto (E-flat major)
+3. Minuetto (E-flat major) / Trio (la bémol majeur)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 46]
+4. Presto (C minor)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte et violon, par Mlle Le Jeune, G 46]","2 violons, alto et violoncelle",
+172,G. 172,,Quartet,D minor,"1. Grave (D minor) / Allegro (D minor)
+[arrangé comme mouvement d'une sonate pour clavecin/pianoforte ou harpe et violon, par Naderman, G 42]
+2. Larghetto (B-flat major)
+3. Allegretto con moto (D minor)","2 violons, alto et violoncelle",
+173,G. 173,,Quartet,F major,"1. Largo (F major) / Allegro (F major)
+2. Largo cantabile (B-flat major)
+3. Minuetto (F major) / Trio (G minor)","2 violons, alto et violoncelle",
+174,G. 174,,Quartet,E-flat major,"1. Adagio (E-flat major)
+2. Allegro (E-flat major)
+3. Minuetto (E-flat major) / Trio (la bémol majeur)","2 violons, alto et violoncelle",
+175,G. 175,,Quartet,D major,"1. Andante con moto (D major)
+2. Allegro assai (D major)
+3. Rondo. Allegro (D major)","2 violons, alto et violoncelle",
+176,G. 176,,Quartet,E major,"1. Andante grazioso (E major)
+2. Allegretto (E major)
+3. Minuetto (A major) / Trio (A minor)
+4. Allegro assai (E major)","2 violons, alto et violoncelle",
+177,G. 177,,Quartet,D major,"1. Presto (D major)
+2. Rondeau. Allegro (D major)","2 violons, alto et violoncelle",
+178,G. 178,,Quartet,F major,"1. Allegro (F major)
+2. Minuetto. Allegro (F major) / Trio (F minor)","2 violons, alto et violoncelle",
+179,G. 179,,Quartet,E major,"1. Andantino (E major)
+2. Prestissimo (E major)","2 violons, alto et violoncelle",
+180,G. 180,,Quartet,F major,"1. Prestissimo (F major)
+2. Minuetto (F major) / Trio (F minor)","2 violons, alto et violoncelle",
+181,G. 181,,Quartet,E-flat major,"1. Adagio con sordina (E-flat major)
+2. Minuetto (E-flat major) / Trio (la bémol majeur)","2 violons, alto et violoncelle",
+182,G. 182,,Quartet,C minor,"1. Larghetto (C minor)
+2.Minuetto. Allegro moderato (C major) / Trio (F major)","2 violons, alto et violoncelle",
+183,G. 183,,Quartet,C major,"1. Allegro molto (C major)
+2. Tempo di Minuetto (C major) / Trio (C minor)","2 violons, alto et violoncelle",
+184,G. 184,,Quartet,D major,"1. Moderato (D major)
+2. Minuetto (D major) / Trio (G major)","2 violons, alto et violoncelle",
+185,G. 185,,Quartet,E-flat major,"1. Adagio (E-flat major)
+2. Rondeau. Allegro (E-flat major)","2 violons, alto et violoncelle",
+186,G. 186,,Quartet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Allegro vivace (B-flat major)","2 violons, alto et violoncelle",
+187,G. 187,,Quartet,A minor,"1. Allegretto con molto (A minor)
+2. Minuetto. Amoroso (A major) / Trio (D major)","2 violons, alto et violoncelle",
+188,G. 188,,Quartet,C major,"1. Andantino (C major)
+2.Non troppo presto (C major)","2 violons, alto et violoncelle",
+189,G. 189,,Quartet,D major,"1. Moderato (D major)
+2. Grave (D minor)
+3. Allegro assai (D major)","2 violons, alto et violoncelle",
+190,G. 190,,Quartet,A major,"1. Larghetto (A major)
+2. Allegro spiritoso (A major)
+3. Minuetto. Amoroso (A major) / Trio (A major)","2 violons, alto et violoncelle",
+191,G. 191,,Quartet,E-flat major,"1. Allegro moderato (E-flat major)
+2. Adagio non tanto (B-flat major)
+3. Minuetto (E-flat major) / Trio (C minor)
+[arrangé pour flûte ou violon, par musicien inconnu]","2 violons, alto et violoncelle",
+192,G. 192,,Quartet,C major,"1. Moderato (C major)
+2. Larghetto (A minor)
+3. Minuetto (C major) / Trio (C minor)","2 violons, alto et violoncelle",
+193,G. 193,,Quartet,C minor,"1. Allegro moderato (C minor)
+2. Larghetto (C major)
+3. Allegro molto (C minor)","2 violons, alto et violoncelle",
+194,G. 194,,Quartet,G minor,"1. Allegro vivo assai (G minor)
+2. Adagio (B-flat major)
+3. Minuetto (G minor) / Trio (G major)","2 violons, alto et violoncelle",
+195,G. 195,,Quartet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Minuetto con moto (B-flat major) / Trio (B-flat major)","2 violons, alto et violoncelle","[arrangé comme quatuor pour clavecin, violon, alto et violoncelle, par musicien inconnu, G 259/1]"
+196,G. 196,,Quartet,G minor,"1. Larghetto (G minor)
+2. Minuetto (G major) / Trio (G minor)","2 violons, alto et violoncelle","[arrangé comme quatuor pour clavecin, violon, alto et violoncelle, par musicien inconnu, G 259/2]"
+197,G. 197,,Quartet,E-flat major,"1. Allegro vivace (E-flat major)
+2.Minuetto (E-flat major) / Trio (E-flat major)","2 violons, alto et violoncelle","[arrangé comme quatuor pour clavecin, violon, alto et violoncelle, par musicien inconnu, G 259/3]"
+198,G. 198,,Quartet,A major,"1. Larghetto (A major)
+2. Minuetto con moto (A major) / Trio (D major)","2 violons, alto et violoncelle","[arrangé comme quatuor pour clavecin, violon, alto et violoncelle, par musicien inconnu, G 259/4]"
+199,G. 199,,Quartet,F major,"1. Allegretto (F major)
+2. Minuetto. Allegro (F major) / Trio (D minor)","2 violons, alto et violoncelle","[arrangé comme quatuor pour clavecin, violon, alto et violoncelle, par musicien inconnu, G 259/5]"
+200,G. 200,,Quartet,F minor,"1. Andante appassionato ma non lento (F minor)
+2. Minuetto (F major) / Trio (F minor)","2 violons, alto et violoncelle","[arrangé comme quatuor pour clavecin, violon, alto et violoncelle, par musicien inconnu, G 259/6]"
+201,G. 201,,Quartet,E-flat major,"1. Allegretto lentarello e affettuoso (E-flat major)
+2. Minuetto (E-flat major) / Trio (C minor)
+3. Grave (C minor)
+4. Allegro vivace assai (E-flat major)","2 violons, alto et violoncelle",
+202,G. 202,,Quartet,mi mineur,"1. Largo sostenuto (mi mineur)
+2. Minuetto (E major)
+3. Larghetto (mi mineur)
+4. Minuetto (E major)
+[reprise du 2e mouvement]
+5. Rondeau. Comodo assai (E major)","2 violons, alto et violoncelle",
+203,G. 203,,Quartet,D major,"1. Allegro vivo (D major)
+2. Adagio (mi mineur)
+3. Allegro vivo ma non presto (D major
+[arrangé comme mouvement du quatuor # 2 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]","2 violons, alto et violoncelle",
+204,G. 204,,Quartet,C major,"1. Allegro bizarro (C major)
+2. Larghetto (C minor)
+[arrangé comme mouvement du quatuor # 2 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]
+3. Allegro con brio (C major)","2 violons, alto et violoncelle",
+205,G. 205,,Quartet,G minor,"1. Allegro comodo (G minor)
+2. Andantino (E-flat major)
+3. Minuetto con moto (C minor) / Trio (C major)
+4. Allegro giusto (G minor)","2 violons, alto et violoncelle",
+206,G. 206,,Quartet,A major,"1. Allegro (A major)
+2. Andantino lentarello (A minor)
+[arrangé comme mouvement du quatuor # 3 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]
+3. Minuetto con moto (A major) / Trio (A minor)
+4. Presto assai (A major)
+[arrangé comme mouvement du quatuor # 1 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]","2 violons, alto et violoncelle",
+207,G. 207,,Quartet,E major,"1. Allegro spiritoso (E major)
+2. Rondeau. Allegretto ma con moto (E major)","2 violons, alto et violoncelle",
+208,G. 208,,Quartet,C major,"1. Allegretto (so majeur)
+2. Minuetto (C major) / Trio 1 (C minor) / Trio 2 (A minor)","2 violons, alto et violoncelle",
+209,G. 209,,Quartet,G major,"1. Andante con moto (G major)
+2. Presto assai (C major)","2 violons, alto et violoncelle",
+210,G. 210,,Quartet,B-flat major,"1. Andante lentarello (B-flat major)
+2. Minuetto (B-flat major) / Trio (G minor)","2 violons, alto et violoncelle",
+211,G. 211,,Quartet,mi mineur,"1. Allegro brillante (mi mineur)
+2. Allegro vivo assai (E major) / Minuetto (E major)","2 violons, alto et violoncelle",
+212,G. 212,,Quartet,E-flat major,"1. Adagio (E-flat major)
+2. Minuetto. Affettuoso (E-flat major) / Trio (E-flat major)","2 violons, alto et violoncelle",
+213,G. 213,,Quartet,A major,"1. Allegro moderato (A major)
+2. Minuetto (A major) / Trio (A major)
+3. Grave (D minor)
+4. Allegro giuso (A major)
+[arrangé comme mouvement du quatuor # 2 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]","2 violons, alto et violoncelle",
+214,G. 214,,Quartet,C minor,"1. Prestissimo (C minor)
+2. Tempo di Minuetto (C major) / Trio (C minor)
+[arrangé comme mouvement du quatuor # 3 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]
+3. Andante flabile (C minor)","2 violons, alto et violoncelle",
+215,G. 215,,Quartet,C major,"1. Allegretto moderato assai (C major)
+2. Minuetto. Allegro (C major) / Trio (C minor)
+3. Larghetto affettuoso (F major)
+4. Rondeau. Allegro moderato (C major)","2 violons, alto et violoncelle",
+216,G. 216,,Quartet,A major,"1. Allegretto moderato (A major)
+2. Minuetto. Allegro (A major) / Trio (D major)","2 violons, alto et violoncelle",
+217,G. 217,,Quartet,C major,"1. Andante (C major)
+2. Minuetto (C major) / Trio (A minor)","2 violons, alto et violoncelle",
+218,G. 218,,Quartet,A major,"1. Allegretto moderato (A major)
+2. Tempo di Minuetto (A major) / Trio (A minor)","2 violons, alto et violoncelle",
+219,G. 219,,Quartet,A major,"1. Allegretto con moto (A major)
+2. Minuetto (A major) / Trio (D major)","2 violons, alto et violoncelle",
+220,G. 220,,Quartet,B-flat major,"1. Maestoso assai (B-flat major)
+2. Tempo di Minuetto (G minor)","2 violons, alto et violoncelle",
+221,G. 221,,Quartet,mi mineur,"1. Andante larghetto (mi mineur)
+2. Minuetto amoroso (E major) / Trio (G major)
+3. Andante allegretto (E major)","2 violons, alto et violoncelle",
+222,G. 222,,Quartet,F major,"1. Lento assai (F major)
+2. Allegretto con moto (F major)
+[suivi de la reprise du 1er mouvement]
+3. Tempo di Minuetto (F major) / Trio (B-flat major)","2 violons, alto et violoncelle",
+223,G. 223,"Quatuor ""La Tiranna"" in G major",Quartet,G major,"1. Presto (G major)
+2. Tempo di Minuetto (G major) / Trio (G minor)","2 violons, alto et violoncelle",
+224,G. 224,,Quartet,D major,"1. Andantino lento (D major)
+2. Allegro non tanto (D major)","2 violons, alto et violoncelle",
+225,G. 225,,Quartet,E-flat major,"1. Andantino (E-flat major)
+2. Minuetto con moto (E-flat major) / Trio (E-flat major)","2 violons, alto et violoncelle",
+226,G. 226,,Quartet,F major,"1. Andante moderato (F major)
+2. Minuetto con moto (F major) / Trio (F minor)","2 violons, alto et violoncelle",
+227,G. 227,,Quartet,A major,"1. Andante lento (A major)
+2. Tempo di Minuetto (A major) / Trio (D major)","2 violons, alto et violoncelle",
+228,G. 228,,Quartet,B minor,"1. Allegretto moderato (B minor)
+2. Minuetto con moto (B minor) / Trio (si majeur)","2 violons, alto et violoncelle",
+229,G. 229,,Quartet,B-flat major,"1. Andantino lento (E-flat major)
+2. Minuetto con un poco di moto (C minor) / Trio (E-flat major)","2 violons, alto et violoncelle",
+230,G. 230,,Quartet,G major,"1. Larghetto (G major)
+2. Minuetto con un poco di moto (G major) / Trio (G minor)","2 violons, alto et violoncelle",
+231,G. 231,,Quartet,C major,"1. Allegro vivace (C major)
+2. Tempo di Minuetto. Affettuoso (C major)","2 violons, alto et violoncelle",
+232,G. 232,,Quartet,C major,"1. Allegro con moto (C major)
+[arrangé comme mouvement du quatuor # 3 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]
+2. Minuetto (C major) / Trio (C major)
+3. Adagio (A minor)
+4. Finale. Allegro giusto (C minor)
+[arrangé comme mouvement du quatuor # 3 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262;
+mouvement d'un quintet pour guitare, G 449]","2 violons, alto et violoncelle",
+233,G. 233,,Quartet,D major,"1. Allegro vivace assai (D major)
+[arrangé comme mouvement du quatuor # 1 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262;
+utilisé comme mouvement dans un quatuor, Opus 54/3, G 252]
+2. Andantino patetico (D minor)
+3. Minuetto (A major) / Trio (D major)
+4. Rondeau. Allegretto (D major)","2 violons, alto et violoncelle",
+234,G. 234,,Quartet,G major,"1. Allegretto con moto (G major)
+2. Minuetto (G major) / Trio (C major)
+3. Adagio (D major)
+4. Rondeau. Allegro giusto (G major)","2 violons, alto et violoncelle",
+235,G. 235,,Quartet,F minor,"1. Allegretto appassionato (F minor)
+2. Minuetto con moto (C major) / Trio (C minor)
+3. Adagio non tanto (F major)
+[arrangé comme mouvement du quatuor # 1 pour flûte, clarinette, cor et basson, par O. Van den Broek, G 262]
+4. Finale. Allegro assai (F minor)","2 violons, alto et violoncelle",
+236,G. 236,,Quartet,E-flat major,"1. Allegro [che appena si senta] (E-flat major)
+2. Tempo di Minuetto (E-flat major) / Trio (E-flat major)","2 violons, alto et violoncelle",
+237,G. 237,,Quartet,D major,"1. Andantino pausato (D major)
+[thème utilisé dans le quintet avec piano, en D major, Opus 56/5, G 411]
+2. Minuetto. Allegro (D major) / Trio (D minor)","2 violons, alto et violoncelle","[arrangé comme quintet pour guitare, G 449]"
+238,G. 238,,Quartet,C major,"1. Allegro vivace (C major)
+2. Minuetto. Allegro (C major) / Trio (C minor)","2 violons, alto et violoncelle","[mouvements répétés dans le quatuor, Opus 54/3, G 252]"
+239,G. 239,,Quartet,A major,"1. Allegro vivace (A major)
+2. Rondeau. Allegro (A major)","2 violons, alto et violoncelle",
+240,G. 240,,Quartet,C major,"1. Andantino lento (C major)
+2. Tempo di Minuetto (C major) / Trio (C major)","2 violons, alto et violoncelle","[arrangé comme quintet pour guitare, G 450]"
+241,G. 241,,Quartet,E-flat major,"1. Andantino amoroso (E-flat major)
+2.Minuetto. Allegro (E-flat major) / Trio (C minor)","2 violons, alto et violoncelle",
+242,G. 242,,Quartet,C major,"1. Allegro (C major)
+2. Larghetto (F major)
+3. Allegro vivo assai (C major)","2 violons, alto et violoncelle",
+243,G. 243,,Quartet,E-flat major,"1. Allegretto lento (E-flat major)
+2. Minuetto. Allegro (E-flat major) / Trio (C minor)
+3. Larghetto malincolino (C minor)
+4. Finale. Allegro vivo assai (E-flat major)","2 violons, alto et violoncelle",
+244,G. 244,,Quartet,B-flat major,"1. Larghetto (B-flat major)
+2. Allegro vivo assai (B-flat major)
+3. Rondeau. Allegro giusto (B-flat major)","2 violons, alto et violoncelle",
+245,G. 245,,Quartet,B minor,"1. Allegro molto (B minor)
+2. Andantino lento (G major)
+3. Rondeau. Allegro (B minor)","2 violons, alto et violoncelle",
+246,G. 246,,Quartet,D major,"1. Andante sostenuto (D major)
+2. Allegretto Gajo (D major)
+[suivi de la reprise du 1er mouvement]
+3. Presto (D major)","2 violons, alto et violoncelle",
+247,G. 247,,Quartet,E-flat major,"1. Allegretto moderato (E-flat major)
+2. Larghetto (B-flat major)
+3. Allegro giusto e sostenuto (E-flat major)","2 violons, alto et violoncelle",
+248,G. 248,,Quartet,F major,"1. Allegro molto (F major)
+2. Adagio non tanto (B-flat major)
+3. Allegro vivo ma non presto (F major)","2 violons, alto et violoncelle",
+249,G. 249,,Quartet,D major,1. Allegro con brio (D major),"2 violons, alto et violoncelle",[incomplet]
+250,G. 250,,Quartet,D major,"1. Andantino (D major)
+2. Allegro maestoso (D major)
+3. Rondo. Allegro giusto (D major)","2 violons, alto et violoncelle","[arrangement par Boccherini, du trio # 37, Opus 54/1, G 113]"
+251,G. 251,,Quartet,G major,"1. Allegro con moto (G major)
+2. Tempo di Minuetto (G major) / Trio (C minor)
+3. Rondeau. Allegro giusto (G major)","2 violons, alto et violoncelle","[arrangement par Boccherini, du trio # 38, Opus 54/1, G 113]"
+252,G. 252,,Quartet,C major,"1. Allegro maestoso (C major)
+[reprise du 1er mouvement du quatuor # 75, Opus 52/2, G 233 - transposé en C major]
+2. Minuetto. Allegro (C major) / Trio (C minor)
+[reprise du 2e mouvement du quatuor # 80, Opus 53/3, G 238]
+3. Grave (C minor / C major)
+[arrangement du 1er mouvement du quintet # 113, Opus 51/2, G 377]
+4. Finale. Presto assai (C major)
+[reprise du 1er mouvement, du quatuor # 80, Opus 53/3, G 238]","2 violons, alto et violoncelle",
+253,G. 253,,Quartet,A major,"1. Presto assai (A major)
+2. Larghetto (D major)
+3. Tempo di Minuetto (D major) / Trio (D minor)
+4. Finale. Allegro vivo (A major)","2 violons, alto et violoncelle","[arrangement par Boccherini, du trio # 42, Opus 54/6, G 118]"
+254,G. 254,,Quartet,C major,"1. Allegro con spirito (C major)
+2. Andantino (F major)
+3. Minuetto (F major) / Trio (B-flat major)
+4. Rondo. Allegretto moderato (C major)","2 violons, alto et violoncelle","[arrangement par Boccherini, du trio # 40, Opus 54/4, G 116]"
+255,G. 255,,Quartet,D major,"1. Allegro moderato (D major)
+[arrangement du 1er mouvement du trio # 19, Opus #4/1, G 95]
+2. Andantino (D minor)
+[arrangement du 2e mouvement du trio # 22, Opus 14/4, G 98]
+3. Minuetto (F major) / Trio (B-flat major)
+[arrangement du 3e mouvement du trio # 20, Opus 14/2, G 96]
+4. Allegro assai (D major)
+[arrangement du 3e mouvement du trio # 22, Opus 14/4, G 98]","2 violons, alto et violoncelle",
+256,G. 256,"Quatuors pour 2 violons, alto et violoncelle",Quartet,,,,"[arrangement de quintets, Opus 10]"
+256.1,G. 256/1,,Quartet,A major,"1. Andantino (A major)
+[thème utilisé dans la sonate pour pianoforte et violon, Opus 5/4, G 28]
+2. Largo (A minor)
+3. Minuetto (D major) / Trio (D major)
+4. Allegro assai (A major)","2 violons, alto et violoncelle","[arrangement de quintet # 1, Opus 10/1, G 265]"
+256.2,G. 256/2,,Quartet,E-flat major,"1. Andantino (E-flat major)
+2. Allegro (E-flat major)
+3. Minuetto (E-flat major) / Trio (F minor)
+4. Presto (E-flat major)","2 violons, alto et violoncelle","[arrangement de quintet # 2, Opus 10/2, G 266]"
+256.3,G. 256/3,,Quartet,C minor,"1. Allegretto (C minor)
+2. Adagio (C major)
+3. Minuetto (C minor) / Trio (la bémol majeur)
+4. Presto (C minor)","2 violons, alto et violoncelle","[arrangement de quintet # 3, Opus 10/3, G 267]"
+256.4,G. 256/4,,Quartet,C major,"1. Adagio (C major) / Allegro con forza (C major)
+2. Adagio (C minor)
+3. Presto allegro (C major)","2 violons, alto et violoncelle","[arrangement de quintet # 4, Opus 10/4, G 268]"
+256.5,G. 256/5,,Quartet,E-flat major,"1. Andante (E-flat major)
+2. Allegro assai (E-flat major)
+3. Allegretto (E-flat major)","2 violons, alto et violoncelle","[arrangement de quintet # 5, Opus 10/5, G 269]"
+256.6,G. 256/6,,Quartet,D major,"1. Dolce (D major)
+2. Allegro maestoso (D major)
+3. Minuetto con variazioni (D major)
+[thème avec 4 variations]","2 violons, alto et violoncelle","[arrangement de quintet # 6, Opus 10/6, G 270]"
+257,G. 257,"Quatuors pour 2 violons, alto et violoncelle",Quartet,,,,[arrangement de quintets]
+257.1,G. 257/1,,Quartet,D minor,"1. Allegro moderato (D minor)
+2. Lento (G minor)
+3. Allegro (D minor)","2 violons, alto et violoncelle","[arrangement de quintet # 23, Opus 18/5, G 287]"
+257.2,G. 257/2,,Quartet,B-flat major,"1. Allegro giusto (B-flat major)
+2. Adagio assai cantabile (F major)
+3. Minuetto con moto (F major) / Trio (B-flat major)
+4. Prestissimo (B-flat major)","2 violons, alto et violoncelle","[arrangement de quintet # 26, Opus 20/2, G 290]"
+258,G. 258,,Quartet,F minor,1. Andante lento (F minor),"2 violons, alto et violoncelle",[incorrectement attribué à Boccherini - perdu
+259,G. 259,"Quatuors pour clavecin, violon, alto et violoncelle",Quartet,,,,"[arrangement de quatuors, Op. 26]"
+259.1,G. 259/1,,Quartet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Minuetto con moto (B-flat major) / Trio (B-flat major)","clavecin, violon, alto et violoncelle","[arrangement de quatuor, Op. 26/1, G 195]"
+259.2,G. 259/2,,Quartet,G minor,"1. Larghetto (G minor)
+2. Minuetto (G major) / Trio (G minor)","clavecin, violon, alto et violoncelle","[arrangement de quatuor, Op. 26/2, G 196]"
+259.3,G. 259/3,,Quartet,E-flat major,"1. Allegro vivace (E-flat major)
+2.Minuetto (E-flat major) / Trio (E-flat major)","clavecin, violon, alto et violoncelle","[arrangement de quatuor, Op. 26/3, G 197]"
+259.4,G. 259/4,,Quartet,A major,"1. Larghetto (A major)
+2. Minuetto con moto (A major) / Trio (D major)","clavecin, violon, alto et violoncelle","[arrangement de quatuor, Op. 26/4, G 198]"
+259.5,G. 259/5,,Quartet,F major,"1. Allegretto (F major)
+2. Minuetto. Allegro (F major) / Trio (D minor)","clavecin, violon, alto et violoncelle","[arrangement de quatuor, Op. 26/5, G 199]"
+259.6,G. 259/6,,Quartet,F minor,"1. Andante appassionato ma non lento (F minor)
+2. Minuetto (F major) / Trio (F minor)","clavecin, violon, alto et violoncelle","[arrangement de quatuor, Op. 26/6, G 200]"
+260.1,G. 260/1,,Quartet,D major,"1. Allegro vivace (D major)
+2. Tempo di Minuetto (D major) / Trio (D major)
+3. Larghetto (D major)
+4. Finale. Presto (D major)","flûte, violon, alto et violoncelle","[arrangement de quatuor, Op. 49/5, G 369]"
+260.2,G. 260/2,,Quartet,G major,"1. Andante lento (G major)
+2. Minuetto (G major) / Trio (G minor)
+3. Allegro con brio (G major)
+4. Andante lento (G minor)
+5. Allegro con brio (G major
+[reprise du 3e mouvement]","flûte, violon, alto et violoncelle","[arrangement de quatuor, Op. 46/5, G 363]"
+260.3,G. 260/3,,Quartet,D minor,"1. Moderato assai (D minor)
+2. Minuetto (D major) / Trio (D minor)
+3. Adagio non tanto (D minor)
+4. Finale. Presto (D minor)","flûte, violon, alto et violoncelle","[arrangement de quatuor, Op. 49/4, G 368]"
+261,G. 261,"6 Quatuors pour flûte, violon, alto et violoncelle",Quartet,,,,[perdu]
+262.1,G. 262/1,,Quartet,C major,"1. Allegro vivace assai (C major)
+[arrangement du 1er mouvement de Op. 52/2, G 233]
+2. Adagio non tanto (C major)
+[arrangement du 3e mouvement de Op. 52/4, G 235]
+3. Presto assai (C major)
+[arrangement du 4e mouvement de Op. 32/6, G 206]","clarinette, flûte, cor et basson",
+262.2,G. 262/2,,Quartet,F major,"1. Allegro (F major)
+[arrangement du 4e mouvement de Op. 39, G 213]
+2. Larghetto (D minor)
+[arrangement du 2e mouvement de Op. 32/4, G 204]
+3. Allegro vivo ma non presto (F major)
+[arrangement du 3e mouvement de Op. 32/3, G 203]","clarinette, flûte, cor et basson",
+262.3,G. 262/3,,Quartet,C major,"1. Allegro con moto (C major)
+[arrangement du 1er mouvement de Op. 52/1, G 232]
+2. Andantino lentarello (A minor)
+[arrangement du 2e mouvement de Op. 32/6, G 206]
+3. Tempo di Minuetto (C major) / Trio (C minor)
+[arrangement du 2e mouvement de Op. 41/1, G 214]
+4. Finale. Allegro giusto (A minor)
+[arrangement du 4e mouvement de Op. 52/1, G 232]","clarinette, flûte, cor et basson",
+263.1,G. 263/1,,Quartet,E-flat major,"1. Allegro assai (E-flat major)
+[arrangement du 3e mouvement de Op. 2/5, G 163]
+2. Amoroso (E-flat major)
+[arrangement du 2e mouvement de Op. 8/6, G 170]
+3. Allegro (E-flat major)
+[arrangement du 2e mouvement de Op. 8/3, G 167]","clarinette, flûte, cor et basson",
+263.2,G. 263/2,,Quartet,F major,"1. Allegro (F major)
+2. Andantino con un poco di moto (F major)
+3. Menuetto (F major) / Trio (B-flat major)","clarinette, flûte, cor et basson","[arrangement du quatuor Op. 8/5, G 169]"
+263.3,G. 263/3,,Quartet,B-flat major,"1. Allegro non tanto (B-flat major)
+2. Largo (E-flat major)
+3. Fuga con spirito (B-flat major)","clarinette, flûte, cor et basson","[arrangement du quatuor Op. 2/2, G 160]"
+264.1,G. 264/1,,Quartet,F major,"1. Allegro moderato
+2. Andante
+3. Rondo","clarinette, flûte, cor et basson","[auteur inconnu, arrangement par Othon Van den Broek]"
+264.2,G. 264/2,,Quartet,C major,"1. Allegro moderato
+2. Andantino
+3. Rondo","clarinette, flûte, cor et basson","[auteur inconnu, arrangement par Othon Van den Broek]"
+264.3,G. 264/3,,Quartet,D minor,"1. Allegro maestoso
+2. Andante con variazioni
+3. Tempo di Minuetto / Trio","clarinette, flûte, cor et basson","[auteur inconnu, arrangement par Othon Van den Broek]"
+265,G. 265,,Quintet,A major,"1. Andantino (A major)
+[thème utilisé dans la sonate pour pianoforte et violon, Opus 5/4, G 28]
+2. Largo (mineur)
+3. Minuetto (D major) / Trio (D major)
+4. Allegro assai (A major)","2 violons, alto et 2 violoncelles",
+266,G. 266,,Quintet,E-flat major,"1. Amoroso (mi béml majeur)
+2. Allegro non tanto (E-flat major)
+3. Minuetto Allegro (E-flat major) / Trio (F minor)
+4. Presto (E-flat major)","2 violons, alto et 2 violoncelles",
+267,G. 267,,Quintet,C minor,"1. Allegretto (C minor)
+2. Non tanto adagio (C major)
+3. Minuetto (C minor) / Trio (la bémol majeur)
+4. Presto (C minor)","2 violons, alto et 2 violoncelles",
+268,G. 268,,Quintet,C major,"1. Adagio (C major) / Allegro con forza (C major)
+2. Adagio (C minor)
+3. Rondeau (C major)","2 violons, alto et 2 violoncelles",
+269,G. 269,,Quintet,E-flat major,"1. Non tanto sostenuto (E-flat major)
+2. Allegro assai (E-flat major)
+3.Allegretto (E-flat major)","2 violons, alto et 2 violoncelles",
+270,G. 270,,Quintet,D major,"1. Pastorale (D major)
+2. Allegro maestoso (D major)
+3. Minuet con variazioni (D major)","2 violons, alto et 2 violoncelles",
+271,G. 271,,Quintet,B-flat major,"1. Allegro (B-flat major)
+2. Adagio non tanto (E-flat major)
+3. Allegro (B-flat major)","2 violons, alto et 2 violoncelles",
+272,G. 272,,Quintet,A major,"1. Allegro molto (A major)
+2. Larghetto (D major)
+3. Minuetto Allegro (D major) / Trio (A minor)
+4. Allegro assai (A major)","2 violons, alto et 2 violoncelles",
+273,G. 273,,Quintet,C major,"1. Allegro molto (C major)
+2. Larghetto (C minor)
+3. Minuetto (C major) / Trio (F major)
+4. Presto (C major)","2 violons, alto et 2 violoncelles",
+274,G. 274,,Quintet,F minor,"1. Larghetto (F minor / C major)
+2. Vivace (F major)
+3. Minuetto (F minor0 / Trio (F major)
+4. Presto (F major)","2 violons, alto et 2 violoncelles",
+275,G. 275,,Quintet,E major,"1. Amoroso (E major)
+2. Allegro e con spirito (E major)
+3. Minuetto [con sordini?] (A major) / Trio (D major)
+[connu comme étant le minuet célèbre de Boccherini]
+4. Rondeau (E major)","2 violons, alto et 2 violoncelles",
+276,G. 276,,Quintet,D major,"1. Adagio (D major) / Allegro giusto (D major)
+2. Allegro ""I pastori e il cacciatori"" (A minor)
+3. Tempo di Minuetto (A major)
+4. Allegro giusto (D major)
+[reprise de la 2e section du 1er mouvement]","2 violons, alto et 2 violoncelles",
+277,G. 277,,Quintet,E-flat major,"1. Maestoso (E-flat major)
+2. Larghetto con espressione (B-flat major)
+3. Minuetto (E-flat major) / Trio (C minor)
+4. Presto (E-flat major)","2 violons, alto et 2 violoncelles",
+278,G. 278,,Quintet,C major,"1. Allegro maestoso (C major)
+2. Larghetto (G minor)
+3. Presto (C major)","2 violons, alto et 2 violoncelles",
+279,G. 279,,Quintet,F major,"1. Prestissimo (F major)
+2. Largo (F minor)
+3. Tempo di Minuetto (F minor) / Trio (F major)
+4. Presto (F major)","2 violons, alto et 2 violoncelles",
+280,G. 280,,Quintet,D minor,"1. Allegro (D minor)
+2. Andante sostenuto (B-flat major)
+3. Fuga. Allegro giusto (D minor)","2 violons, alto et 2 violoncelles",
+281,G. 281,,Quintet,A major,"1. >Andantino (A major)
+2. Allegro giusto (A major)
+3. Presto assai (A major)","2 violons, alto et 2 violoncelles",
+282,G. 282,,Quintet,E major,"1. Andante sostenuto (E major)
+2. Allegro con spirito (E major)
+3. Minuetto (A major) / Trio (D major)
+4.Rondeau. Allegro (E major)","2 violons, alto et 2 violoncelles",
+283,G. 283,,Quintet,C minor,"1. Allegro moderato (C minor)
+2. Grave ((E-flat major)
+3. Minuet (E-flat major) / Trio (B-flat major)
+4. Allegro assai (C minor)","2 violons, alto et 2 violoncelles",
+284,G. 284,,Quintet,D minor,"1. Allegro assai (D major)
+2. Adagio (D minor)
+3. Minuetto (D major) / Trio (G major)
+4. Allegro assai (D major)","2 violons, alto et 2 violoncelles",
+285,G. 285,,Quintet,E-flat major,"1. Allegro molto (E-flat major)
+2. Larghetto (C minor)
+3. Minuetto (B-flat major) / Trio (E-flat major)
+4. Rondeau. Allegro (E-flat major)","2 violons, alto et 2 violoncelles",
+286,G. 286,,Quintet,C major,"1. Allegro, e vivo (C major)
+2. Largo cantabile (F major)
+3. Minuetto con moto (F major) / Trio (B-flat major)
+4. Allegro assai (C major)","2 violons, alto et 2 violoncelles",
+287,G. 287,,Quintet,D minor,"1. Allegro moderato (D minor)
+2. Lento (G minor)
+3. Allegro, e con bastante moto (D minor)","2 violons, alto et 2 violoncelles",
+288,G. 288,,Quintet,E major,"1. Grave (E major)
+2. Allegro (E major)
+3. Minuetto (A major) / Trio (A minor)
+4. Presto (E major)","2 violons, alto et 2 violoncelles",
+289,G. 289,,Quintet,E-flat major,"1. Allegro con vivacita (E-flat major)
+2. Larghetto (C minor)
+3. Grave (E-flat major)
+4. Minuetto con moto (E-flat major) / Trio (C minor)
+5. Allegro vivace assai (E-flat major)","2 violons, alto et 2 violoncelles",
+290,G. 290,,Quintet,B-flat major,"1. Allegro giusto (B-flat major)
+2. Adagio assai cantabile (F major)
+3. Minuetto con moto (F major) / Trio (B-flat major)
+4. Prestissimo (B-flat major)","2 violons, alto et 2 violoncelles",
+291,G. 291,,Quintet,F major,"1. Adagio non tanto (F major)
+2. Allegro moderato (F major)
+3. Minuetto (F minor) / Trio (F major)
+4. Allegro assai (F major)","2 violons, alto et 2 violoncelles",
+292,G. 292,,Quintet,G major,"1. Allegro brioso assai (G major)
+2. Andante lentarello (G minor)
+3. Minuetto (G minor) / Trio (G major)
+4. Prestissimo (G major)","2 violons, alto et 2 violoncelles",
+293,G. 293,,Quintet,D minor,"1. Allegro assai (D minor)
+2. Adagio (B-flat major)
+3. Minuetto (F major) / Trio (D major)
+4. Rondeau. Allegro (D major)","2 violons, alto et 2 violoncelles",
+294,G. 294,,Quintet,A minor,"1. Allegro moderato (A minor)
+2. Tempo di Minuet. Amoroso (A major) / Trio (D major)
+3. Larghetto (G major)
+4. Allegro ma non presto (A minor)","2 violons, alto et 2 violoncelles",
+295,G. 295,,Quintet,D minor,"1. Larghetto (D minor) / Allegro (D minor)
+2. Minuet (D minor) / Trio (D major)
+[thème utilisé dans l'Ouverture de la Clementina, G 540]
+3. Rondo. Allegretto (D major)","2 violons, alto et 2 violoncelles",
+296,G. 296,,Quintet,E-flat major,"1. Sostenuto assai (E-flat major)
+2. Allegro vivo (C minor()
+3. Minuet (E-flat major) / Trio (C minor)","2 violons, alto et 2 violoncelles",
+297,G. 297,,Quintet,A major,"1. Moderato assai (A major)
+2. Allegro con brio (A major)
+3. Menuetto (A major) / Trio (fa dièse mineur)","2 violons, alto et 2 violoncelles",
+298,G. 298,,Quintet,C major,"1. Allegro (C major)
+2. Larghetto (C minor)
+3. Minuetto (C major) / Trio (C minor)
+4. Allegro (C major)
+[reprise de la 2e partie du 1er mouvement]","2 violons, alto et 2 violoncelles",
+299,G. 299,,Quintet,D major,"1. Allegro moderato assai (D major)
+2. Largo assai (D minor)
+3. Minuetto (A major) / Trio (A major)
+4. Grave (D minor)
+[reprise du 2e mouvement]
+5. Rondeau. Allegretto (D major)","2 violons, alto et 2 violoncelles",
+300,G. 300,,Quintet,A minor,"1. Allegro non molto (A minor)
+2. Minuetto (A major) / Trio (A minor)
+3. Largo cantabile (D major)
+4. Allegro giusto (A minor)","2 violons, alto et 2 violoncelles",
+301,G. 301,,Quintet,A major,"1. Andante con un poco di moto (A major)
+2. Allegro con moto (A major)","2 violons, alto et 2 violoncelles",
+302,G. 302,,Quintet,G major,"1. Allegro (G major)
+2. Tempo di Minuetto (G major) / Trio (C major)","2 violons, alto et 2 violoncelles",
+303,G. 303,,Quintet,mi mineur,"1. Moderato assai (mi mineur)
+2. Minuetto (mi mineur) / Trio (E major)","2 violons, alto et 2 violoncelles",
+304,G. 304,,Quintet,E-flat major,"1. Sostenuto (E-flat major)
+2. Tempo di Minuetto (E-flat major) // Trio (E-flat major)
+[avec cadences pour le 1er violon et le 1er violoncelle]","2 violons, alto et 2 violoncelles",
+305,G. 305,,Quintet,G minor,"1. Moderato (G minor)
+2. Minuetto (G major) / Trio (G minor)","2 violons, alto et 2 violoncelles",
+306,G. 306,,Quintet,B minor,"1. Allegro moderato (B minor)
+2. Tempo di Minuetto. Amoroso (si majeur)","2 violons, alto et 2 violoncelles",
+307,G. 307,,Quintet,F major,"1. Allegro giusto (F major)
+2. Larghetto (si bémmol majeur)
+3. Minuetto (G minor) / Trio (G minor)
+4. Finale. Allegro vivo (F major)","2 violons, alto et 2 violoncelles",
+308,G. 308,,Quintet,A major,"1. Allegro vivace (A major)
+2. Minuetto (D major) / Trio (D major)
+3. Larghetto (C major)
+4. Allegro vivace (A major)
+[reprise de la 2e partie du 1er mouvement]","2 violons, alto et 2 violoncelles",
+309,G. 309,,Quintet,E-flat major,"1. Larghetto (E-flat major)
+2. Allegro molto (E-flat major)
+3. Minuetto (B-flat major) / Trio (G minor)
+4. Finale. Allegro vivo (E-flat major)","2 violons, alto et 2 violoncelles",
+310,G. 310,,Quintet,C major,"1. Allegro con moto (C major)
+2. Minuetto con moto (G major) / Trio (B-flat major)
+3. Grave (G major)
+4. Rondeau. Allegro con moto (C major)","2 violons, alto et 2 violoncelles",
+311,G. 311,,Quintet,D minor,"1. Allegro con moto (D minor)
+2. Andante lentarello (D major)
+3. Minuetto (D minor) / Trio (D major)
+4. Finale. Allegro (D minor)","2 violons, alto et 2 violoncelles",
+312,G. 312,,Quintet,B-flat major,"1. Allegro giusto (B-flat major)
+2. Minuetto (E-flat major) / Trio (E-flat major)
+3. Larghetto (G minor)
+4. Finale. Allegro vivo (B-flat major)","2 violons, alto et 2 violoncelles",
+313,G. 313,,Quintet,D major,"1. Andante moderato (D major)
+2. Minuetto (D major) / Trio (D minor)
+3. Cantabile (D major)
+4. Finale. Allegro (D major)","2 violons, alto et 2 violoncelles",
+314,G. 314,,Quintet,C minor,"1. Allegro vivo (C minor)
+2. Largo assai (la bémol majeur)
+3. Minuetto (F major) / Trio (F minor)
+4. Fuga. Allegro giusto (C minor)","2 violons, alto et 2 violoncelles",
+315,G. 315,,Quintet,F major,"1. Adagio (F major)
+2. Allegro vivo (F major)
+3. Andante lentarello (F major)","2 violons, alto et 2 violoncelles",
+316,G. 316,,Quintet,A major,"1. Allegro moderato (A major)
+2. Minuetto (A major) / Trio (A major)
+3. Largo cantabile (D major)
+4. Presto. Ballo Tedesco (A major)","2 violons, alto et 2 violoncelles",
+317,G. 317,,Quintet,E-flat major,"1. Allegro moderato (E-flat major)
+2. Minuetto (C minor) / Trio (C minor)
+3. Andante lento (G minor)
+4. Finale. Allegro vivo (E-flat major)","2 violons, alto et 2 violoncelles",
+318,G. 318,,Quintet,G minor,"1. Allegro moderato assai (G minor)
+2. Minuetto (G major) / Trio (D minor)
+3. Preludio. Adagio (G minor)
+4. Rondo. Allegro giusto (G major)","2 violons, alto et 2 violoncelles",
+319,G. 319,,Quintet,B-flat major,"1. Andante lentarello (B-flat major)
+2. Minuetto (B-flat major) / Trio (E-flat major)","2 violons, alto et 2 violoncelles",
+320,G. 320,,Quintet,A minor,"1. Allegro (A minor)
+2. Minuetto (A major) / Trio (do majeu)","2 violons, alto et 2 violoncelles",
+321,G. 321,,Quintet,C major,"1. Andantino lentarello (C major)
+2. Tempo di Minuetto (C major)","2 violons, alto et 2 violoncelles",
+322,G. 322,,Quintet,E-flat major,"1. Allegro (E-flat major)
+2. Minuetto (E-flat major) / Trio (E-flat major)","2 violons, alto et 2 violoncelles",
+323,G. 323,,Quintet,mi mineur,"1. Allegretto (mi mineur)
+2. Minuetto (E major) / Trio (do dièse mineur)","2 violons, alto et 2 violoncelles",
+324,G. 324,"Quintet in C major ""La Musica Notturna delle strade di Madrid""",Quintet,C major,"1. Ave Maria delle Parrochie (A minor)
+2. Minuetto de ciechi (C major)
+3. Rosario. Largo assai (G major)
+4. Los Manolos. Allegro vivo (G major)
+5. Ritirata con variazioni (C major)","2 violons, alto et 2 violoncelles",
+325,G. 325,,Quintet,E-flat major,"1. Allegro moderato (E-flat major)
+2. Minuetto (E-flat major) / Trio (C minor)
+3. Grave (C minor)
+4. Allegro vivace ma non presto (E-flat major)","2 violons, alto et 2 violoncelles",
+326,G. 326,,Quintet,G major,"1. Moderato (G major)
+2. Andante lento (G major)
+3. Minuetto con moto (C major) / Trio (C minor)
+4. Rondeau. Allegretto (G major)","2 violons, alto et 2 violoncelles",
+327,G. 327,,Quintet,B-flat major,"1. Andante lento (B-flat major)
+2. Allegro assai (G minor)
+3. Minuetto (B-flat major) / Trio (si bémol mineur)
+4. Finale. Allegro vivo (B-flat major)","2 violons, alto et 2 violoncelles",
+328,G. 328,,Quintet,C minor,"1. Preludio. Adagio (C minor)
+2. Allegro vivo (C major)
+3. Adagio (C minor)
+[reprise du 1er mouvement abrégé]
+4. Allegro ma non presto (C minor)","2 violons, alto et 2 violoncelles",
+329,G. 329,,Quintet,A major,"1. Cantabile (A major)
+2. Allegro maestoso (A major)
+3. Minuetto (D major) / Trio (D minor)
+4. Finale. Allegro (A major)","2 violons, alto et 2 violoncelles",
+330,G. 330,,Quintet,F major,"1. Allegro con moto (F major)
+2. Largo (C major)
+3. Minuetto (C major) / Trio (C minor)
+4. Finale. Allegro vivo (F major)","2 violons, alto et 2 violoncelles",
+331,G. 331,,Quintet,E-flat major,"1. Andante affettuoso (E-flat major)
+2. Minuetto. Allegro (E-flat major) / Trio (E-flat major)","2 violons, alto et 2 violoncelles",
+332,G. 332,,Quintet,D major,"1. Allegro assai (D major)
+2. Rondeau. Moderato (D major)","2 violons, alto et 2 violoncelles",
+333,G. 333,,Quintet,G major,"1. Larghetto (G major)
+2. Prestissimo (G major)","2 violons, alto et 2 violoncelles",
+334,G. 334,,Quintet,A minor,"1. Allegretto moderato e affettuoso (A minor)
+2. Minuetto (A major) / Trio (A minor)","2 violons, alto et 2 violoncelles",
+335,G. 335,,Quintet,G minor,"1. Andantino amoroso (G minor)
+2. Minuetto (G minor) / Trio (G major)","2 violons, alto et 2 violoncelles",
+336,G. 336,,Quintet,F major,"1. Lento e amoroso (F major) / Allegro giusto ""dello Scacciapensiero"" (C major)
+2. Minuetto (F major) / Trio. Allegro assai (F major)","2 violons, alto et 2 violoncelles",
+337,G. 337,,Quintet,B-flat major,"1. Andante lento (B-flat major)
+2. Allegro vivo (B-flat major)
+3. Tempo di Minuetto (G minor)
+4. Grave (G minor)
+5. Rondeau. Allegro non tanto (B-flat major)
+6. Minuetto (B-flat major)","2 violons, alto et 2 violoncelles",
+338,G. 338,,Quintet,F major,"1. Allegro vivo ma non presto (F major)
+2. Adagio ma non tanto (fa minieur)
+3. Minuetto (F major) / Trio (F minor)
+4. Finale. Allegro vivo ma non presto (F major)","2 violons, alto et 2 violoncelles",
+339,G. 339,,Quintet,D major,"1. Allegro vivo (D major)
+2. Pastorale. Amoroso ma non lento (G major)
+3. Finale. Presto (D major)","2 violons, alto et 2 violoncelles",
+340,G. 340,,Quintet,A major,"1. Non molto presto (A major)
+2. Tempo di Minuetto (A major) / Trio ""Follia"" (A minor)","2 violons, alto et 2 violoncelles",
+341,G. 341,,Quintet,D major,"1. Grave assai (D major)
+2. Fadango (D minor)
+3. Minuetto. Allegro (D minor) / Trio (D minor)","2 violons, alto et 2 violoncelles",
+342,G. 342,,Quintet,D major,"1. Prestissimo (D major)
+2. Rondeau. Allegro moderato (D major)","2 violons, alto et 2 violoncelles",
+343,G. 343,,Quintet,C major,"1. Allegretto moderato (C major)
+2. Minuetto. Affettuoso (C major)
+3. Presto (C minor)
+4. Presto (C major)","2 violons, alto et 2 violoncelles",
+344,G. 344,,Quintet,mi mineur,"1. Allegro moderato (mi mineur)
+2. Minuetto. Affettuoso (E major) / Trio (mi mineur)","2 violons, alto et 2 violoncelles",
+345,G. 345,,Quintet,B-flat major,"1. Andantino amoroso (B-flat major)
+2. Allegro con brio (B-flat major)","2 violons, alto et 2 violoncelles",
+346,G. 346,,Quintet,E-flat major,"1. Allegro vivo (E-flat major)
+2. Andante con un poco di moto (C minor)
+3. Minuetto (E-flat major) / Trio (C major)
+4. Allegro alla Turca (E-flat major)","2 violons, alto et 2 violoncelles",
+347,G. 347,,Quintet,F major,"1. Allegro moderato (F major)
+2. Andante (B-flat major)
+3. Allegro smorfioso (B-flat major)
+4. Finale. Allegro assai (F major)","2 violons, alto et 2 violoncelles",
+348,G. 348,,Quintet,F minor,"1. Allegro moderato assai (F minor)
+2. Minuetto. Allegro (F major) / Trio (F major)
+3. Adagio cantabile (B-flat major)
+4. Rondeau. Allegro giusto (F major)","2 violons, alto et 2 violoncelles",
+349,G. 349,,Quintet,C major,"1. Andante con moto (C major)
+2. Minuetto con grazia (C major) / Trio (A minor)
+3. Allegro assai (C major)
+4. Rondeau. Allegretto modereato (C major)","2 violons, alto et 2 violoncelles",
+350,G. 350,,Quintet,B minor,"1. Andante affettuoso (B minor)
+2. Allegro giusto (B minor)","2 violons, alto et 2 violoncelles",
+351,G. 351,,Quintet,G minor,"1. Moderato (G minor)
+2. Minuetto (G major) / Trio (G major)
+3. Larghetto amoroso (B-flat major)
+4. Finale. Allegro ma non presto (G minor)","2 violons, alto et 2 violoncelles",
+352,G. 352,,Quintet,E-flat major,"1. Andantino affettuoso (E-flat major)
+2. Tempo di Minuetto (E-flat major) / Trio (C minor)","2 violons, alto et 2 violoncelles",
+353,G. 353,,Quintet,D major,"1. Allegro moderato (D major)
+2. Minuetto con un poco di moto (D major) / Trio (D minor)
+3. Andante larghetto (D minor)
+4. Rondeau. Allegro (D major)","2 violons, alto et 2 violoncelles",
+354,G. 354,,Quintet,F major,"1. Allegro con semplicita (F major)
+2. Minuetto (F major) / Trio (F major)
+3. Largo (B-flat major)
+[suivi de la reprise du Trio du Minuetto - 2e mouvement]
+4. Finale. Allegro assai (F major)","2 violons, alto et 2 violoncelles",
+355,G. 355,,Quintet,C minor,"1. Adagio non tanto (C minor)
+2. Allegro assai (C minor)
+3. Tempo di Minuetto (C major) / Trio (A minor)
+4.Finale. Presto (C minor)","2 violons, alto et 2 violoncelles",
+356,G. 356,,Quintet,A major,"1. Allegro moderato assai (A major)
+2. Minuetto (A major) / Trio (D major)
+3. Pastorale. Andante lento (D major)
+4. Finale. Allegro (A major)","2 violons, alto et 2 violoncelles",
+357,G. 357,,Quintet,C major,"1. Maestoso (B-flat major)
+2. Minuetto con moto (E-flat major) / Trio (E-flat major)
+3. Andante larghetto (G minor)
+4. Allegro giusto (B-flat major)","2 violons, alto et 2 violoncelles",
+358,G. 358,,Quintet,C major,"1. Allegro assai (C major)
+2. Rondo. Andantino lento (F major)
+3. Minuetto non presto (C major) / Trio (C major)
+4. Finale. Allegro giusto (C major)","2 violons, alto et 2 violoncelles",
+359,G. 359,,Quintet,B-flat major,"1. Adagio (B-flat major)
+2. Allegro (B-flat major)
+3. Tempo di Minuetto (E-flat major) / Trio (E-flat major)
+[suivi de la reprise du 1er mouvement dans un format abrégé]
+4. Allegro come prima (E-flat major)
+[avec reprise partielle du 2e mouvement]","2 violons, alto et 2 violoncelles",
+360,G. 360,,Quintet,D minor,"1. Allegro assai (D minor)
+2. Andante lentarello (A major)
+3. Minuetto un poco vivo (D major) / Trio (D major)
+4. Finale. Allegro vivo (D minor)","2 violons, alto et 2 violoncelles",
+361,G. 361,,Quintet,C major,"1. Allegro (C major)
+2. Andantino (A minor)
+3. Tempo di Minuetto (C major) / Trio (A minor)
+4. Finale. Allegro giusto (C major)","2 violons, alto et 2 violoncelles",
+362,G. 362,,Quintet,G minor,"1. Allegro con un poco di moto (G minor)
+2. Adagio (E-flat major)
+3. Tempo di Minuetto (B-flat major) / Trio (E-flat major)
+4. Finale. Allegro (B-flat major)","2 violons, alto et 2 violoncelles",
+363,G. 363,,Quintet,F major,"1. Andante lento (F major)
+2. Minuetto (F major) / (Trio (D minor)
+3. Allegro con brio (F major)
+4. Lento (F major)
+5. Allegro con brio (F major)
+[reprise de la 2e partie du 3e mouvement]","2 violons, alto et 2 violoncelles",
+364,G. 364,,Quintet,E-flat major,"1. Allegro maestoso assai (E-flat major)
+2. Minuetto. Amoroso (E-flat major) / Trio (C minor)
+3. Larghetto (E-flat major)
+4. Presto (E-flat major)","2 violons, alto et 2 violoncelles",
+365,G. 365,,Quintet,D major,"1. Allegro giusto (D major)
+2. Larghetto (G major)
+3. Minuetto (D major) / Trio (D major)
+4. Finale. Prestissimo (D major)","2 violons, alto et 2 violoncelles",
+366,G. 366,,Quintet,B-flat major,"1. Allegro moderato assai (B-flat major)
+2. Minuetto (B-flat major) / Trio (E-flat major)
+3. Adagio (F major)
+4. Finale. Allegro assai (B-flat major)","2 violons, alto et 2 violoncelles",
+367,G. 367,,Quintet,E-flat major,"1. Moderato assai (E-flat major)
+2. Grave (E-flat major)
+3. Tempo di Minuetto (E-flat major) / Trio (C minor)
+4. Allegro ma non presto (E-flat major)","2 violons, alto et 2 violoncelles",
+368,G. 368,,Quintet,D minor,"1. Moderato assai (D minor)
+2. Minuetto (D major) / Trio (D minor)
+3. Adagio non tantoi (B-flat major)
+4. Finale. Allegro ma non presto (D minor)","2 violons, alto et 2 violoncelles",
+369,G. 369,,Quintet,E-flat major,"1. Allegro vivo (E-flat major)
+2. Minuetto (E-flat major) / Trio (E-flat major)
+3. Larghetto (C minor)
+4. Finale. Presto (E-flat major)","2 violons, alto et 2 violoncelles",
+370,G. 370,,Quintet,A major,"1. Allegro (A major)
+2. Minuetto (A major) / Trio (D major)","2 violons, alto et 2 violoncelles",
+371,G. 371,,Quintet,E-flat major,"1. Andante lento (E-flat major)
+2.Minuetto con un poco di moto (E-flat major) / Trio (E-flat major)","2 violons, alto et 2 violoncelles",
+372,G. 372,,Quintet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Tempo di Minuetto (B-flat major) / Trio (E-flat major)","2 violons, alto et 2 violoncelles",
+373,G. 373,,Quintet,E major,"1. Andantino amoroso (E major)
+2. Allegro un poco vivo (E major)","2 violons, alto et 2 violoncelles",
+374,G. 374,,Quintet,C major,"1. Allegretto (C major)
+2. Minuetto a mode di sighidiglia spagnola (C major) / Trio (C minor)","2 violons, alto et 2 violoncelles",
+375,G. 375,,Quintet,B-flat major,"1. Andantino lento (B-flat major)
+2. Minuetto con moto (B-flat major) / Trio (G minor)","2 violons, alto et 2 violoncelles",
+376,G. 376,,Quintet,E-flat major,"1. Presto (E-flat major)
+2. Tempo di Minuetto affettuoso (E-flat major) / Trio (C minor)
+3. Adagio (B-flat major)
+4. Allegro vivo (E-flat major)","2 violons, alto et 2 violoncelles",
+377,G. 377,,Quintet,C major,"1. Grave assai (C minor) / Allegro assai (C major)
+2. Andantino con innocenza (C major)
+3.Tempo di Minuetto (F major) / Trio (B-flat major)
+4. Grave (C minor) / Allegro assai (C major)
+[reprise de la 1ere section en format abrégé suivie de la 2e section du 1er mouvement]","2 violons, alto et 2 violoncelles",
+378,G. 378,,Quintet,C major,"1. Andante con moto (C major)
+[1er mouvement du quintet # 85, Opus 42/2, G 349]
+2. Minuet (G major) / Trio (G minor)
+[Minuet: 3e mouvement du quintet # 50, Opus 29/2, G 314 - Trio: 3e mouvement du quintet # 54, Opus 29/6, G 318]
+3. Grave (mibémol majeur)
+[3e mouvement du quintet # 61, Opus 31/1, G 325]
+4. Rondeau. Allegro con moto (C major)
+[4e mouvement du quintet # 46, Opus 28/4, G 310]","2 violons, alto et 2 violoncelles",[regroupement de cinq mouvements de différents quintets]
+379,G. 379,,Quintet,mi mineur,"1. Allegro commodo (mi mineur)
+2. Adagio (G major)
+3. Minuetto (mi mineur) / Trio (C major)
+4. Allegretto (E major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 1, Opus 56/1, G 407]"
+380,G. 380,,Quintet,F major,"1. Allegretto ( F major)
+2. Minuetto amoroso (F major) / Trio (D minor)
+3. Poco adagio (B-flat major)
+4. Allegretto (F major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 2, Opus 56/2, G 408]"
+381,G. 381,,Quintet,E-flat major,"1. Andantino affettuoso (E-flat major)
+2. Allegretto sempre (E-flat major)
+3. Allegro assai (E-flat major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 4, Opus 56/4, G 410]"
+382,G. 382,,Quintet,A minor,"1. Allegro giusto (A minor)
+2. Andantino (D minor)
+3. Minuetto (F major) / Trio (B-flat major)
+4. Andantino (D minor)
+[reprise du 2e mouvement avec un final modifié]
+5. Allegro ma non presto (A minor)
+[reprise partielle du 1er mouvement]","2 violons, 2 altos et violoncelle","[transcription du quintet # 6, Opus 56/6, G 412]"
+383,G. 383,,Quintet,D major,"1. Andante (D major)
+2. Minuetto (A major) / Trio (D major)
+3. Andante (D major)
+[reprise du 1er mouvement dans un format modifié]
+4. Marcia con vivacita (D major)
+5. Thema e variazioni - Andante et 7 variations (D major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 5, Opus 56/5, G 411]"
+384,G. 384,,Quintet,C major,"1. Allegro maestoso (C major)
+2. Andantino (A minor)
+3. Allegretto (C major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 3, Opus 56/3, G 409]"
+385,G. 385,,Quintet,D minor,"1. Allegro moderato (D minor)
+[transcription du 1er mouvement du quintet # 10, Opus 57/4, G 416]
+2. Cantabile (D major)
+[transcription du 2e mouvement du quintet # 10, Opus 57/4, G 416]
+3. Minuetto (D major) / Trio (D minor)
+4. Allegro assai (D minor)
+[transcription du 3e mouvement du quintet # 10, Opus 57/4, G 416]","2 violons, 2 altos et violoncelle",
+386,G. 386,,Quintet,E major,"1. Moderato assai (E major)
+[transcription du 1er mouvement du quintet # 11, Opus 57/5, G 417]
+2. Adagio (A major)
+[transcription du 2e mouvement du quintet # 11, Opus 57/5, G 417]
+3. Allegretto (E major)
+4. Tempo di Minuetto. Polacca (G major)
+[transcription du 3e mouvement du quintet # 11, Opus 57/5, G 417]","2 violons, 2 altos et violoncelle",
+387,G. 387,,Quintet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Minueto (B-flat major) / Trio (E-flat major)
+3. Adagio (E-flat major)
+4. Allegro (B-flat major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 8, Opus 57/2, G 414]"
+388,G. 388,,Quintet,A major,"1. Allegro moderato (A major)
+2. Minuetto (A major) / Trio (D major)
+3. Andantino (D major)
+4. Allegro giusto (A major)","2 violons, 2 altos et violoncelle","[transcription du quintet # 7, Opus 57/1, G 413]"
+389,G. 389,,Quintet,mi mineur,"1. Andante lento (mi mineur)
+2. Tempo di Minuetto (E major)
+3. Allegro vivo ""Provensal"" (mi mineur)
+4. Andante lento (E major)
+[suivi d'une reprise partielle du 3e mouvement]","2 violons, 2 altos et violoncelle","[transcription du quintet # 9, Opus 57/3, G 415]"
+390,G. 390,,Quintet,C major,"1. Allegretto lento (C major)
+2. Presto (C major)
+3. Minuetto. Polonese (C major)
+4. Tempo di una lenta marcia ""Variations sur la Retraite de Madrid"" (C major)
+[5e mouvement du quintet # 60, Opus 30/6, G 324]","2 violons, 2 altos et violoncelle","[transcription du quintet # 12, Opus 57/6, G 418]"
+391,G. 391,,Quintet,C major,"1. Allegro vivace (C major)
+2. Largo cantabile (G major)
+3. Allegro giusto (C major)
+4. Largo cantabile (G major)
+[reprise du 2e mouvement]
+5. Allegro con moto (C major)","2 violons, 2 altos et violoncelle",
+392,G. 392,,Quintet,B-flat major,"1. Andantino con moto (B-flat major)
+2. Minuetto. Allegro (B-flat major) / Trio (E-flat major)
+3. Introduzione al Final. Grave (B-flat major) / Allegro assai (B-flat major)","2 violons, 2 altos et violoncelle",
+393,G. 393,,Quintet,A major,"1. Larghetto (A major)
+2. Allegro gajo (A major)
+3. Tempo di Minuetto (D major) / Trio (G major)
+4. Allegretto (A major)","2 violons, 2 altos et violoncelle",
+394,G. 394,,Quintet,E-flat major,1. Allegro (E-flat major),"2 violons, 2 altos et violoncelle",[perdu]
+395,G. 395,,Quintet,G major,"1. Allegro con moto (G major)
+2. Minuetto. Allegro risoluto (D minor) / Trio (D major)
+3. Andantino (D minor)
+4. Allegro giusto (G major)","2 violons, 2 altos et violoncelle",
+396,G. 396,,Quintet,F major,"1. Allegro moderato (F major)
+2. Minuetto (ri bémol majeur) / Trio (E-flat major)
+3. Grave (F minor)
+4. Allegro giusto (F major)","2 violons, 2 altos et violoncelle",
+397,G. 397,,Quintet,C major,"1. Allegro maestoso (C major)
+2. Minuetto. Allegro risoluto (C major) / Trio (C minor)
+3. Larghetto (A minor)
+4. Allegro vivo (C major)","2 violons, 2 altos et violoncelle",
+398,G. 398,,Quintet,E-flat major,"1. Andante con un poco di moto (E-flat major)
+2. Allegro giusto (E-flat major)
+3. Minuetto. Allegro (B-flat major) / Trio (E-flat major)
+4. Finale. Allegro assai (E-flat major)","2 violons, 2 altos et violoncelle",
+399,G. 399,,Quintet,F major,"1. Andantino amoroso (F major)
+2. Allegro assai (F minor)
+3. Tempo di Minuetto (C major)
+4. Allegro assai (F minor)
+[reprise du 2e mouvement]","2 violons, 2 altos et violoncelle",
+400,G. 400,,Quintet,B-flat major,"1. Allegro (B-flat major)
+2. Larghetto e con semplicita (E-flat major)
+3. Tempo di Minuetto (E-flat major) / Trio (B-flat major)
+4. Prestissimo (B-flat major)","2 violons, 2 altos et violoncelle",
+401,G. 401,,Quintet,D major,"1. Allegro molto (D major)
+2. Adagio cantabile (G major)
+3. Allegro assai (D minor)","2 violons, 2 altos et violoncelle",
+402,G. 402,,Quintet,E major,"1. Allegro vivo assai (E major)
+2. Larghetto amoroso (A major)
+3. Presto (E major)
+[ce mouvement se termine avec 16 mesures empruntées du mouvement précédent]","2 violons, 2 altos et violoncelle",
+403,G. 403,"6 Quintets pour 2 violons, 2 altos et violoncelle",Quintet,,,,"[transcriptions, par un musicien inconnu, de l'Opus 10]"
+403.1,G. 403/1,,Quintet,A major,"1. Andantino (A major)
+[thème utilisé dans la sonate pour pianoforte et violon, Opus 5/4, G 28]
+2. Largo (A minor)
+3. Minuetto (D major) / Trio (eé majeur)
+4. Allegro assai (A major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 1, Opus 10/1, G 265]"
+403.2,G. 403/2,,Quintet,E-flat major,"1. Andantino (E-flat major)
+2. Allegro (E-flat major)
+3. Minuetto (E-flat major) / Trio (F minor)
+4. Presto (E-flat major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 2, Opus 10/2, G 266]"
+403.3,G. 403/3,,Quintet,C minor,"1. Allegretto (C minor)
+2. Adagio (C major)
+3. Minuetto (C minor) / Trio (E-flat major)
+4. Presto (C minor)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 3, Opus 10/3, G 267]"
+403.4,G. 403/4,,Quintet,C major,"1. Adagio (C major) / Allegro con forza (C major)
+2. Adagio (C minor)
+3. Presto Allegro (C major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 4, Opus 10/4, G 268]"
+403.5,G. 403/5,,Quintet,E-flat major,"1. Andante (E-flat major)
+2. Allegro assai (E-flat major)
+3. Allegretto (E-flat major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 5, Opus 10/5, G 269]"
+403.6,G. 403/6,,Quintet,D major,"1. Dolce (D major)
+2. Allegro maestoso (D major)
+3. Minuet con variazioni (D major)
+[thème et 4 variations]","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 6, Opus 10/6, G 270]"
+404,G. 404,"6 Quintets pour 2 violons, 2 altos et violoncelle",Quintet,,,,"[transcriptions par un musicien inconnu, de l'Opus 11]"
+404.1,G. 404/1,,Quintet,B-flat major,"1. Allegro (B-flat major)
+2. Adagio (E-flat major)
+3. Allegro (B-flat major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 7, Opus 11/1, G 271]"
+404.2,G. 404/2,,Quintet,A major,"1. Allegro molto (A major)
+2. Larghetto (D major)
+3. Minuetto. Allegro (D major) / Trio (D minor)
+4. Allegro assai (A major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 8, Opus 11/2, G 272]"
+404.3,G. 404/3,,Quintet,C major,"1. Allegro molto (C major)
+2. Larghetto (C minor)
+3. Minuetto (C major) / Trio (F major)
+4. Presto (C major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 9, Opus 11/3, G 273]"
+404.4,G. 404/4,,Quintet,F minor,"1. Larghetto (F minor)
+2. Vivace (F major)
+3. Minuetto (F minor) / Trio (F major)
+4. Presto (F major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 10, Opus 11/4, G 274]"
+404.5,G. 404/5,,Quintet,E major,"1. Amoroso (E major)
+2. Allegro con spirito (E major)
+3. Minuetto (A major) / Trio (D major)
+[célèbre Rondeau de Boccherini]
+4. Rondeau (E major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 11, Opus 11/5, G 275]"
+404.6,G. 404/6,,Quintet,D major,"1. Adagio (D major) / Allegro (D major)
+2. Allegro ""I pastori e il cacciatori"" (A minor)
+3. Tempo di Minuetto (A major)
+4. Allegro (D major)
+[reprise de la 2e partie du 1er mouvement]","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 12, Opus 11/6, G 276]"
+405,G. 405,"6 Quintets pour 2 violons, 2 altos et violoncelle",Quintet,,,,"[transcriptions, par un musicien inconnu, de l'Opus 18]"
+405.1,G. 405/1,,Quintet,C minor,"1. Allegro moderato (C minor)
+2. Grave (E-flat major)
+3. Minuetto (E-flat major) / Trio (B-flat major)
+4. Allegro assai (C minor)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 19, Opus 18/1, G 283]"
+405.2,G. 405/2,,Quintet,D major,"1. Allegro assai (D major)
+2. Adagio (G minor)
+3. Minuetto (D major) / Trio (G major)
+4. Allegro assai (D major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 20, Opus 18/2, G 284]"
+405.3,G. 405/3,,Quintet,E-flat major,"1. Allegro molto (E-flat major)
+2. Larghetto (B-flat major)
+3. Minuetto (B-flat major) / Trio (E-flat major)
+4. Rondeau. Allegro (E-flat major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 21, Opus 18/3, G 285]"
+405.4,G. 405/4,,Quintet,C major,"1. Allegro vivo (C major)
+2. Largo cantabile (F major)
+3. Minuetto (F major) / Trio (B-flat major)
+4. Allegro (C major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 22, Opus 18/4, G 286]"
+405.5,G. 405/5,,Quintet,D minor,"1. Allegro moderato (D minor)
+2. Lento (G minor)
+3. Allegro (D minor)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 23, Opus 18/5, G 287]"
+405.6,G. 405/6,,Quintet,E major,"1. Grave (E major)
+2. Allegro (E major)
+3. Minuetto (A major) / Trio (A minor)
+4. Presto (E major)","2 violons, 2 altos et violoncelle","[transcription par un musicien inconnu, du quintet # 24, Opus 18/6, G 288]"
+406,G. 406,,Quintet,E-flat major,,"2 violons, 2 altos et violoncelle",[perdu]
+407,G. 407,,Quintet,mi mineur,"1. Allegro commodo (mi mineur)
+2. Adagio (G major)
+3. Minuetto con moto (mi mineur) / Trio (C major)
+4. Allegretto (E major)","piano, 2 violons, alto et violoncelle",
+408,G. 408,,Quintet,F major,"1. Allegretto smorfioso (F major)
+2. Minuetto amoroso (F major) / Trio (D minor)
+3. Poco Adagio (B-flat major)
+4. Allegretto (F major)","piano, 2 violons, alto et violoncelle",
+409,G. 409,,Quintet,C major,"1. Allegro maestoso assai (C major)
+2. Andantino (A minor)
+3. Allegretto (C major)","piano, 2 violons, alto et violoncelle",
+410,G. 410,,Quintet,E-flat major,"1. Andante affettuoso (E-flat major)
+[Lento]
+2. Allegretto sempre (E-flat major)
+3. Allegro assai (E-flat major)","piano, 2 violons, alto et violoncelle",
+411,G. 411,,Quintet,D major,"1. Andante (D major)
+2. Minuetto (A major) / Trio (D major)
+[suivi de la reprise de la 1re partie du 1er mouvement]
+3. Allegro a modo di marcia vivace (D major)
+4. Thema a variazioni. Andante piuttosto Lento (D major)
+[thème et 6 variations - thème utilisé dans la quatuor # 79, Opus 53/2]","piano, 2 violons, alto et violoncelle",
+412,G. 412,,Quintet,A minor,"1. Allegretto (A minor)
+2. Andantino (D minor)
+3. Minuetto con moto (F major) / Trio (B-flat major)
+[suivi d'une reprise du 2e mouvement modifié]
+4. Allegro (A major)
+[suivi d'une reprise partielle du 1er mouvement]","piano, 2 violons, alto et violoncelle",
+413,G. 413,,Quintet,A major,"1. Allegro moderato (A major)
+2. Minuetto. Tempo giusto (A major) / Trio (D major)
+3. Andantino con un poco di moto (D major)
+4. Allegro giusto (A major)","piano, 2 violons, alto et violoncelle",
+414,G. 414,,Quintet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Minuetto. Tempo giusto (B-flat major) / Trio (E-flat major)
+3. Adagio (E-flat major)
+4. Finale. Allegro un poco vivace (B-flat major)","piano, 2 violons, alto et violoncelle",
+415,G. 415,,Quintet,mi mineur,"1. Andante lento assai (mi mineur)
+2. Minuetto non presto (E major)
+3. Provensal. Allegro vivo che a pena si senta (mi mineur)
+4. Andante lento (E major)
+[suivi d'une reprise partielle du 3e mouvement]","piano, 2 violons, alto et violoncelle",
+416,G. 416,,Quintet,D minor,"1. Allegro giusto ma con vivacita (D minor)
+2. Largo cantabile (D major)
+3. Finale. Allegro assai (D minor)","piano, 2 violons, alto et violoncelle",
+417,G. 417,,Quintet,E major,"1. Allegro sostenuto e imperioso (E major)
+2. Adagio (A major)
+3. Pollacca. Tempo di Minuetto (mi mineur)","piano, 2 violons, alto et violoncelle",
+418,G. 418,,Quintet,C major,"1. Allegretto lento (C major)
+2. Presto (A minor)
+3. Ritirata "" Retraite de Madrid"" con variazioni (A minor)
+[transcription du 5e mouvement du quatuor # 60, Opus 30/6]
+4. Polonese. Allegretto sostenuto (C major)","piano, 2 violons, alto et violoncelle",
+419,G. 419,,Quintet,D major,"1. Allegro assai (D major)
+2. Minuet. Amoroso (D major) / Trio (D minor)","flûte ou hautbois, 2 violons, alto et violoncelle",
+420,G. 420,,Quintet,C major,"1. Allegro giusto (C major)
+2. Minuet. Amoroso (C major) / Trio (C minor)","flûte ou hautbois, 2 violons, alto et violoncelle",
+421,G. 421,,Quintet,D minor,"1. Larghetto (D minor)
+2. Rondeau. Grazioso (D major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+422,G. 422,,Quintet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Minuet. Allegro (B-flat major) / Trio (E-flat major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+423,G. 423,,Quintet,G major,"1. Allegro moderato (G major)
+2. Allegro assai (G major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+424,G. 424,,Quintet,E-flat major,"1. Larghetto (E-flat major)
+2. Rondeau. Allegro con molto (E-flat major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+425,G. 425,,Quintet,E-flat major,"1. Allegretto con moto (E-flat major)
+2. Minuet (E-flat major) / Trio (E-flat major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+426,G. 426,,Quintet,G minor,"1. Allegro e con un poco di moto (G minor)
+2. Minuetto con moto (G minor) / Trio (G major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+427,G. 427,,Quintet,C major,"1. Andante non tanto (C major)
+2. Rondeau. Grazioso (C major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+428,G. 428,,Quintet,D major,"1. Adagio assai (D major)
+2. Minuetto con moto (D major) / Trio (D minor)","flûte ou hautbois, 2 violons, alto et violoncelle",
+429,G. 429,,Quintet,B-flat major,"1. Allegro moderato (B-flat major)
+2. Presto assai (B-flat major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+430,G. 430,,Quintet,D major,"1. Entrada (D major)
+2. Marcha (D major)
+3. Galope (D major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+431,G. 431,,Quintet,G major,"1. Allegretto con vivacita (G major)
+2. Allegretto (G major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+432,G. 432,,Quintet,F major,"1. Andantino (F major)
+2. Tempo di Minuetto (F major) / Trio (D minor)","flûte ou hautbois, 2 violons, alto et violoncelle",
+433,G. 433,,Quintet,D major,"1. Allegretto (D major)
+2. Tempo di Minuetto (D major) / Trio (D major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+434,G. 434,,Quintet,A major,"1. Andantino (A major)
+2. Allegretto (A major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+435,G. 435,,Quintet,E-flat major,"1. Andantino lento (E-flat major)
+2. Minuetto con moto (E-flat major) / Trio (E-flat major)
+3. Andantino lento (E-flat major)
+[reprise du 1er mouvemnt, suivi d'un bref coda]","flûte ou hautbois, 2 violons, alto et violoncelle",
+436,G. 436,,Quintet,D minor,"1. Allegretto comodo assai (D minor)
+2. Minuetto (D minor) / Trio (D major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+437,G. 437,,Quintet,F major,"1. Allegro (F major)
+2. Largo (B-flat major)
+3. Grazioso (F major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+438,G. 438,,Quintet,G major,"1. Allegro (G major)
+2. Adagio non tanto (D major)
+3. Andante con variazioni (G major)
+[thème avec 5 variations]","flûte ou hautbois, 2 violons, alto et violoncelle",
+439,G. 439,,Quintet,C major,"1. Allegro vivace (C major)
+2. Cantabile (G major)
+3. Andante con variazioni (C major)
+[thème suivi de 5 variations]","flûte ou hautbois, 2 violons, alto et violoncelle",
+440,G. 440,,Quintet,F major,"1. Allegro con spirito (F major)
+2. Adagio (D minor)
+3. Andantino con variazioni (F major)
+[thème suivi de 5 variations]","flûte ou hautbois, 2 violons, alto et violoncelle",
+441,G. 441,,Quintet,G major,"1. Moderato (G major)
+2. Adagio (B-flat major)
+3. Grazioso (G major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+442,G. 442,,Quintet,B-flat major,"1. Allegro (B-flat major)
+2. Adagio (B-flat major)
+3. Rondeau. Grazioso (B-flat major)","flûte ou hautbois, 2 violons, alto et violoncelle",
+443,G. 443,,Quintet,C major,"1. Allegro non troppo (C major)
+2. ... (F major)
+3. Tempo di Minuetto (C major)
+[thème suivi de 12 variations]","flûte, hautbois, violon, alto et violoncelle",[incorrectement attribué à Boccherini]
+444,G. 444,,Quintet,B-flat major,"1. Allegro (B-flat major)
+2. Andante (E-flat major)
+3. Rondo. Allegro (B-flat major)","flûte, hautbois, violon, alto et violoncelle",[incorrectement attribué à Boccherini]
+445,G. 445,,Quintet,D minor,"1. Allegro moderato (D minor)
+[transcription du 1er mouvement du quintet # 10, Opus 57/4, G 416]
+2. Cantabile (D major)
+[transcription du 2e mouvement du quintet # 10, Opus 57/4, G 416]
+3. Minuetto (D major) / Trio (D minor)
+[transcription du 3er mouvement du quintet # 7, G 385]
+4. Finale. Allegro assai (D minor)
+[transcription du 3e mouvement du quintet # 10, Opus 57/4, G 416]","guitare, 2 violons, alto et violoncelle",
+446,G. 446,,Quintet,E major,"1. Maestoso assai (E major)
+[transcription du 1er mouvement du quintet # 11, Opus 57/5, G 417]
+2. Adagio (A major)
+[transcription du 2e mouvement du quintet # 11, Opus 57/5, G 417]
+3. Allegretto (E major)
+[transcription du 3e mouvement du quintet # 8, G 386]
+4. Pollacca. Tempo di Minuetto (G major)
+[transcription du 3e mouvement du quintet # 11, Opus 57/5, G 417]","guitare, 2 violons, alto et violoncelle",
+447,G. 447,,Quintet,B-flat major,"1. Allegretto (B-flat major)
+[transcription du 1er mouvement du quintet # 8, Opus 57/2, G 414]
+2. Minuetto (B-flat major) / Trio (E-flat major)
+[transcription du 2e mouvement du quintet # 8, Opus 57/2, G 414]
+3. Adagio (E-flat major)
+[transcription du 3e mouvement du quintet # 8, Opus 57/2, G 414]
+4. Allegro (B-flat major)
+[transcription du 4e mouvement du quintet # 8, Opus 57/2, G 414]","guitare, 2 violons, alto et violoncelle",
+448,G. 448,,Quintet,D major,"1. Pastorale (D major)
+[transcription du 1er mouvement du quintet # 6, Opus 10/6, G 270]
+2. Allegro maestoso (D major)
+[transcription du 2e mouvement du quintet # 6, Opus 10/6, G 270]
+3. Grave assai (D major)
+[transcription du 1er mouvement du quintet # 77, Opus 40/2, G 341]
+4. Fadango (D minor)
+[transcription du 2e mouvement du quintet # 77, Opus 40/2, G 341]","guitare, 2 violons, alto et violoncelle",
+449,G. 449,,Quintet,D major,"1. Andantino pausato (D major)
+[transcription du 1er mouvement du quatuor # 79, Opus 53/2, G 237]
+2. Minuetto. Allegro (D major) / Trio (D minor)
+[transcription du 2e mouvement du quatuor # 79, Opus 53/2, G 237]
+3. Allegro giusto (C minor)
+[transcription du 4e mouvement du quatuor # 74, Opus 52/1, G 232]
+4. Andantino con variazioni (D major)
+[reprise du thème du 1er mouvement suivi de 8 variations extraites du 4e mouvement du quintet # 5, Opus 56/5, G 411]","guitare, 2 violons, alto et violoncelle",
+450,G. 450,,Quintet,G major,"1. Allegro con vivacita (G major)
+[transcription du 1er mouvement du quintet # 13, Opus 55/1, G 431]
+2. Andantino lento (C major)
+[transcription du 1er mouvement du quatuor # 82, Opus 53/5, G 240]
+3. Tempo di Minuetto (C major) / Trio (C major)
+[transcription du 2e mouvement du quatuor # 82, Opus 53/5, G 240]
+4. Allegretto (G major)
+[transcription du 2e mouvement du quintet # 13, Opus 55/1, G 431]","guitare, 2 violons, alto et violoncelle",
+451,G. 451,,Quintet,mi mineur,"1. Allegro commodo (mi mineur)
+[transcription du 1er mouvement du quintet # 1, Opus 56/1, G 407]
+2. Adagio (G major)
+[transcription du 2e mouvement du quintet # 1, Opus 56/1, G 407]
+3. Minuetto (mi mineur) / Trio (C major)
+[transcription du 3e mouvement du quintet # 1, Opus 56/1, G 407]
+4. Allegretto (E major)
+[transcription du 4e mouvement du quintet # 1, Opus 56/1, G 407]","guitare, 2 violons, alto et violoncelle",
+452.1,G. 452/1,,Quintet,G major,"1. Allegretto smorfioso (F major)
+[transcription du 1er mouvement du quintet # 2, Opus 56/2, G 408]
+2. Minuetto (F major) / Trio (D minor)
+[transcription du 2e mouvement du quintet # 2, Opus 56/2, G 408]
+3. Poco Adagio (B-flat major)
+[transcription du 3e mouvement du quintet # 2, Opus 56/2, G 408]
+4. Allegretto (F major)
+[transcription du 4e mouvement du quintet # 2, Opus 56/2, G 408]","guitare, 2 violons, alto et violoncelle",
+452.2,G. 452/2,,Quintet,E-flat major,"1. Andante affettuoso (E-flat major)
+[transcription du 1er mouvement du quintet # 4, Opus 56/4, G 410]
+2. Allegretto sempre (E-flat major)
+[transcription du 2e mouvement du quintet # 4, Opus 56/4, G 410]
+3. Allegro assai (E-flat major)
+[transcription du 3e mouvement du quintet # 4, Opus 56/4, G 410]","guitare, 2 violons, alto et violoncelle",
+452.3,G. 452/3,,Quintet,D major,"1. Andante (D major)
+[transcription du 1er mouvement du quintet # 5, Opus 56/5, G 411]
+2. Minuetto (A major) / Trio (D major)
+[transcription du 2e mouvement du quintet # 5, Opus 56/5, G 411]
+[suivi de la reprise de la première partie du 1er mouvement]
+3. Allegro a modo di marcia vivace (D major)
+[transcription du 3e mouvement du quintet # 5, Opus 56/5, G 411]
+4. Thema e variazioni. Andante piuttosto Lento (D major)
+[transcription du 4e mouvement du quintet # 5, Opus 56/5, G 411]
+[thème suivi de 6 variations]","guitare, 2 violons, alto et violoncelle",
+452.4,G. 452/4,,Quintet,A minor,"1. Allegretto (A minor)
+[transcription du 1er mouvement du quintet # 6, Opus 56/6, G 412]
+2. Andantino (D minor)
+[transcription du 2e mouvement du quintet # 6, Opus 56/6, G 412]
+3. Minuetto (F major) / Trio (B-flat major)
+[transcription du 3e mouvement du quintet # 6, Opus 56/6, G 412]
+4. Allegro (A major)
+[transcription du 4e mouvement du quintet # 6, Opus 56/6, G 412]","guitare, 2 violons, alto et violoncelle",
+453,G. 453,,Quintet,C major,"1. Allegro maestoso assai (C major)
+[transcription du 1er mouvement du quintet # 3, Opus 56/3, G 409]
+2. Andantino (A minor)
+[transcription du 2e mouvement du quintet # 3, Opus 56/3, G 409]
+3. Allegretto (C major)
+[transcription du 3e mouvement du quintet # 3, Opus 56/3, G 409]
+4. Ritirata ""Retraite de Madrid"" avec variations (C major)
+[transcription du 5e mouvement du quintet # 60, Opus 30/6, G 324]","guitare, 2 violons, alto et violoncelle",
+474,G. 474,,Concerto,E-flat major,"1. Allegro (E-flat major)
+2. Largo (B-flat major)
+3. Allegro (E-flat major)","violoncelle et orchestre (2 violons, alto, basse, 2 hautbois, 2 cors)",
+475,G. 475,,Concerto,A major,"1. Allegro (A major)
+2. Adagio (D major)
+[thème utilisé dans la Sonate pour violoncelle, G 13]
+3. Rondo (A major)","violoncelle et orchestre (2 violons, alto, basse, 2 cors)",
+476,G. 476,,Concerto,D major,"1. Allegro (D major)
+2. Largo (G major)
+3. Allegro piacere (D major)","violoncelle et orchestre (2 violons, alto, basse, 2 flûtes)",
+477,G. 477,,Concerto,C major,"1. Allegro (C major)
+2. Adagio (F major)
+3. Allegro (C major)","violoncelle et orchestre (2 violons, alto, basse, 2 cors)",
+478,G. 478,,Concerto,D major,"1. Allegro (D major)
+2. Larghetto (G major)
+3. Rondo (D major) / Rondo (D major)
+[thème du 2e Rondo, voir Andante G 543 et G 490]","violoncelle et orchestre (2 violons, alto, basse, 2 hautbois, 2 cors)",
+479,G. 479,,Concerto,D major,"1. Allegro (D major)
+2. Adagio (A major)
+3. Allegro (D major)","violoncelle et orchestre (2 violons, alto, basse)",
+480,G. 480,,Concerto,G major,"1. Allegro (G major)
+2. Adagio (G minor)
+3. Allegro (G major)","violoncelle et orchestre (2 violons, alto, basse)",
+481,G. 481,,Concerto,C major,"1. Allegro moderato (C major)
+2. Adagio (G major)
+3. Allegretto (C major)","violoncelle et orchestre (2 violons, alto, basse, 2 cors)",
+482,G. 482,,Concerto,B-flat major,"1. Allegro moderato (B-flat major)
+2. Andantino grazioso (E-flat major)
+3. Rondo. Allegro (B-flat major)
+[même thème que 3e mouvement du Duet pour 2 violons, Op, 3/2, G 57]","violoncelle et orchestre (2 violons, alto, basse, 2 cors)",[Célèbre concerto arrangé par Friedrich Grützmacher]
+483,G. 483,,Concerto,D major,"1. Allegro maestoso (D major)
+2. Andante lentarello (D minor)
+3. Allegro con moto (D major)","violoncelle et orchestre (2 violons concertants, 2 violons, alto, basse, 2 hautbois, 2 cors)",
+484,G. 484,Concertino in G major,Concerto,G major,"1. Allegro (G major)
+[2e mouvement, Trio Op. 1/5, G 81]
+2. Andante (G minor)
+[3e mouvement, Trio Op. 34/2, G 102]
+3. Rondo. Allegro (G major)
+[4e mouvement, Trio Op. 34/2, G 102]",violoncelle et piano/orchestre,
+485,G. 485,,Concerto,G major,"1. Allegro (G major)
+2. Adagio (mi mineur)
+3. Allegro (G major)","violon et orchestre (2 violons, alto, basse)",
+486,G. 486,,Concerto,D major,"1. Allegro giusto (D major)
+2. Andante tranquillo (A major)
+3. Allegretto gentile (D major)","violon et orchestre (2 violons, alto, basse)",
+487,G. 487,,Concerto,E-flat major,"1. Presto (E-flat major)
+2. Adagio ma non troppo (C minor)
+3. Variazioni. Moderato (E-flat major)
+[thème et 12 variations]","clavecin et orchestre (2 violons, alto, basse, 2 hautbois, 2 cors)",
+488,G. 488,,Concerto,C major,,clavecin et orchestre,"[esquisse très incomplète, transcription du G 477, attribution incorrecte]"
+489,G. 489,,Concerto,D major,"1. Allegro molto (D major)
+2. Adagio (G major)
+3. Rondeau. Allegretto (D major)",flûte et orchestre,
+528,G. 528,Messe,Mass,,,choeur à quatre voix mixtes et instruments obligés,[perdu]
+529,G. 529,Kyrie,,B-flat major,Allegro (B-flat major),choeur à 4 voix mixtes avec orchestre,
+530,G. 530,Gloria,,F major,"1. Gloria
+choeur
+Allegro moderato (F major)
+2. Laudamus te
+duo de soprano et ténor
+Andante (B-flat major)
+3. Qui tollis
+choeur avec solo pour soprano
+Largo (E-flat major)
+4. Qui sedes et Quoniam
+solo pour basse
+Brillante (G major)
+5. Cum sancto
+choeur (C major)
+Largo / Allegro (C major)
+[2e version: Largo/Presto Fuga, en F major, pour choeur]",solistes (STB) et choeur à 4 voix mixtes avec orchestre,
+531,G. 531,Credo,,C major,"1. Credo
+choeur
+Allegro moderato (C major)
+2. Et in unum Deum
+ténor solo
+3. Et ex Patre
+duo pour soprano et alto
+4. Deum de Deo
+choeur
+5. Genitum non factum
+soprano solo
+6. Per quem omnia
+duo d'alto et ténor
+7. Qui propter nos homines
+choeur
+8. Et incarnatus est
+duo pour soprano et alto
+Larghetto
+9. Crucifixus
+ténor solo
+Andantino
+10. Et resurrexit
+choeur
+Allegro
+[reprise du choeur du Credo]
+11. Et iterum venturus est
+ténor solo
+12. Qui ex Patre
+duo de soprano et alto
+13. Qui cum Patre
+choeur
+14. Et unam sanctam
+ténor solo
+15. Et expecto
+choeur",solistes (SATB) et choeur à 4 voix mixtes avec orchestre,
+532.1,G. 532a,Stabat Mater,,F minor,"1. Stabat Mater
+Grave assai (F minor)
+2. Cujus animam
+Allegro (F minor)
+3. Quae moerebat
+Allegretto con moto (C minor)
+4.Quis est homo
+récitatif
+Adagio assai (C minor)
+5. Pro peccatis
+Allegretto (la bémol majeur)
+6. Eja mater
+Larghetto non tanto (E-flat major)
+7. Tui nati vulnerati
+Allegro vivo (E-flat major)
+8. Virgo virginum
+Andantino (B-flat major)
+9. Fac ut portem
+Larghetto (F major)
+10. Fac me plagis
+Allegro comodo (C minor)
+11. Quando corpus / Amen
+Andante lento (F minor / F major)",soprano avec orchestre à cordes,
+532.2,G. 532b,Stabat mater,,F major,"1. Allegro assai (F major), pour cordes
+[provient de la symphonie en F major, Op. 35/4, G 512, 1er mouvement]
+2. Stabat Mater
+trio (SAT)
+Adagio flebile (F minor)
+3. Cujus animam / O quam tristis
+soprano solo / alto solo
+Allegro / Adagio assai
+4. Quae moerebat
+alto solo
+Allegro con moto (C minor)
+5. Quis est homo
+récitatif (ST)
+Adagio assai (C minor)
+6. Pro peccatis
+ténor solo
+Allegretto (la bémol majeur)
+7. Eja mater
+duo (SA)
+Soave assai (E-flat major)
+8. Tui nati vulnerati
+trio (SAT)
+Allegro assai (E-flat major)
+9. Virgo virginum
+soprano solo
+Andante poco moto (B-flat major)
+10. Fac ut portem
+alto solo
+Andantino (F major)
+11.Fac me plagis
+trio (SAT)
+Allegro comodo assai (C minor)
+12. Quando corpus / Amen
+trio (SAT)
+Andante lento (F minor / F major)",3 voix solistes avec orchestre à cordes,
+532.3,G. 565b,,Sonata,B-flat major,"1. Allegro comodo (B-flat major) [similaire au 1er mouvement G 482,565]
+2. Adagio (E-flat major)
+3. Allegro (B-flat major) [similaire au 3e mouvement G 482, avec modifications]",violoncelle solo (et basse continue),[deuxième version]
+533,G. 533,Dixit Dominus,Psalm,G major,"1. Dixit Dominus
+solistes et choeur
+Allegro (G major)
+2. Juravit
+choeur et ténor solo
+Andante staccato
+3. De torrente
+basse solo
+Allegro
+[2 versions]
+4. Gloria patri
+soprano solo
+Grave
+[2e version: Adagio, pour choeur]
+5. Sicut erat
+choeur
+Allegro
+[reprise, avec modifications, du choeur initial]",solistes (STB) et choeur à 4 voix avec orchestre,Psaume 110
+534,G. 534,Domine ad adjuvandum,Psalm,G major,"1. Dominum ad adjuvandum
+choeur
+Allegro (G major)
+2. Gloria patri
+ténor solo
+Andante
+3. Sicut erat
+choeur
+Allegro (G major)
+[reprise quasi intégrale du choeur original]",soliste (T) et choeur à 4 voix avec orchestre,Psaume 12
+535,G. 535,Cantate de Noël,Cantata,,,"quatre solistes, chœur avec instruments",[perdu]
+536,G. 536,Sciogliam le nostre voci in armonioso canto,Cantata,,"1. Sciogliam le nostre voci in armonioso canto
+Allegretto (B-flat major)
+[suivi de six fragments pour quatre voix solistes]",quatre solistes avec orchestre,[attribution douteuse]
+537,G. 537,"Gios, Re di Giudea",Oratorio,,"0. Largo / Allegro (D major) pour orchestre
+I-1. Récitatif (2 ténors), Air (ténor)
+I-2. Récitatif (soprano, contralto et ténor), Air (soprano)
+I-3. Récitatif (soprano et contralto), Air (contralto)
+I-4. Récitatif et air (ténor)
+I-5. Récitatif (soprano et basse), Air (basse)
+I-6. Récitatif (soprano, contralto, basse), Air (soprano)
+I-7. Récitatif et air (contralto)
+I-8. Chœur des hébreux","solistes (SSATTB) et choeur à 4 voix avec orchestre (2 violons, 2 altos, basse, 2 flûtes, 2 hautbois, 2 cors)","Texte: Metastasio
+[2e partie - perdu]"
+538,G. 538,Il Giuseppe Riconosciuto,Oratorio,,"0. Introduction
+[ouverture en forme de symphonie G 590]
+I-1. Récitatif (soprano et ténor), Aria (soprano)
+I-2. Récitatif et air (ténor)
+I-3. Récitatif (soprano et ténor/ soprano et contralto), Air (soprano)
+I-4. Récitatif (soprano et contralto), Aria (contralto)
+I-5. Récitatif (soprano, contralto et ténor), Air (ténor)
+I-6. Récitatif (2 sopranos, contralto, 2 ténors, et basse), Air (basse)
+I-7. Récitatif (soprano et basse / 2 sopranos, contralto, 2 ténors et basse), Choeur final
+II-8. Récitatif (soprano et ténor), Air (ténor)
+II-9. Récitatif et air (soprano)
+II-10. Récitatif (soprano et contralto), Air (contralto)
+II-11. Récitatif (2 sopranos, contralto, 2 ténors, et basse), Air (basse)
+II-12. Récitatif (soprano et basse), Air (soprano)
+II-13. Récitatif (soprano et basse), Air (basse)
+II-14. Récitatif (2 sopranos, contralto, 2 ténors, et basse), Air (contralto), Récitatif (2 sopranos, contralto, 2 ténors, et basse), Choeur final","solistes (SSATTB) et chœur à 4 voix avec orchestre (2 violons, alto, basse, flûte, 2 hautbois, 2 cors)",Texte: Metastasio
+539,G. 539,Villancicos al Nacimiento de Nuestro Senor Jesu Christo,Villancicos,,"1. Introduccion
+pour orchestre
+Allegro (E-flat major)
+2. Gila, Gila
+solistes (SAB)
+Allegro giusto (E-flat major)
+3. Vengo absorto
+solistes (ATB)
+Allegro (G minor)
+4a. Ja sabes que de Blas
+récitatif pour solistes (ST)
+4b. Pues vaja
+solistes (ATB)
+Presto (F major)
+5. Pastores atended
+cavatina pour soprano
+Cantabile (F major)
+6a. Sabed que hoy a nacido
+récitatif pour solistes (SAB)
+6b. Vamos, vamos
+choeur et solistes (SATB)
+Allegro (C major)
+7a. Alegres contentos
+choeur et soprano
+Vivo assai
+7b. Gloria a Dios
+choeur et solistes (SATB)
+Lento (F major)
+8a. Que gozo, que delicia
+récitatif pour solistes (SATB)
+8b. Bendido aquel que viene
+choeur et solistes (ST)
+Amoroso (B-flat major)
+9. Nuestros corazones
+choeur et solistes (SATB)
+Allegro ""Despedida"" (E-flat major)","solistes et choeur à 4 voix mixtes avec orchestre (violons, alto, violoncelle et contrebasse)",
+540,G. 540,La Clementina,Opera,,"0. Allegro vivo assai / Andantino con moto (D major)
+[Andantino, même thème que le Menuet du Quintet en D minor, Op 25/1, G 295]
+I-1. Deh fuggi mio core, gli inganni d'amore
+trio pour 2 sopranos et basse
+Allegretto grazioso
+I-2. Il tempo è misurato
+air pour soprano
+Allegro giusto
+I-3. Son puntuale e son cortese
+air pour basse
+Allegro vivo
+I-4. Bianca colomba
+duo pour 2 sopranos
+Tempo di Minuetto
+I-5. Ahimé, cor mio
+air pour soprano
+Andante lento
+I-6. Incauta farfalletta
+air pour soprano
+Allegro con moto
+I-7. Cor loro ho scritto bravo
+air pour soprano
+Allegro
+I-8. Il lamento dell'amante
+air pout ténor
+Andantino
+I-9. Ecco il pranzo è già servito
+scène, sextet pour 4 sopranos, ténor, et basse
+Allegro finale
+II-10. Alme prigioni d'amor
+air pour soprano
+Amoroso
+II-11. Facciamo ogni piacere
+scène, sextet pour 4 sopranos, ténor et basse
+Allegro con moto
+II-12. Il vino me lo disse
+air pour soprano
+Allegro con moto
+II-13. Saprà da mie parole la bella Clementina
+air pour basse
+Allegro amoroso
+II-14. Ingrata, ingiusta e pazza
+air pour soprano
+Andante
+II-15. Mai si beltade
+air pour soprano
+Tempo di Minuetto
+II-16a. Perché mi fuggi mia Clementina
+récitatif pour soprano et ténor
+Allegro
+II-16b. Mercede più non chiedo
+duo pour soprano et ténor
+Allegro / Largo e affettuoso / Largo
+II-17. Oh, qual sincero amor
+air pour ténor)
+Grave / Allegro
+II-18. Deh fuggi mio core, gli inganni d'amore
+scène, sextet pour 4 sopranos, ténor et basse
+Allegro",solistes (SSSSTB) avec orchestre,Texte: Ramon de la Cruz
+541,G. 541,Ines de Castro,Scena,,"1. Senti, Ferma, che fai
+Récitatif
+2. Gelido il cor mi sento
+Cavatina (E-flat major)
+3. Caro moi sposo
+Aria, en B-flat major","soprano avec orchestre (2 violons, alto, violoncelle, contrebasse, 2 hautbois, 2 cors et basson)",
+542,G. 542,[? air composé pour l'opéra L'Almeria de Juan Francisco de Majo],Concert Aria,,,soprano avec accompagnement de violoncelle solo,
+543,G. 543,La Confederazione dei Sabini con Roma,Cantata,,"0. Ouverture en forme symphonique
+Allegro (D major) / Andante grazioso (D major) / Allegro assai (D major)
+[aussi utilisé dans G 490, G 527 et G 538]
+I-1. Scendi Imeneo dal cielo
+choeur des Romains, à 4 voix mixtes
+I-2a. E potranno esser vane
+récitatif pour ténor et basse
+I-2b. So che virtù non è
+air pour ténor
+I-3a. Dunque il figlio di Marte
+récitatif pour ténor et basse
+I-3b. Hai valor
+Air pour basse
+I-4a. Mal ti son noti, o Duce
+récitatif pour soprano, ténor et basse
+I-4b. Dirò che sorge in cielo
+air pour soprano
+I-5a. Sposa, non è già estinta
+récitatif pour ténor
+I-5b. Dopo la rea tempesta
+air pour ténor avec violoncelle obligé
+I-6. Scendi Imeneo dal cielo
+choeur des Romains, à 4 voix mixtes
+[reprise du choeur original]
+II-7. Suoni alfine la tromba guerriera
+choeur des Sabines, à 4 voix mixtes
+II-8a. Udisti
+récitatif pour 2 ténors
+II-8a. Anche un guerrier feroce
+air pour ténor
+II-9. Suoni alfine la tromba guerriera
+choeur des Sabines, à 4 voix mixtes
+[Reprise du choeur précédent]
+II-10. Oh Dei! Che miro
+récitatif pour soprano et 2 ténors
+II-11a. Numi! Che intesi
+récitatif pour soprano
+II-11b. Ahi quale immagine
+air pour soprano
+Airs de concert","solistes (STTTB) et choeur à 4 voix avec orchestre (2 violons, cello, violoncelle, contrebasse, 2 hautbois, 2 cors, et 2 trompettes)",
+544,G. 544,"Si veramente io deggio… Ah non lasciarmi, no, bel idol mio",Concert Aria,E-flat major,"1. Si veramente io deggio
+récitatif pour soprano et ténor
+2. Ah non lasciarmi, no, bel idol moi
+air pour soprano
+Andante non tanto (E-flat major)","soprano avec orchestre (2 violons, alto et basse)","Texte: Metastasio
+from Didone abbandonata, Acte II, Scène 4"
+545,G. 545,Se non ti moro allato idolo del cor mio,Concert Aria,B-flat major,Cantabile (B-flat major),"soprano/ténor avec orchestre (2 violons, alto et basse)","Texte: Metastasio
+from Adriano, Acte I, Scène 14"
+546,G. 546,Deh respirar lasciatemi,Concert Aria,G minor,… (G minor),"soprano/ténor avec orchestre (2 violons, alto et basse)","Texte: Metastasio: Artaserse, Act I, Scène 11"
+547,G. 547,"Caro, son tua cosi che per virtu d'amor",Concert Aria,A major,,"soprano avec orchestre (2 violons, alto, basse et hautbois)","Texte: Metastario: Olimpiade, Act III, Scène 2"
+548,G. 548,Misera dove son… Ah no son io che parlo,Concert Aria,D minor,"1. Misera dove son
+récitatif
+Andante (D minor)
+2. Ah, no son io che parlo
+air
+Allegro agitato assai (D minor)","soprano avec orchestre (2 violons, alto, basse, hautbois et 2 cors)","Texte: Metastasio: Ezio, Acte III, Scène 12"
+549,G. 549,Care luci che regnate sugl'affetti del mio cor,Concert Aria,D major,,"soprano/ténor avec orchestre (2 violons, alto, basse, hautbois et 2 cors)","Texte: Metastasio: Issipile, Act III, Scène 4"
+550,G. 550,Infelice in van mi lagno qual dolente tortorella,Concert Aria,E-flat major,Allegro spiritoso (E-flat major),"soprano avec orchestre (2 violons, alto, basse, hautbois et 2 cors)",
+551,G. 551,"Numi, se giusti siete, rendente",Concert Aria,G major,,"soprano avec orchestre (2 violons, alto, basse, hautbois et basson)","Texte: Metastasio: Adriano, Acte I, Scène 11"
+552,G. 552,"Caro Padre, a me non dei",Concert Aria,C major,Allegro con moto (C major),"soprano avec orchestre (2 violons, alto, basse, hautbois et 2 cors)","Texte: Metastasio: Ezio, Acte I, Scène 4"
+553,G. 553,Ah che nel dirti addio mi sento il cor dividere,Concert Aria,F major,Andante con un poco di moto (F major),"soprano avec orchestre (2 violons, alto, basse, hautbois et 2 cors)","Texte: Metastasio: Issipile, Acte II, Scène 5"
+554,G. 554,Di Giudice severo… Per quel paterno amplesso,Concert Aria,A major,"1. Di Giudice severa
+récitatif
+2. Per quel paterno amplesso
+air pour soprano ou ténor
+Cantabile (A major)","soprano/ténor avec orchestre (2 violons, alto, basse, et hautbois solo)","Texte: Metastasio: Artaserse, Acte II, Scène 11"
+555,G. 555,Tu di saper procura,Concert Aria,B-flat major,Allegro (B-flat major),"soprano avec orchestre (2 violons, alto, basse, hautbois et 2 cors)","Texte: Metastasio: Olimpiade, Acte I, Scène 6"
+556,G. 556,"Mi dona, mi rende quell'alma pietosa",Concert Aria,E major,Andantino (E major),"soprano avec orchestre (2 violons, alto, basse, et 2 flûtes)",
+557,G. 557,"Se d'un amor tiranno, credei di trionfar",Concert Aria,B-flat major,... (B-flat major),"soprano avec orchestre (2 violons, alto, violoncelle obligé, 2 hautbois, et 2 cors)","Texte: Metastasio: Artaserse, Acte II, Scène 6"
+558,G. 558,Tornate sereni,Concert Aria,E-flat major,Andantino (E-flat major),"soprano/ténor avec orchestre (2 violons, alto, basse, et 2 flûtes)","Texte: Metastasio: Achille, Scène III, Scène 4"
+559,G. 559,La destra ti chiedo mio dolce,Concert Aria,E-flat major,Andantino con moto (E-flat major),"soprano et ténor avec orchestre (2 violons, alto, basse, 2 hautbois et 2 cors)","Texte: Metastasio: Demofoonte, Acte II, Scène 11"
+560,G. 560,In 'sto giorno d'allegro,Concert Aria,F major,... (F major),2 voix avec instruments de basse,
+561,G. 561,"Ah, che nel dirti addio, duettino",Concert Aria,E-flat major,... (E-flat major),2 contraltos avec instruments de basse,
+562,G. 562,,Sonata,G minor,"1. Allegro (G minor)
+2. Adagio (G minor)
+3. Presto (G minor)",violoncelle solo (et basse continue),
+563,G. 563,,Sonata,G major,"1. Largo (G major)
+2. Allegretto affettuoso (G minor)
+3. Amoroso (G major)",violoncelle solo (et basse continue),
+564,G. 564,,Sonata,D major,"1. Allegro (D major)
+2. Cantabile (D major)
+3. Rondo (D major)",violoncelle solo (et basse continue),
+565,G. 565,,Sonata,B-flat major,"1. Allegro (B-flat major) [similaire au 1er mouvement G 482]
+2. Largo (E-flat major) / Allegro (B-flat major) / Adagio (B-flat major) [fragments]
+3. Larghetto (B-flat major) [similaire au 3e mouvement G 482, avec modifications] - [Larghetto / Allegro / Presto / Larghetto]",violoncelle solo (et basse continue),[premmière version]
+566,G. 566,,Sonata,E-flat major,"1. Moderato (E-flat major) [similaire au 1er mouvement de G 1 mais transposé]
+2. Allegro (E-flat major)",violoncelle solo (et basse continue),
+567,G. 567,,Sonata,E-flat major,"1. Andante (E-flat major)
+2. Largo (E-flat major)
+3. Allegro (E-flat major)",violoncelle solo (et basse continue),
+568,G. 568,,Sonata,E-flat major,"1. Allegro (E-flat major)
+2. Largo (B-flat major)
+3. Presto (E-flat major)",violoncelle solo (et basse continue),
+569,G. 569,,Sonata,C major,"1. Maestoso assai (C major)
+2. Allegro (C major)
+3. Largo (G major)
+4. Grazioso (C major)
+5. Adagio (C major)
+6. Allegro (C major) [reprise du No. 2 avec modification et coda]",violoncelle solo (et basse continue),
+570,G. 570,,Sonata,E-flat major,"1. Allegro (E-flat major)
+2. Adagio (E-flat major)
+[adaptation du 2e mouvement, G 13]
+3. Allegro assai (E-flat major)",violon solo (et basse continue),
+571,G. 571,,Sonata,D major,"1. Allegro (D major)
+2. Minuetto (D major)",2 violoncelles,
+572,G. 572,,Sonata,D major,"1. Allegro (D major)
+2. Minuetto (D major)",2 violoncelles,
+573,G. 573,,Concerto,C major,"1. Maestoso (C major)
+2. Largo cantabile (D major)
+3. Allegro comodo (C major)",violoncelle et orchestre,
+574,G. 574,,Concerto,F major,"1. Allegro (F major)
+2. Largo ma non tanto (C major)
+3. Allegro (F major)",violon et orchestre,
+575,G. 575,,Concerto,D major,"1. Allegro (D major)
+[similitudes avec 1er mouvement, G 479]
+2. Largo (A major)
+[similitudes avec 2e mouvement, G 479]
+3. Allegro (D major)
+[similitudes avec 1er mouvement, G 94]",flûte et orchestre,
+577,G. 577,,Trio,G major,"1. Allegro (G major)
+2. Tempo gousto (G major)",2 violons et violoncelle,
+578,G. 578,,Trio,G major,"1. Andantino grazioso (G major)
+2. Allegro con moto (G major)
+3. Tempo di Minuet (G major)",2 violons et violoncelle,
+579,G. 579,,Sonata,F major,"1. Allegro (F major)
+2. Largo cantabile (B-flat major)
+3. Allegro assai (C major)",violoncelle solo (et basse continue),
+580,G. 580,,Sonata,D major,"1. Allegro (D major)
+2. Adagio (A major)
+3. Tempo di Menuetto (D major)",violoncelle solo (et basse continue),

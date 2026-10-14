@@ -5,6 +5,8 @@ Public composer catalog data for the konzert application.
 ## Directory Structure
 
 - `xlsx/` - Source XLSX files (edit these in Excel or Google Sheets)
+- `xlsx/stage works/` - Work-in-progress XLSX files; ignored by the converter,
+  which only scans the top level of `xlsx/`
 - `csv/` - Auto-generated CSV files (do not edit manually)
 - `scripts/` - Conversion utilities
 
@@ -17,16 +19,26 @@ Public composer catalog data for the konzert application.
 - **BWV** - J.S. Bach (Bach-Werke-Verzeichnis)
 - **HWV** - Handel (Händel-Werke-Verzeichnis)
 - **Hob** - Haydn (Hoboken catalogue)
+- **BuxWV** - Buxtehude (Buxtehude-Werke-Verzeichnis)
+- **D.** - Schubert (Deutsch catalogue)
+- **G.** - Boccherini (Gérard thematic catalogue)
+- **GMW** - Mahler (Gustav-Mahler-Werke)
+- **LWV** - Lully (Lully-Werke-Verzeichnis)
+- **M.** - Ravel (Marnat thematic catalogue)
+- **MWV** - Mendelssohn (Mendelssohn-Werke-Verzeichnis)
+- **RCT** - Rameau (Rameau-Catalogue Thématique)
+- **TH** - Tchaikovsky (Tchaikovsky Handbook)
+
+Corelli and Shostakovich works are numbered by opus rather than a thematic
+catalogue prefix. `composers.csv` is not a work catalogue — it is the composer
+index (name, dates, era, nationalities, aliases) shared by all catalogs.
 
 ## Planned Catalog Systems
 
-These systems are on the roadmap but have no XLSX source yet. To add one, drop
+This system is on the roadmap but has no XLSX source yet. To add one, drop
 `xlsx/<CATALOG>.xlsx` into the `xlsx/` directory with a header row plus one row
 per work — the conversion workflow will generate `csv/<CATALOG>.csv` on push.
 
-- **BuxWV** - Buxtehude (Buxtehude-Werke-Verzeichnis)
-- **Marnat** - Ravel (Marnat thematic catalogue)
-- **S.** - Schubert (Deutsch catalogue)
 - **Wq.** - C.P.E. Bach (Werkverzeichnis) — supplemental to the existing CPE columns
 
 ## Workflow

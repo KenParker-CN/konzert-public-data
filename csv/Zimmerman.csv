@@ -1,204 +1,819 @@
-SORT,Catalogue,Title,Type,Key,Instrumentation,Note
-1,Z. 1,"Awake, put on thy strength",Anthem,,"solistes (AAB) et choeur (manquant) avec 2 violons, alto et basse continue",
-2,Z. 2,"Behold, I bring you glad tidings",Anthem,,"solistes (STB) et choeur (SATB) avec 2 violons, alto et basse continue",
-3,Z. 3,"Behold, now praise the Lord",Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-4,Z. 4,Be merciful unto me,Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-5,Z. 5,Blessed are they that fear the Lord,Anthem,,"solistes (SSAB) et choeur (SATB) avec 2 violons, alto et basse continue",
-6,Z. 6,"Blessed be the Lord, my strength",Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-7,Z. 7,Blessed is he that considereth the poor,Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-8,Z. 8,Blessed is he whose unrighteousness is forgiv'n,Anthem,,solistes (SSATTB) et choeur (SATB) avec basse continue,
-9,Z. 9,Blessed is the man that feareth the Lord,Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-10,Z. 10,Blow up the trumpet in Sion,Anthem,,"double choeur de solistes (SAATB, SSATB) et double choeur (SAATB, SSATB) avec basse continue",
-11,Z. 11,"Bow down Thine ear, O Lord",Anthem,,solistes (SATB) et choeur (SATB) avec basse continue,
-12,Z. 12,"Give sentence with me, O God",Anthem,,solistes (SAB) et choeur (SAT?B) avec basse continue,[Incomplet]
-13.1,Z. 13a,"Hear me, O Lord, and that soon",Anthem,,solistes (SATB) et choeur (SATB) avec basse continue,[seul le premier verset existe]
-13.2,Z. 13b,"Hear me, O Lord, and that soon",Anthem,,solistes (SATB) et choeur (SSATB) avec basse continue,
-14,Z. 14,"Hear my pray'r, O God",Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-15,Z. 15,"Hear my prayer, O Lord",Anthem,,choeur (SSAATTBB) avec basse continue,[Incomplet]
-16,Z. 16,"In Thee, O Lord, do I put my trust",Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-17.1,Z. 17a,In the midst of life,Anthem,,solistes (SATB) et choeur (SATB) avec basse continue,[1st version]
-17.2,Z. 17b,In the midst of life,Anthem,,,"[2nd version, see Z. 27 # 2 et 3: Man that is born of a woman]"
-18,Z. 18,It is a good thing to give thanks,Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-19,Z. 19,I was glad when they said unto me,Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-20,Z. 20,"I will give thanks unto Thee, O Lord",Anthem,,"solistes (SSATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-21,Z. 21,I will give thanks unto the Lord,Anthem,,"solistes (TBB) et choeur (SATB) avec 2 violons, alto et basse continue",
-22,Z. 22,I will sing unto the Lord,Anthem,,solistes (SSATB) et choeur (SSATB),
-23,Z. 23,Let God arise,Anthem,,solistes (TT) et choeur (SATB) avec basse continue,
-24,Z. 24,Let mine eyes run down with tears,Anthem,,solistes (SSATB) et choeur (SATB) avec basse continue,
-25,Z. 25,"Lord, how long wilt Thou be angry",Anthem,,solistes (ATB) et choeur (SSATB) avec basse continue,
-26,Z. 26,"Lord, who can tell how oft he offendeth ?",Anthem,,solistes (TTB) et choeur (SATB) avec basse continue,
-27,Z. 27,Man that is born of a woman,Anthem,,solistes (SATB) et choeur (SATB) avec basse continue,
-28,Z. 28,My beloved spake,Anthem,,"solistes (ATBB) et choeur (SATB) avec 2 violons, alto et basse continue",
-29,Z. 29,"My heart is fixed, O God",Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-30,Z. 30,My heart is inditing,Anthem,,"solistes (SSAATTBB) et choeur (SSAATTBB) avec 2 violons, alto et basse continue",
-31,Z. 31,My song shall be alway,Anthem,,"soliste (B ou S) et choeur (SATB) avec 2 violons, alto et basse continue",
-32,Z. 32,O consider my adversity,Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-33,Z. 33,O give thanks unto the Lord,Anthem,,solistes (SATB) et choeur (SATB) avec 2 violons et basse continue,
-34,Z. 34,O God the King of glory,Anthem,,choeur (SATB) a cappella,
-35,Z. 35,"O God, Thou art my God",Anthem,,solistes (SSATB) et choeur (SATB) avec basse continue,
-36,Z. 36,"O God, Thou hast cast us out",Anthem,,solistes (SSAATB) et choeur (SSAATB) avec basse continue,
-37,Z. 37,O Lord God of hosts,Anthem,,solistes (SSAATTB) et choeur (SSAATTBB) avec basse continue,
-38,Z. 38,"O Lord, grant the King a long life",Anthem,,solistes (ATB) et choeur (SATB) avec 2 violons et basse continue,
-39,Z. 39,O Lord our Governor,Anthem,,solistes (SSSBB) et choeur (SATB) avec basse continue,
-40,Z. 40,"O Lord, rebuke me not",Anthem,,solistes (SS) et choeur (SATB) avec basse continue,
-41,Z. 41,"O Lord, Thou art my God",Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-42,Z. 42,O praise God in His holiness,Anthem,,"solistes (ATBB) et choeur (SATB) avec 2 violons, alto et basse continue",
-43,Z. 43,"O praise the Lord, all ye heathen",Anthem,,solistes (TT) et choeur (SATB) avec basse continue,
-44,Z. 44,O sing unto the Lord,Anthem,,"solistes (SATBB) et choeur (SATB) avec 2 violons, alto et basse continue",
-45,Z. 45,Out of the deep have I called,Anthem,,solistes (SAB) et choeur (SATB) avec basse continue,
-46,Z. 46,"Praise the Lord, O Jerusalem",Anthem,,"solistes (SSATB) et choeur (SSATB) avec 2 violons, alto et basse continue",
-47,Z. 47,"Praise the Lord, O my soul, and all that is within me",Anthem,,"solistes (SSTTBB) et choeur (SATB) avec 2 violons, alto et basse continue",
-48,Z. 48,"Praise the Lord, O my soul, O Lord my God",Anthem,,solistes (AB) et choeur (SATB) avec 2 violons et basse continue,
-49,Z. 49,Rejoice in the Lord alway,Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-50,Z. 50,"Remember not, Lord, our offences",Anthem,,choeur (SSATB) avec basse continue,
-51,Z. 51,"Save me, O God, for Thy Name's sake",Anthem,,solistes (SSATB) et choeur (SSATB) avec basse continue,
-52,Z. 52,"Sing unto God, o ye kingdoms of the earth",Anthem,,soliste (B) et choeur (SATB) avec basse continue,
-53,Z. 53,"The Lord is King, be the people never so impatient",Anthem,,solistes (SS) et choeur (SATB) avec basse continue,
-54,Z. 54,"The Lord is King, the earth may be glad",Anthem,,soliste (B) et choeur (SATB) avec basse continue,
-55,Z. 55,The Lord is my light,Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-56,Z. 56,The way of God is an undefiled way,Anthem,,solistes (AAB) et choeur (SAAATB) avec basse continue,
-57,Z. 57,They that go down to the sea,Anthem,,solistes (AB) et choeur (SATB) avec 2 violons et basse continue,
-58.1,Z. 58a,"Thou know'st, Lord, the secrets of our hearts",Anthem,,choeur (SATB) avec basse continue,[1er arrangement - 1re version]
-58.2,Z. 58b,"Thou knowest, Lord, the secrets of our hearts",Anthem,,solistes (SATB) et choeur (SATB) avec basse continue,[1er arrangement - 2e version]
-58.3,Z. 58c,"Thou knowest, Lord, the secrets of our hearts",Anthem,,choeur (SATB) avec trompettes et basse continue,[2e version]
-59,Z. 59,"Thy righteousness, O God, is bery high",Anthem,,choeur (SATB) avec basse continue,
-60,Z. 60,"Thy way, O God, is holy",Anthem,,solistes (AB) et choeur (SATB) avec basse continue,
-61,Z. 61,Thy word is a lantern,Anthem,,pour solistes (ATB) et choeur (SATB) avec basse continue,
-62,Z. 62,"Turn Thou us, O good Lord",Anthem,,solistes (ATB) et choeur (SATB) avec basse continue,
-63,Z. 63,"Unto Thee will I cry, O Lord",Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-64,Z. 64,Who hath believed out report ?,Anthem,,solistes (ATTB) et choeur (SATB) avec basse continue,
-65,Z. 65,Why do the heathen so furiously rage ?,Anthem,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
-66,Z. 66,If the Lord himself,Anthem,,"solistes [?] et choeur ([?SAT]B) avec [2 violons, alto] et basse continue",[fragments de manuscrit retrouvé]
-67,Z. 67,"I will love Thee, O Lord",Anthem,,soliste (B) et choeur (SATB) avec basse continue,
-68,Z. 68,"Praise the Lord, ye servants",Anthem,,"solistes ([?ATT]B) et choeur ([?SAT]B) avec [2 violons, alto] et basse continue",[fragments]
-69,Z. 69,"The Lord is King, and hath put on glorious apparel",Anthem,,soliste (S) et choeur (SATB) avec basse continue,
-101,Z. 101,Alleluia,Canon,C minor,"canon 4 en 2 ""recte et retro"" pour AABB",
-102,Z. 102,Domine non est exaltatum cor meum,Canon,D major,canon pour AT avec basse continue,[Incomplet]
-103,Z. 103,Gloria Patri et Filio,Canon,,canon pour SATB,
-104,Z. 104,Gloria Patri et Filio,Canon,B-flat major,canon 3 en 1 pour SAB,
-105,Z. 105,Gloria Patri et Filio,Canon,G minor,"canon 4 en 1 ""per arsin et thesin"" pour SSTB",
-106,Z. 106,Glory be to the Father,Canon,G major,canon 4 en 1 pour SATB,
-107,Z. 107,God is gone up,Canon,C major,canon pour 7 voix dans 1 à l'unisson,
-108,Z. 108,Laudate Dominum,Canon,G major,canon 3 en 1 pour SAB,
-109,Z. 109,Miserere mei,Canon,D minor,canon 3 en 2 pour SATB,
-110,Z. 110,Alleluia,Canon,C major,canon pour SSATB,
-120,Z. 120,,Chant,A minor,SATB,
-121,Z. 121,,Chant,G major,SATB,
-122,Z. 122,,Chant,G major,SATB,
-123,Z. 123,,Chant,D minor,SATB,
-124,Z. 124,,Chant,G major,SATB,
-125,Z. 125,,Chant,G minor,SATB,
-130,Z. 130,Ah! few and full of sorrows,Hymn,E minor,solistes (TB) et chœur (SATB) avec basse continue,
-131,Z. 131,Beati omnes qui timent Dominum,Hymn,G minor,solistes (SB) et chœur (SSAB) avec basse continue,
-132,Z. 132,"Early, O Lord, my fainting soul",Chorus,E minor,solistes (SB) et chœur (SSAB) avec basse continue,
-133,Z. 133,"Hear me, O Lord, the great support",Chorus,C minor,solistes (AT) et chœur (ATB) avec basse continue,
-134,Z. 134,In guilty night,Oratorio,C minor,solistes (SAB) avec chœur (SAB) et basse continue,
-135,Z. 135,"Jehova, quam multi sunt hostes",Psalm,A minor,solistes (TB) et chœur (SSATB) avec basse continue,
-136,Z. 136,"Lord, I can suffer Thy rebukes",Chorus,,solistes (SSAB) et chœur (SSAB) avec basse continue,
-137,Z. 137,"Lord, not to us",Chorus,D minor,chœur (ATB) avec basse continue,
-138,Z. 138,"O, all ye people, clap your hands",Psalm,C major,chœur (SSTB) avec basse continue,
-139,Z. 139,O happy man that fears the Lord,Chorus,A minor,chœur (SSAB) avec basse continue,
-140,Z. 140,"O, I'm sick of life",Chorus,C minor,solistes (AT) et chœur (ATB) avec basse continue,
-141,Z. 141,"O Lord, our Governor",Psalm,B-flat major,soliste (T) et chœur (SSAB) avec basse continue,
-142,Z. 142,Plung'd in the confines of despair,Chorus,D minor,solistes (TB) et chœur (TTB) avec basse continue,
-143,Z. 143,Since God so tender a regard,Chorus,F major,solistes (TB) et chœur (TTB) avec basse continue,
-144,Z. 144,When on my sick bed I languish,Chorus,,solistes (TB) et chœur (TTB) avec basse continue,
-181,Z. 181,"Awake, and with attention hear",Sacred Songs,F major,B avec basse continue,
-182,Z. 182,"Awake, ye dead",Sacred Songs,C major,BB avec basse continue,
-183,Z. 183,Begin the song and strike the living lyre,Sacred Songs,C major,B avec basse continue,
-184,Z. 184,Close thine eyes and sleep secure,Sacred Songs,C minor,SB avec basse continue,
-185,Z. 185,Full of wrath His threatening breath,Sacred Songs,C minor,S avec basse continue,
-186,Z. 186,Great God and just,Sacred Songs,F minor,S et chœur (SSB) avec basse continue,
-187,Z. 187,Hosanna to the highest,Sacred Songs,C minor,B et chœur (AB) avec basse continue,
-188,Z. 188,How have I stray'd,Sacred Songs,C minor,S et chœur (SB) avec basse continue,
-189,Z. 189,"How long, great God",Sacred Songs,A minor,S avec basse continue,
-190,Z. 190,"In the black, dismal dungeon of despair",Sacred Songs,E minor,S avec basse continue,
-191,Z. 191,Let the night perish (Job's Curse),Sacred Songs,C minor,S et chœur (SB) avec basse continue,
-192,Z. 192,"Lord, what is man ?",Sacred Songs,G minor,S avec basse continue,
-193,Z. 193,Now that the sun hath veiled his light,Sacred Songs,G major,S avec basse continue,
-194,Z. 194,"O Lord, since I experienced have",Sacred Songs,C minor,S avec basse continue,
-195,Z. 195,"Sleep, Addam, and take thy rest",Sacred Songs,C minor,S avec basse continue,
-196,Z. 196,"Tell me, some pitying angel",Sacred Songs,C minor,S avec basse continue,
-197,Z. 197,"The earth trembled, and heav'n closed",Sacred Songs,A major,S avec basse continue,
-198,Z. 198,Thou wakeful shepherd,Sacred Songs,G minor,S avec basse continue,
-199,Z. 199,We sing to Him whose wisdom form'd the ear,Sacred Songs,C minor,S et chœur (SB) avec basse continue,
-200,Z. 200,With sick and famish'd eyes,Sacred Songs,G minor,S avec basse continue,
-240,Z. 240,A lealth to the nut-brown lass,Catch,fa majeur),3 voix,
-241,Z. 241,"An ape, a lion, a fox and an ass",Catch,fa majeur),3 voix,
-242,Z. 242,As Roger last night,Catch,si bémol majeur),3 voix,
-243,Z. 243,Bring the bowl and cool Nantz,Catch,fa majeur),3 voix,
-244,Z. 244,Call for the reck'ning,Catch,sol majeur),3 voix,
-245,Z. 245,"Come, let us drink",Catch,do majeur),3 voix avec basse continue,
-246,Z. 246,"Come, my hearts, play your parts",Catch,fa majeur),3 voix,
-247,Z. 247,Down with Bacchus,Catch,fa majeur),3 voix,
-248,Z. 248,"Drink on, till night be spent",Catch,do majeur),3 voix,
-249,Z. 249,"Full bags, a brisk bottle",Catch,sol majeur),3 voix,
-250,Z. 250,God save out sov'reign Charles,Catch,do majeur),2 voix,
-251,Z. 251,Great Apollo and Bacchus,Catch,do majeur),3 voix,
-252,Z. 252,"Here's a health, pray let it pass",Catch,ré mineur),4 voix,
-253,Z. 253,Here's that will challenge all the Fair,Catch,do majeur),3 voix,
-254,Z. 254,He that drinks is immortal,Catch,sol majeur),3 voix,
-255,Z. 255,If all be true that I do think,Catch,sol mineur),3 voix,
-256,Z. 256,I gave her cakes and I gave her ale,Catch,do majeur),3 voix,
-257,Z. 257,Is Charleroi's siege come too ?,Catch,sol mineur),3 voix,
-258,Z. 258,Let the grave folks go preach,Catch,sol majeur),3 voix,
-259,Z. 259,Let us drink to the blades,Catch,do majeur),3 voix,
-260,Z. 260,My lady's coachman John,Catch,do majeur),"catch, poue 3 voix",
-261,Z. 261,Now England's great council,Catch,sol majeur),3 voix,
-262,Z. 262,Now we are met and humours agree,Catch,do majeur),3 voix,
-263,Z. 263,Of all the instruments that are,Catch,do majeur),3 voix,
-264,Z. 264,Once in our lives let us drink to our wives,Catch,do mineur),3 voix,
-265,Z. 265,"Once, twice, thrice I Julia tried",Catch,sol mineur),3 voix,
-266,Z. 266,One industrious insect,Catch,la mineur),3 voix,
-267,Z. 267,"Pale faces, stand by",Catch,ré mineur),3 voix,
-268,Z. 268,Pox on you for a fop,Catch,do majeur),3 voix,
-269,Z. 269,Prithee ben't so sad and serious,Catch,la mineur),3 voix avec basse continue,
-270,Z. 270,Room for th' express,Catch,do majeur),3 voix,
-271,Z. 271,Since the Duke is return'd,Catch,si bémol majeur),3 voix,
-272,Z. 272,Since time so kind to us does prove,Catch,la mineur),3 voix,
-273,Z. 273,Sir Walter enjoying his damsel,Catch,ré majeur),3 voix,
-274,Z. 274,"Soldier, take off thy wine",Catch,do majeur),4 voix,
-275,Z. 275,Sum up all the delights,Catch,si bémol majeur),3 voix,
-276,Z. 276,The Macedon youth left bahind,Catch,do majeur),4 voix,
-277,Z. 277,The miller's daughter riding to the fair,Catch,la mineur),3 voix,
-278,Z. 278,The surrender of Lim'rick,Catch,sol mineur),3 voix,
-279,Z. 279,'Tis easy to force,Catch,fa majeur),4 voix,
-280,Z. 280,'Tis too late for a coach,Catch,do majeur),3 voix,
-281,Z. 281,'Tis woman makes us love,Catch,do majeur),4 voix,
-282,Z. 282,To all lovers of music,Catch,do mineur),3 voix,
-283,Z. 283,To thee and to a maid,Catch,sol mineur),3 voix,
-284,Z. 284,True Englishmen drink a good health,Catch,sol mineur),3 voix,
-285,Z. 285,Under a green elm lies Luke Shepherd's helm,Catch,sol majeur),4 voix,
-286,Z. 286,Under this stone lies Gabriel John,Catch,la mineur),3 voix,
-287,Z. 287,When V and I together meet,Catch,fa majeur),3 voix,
-288,Z. 288,Who comes there ? Stand !,Catch,do majeur),3 voix,
-289,Z. 289,Wine in a morning makes us frolic,Catch,do majeur),3 voix,
-290,Z. 290,Would you know how we meet,Catch,ré majeur),3 voix,
-291,Z. 291,Young Collin cleaving of a beam,Catch,do majeur),3 voix,
-292,Z. 292,Young John the gard'ner,Catch,do majeur),4 voix,
-320,Z. 320,"Arise, my muse",Occasional,D major,"solistes (AATB) et chœur (SATB) avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, 2 altos et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1690"
-321,Z. 321,Celebrate this festival,Occasional,C major,"solistes (SSATB) et chœur (SSAATTBB) avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, 2 altos et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1693"
-322,Z. 322,Celestial music did the gods inspire,Occasional,C major,"solistes (SATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour le maître d'école Maidwell, 5 août 1689"
-323,Z. 323,Come ye sons of art away,Occasional,D major,"solistes (SAAB) et chœur (SATB) avec 2 hautbois, 2 trompettes, 2 timbales, 2 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1694"
-324,Z. 324,Fly bold rebellion,Occasional,F major,"solistes (SSAATBB) et chœur (SSAATTBB) avec 2 violons, alto et basse continue","pour le retour du roi après le complot Rye House, 9 septembre 1683"
-325,Z. 325,From hardy climes,Occasional,D major,"solistes (SSATB) et chœur (SATB) avec 2 violons, alto et basse continue (clavecin)","mariage du Prince George à Lady Anne, 28 juillet 1683"
-326,Z. 326,From those serene and rapturous joys,Occasional,D minor,"solistes (SSATB) avec chœur (SATB) avec 2 violons, alto et basse continue",pour le retour du roi Charles II à Whitehall à la fin de l'été 1684 (26 septembre 1684)
-327,Z. 327,"Great parent, hail",Occasional,C major,"solistes (SATB) avec chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour le centenaire du Trinity College de Dublin à la cathédrale Christ Church de Dublin, 9 janvier 1694"
-328,Z. 328,"Hail, bright Cecilia",Occasional,D major,"solistes (SAATBB) et chœur (SATB) avec 2 flûtes, flûte basse,2 hautbois, basson, 2 trompettes, timbales, 2 violons, alto et basse continue","pour la fête de sainte Cécile, 22 novembre 1692"
-329,Z. 329,Laudate Ceciliam,Occasional,C major,solistes (ATB) avec 2 violons et basse continue,"pour la fête de sainte Cécile, 22 novembre 1683"
-330,Z. 330,Light of the world,Hymn,,,"hymne au soleil présenté devant leurs majestés le Jour de l'An 1693/4
+SORT,Catalogue,Title,Type,Key,Workparts,Instrumentation,Note
+1,Z. 1,"Awake, put on thy strength",Anthem,D major,,"solistes (AAB) et choeur (manquant) avec 2 violons, alto et basse continue",
+2,Z. 2,"Behold, I bring you glad tidings",Anthem,C major,,"solistes (STB) et choeur (SATB) avec 2 violons, alto et basse continue",
+3,Z. 3,"Behold, now praise the Lord",Anthem,D major,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+4,Z. 4,Be merciful unto me,Anthem,,,solistes (ATB) et choeur (SATB) avec basse continue,
+5,Z. 5,Blessed are they that fear the Lord,Anthem,G minor,,"solistes (SSAB) et choeur (SATB) avec 2 violons, alto et basse continue",
+6,Z. 6,"Blessed be the Lord, my strength",Anthem,G minor,,solistes (ATB) et choeur (SATB) avec basse continue,
+7,Z. 7,Blessed is he that considereth the poor,Anthem,A minor,,solistes (ATB) et choeur (SATB) avec basse continue,
+8,Z. 8,Blessed is he whose unrighteousness is forgiv'n,Anthem,,,solistes (SSATTB) et choeur (SATB) avec basse continue,
+9,Z. 9,Blessed is the man that feareth the Lord,Anthem,,,solistes (ATB) et choeur (SATB) avec basse continue,
+10,Z. 10,Blow up the trumpet in Sion,Anthem,,,"double choeur de solistes (SAATB, SSATB) et double choeur (SAATB, SSATB) avec basse continue",
+11,Z. 11,"Bow down Thine ear, O Lord",Anthem,A minor,,solistes (SATB) et choeur (SATB) avec basse continue,
+12,Z. 12,"Give sentence with me, O God",Anthem,A major,,solistes (SAB) et choeur (SAT?B) avec basse continue,[Incomplet]
+13.1,Z. 13a,"Hear me, O Lord, and that soon",Anthem,F major,,solistes (SATB) et choeur (SATB) avec basse continue,[seul le premier verset existe]
+13.2,Z. 13b,"Hear me, O Lord, and that soon",Anthem,,,solistes (SATB) et choeur (SSATB) avec basse continue,
+14,Z. 14,"Hear my pray'r, O God",Anthem,C minor,,solistes (ATB) et choeur (SATB) avec basse continue,
+15,Z. 15,"Hear my prayer, O Lord",Anthem,C minor,,choeur (SSAATTBB) avec basse continue,[Incomplet]
+16,Z. 16,"In Thee, O Lord, do I put my trust",Anthem,,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+17.1,Z. 17a,In the midst of life,Anthem,C minor,,solistes (SATB) et choeur (SATB) avec basse continue,[1st version]
+17.2,Z. 17b,In the midst of life,Anthem,,,,"[2nd version, see Z. 27 # 2 et 3: Man that is born of a woman]"
+18,Z. 18,It is a good thing to give thanks,Anthem,G minor,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+19,Z. 19,I was glad when they said unto me,Anthem,G major,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+20,Z. 20,"I will give thanks unto Thee, O Lord",Anthem,G major,,"solistes (SSATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+21,Z. 21,I will give thanks unto the Lord,Anthem,G minor,,"solistes (TBB) et choeur (SATB) avec 2 violons, alto et basse continue",
+22,Z. 22,I will sing unto the Lord,Anthem,A minor,,solistes (SSATB) et choeur (SSATB),
+23,Z. 23,Let God arise,Anthem,C major,,solistes (TT) et choeur (SATB) avec basse continue,
+24,Z. 24,Let mine eyes run down with tears,Anthem,G minor,,solistes (SSATB) et choeur (SATB) avec basse continue,
+25,Z. 25,"Lord, how long wilt Thou be angry",Anthem,G minor,,solistes (ATB) et choeur (SSATB) avec basse continue,
+26,Z. 26,"Lord, who can tell how oft he offendeth ?",Anthem,E minor,,solistes (TTB) et choeur (SATB) avec basse continue,
+27,Z. 27,Man that is born of a woman,Anthem,C minor,,solistes (SATB) et choeur (SATB) avec basse continue,
+28,Z. 28,My beloved spake,Anthem,F major,,"solistes (ATBB) et choeur (SATB) avec 2 violons, alto et basse continue",
+29,Z. 29,"My heart is fixed, O God",Anthem,A major,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+30,Z. 30,My heart is inditing,Anthem,C major,,"solistes (SSAATTBB) et choeur (SSAATTBB) avec 2 violons, alto et basse continue",
+31,Z. 31,My song shall be alway,Anthem,G major,,"soliste (B ou S) et choeur (SATB) avec 2 violons, alto et basse continue",
+32,Z. 32,O consider my adversity,Anthem,C minor,,solistes (ATB) et choeur (SATB) avec basse continue,
+33,Z. 33,O give thanks unto the Lord,Anthem,C major,,solistes (SATB) et choeur (SATB) avec 2 violons et basse continue,
+34,Z. 34,O God the King of glory,Anthem,,,choeur (SATB) a cappella,
+35,Z. 35,"O God, Thou art my God",Anthem,B-flat major,,solistes (SSATB) et choeur (SATB) avec basse continue,
+36,Z. 36,"O God, Thou hast cast us out",Anthem,C minor,,solistes (SSAATB) et choeur (SSAATB) avec basse continue,
+37,Z. 37,O Lord God of hosts,Anthem,A major,,solistes (SSAATTB) et choeur (SSAATTBB) avec basse continue,
+38,Z. 38,"O Lord, grant the King a long life",Anthem,,,solistes (ATB) et choeur (SATB) avec 2 violons et basse continue,
+39,Z. 39,O Lord our Governor,Anthem,C major,,solistes (SSSBB) et choeur (SATB) avec basse continue,
+40,Z. 40,"O Lord, rebuke me not",Anthem,G minor,,solistes (SS) et choeur (SATB) avec basse continue,
+41,Z. 41,"O Lord, Thou art my God",Anthem,,,solistes (ATB) et choeur (SATB) avec basse continue,
+42,Z. 42,O praise God in His holiness,Anthem,B-flat major,,"solistes (ATBB) et choeur (SATB) avec 2 violons, alto et basse continue",
+43,Z. 43,"O praise the Lord, all ye heathen",Anthem,A minor,,solistes (TT) et choeur (SATB) avec basse continue,
+44,Z. 44,O sing unto the Lord,Anthem,F major,,"solistes (SATBB) et choeur (SATB) avec 2 violons, alto et basse continue",
+45,Z. 45,Out of the deep have I called,Anthem,,,solistes (SAB) et choeur (SATB) avec basse continue,
+46,Z. 46,"Praise the Lord, O Jerusalem",Anthem,,,"solistes (SSATB) et choeur (SSATB) avec 2 violons, alto et basse continue",
+47,Z. 47,"Praise the Lord, O my soul, and all that is within me",Anthem,F major,,"solistes (SSTTBB) et choeur (SATB) avec 2 violons, alto et basse continue",
+48,Z. 48,"Praise the Lord, O my soul, O Lord my God",Anthem,,,solistes (AB) et choeur (SATB) avec 2 violons et basse continue,
+49,Z. 49,Rejoice in the Lord alway,Anthem,C major,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+50,Z. 50,"Remember not, Lord, our offences",Anthem,A minor,,choeur (SSATB) avec basse continue,
+51,Z. 51,"Save me, O God, for Thy Name's sake",Anthem,,,solistes (SSATB) et choeur (SSATB) avec basse continue,
+52,Z. 52,"Sing unto God, o ye kingdoms of the earth",Anthem,,,soliste (B) et choeur (SATB) avec basse continue,
+53,Z. 53,"The Lord is King, be the people never so impatient",Anthem,D minor,,solistes (SS) et choeur (SATB) avec basse continue,
+54,Z. 54,"The Lord is King, the earth may be glad",Anthem,G major,,soliste (B) et choeur (SATB) avec basse continue,
+55,Z. 55,The Lord is my light,Anthem,B minor,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+56,Z. 56,The way of God is an undefiled way,Anthem,D major,,solistes (AAB) et choeur (SAAATB) avec basse continue,
+57,Z. 57,They that go down to the sea,Anthem,D major,,solistes (AB) et choeur (SATB) avec 2 violons et basse continue,
+58.1,Z. 58a,"Thou know'st, Lord, the secrets of our hearts",Anthem,C minor,,choeur (SATB) avec basse continue,[1er arrangement - 1re version]
+58.2,Z. 58b,"Thou knowest, Lord, the secrets of our hearts",Anthem,C minor,,solistes (SATB) et choeur (SATB) avec basse continue,[1er arrangement - 2e version]
+58.3,Z. 58c,"Thou knowest, Lord, the secrets of our hearts",Anthem,B-flat major,,choeur (SATB) avec trompettes et basse continue,[2e version]
+59,Z. 59,"Thy righteousness, O God, is bery high",Anthem,A minor,,choeur (SATB) avec basse continue,
+60,Z. 60,"Thy way, O God, is holy",Anthem,D minor,,solistes (AB) et choeur (SATB) avec basse continue,
+61,Z. 61,Thy word is a lantern,Anthem,C major,,pour solistes (ATB) et choeur (SATB) avec basse continue,
+62,Z. 62,"Turn Thou us, O good Lord",Anthem,C minor,,solistes (ATB) et choeur (SATB) avec basse continue,
+63,Z. 63,"Unto Thee will I cry, O Lord",Anthem,,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+64,Z. 64,Who hath believed out report ?,Anthem,C minor,,solistes (ATTB) et choeur (SATB) avec basse continue,
+65,Z. 65,Why do the heathen so furiously rage ?,Anthem,C minor,,"solistes (ATB) et choeur (SATB) avec 2 violons, alto et basse continue",
+66,Z. 66,If the Lord himself,Anthem,,,"solistes [?] et choeur ([?SAT]B) avec [2 violons, alto] et basse continue",[fragments de manuscrit retrouvé]
+67,Z. 67,"I will love Thee, O Lord",Anthem,G minor,,soliste (B) et choeur (SATB) avec basse continue,
+68,Z. 68,"Praise the Lord, ye servants",Anthem,,,"solistes ([?ATT]B) et choeur ([?SAT]B) avec [2 violons, alto] et basse continue",[fragments]
+69,Z. 69,"The Lord is King, and hath put on glorious apparel",Anthem,G major,,soliste (S) et choeur (SATB) avec basse continue,
+101,Z. 101,Alleluia,Canon,C minor,,"canon 4 en 2 ""recte et retro"" pour AABB",
+102,Z. 102,Domine non est exaltatum cor meum,Canon,D major,,canon pour AT avec basse continue,[Incomplet]
+103,Z. 103,Gloria Patri et Filio,Canon,,,canon pour SATB,
+104,Z. 104,Gloria Patri et Filio,Canon,B-flat major,,canon 3 en 1 pour SAB,
+105,Z. 105,Gloria Patri et Filio,Canon,G minor,,"canon 4 en 1 ""per arsin et thesin"" pour SSTB",
+106,Z. 106,Glory be to the Father,Canon,G major,,canon 4 en 1 pour SATB,
+107,Z. 107,God is gone up,Canon,C major,,canon pour 7 voix dans 1 à l'unisson,
+108,Z. 108,Laudate Dominum,Canon,G major,,canon 3 en 1 pour SAB,
+109,Z. 109,Miserere mei,Canon,D minor,,canon 3 en 2 pour SATB,
+110,Z. 110,Alleluia,Canon,C major,,canon pour SSATB,
+120,Z. 120,,Song,A minor,,SATB,
+121,Z. 121,,Song,G major,,SATB,
+122,Z. 122,,Song,G major,,SATB,
+123,Z. 123,,Song,D minor,,SATB,
+124,Z. 124,,Song,G major,,SATB,
+125,Z. 125,,Song,G minor,,SATB,
+130,Z. 130,Ah! few and full of sorrows,Hymn,E minor,,solistes (TB) et chœur (SATB) avec basse continue,
+131,Z. 131,Beati omnes qui timent Dominum,Hymn,G minor,,solistes (SB) et chœur (SSAB) avec basse continue,
+132,Z. 132,"Early, O Lord, my fainting soul",Chorus,E minor,,solistes (SB) et chœur (SSAB) avec basse continue,
+133,Z. 133,"Hear me, O Lord, the great support",Chorus,C minor,,solistes (AT) et chœur (ATB) avec basse continue,
+134,Z. 134,In guilty night,Oratorio,C minor,,solistes (SAB) avec chœur (SAB) et basse continue,
+135,Z. 135,"Jehova, quam multi sunt hostes",Psalm,A minor,,solistes (TB) et chœur (SSATB) avec basse continue,
+136,Z. 136,"Lord, I can suffer Thy rebukes",Chorus,,,solistes (SSAB) et chœur (SSAB) avec basse continue,
+137,Z. 137,"Lord, not to us",Chorus,D minor,,chœur (ATB) avec basse continue,
+138,Z. 138,"O, all ye people, clap your hands",Psalm,C major,,chœur (SSTB) avec basse continue,
+139,Z. 139,O happy man that fears the Lord,Chorus,A minor,,chœur (SSAB) avec basse continue,
+140,Z. 140,"O, I'm sick of life",Chorus,C minor,,solistes (AT) et chœur (ATB) avec basse continue,
+141,Z. 141,"O Lord, our Governor",Psalm,B-flat major,,soliste (T) et chœur (SSAB) avec basse continue,
+142,Z. 142,Plung'd in the confines of despair,Chorus,D minor,,solistes (TB) et chœur (TTB) avec basse continue,
+143,Z. 143,Since God so tender a regard,Chorus,F major,,solistes (TB) et chœur (TTB) avec basse continue,
+144,Z. 144,When on my sick bed I languish,Chorus,,,solistes (TB) et chœur (TTB) avec basse continue,
+181,Z. 181,"Awake, and with attention hear",Sacred Song,F major,,B avec basse continue,
+182,Z. 182,"Awake, ye dead",Sacred Song,C major,,BB avec basse continue,
+183,Z. 183,Begin the song and strike the living lyre,Sacred Song,C major,,B avec basse continue,
+184,Z. 184,Close thine eyes and sleep secure,Sacred Song,C minor,,SB avec basse continue,
+185,Z. 185,Full of wrath His threatening breath,Sacred Song,C minor,,S avec basse continue,
+186,Z. 186,Great God and just,Sacred Song,F minor,,S et chœur (SSB) avec basse continue,
+187,Z. 187,Hosanna to the highest,Sacred Song,C minor,,B et chœur (AB) avec basse continue,
+188,Z. 188,How have I stray'd,Sacred Song,C minor,,S et chœur (SB) avec basse continue,
+189,Z. 189,"How long, great God",Sacred Song,A minor,,S avec basse continue,
+190,Z. 190,"In the black, dismal dungeon of despair",Sacred Song,E minor,,S avec basse continue,
+191,Z. 191,Let the night perish (Job's Curse),Sacred Song,C minor,,S et chœur (SB) avec basse continue,
+192,Z. 192,"Lord, what is man ?",Sacred Song,G minor,,S avec basse continue,
+193,Z. 193,Now that the sun hath veiled his light,Sacred Song,G major,,S avec basse continue,
+194,Z. 194,"O Lord, since I experienced have",Sacred Song,C minor,,S avec basse continue,
+195,Z. 195,"Sleep, Addam, and take thy rest",Sacred Song,C minor,,S avec basse continue,
+196,Z. 196,"Tell me, some pitying angel",Sacred Song,C minor,,S avec basse continue,
+197,Z. 197,"The earth trembled, and heav'n closed",Sacred Song,A major,,S avec basse continue,
+198,Z. 198,Thou wakeful shepherd,Sacred Song,G minor,,S avec basse continue,
+199,Z. 199,We sing to Him whose wisdom form'd the ear,Sacred Song,C minor,,S et chœur (SB) avec basse continue,
+200,Z. 200,With sick and famish'd eyes,Sacred Song,G minor,,S avec basse continue,
+230,Z. 230,"Morning, Communion, Evening Services",Service,B-flat major,"I. 230M
+ 1. Te Deum laudamus
+ 2. Benedictus, Luke 1:68
+ 3. Benedictus omnia opera, Daniel 3:52-58
+ 4. Juilate Deo, Psalm 100:1-5
+II. 230C
+ 5. Kyrie eleison
+ 6. Nicene Creed
+III. 230E
+ 7. Magnificat, Luke 1:46-55
+ 8. Nunc Dimittis, Luke 2:29-32
+ 9. Cantate Domino, Psalm 98:1-9
+ 10. Deus Misereatur, Psalm 67:1-7",,
+231,Z. 231,Evening Service,Service,G minor,"1. Magnificat, Luke 1:46-55
+2. Nunc Dimittis, Luke 2:29-32",,
+232,Z. 232,Te Deum & Jubilate,Service,D major,"1. Te Deum laudamus
+2. Juilate Deo, Psalm 100:1-5",,
+240,Z. 240,A lealth to the nut-brown lass,Catch,F major,,3 voix,
+241,Z. 241,"An ape, a lion, a fox and an ass",Catch,F major,,3 voix,
+242,Z. 242,As Roger last night,Catch,B-flat major,,3 voix,
+243,Z. 243,Bring the bowl and cool Nantz,Catch,F major,,3 voix,
+244,Z. 244,Call for the reck'ning,Catch,G major,,3 voix,
+245,Z. 245,"Come, let us drink",Catch,C major,,3 voix avec basse continue,
+246,Z. 246,"Come, my hearts, play your parts",Catch,F major,,3 voix,
+247,Z. 247,Down with Bacchus,Catch,F major,,3 voix,
+248,Z. 248,"Drink on, till night be spent",Catch,C major,,3 voix,
+249,Z. 249,"Full bags, a brisk bottle",Catch,G major,,3 voix,
+250,Z. 250,God save out sov'reign Charles,Catch,C major,,2 voix,
+251,Z. 251,Great Apollo and Bacchus,Catch,C major,,3 voix,
+252,Z. 252,"Here's a health, pray let it pass",Catch,D minor,,4 voix,
+253,Z. 253,Here's that will challenge all the Fair,Catch,C major,,3 voix,
+254,Z. 254,He that drinks is immortal,Catch,G major,,3 voix,
+255,Z. 255,If all be true that I do think,Catch,G minor,,3 voix,
+256,Z. 256,I gave her cakes and I gave her ale,Catch,C major,,3 voix,
+257,Z. 257,Is Charleroi's siege come too ?,Catch,G minor,,3 voix,
+258,Z. 258,Let the grave folks go preach,Catch,G major,,3 voix,
+259,Z. 259,Let us drink to the blades,Catch,C major,,3 voix,
+260,Z. 260,My lady's coachman John,Catch,C major,,"catch, poue 3 voix",
+261,Z. 261,Now England's great council,Catch,G major,,3 voix,
+262,Z. 262,Now we are met and humours agree,Catch,C major,,3 voix,
+263,Z. 263,Of all the instruments that are,Catch,C major,,3 voix,
+264,Z. 264,Once in our lives let us drink to our wives,Catch,C minor,,3 voix,
+265,Z. 265,"Once, twice, thrice I Julia tried",Catch,G minor,,3 voix,
+266,Z. 266,One industrious insect,Catch,A minor,,3 voix,
+267,Z. 267,"Pale faces, stand by",Catch,D minor,,3 voix,
+268,Z. 268,Pox on you for a fop,Catch,C major,,3 voix,
+269,Z. 269,Prithee ben't so sad and serious,Catch,A minor,,3 voix avec basse continue,
+270,Z. 270,Room for th' express,Catch,C major,,3 voix,
+271,Z. 271,Since the Duke is return'd,Catch,B-flat major,,3 voix,
+272,Z. 272,Since time so kind to us does prove,Catch,A minor,,3 voix,
+273,Z. 273,Sir Walter enjoying his damsel,Catch,D major,,3 voix,
+274,Z. 274,"Soldier, take off thy wine",Catch,C major,,4 voix,
+275,Z. 275,Sum up all the delights,Catch,B-flat major,,3 voix,
+276,Z. 276,The Macedon youth left bahind,Catch,C major,,4 voix,
+277,Z. 277,The miller's daughter riding to the fair,Catch,A minor,,3 voix,
+278,Z. 278,The surrender of Lim'rick,Catch,G minor,,3 voix,
+279,Z. 279,'Tis easy to force,Catch,F major,,4 voix,
+280,Z. 280,'Tis too late for a coach,Catch,C major,,3 voix,
+281,Z. 281,'Tis woman makes us love,Catch,C major,,4 voix,
+282,Z. 282,To all lovers of music,Catch,C minor,,3 voix,
+283,Z. 283,To thee and to a maid,Catch,G minor,,3 voix,
+284,Z. 284,True Englishmen drink a good health,Catch,G minor,,3 voix,
+285,Z. 285,Under a green elm lies Luke Shepherd's helm,Catch,G major,,4 voix,
+286,Z. 286,Under this stone lies Gabriel John,Catch,A minor,,3 voix,
+287,Z. 287,When V and I together meet,Catch,F major,,3 voix,
+288,Z. 288,Who comes there ? Stand !,Catch,C major,,3 voix,
+289,Z. 289,Wine in a morning makes us frolic,Catch,C major,,3 voix,
+290,Z. 290,Would you know how we meet,Catch,D major,,3 voix,
+291,Z. 291,Young Collin cleaving of a beam,Catch,C major,,3 voix,
+292,Z. 292,Young John the gard'ner,Catch,C major,,4 voix,
+320,Z. 320,"Arise, my muse",Occasional,D major,,"solistes (AATB) et chœur (SATB) avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, 2 altos et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1690"
+321,Z. 321,Celebrate this festival,Occasional,C major,,"solistes (SSATB) et chœur (SSAATTBB) avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, 2 altos et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1693"
+322,Z. 322,Celestial music did the gods inspire,Occasional,C major,,"solistes (SATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour le maître d'école Maidwell, 5 août 1689"
+323,Z. 323,Come ye sons of art away,Occasional,D major,,"solistes (SAAB) et chœur (SATB) avec 2 hautbois, 2 trompettes, 2 timbales, 2 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1694"
+324,Z. 324,Fly bold rebellion,Occasional,F major,,"solistes (SSAATBB) et chœur (SSAATTBB) avec 2 violons, alto et basse continue","pour le retour du roi après le complot Rye House, 9 septembre 1683"
+325,Z. 325,From hardy climes,Occasional,D major,,"solistes (SSATB) et chœur (SATB) avec 2 violons, alto et basse continue (clavecin)","mariage du Prince George à Lady Anne, 28 juillet 1683"
+326,Z. 326,From those serene and rapturous joys,Occasional,D minor,,"solistes (SSATB) avec chœur (SATB) avec 2 violons, alto et basse continue",pour le retour du roi Charles II à Whitehall à la fin de l'été 1684 (26 septembre 1684)
+327,Z. 327,"Great parent, hail",Occasional,C major,,"solistes (SATB) avec chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour le centenaire du Trinity College de Dublin à la cathédrale Christ Church de Dublin, 9 janvier 1694"
+328,Z. 328,"Hail, bright Cecilia",Occasional,D major,,"solistes (SAATBB) et chœur (SATB) avec 2 flûtes, flûte basse,2 hautbois, basson, 2 trompettes, timbales, 2 violons, alto et basse continue","pour la fête de sainte Cécile, 22 novembre 1692"
+329,Z. 329,Laudate Ceciliam,Occasional,C major,,solistes (ATB) avec 2 violons et basse continue,"pour la fête de sainte Cécile, 22 novembre 1683"
+330,Z. 330,Light of the world,Occasional,,,,"hymne au soleil présenté devant leurs majestés le Jour de l'An 1693/4
 [perdu]"
-331,Z. 331,Love's goddess sure was blind,Occasional,G minor,"solistes (SAATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1692"
-332,Z. 332,Now does the glorious day appear,Occasional,D major,"solistes (SATBB) et chœur (SATB) avec 3 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril ?1689"
-333,Z. 333,Of old when heroes thought it base,Occasional,,"solistes (AATBB) et chœur (SSATB) avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, alto et basse continue","pour le festival annuel de la société Yorkshire de Londres, 27 mars 1690"
-334,Z. 334,"Raise, raise the voice",Occasional,,solistes (SB) et chœur (STB) avec 2 violons et basse continue,"pour la fête de sainte Cécile, 22 novembre ?1683"
-335,Z. 335,"Sound the trumpet, beat the drum",Occasional,A minor,"solistes (AATTBB) et chœur (SATB) avec 2 violons, alto et basse continue","pour l'anniversaire de naissance du roi James II, 14 octobre 1687"
-336,Z. 336,"Swifter, Isis, swifter flow",Occasional,G major,"solistes (SSATB) et chœur (SATB) avec 2 flûtes, hautbois, 3 violons, alto et basse continue",pour le retour de Charles II de Newmarket (12 octobre 1681) ou son retour de Windsor (27 août 1681)
-337,Z. 337,The summer's absence unconcerned we bear,Occasional,C major,"solistes (SSAATBB) avec chœur (SATB) avec 2 violons, alto et basse continue","pour le retour du roi Charles II de Newmarket, 21 octobre 1682"
-338,Z. 338,"Welcome, glorious morn",Occasional,C major,"solistes (SATBB) et chœur (SATB) avec 2 hautbois, 2 trompettes, 2 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1691"
-339,Z. 339,Welcome to all the pleasures,Occasional,E minor,"solistes (SSATB) et chœur (SATB) avec 2 violons, alto et basse continue","pour la fête de sainte Cécile, 22 novembre 1683"
-340,Z. 340,"Welcome, Viceregent of the mighty King",Occasional,C major,"solistes (SSATB) et chœur (SATB) avec 2 violons, alto et basse continue","pour le retour de Windsor du roi Charles II, 9 septembre 1680"
-341,Z. 341,What shall be done in behalf of the man,Occasional,,"solistes (SSATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour le retour d'Écosse du duc de York, 27 mai 1682"
-342,Z. 342,Who can from joy refrain ?,Occasional,C major,"solistes (SSAAB) et chœur (SSATB) avec 3 hautbois, trompette, 2 violons, alto et basse continue","pour l'anniversaire de naissance du duc de Gloucester, 24 juillet 1695"
-343,Z. 343,"Why, why are all the muses mute ?",Occasional,,"solistes (SSATBB) avec chœur (SSATB) avec 2 violons, alto et basse continue","pour marquer la suppression de la rébellion de Monmouth et exécuté lors de l'anniversaire de naissance du roi James II, 14 octobre 1685"
-344,Z. 344,"Ye tuneful muses, raise your heads",Occasional,G minor,"solistes (SSATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour l'anniversaire de naissance du roi James II, 14 octobre 1686"
+331,Z. 331,Love's goddess sure was blind,Occasional,G minor,,"solistes (SAATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1692"
+332,Z. 332,Now does the glorious day appear,Occasional,D major,,"solistes (SATBB) et chœur (SATB) avec 3 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril ?1689"
+333,Z. 333,Of old when heroes thought it base,Occasional,,,"solistes (AATBB) et chœur (SSATB) avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, alto et basse continue","pour le festival annuel de la société Yorkshire de Londres, 27 mars 1690"
+334,Z. 334,"Raise, raise the voice",Occasional,,,solistes (SB) et chœur (STB) avec 2 violons et basse continue,"pour la fête de sainte Cécile, 22 novembre ?1683"
+335,Z. 335,"Sound the trumpet, beat the drum",Occasional,A minor,,"solistes (AATTBB) et chœur (SATB) avec 2 violons, alto et basse continue","pour l'anniversaire de naissance du roi James II, 14 octobre 1687"
+336,Z. 336,"Swifter, Isis, swifter flow",Occasional,G major,,"solistes (SSATB) et chœur (SATB) avec 2 flûtes, hautbois, 3 violons, alto et basse continue",pour le retour de Charles II de Newmarket (12 octobre 1681) ou son retour de Windsor (27 août 1681)
+337,Z. 337,The summer's absence unconcerned we bear,Occasional,C major,,"solistes (SSAATBB) avec chœur (SATB) avec 2 violons, alto et basse continue","pour le retour du roi Charles II de Newmarket, 21 octobre 1682"
+338,Z. 338,"Welcome, glorious morn",Occasional,C major,,"solistes (SATBB) et chœur (SATB) avec 2 hautbois, 2 trompettes, 2 violons, alto et basse continue","pour l'anniversaire de naissance de la reine Mary, 30 avril 1691"
+339,Z. 339,Welcome to all the pleasures,Occasional,E minor,,"solistes (SSATB) et chœur (SATB) avec 2 violons, alto et basse continue","pour la fête de sainte Cécile, 22 novembre 1683"
+340,Z. 340,"Welcome, Viceregent of the mighty King",Occasional,C major,,"solistes (SSATB) et chœur (SATB) avec 2 violons, alto et basse continue","pour le retour de Windsor du roi Charles II, 9 septembre 1680"
+341,Z. 341,What shall be done in behalf of the man,Occasional,,,"solistes (SSATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour le retour d'Écosse du duc de York, 27 mai 1682"
+342,Z. 342,Who can from joy refrain ?,Occasional,C major,,"solistes (SSAAB) et chœur (SSATB) avec 3 hautbois, trompette, 2 violons, alto et basse continue","pour l'anniversaire de naissance du duc de Gloucester, 24 juillet 1695"
+343,Z. 343,"Why, why are all the muses mute ?",Occasional,,,"solistes (SSATBB) avec chœur (SSATB) avec 2 violons, alto et basse continue","pour marquer la suppression de la rébellion de Monmouth et exécuté lors de l'anniversaire de naissance du roi James II, 14 octobre 1685"
+344,Z. 344,"Ye tuneful muses, raise your heads",Occasional,G minor,,"solistes (SSATB) et chœur (SATB) avec 2 flûtes, 2 violons, alto et basse continue","pour l'anniversaire de naissance du roi James II, 14 octobre 1686"
+351,Z. 351,Aaron thus propos'd to Moses,Song,B-flat major,,pour soprano avec basse continue,[similaire à Z. 353 et Z. 694 - peut être considérée comme œuvre douteuse]
+352,Z. 352,Ah! cruel nymph! you give despair,Song,G minor,,pour soprano avec basse continue,
+353,Z. 353,Ah! how pleasant 'tis to love,Song,C major,,pour soprano avec basse continue,"[même que Song tune, pour clavecin, Z. 694]"
+354,Z. 354,"Ah!! what pains, what racking thoughts",Song,G minor,,pour soprano avec ? basse continue,
+355,Z. 355,Amidst the shades and cool refreshing streams,Song,A minor,,pour soprano avec basse continue,
+356,Z. 356,"Amintas, to my grief I see",Song,D minor,,pour soprano avec basse continue,
+357,Z. 357,"Amintor, heedless of his flocks",Song,C minor,,pour soprano avec basse continue,
+358,Z. 358,Ask me to love no more,Song,B-flat major,,pour soprano avec basse continue,
+359,Z. 359,A thousand sev'ral ways I tried,Song,B-flat major,,pour soprano avec basse continue,
+360,Z. 360,Bacchus is a pow'r divine,Song,D major,,pour basse avec basse continue,
+361,Z. 361,"Beware, poor shepherds!",Song,D minor,,pour soprano avec basse continue,
+362,Z. 362,"Cease, anxious world, your fruitless pain",Song,G minor,,pour soprano avec basse continue,
+363,Z. 363,"Cease, O my sad soul",Song,C minor,,pour soprano avec basse continue,
+364,Z. 364,"Celia's fond, too long I've lov'd her",Song,D minor,,pour soprano avec basse continue,
+365,Z. 365,Corinna is divinely fair,Song,G minor,,pour soprano avec basse continue,
+366,Z. 366,Corrina when you left the town,Song,,,,[perdu]
+367,Z. 367,"Cupid, the slyest rogue alive",Song,G minor,,pour soprano avec basse continue,
+368,Z. 368,"Farewell, all joys!",Song,G minor,,pour soprano avec basse continue,
+369,Z. 369,"Fly swift, ye hours",Song,D minor,,pour soprano avec basse continue,
+370,Z. 370,From silent shades and the Elysian groves,Song,C major,,pour soprano avec basse continue,
+371,Z. 371,Hears not my Phyllis,Song,F major,,pour soprano avec basse continue,
+372,Z. 372,He himself courts his own ruin,Song,F major,,pour soprano avec basse continue,
+373,Z. 373,How delightful's the life of an innocent swain,Song,G major,,pour soprano avec basse continue,
+374,Z. 374,How I sight when I think of the charms of my swain,Song,C minor,,pour soprano avec basse continue,
+375,Z. 375,"I came, I saw, and was undone",Song,A minor,,pour soprano avec basse continue,
+376,Z. 376,I envy not a monarch's fate,Song,D major,,pour soprano avec basse continue,"[même que Z. 321/10b, transposé de mi majeur]"
+377,Z. 377,I fain would be free,Song,C major,,pour soprano avec basse continue,
+378,Z. 378,If grief has any pow'r to kill,Song,D minor,,pour soprano avec basse continue,
+379.1,Z. 379a,If music be the food of love,Song,G minor,,pour soprano avec basse continue,[1ere version]
+379.2,Z. 379b,If music be the food of love,Song,A minor,,pour soprano avec basse continue,[2e version]
+379.3,Z. 379c,If mudic be the food of love,Song,G minor,,pour soprano avec basse continue,[3e version]
+380,Z. 380,If pray'rs and tears,Song,C minor,,pour soprano avec basse continue,
+381,Z. 381,I lov'd fair Celia,Song,D minor,,pour soprano avec basse continue,[même que Z. 427]
+382,Z. 382,I love and I must,Song,C minor,,pour soprano avec basse continue,
+383,Z. 383,"Incassum, Lesbia, incassum rogas",Song,C minor,,pour soprano avec basse continue,
+384,Z. 384,In Cloris all soft charms agree,Song,D major,,pour soprano avec basse continue,
+385,Z. 385,In vain we dissemble,Song,D minor,,pour soprano avec basse continue,
+386,Z. 386,I resolve against cringing,Song,A minor,,pour soprano avec basse continue,
+387,Z. 387,I saw that you were grown so high,Song,D minor,,pour soprano avec basse continue,
+388,Z. 388,I take no pleasure in the sun's bright beams,Song,A minor,,pour soprano avec basse continue,
+389,Z. 389,Leave these useless arts in loving,Song,G minor,,pour soprano avec basse continue,
+390,Z. 390,Let each gallant heart,Song,C major,,pour soprano avec basse continue,
+391,Z. 391,Ler formal lovers still pursue,Song,A minor,,pour soprano avec basse continue,
+392,Z. 392,Love arms himself in Celia's eyes,Song,C major,,pour soprano avec basse continue,
+393,Z. 393,Love is now become a trade,Song,G minor,,pour soprano avec basse continue,
+394,Z. 394,Lovely Albina's come ashore,Song,C major,,pour soprano avec basse continue,
+395,Z. 395,Love's pow'r in my heart shall find no compliance,Song,C major,,pour soprano avec basse continue,
+396,Z. 396,"Love, thou can'st hear, tho' thou art blind",Song,C minor,,pour soprano avec basse continue,[3 versets]
+397,Z. 397,More love or more disdain I crave,Song,G major,,pour soprano avec basse continue,
+398,Z. 398,,Song,,,,[non assigné]
+399,Z. 399,"My heart, whenever you appear",Song,D minor,,pour soprano avec basse continue,
+400,Z. 400,Not all my torments can your pity move,Song,C minor,,pour soprano avec basse continue,
+401,Z. 401,"No watch, dear Celia, just is found",Song,G minor,,pour soprano avec basse continue,[même que Z. 328/6b et c]
+402,Z. 402,"O! fair Cedaria, hide those eyes",Song,C major,,pour soprano avec basse continue,[3 versets]
+403,Z. 403,"O! how happy's he, who from bus'ness free",Song,D minor,,pour soprano avec basse continue,[même que Z. 627/4]
+404,Z. 404,Olinda in the shades unseen,Song,G major,,pour soprano avec basse continue,
+405,Z. 405,On the brow of Richmond Hill,Song,B-flat major,,pour soprano avec basse continue,
+406,Z. 406,"O solitude, my sweetest choice",Song,C minor,,pour soprano avec basse continue,
+407,Z. 407,"Pastora's beauties, when unblown",Song,C minor,,pour soprano avec basse continue,
+408,Z. 408,"Phyllis, I can ne'er forgive it",Song,G minor,,pour soprano avec basse continue,
+409,Z. 409,"Phyllis, talk no more of passion",Song,C minor,,pour soprano avec basse continue,
+410,Z. 410,Pious Celinda goes to pray'ers,Song,D minor,,pour soprano avec basse continue,
+411,Z. 411,Rashly I swore I rould disown,Song,B-flat major,,pour soprano avec basse continue,
+412,Z. 412,Sawney is a bonny lad,Song,G major,,pour soprano avec basse continue,
+413,Z. 413,She loves and she confesses too,Song,C major,,pour soprano avec basse continue,
+414,Z. 414,She that would gain a faithful lover,Song,B-flat major,,pour soprano avec basse continue,
+415,Z. 415,She who my poor heart possesses,Song,G minor,,pour soprano avec basse continue,
+416,Z. 416,Since one poor view has drawn my heart,Song,C major,,pour soprano avec basse continue,
+417,Z. 417,"Spite of the god-head, pow'rful Love",Song,E minor,,pour soprano avec basse continue,
+418,Z. 418,"Sweet, be no longer sad",Song,A minor,,pour soprano avec basse continue,
+419,Z. 419,,Song,,,,[non assigné]
+420,Z. 420,"Sylvia, now your scorn give over",Song,C major,,pour soprano avec basse continue,
+421,Z. 421,The fatal hour comes on apace,Song,E minor,,pour soprano avec basse continue,
+422,Z. 422,They say your're angry,Song,B-flat major,,pour soprano avec basse continue,
+423,Z. 423,This poet sings the Trojan wars,Song,C major,,pour basse avec basse continue,
+424,Z. 424,Through mournful shades and solitary groves,Song,C minor,,pour soprano avec basse continue,
+425,Z. 425,"Turn, then thine eyes",Song,A minor,,pour soprano avec basse continue,[adaptation de Z. 629/50c]
+426,Z. 426,"Urge me no more, this airy mirth",Song,C minor,,pour soprano avec basse continue,
+427,Z. 427,"We now, my Thyrsis never find",Song,D minor,,pour soprano avec basse continue,[même que Z. 381]
+428.1,Z. 428a,What a sad fate is mine,Song,A minor,,pour soprano avec basse continue,[1ere version]
+428.2,Z. 428b,What a sad fate is mine,Song,C minor,,pour soprano avec basse continue,[2e version]
+429,Z. 429,What can we poor females do ?,Song,A minor,,pour soprano avec basse continue,
+430,Z. 430,When first Amintas sued for a kiss,Song,A major,,pour soprano avec basse continue,
+431,Z. 431,When first my shepherdess and I,Song,A minor,,pour soprano avec basse continue,
+432,Z. 432,"When her languishing eyes said ""Love""",Song,E minor,,pour soprano avec basse continue,
+433,Z. 433,When I a lover pale do see,Song,C major,,pour soprano avec basse continue,
+434,Z. 434,When my Acmelia smiles,Song,B minor,,pour soprano avec basse continue,
+435,Z. 435,When Strephon found his passion vain,Song,D major,,pour soprano avec basse continue,
+436,Z. 436,When Thyrsis did the splendid eye,Song,D minor,,pour soprano avec basse continue,
+437,Z. 437,"While Thrsis, wrapt in downy sleep",Song,F major,,pour soprano avec basse continue,
+438,Z. 438,Whilst Cynthia sung,Song,D minor,,pour soprano avec basse continue,
+439,Z. 439,Whither would my passion run,Song,,,,[perdu]
+440,Z. 440,Who but a slave,Song,G minor,,pour soprano avec basse continue,
+441,Z. 441,Who can behold Florella's charms,Song,F major,,pour soprano avec basse continue,
+442,Z. 442,"Why so serious, why so grave ?",Song,C major,,pour soprano avec basse continue,
+443,Z. 443,Ye happy swains whose nymphs are kind,Song,D minor,,pour soprano avec basse continue,
+444,Z. 444,Stript of their green our groves appear,Song,C major,,pour soprano avec basse continue,
+461,Z. 461,Beneath a dark and melancholy grove,Song,D minor,,pour soliste (S) et chœur (SB) avec basse continue,
+462,Z. 462,"Draw near, you lovers",Song,D minor,,pour soliste (S) et chœur (SB) avec basse continue,
+463,Z. 463,"Farewell, ye rocks, ye seas, ye sands",Song,D minor,,pour soliste (S) et chœur (SB) avec basse continue,
+464,Z. 464,"Gentle shepherds, you that know",Song,A minor,,pour soliste (S) et chœur (SB) avec basse continue,
+465,Z. 465,High on a throne of glitt'ring ore,Song,G major,,pour soliste (S) et chœur (SB) avec basse continue,
+466,Z. 466,"Let us, kind Lesbia, give away in soft embraces",Song,G major,,pour soliste (S) et chœur (SB) avec basse continue,
+467,Z. 467,Musing on cares of human fate,Song,A minor,,pour soliste (S) et chœur (SB) avec basse continue,
+468,Z. 468,"No, to what purpose should I speak ?",Song,D minor,,pour soliste (S) et chœur (SB) avec basse continue,
+469,Z. 469,Scarce had the rising sun appear'd,Song,G minor,,pour soliste (S) et chœur (S) avec basse continue,
+470,Z. 470,"See, how the fading glories of the year",Song,E minor,,pour soliste (S) et chœur (SB) avec basse continue,
+471,Z. 471,Since the pox or the plague,Song,F major,,pour soliste (S) et chœur (SB) avec basse continue,
+472,Z. 472,What hope for us remains now he is gone ?,Song,D minor,,pour soliste (S) et chœur (SB) avec basse continue,
+473,Z. 473,Young Thyrsis' fate the hills and groves deplore,Song,C minor,,pour soliste (S) et chœur (SB) avec basse continue,
+480,Z. 480,Above the tumults of a busy state,Song,D minor,,pour solistes (SB) avec basse continue,
+481,Z. 481,A grasshopper and a fly,Song,G minor,,pour solistes (SB) avec basse continue,
+482,Z. 482,"Alas, how barbarous are we",Song,A minor,,pour solistes (SB) avec basse continue,
+483,Z. 483,"Come, dear companions of th' Arcadian fields",Song,C major,,pour solistes (SB) avec basse continue,
+484,Z. 484,"Come, lay by all care",Song,F major,,pour solistes (SB) avec basse continue,
+485,Z. 485,"Dulcibella, whene'er I sue for a kiss",Song,D minor,,pour solistes (SB) avec basse continue,
+486,Z. 486,Fair Cloe my breast so alarms,Song,C major,,pour solistes (SB) avec basse continue,
+487,Z. 487,Fill the bowl with rosy wine,Song,C major,,pour solistes (SB) avec basse continue,
+488,Z. 488,For love ev'ry creature is form'd,Song,G minor,,pour solistes (SB) avec basse continue,
+489,Z. 489,"Go tell Amynta [Amintor], gentle swain",Song,E minor,,pour solistes (SB) avec basse continue,
+490,Z. 490,"Haste, gentle Charon",Song,,,,
+491,Z. 491,Has yet your breast no pity learn'd?,Song,G minor,,pour solistes (SB) avec basse continue,
+492,Z. 492,"Hence, fond deceiver",Song,D minor,,pour solistes (SB) avec basse continue,
+493,Z. 493,"Here's to thee, Dick",Song,G major,,pour solistes (SB) avec basse continue,
+494,Z. 494,How great are the blessings,Song,C minor,,pour solistes (SB) avec basse continue,
+495,Z. 495,How sweet is the air and refreshing,Song,G major,,pour solistes (SB) avec basse continue,
+496,Z. 496,In all our Cynthia's shining sphere,Song,D major,,pour solistes (SB) avec basse continue,
+497,Z. 497,In some kind dream,Song,D minor,,pour solistes (SB) avec basse continue,
+498,Z. 498,I saw fair Cloris all alone,Song,A minor,,pour solistes (SB) avec basse continue,
+499,Z. 499,"I spy Celia, Celia eyes me",Song,D minor,,pour solistes (SB) avec basse continue,
+500,Z. 500,"Julia, your unjust disdain",Song,A minor,,pour solistes (SB) avec basse continue,
+501,Z. 501,"Let Hector, Achilles, and each brave commander",Song,C major,,pour solistes (SB) avec basse continue,
+502,Z. 502,Lost in my quiet forever,Song,C minor,,pour solistes (SB) avec basse continue,
+503,Z. 503,"Nestor, who did to thrice man's age attain",Song,D minor,,pour solistes (SB) avec basse continue,
+504,Z. 504,O dive Custos Auriacae domus,Song,,,,
+505,Z. 505,Oft am I by the women told,Song,D minor,,pour solistes (SB) avec basse continue,
+506,Z. 506,O! what a scene does entertain my sight,Song,,,,
+507,Z. 507,Saccharissa's grown old,Song,D minor,,pour solistes (SB) avec basse continue,
+508,Z. 508,See where she sits,Song,,,,
+509,Z. 509,"Sit down, my dear Sylvia",Song,D minor,,pour solistes (SB) et chœur (SB) avec basse continue,
+510,Z. 510,Soft notes and gently rais'd accent,Song,,,,
+511,Z. 511,"Sylvia, thou brighter eye of night",Song,C minor,,pour solistes (SB) avec basse continue,
+512,Z. 512,"Sylvia, 'tis true you're fair",Song,C major,,pour solistes (SB) avec basse continue,
+513,Z. 513,There ne'er was so wretched a lover,Song,C minor,,pour solistes (SB) avec basse continue,
+514,Z. 514,Though my mistress be fair,Song,G minor,,pour solistes (SB) avec basse continue,
+515,Z. 515,Trip it in a ring,Song,F major,,pour solistes (SB) avec basse continue,
+516,Z. 516,Underneath this myrtle shade,Song,,,,
+517,Z. 517,Where I to choose the greatest bliss,Song,D minor,,pour solistes (SB) avec basse continue,
+518,Z. 518,What can we poor females do?,Song,A minor,,pour solistes (SB) avec basse continue,
+519,Z. 519,When gay Philander left the plain,Song,A minor,,pour solistes (SB) avec basse continue,
+520,Z. 520,"When, lovely Phyllis, thou art kind",Song,D minor,,pour solistes (SB) avec basse continue,
+521,Z. 521,When Myra sings,Song,C minor,,pour solistes (SB) avec basse continue,
+522,Z. 522,When Teucer from his father fled,Song,,,,
+523,Z. 523,While bolts and bars my days control,Song,G minor,,pour solistes (SB) avec basse continue,
+524,Z. 524,While you for me alone had charms,Song,,,,
+525,Z. 525,"Why, my Daphne, why complaining?",Song,D minor,,pour solistes (SB) avec basse continue,
+526,Z. 526,To this place we're now come,Song,C major,,pour solistes (SB) avec basse continue,
+541,Z. 541,"Hark, Damon, hark",Song,,,"solistes (SB) et chœur (SSB) avec 2 flûtes, 2 violons et basse continue",
+542,Z. 542,"Hark, how the wild musicians sing",Song,,,solistes (TTB) et chœur (TTB) avec 2 violons et basse continue,
+543,Z. 543,How pleasant is this flow'ry plain,Song,,,solistes (ST) et chœur (ST) avec 2 flûtes et basse continue,
+544,Z. 544,If ever I more riches did desire,Song,,,solistes (SSTB) et chœur (STB) avec 2 violons et basse continue,
+545,Z. 545,In a deep vision's intellectual scene,Song,,,solistes (SSB) et chœur (SSB) avec basse continue,
+546,Z. 546,Tis wine was made to rule the day,Song,,,soliste (S) avec chœur (SSB) avec basse continue,
+547,Z. 547,We reap all the pleasures,Song,,,soliste (?) et chœur (STB) avec 2 flûtes et basse continue,
+570,Z. 570,"Abdelazer, or the Moor's Revenge",Incidental Music,,,"pour soliste (S) avec 2 violons, alto et basse continue",
+571,Z. 571,"A Fool's Preferment, or the Three Dukes of Dunstable",Incidental Music,,,pour soliste (T ou S) avec basse continue,
+572,Z. 572,"Amphitryon, or the Two Sosias",Incidental Music,,,"pour solistes (SB) et chœur (SB) avec 2 violons, alto et basse continue",
+573,Z. 573,"Aureng-Zebe, or the Great Mogul",Incidental Music,,,pour soliste (S) avec basse continue,
+574,Z. 574,"Bonduca, or the British Heroine",Incidental Music,,,"pour solistes (SSATB) et chœur (SATB) avec 2 flûtes, 2 hautbois, trompette, 2 violons, alto et basse continue",
+575,Z. 575,Circe,Incidental Music,,,"pour solistes (SATB) et chœur (SATB) avec 2 violons, alto et basse continue",
+576,Z. 576,"Cleomenes, the Spartan Hero",Incidental Music,,,pour soliste (S) avec basse continue,
+577,Z. 577,"Distresses Innocence, or the princess of Persia",Incidental Music,,,"pour 2 violons, alto et basse continue",
+578,Z. 578,Don Quixote,Incidental Music,,,"pour solistes (SATB) et chœur (SBB) avec trompette, 2 violons alto et basse continue",
+579,Z. 579,Epsom Wells,Incidental Music,,,pour solistes (SB) avec basse continue,
+580,Z. 580,"Henry the Second, King of England",Incidental Music,,,pour soliste (S) avec basse continue,
+581,Z. 581,"King Richard the Second, or the History of the Sicilian Usurper",Incidental Music,,,pour soliste (S ou T) avec basse continue,
+582,Z. 582,"Love Triumphant, or Nature will Prevail",Incidental Music,,,pour soliste (S) avec basse continue,
+583,Z. 583,Oedipus,Incidental Music,,,pour solistes (ATB) et chœur (ATB) avec 2 violons et basse continue,
+584,Z. 584,Oroonoko,Incidental Music,,,pour solistes (SS) avec basse continue,
+585,Z. 585,"Pausanias, the Betrayer of his Country",Incidental Music,,,pour solistes (ST) avec basse continue,
+586,Z. 586,"Regulus, or the Faction of Carthage",Incidental Music,,,pour soliste (S) avec basse continue,
+587,Z. 587,Rule a Wife and Have a Wife,Incidental Music,,,pour soliste (S) avec basse continue,
+588,Z. 588,"Sir Anthony Love, or the Rambling Lady",Incidental Music,,,pour solistes (SB) avec 2 violons et basse continue,
+589,Z. 589,"Sir Barnaby Wigg, or No Wit Like a Woman's",Incidental Music,,,pour solistes (SA) et chœur (SB) avec basse continue,
+590,Z. 590,"Sophonisba, or Hannibal's Overthrow",Incidental Music,,,pour soliste (S) avec basse continue,
+591,Z. 591,"The Canterbury Guests, or A Bargain Broken",Incidental Music,,,pour solistes (SSAB) avec basse continue,
+592,Z. 592,The Double Dealer,Incidental Music,,,"pour soliste (S) avec 2 violons, alto et basse continue",
+593,Z. 593,The Double Marriage,Incidental Music,,,"pour ?2violons, ?2 altos et basse continue",
+594,Z. 594,The English Lawyer,Incidental Music,,,pour trois voix,
+595,Z. 595,"The Fatal Marriage, or the Innocent Adultery",Incidental Music,,,pour soliste (S) avec basse continue,
+596,Z. 596,The Female Virtuosos,Incidental Music,,,pour solistes (SS) avec basse continue,
+597,Z. 597,The Gordian Knot Unty'd,Incidental Music,,,"pour 2 violons, alto et basse continue",
+598,Z. 598,"The Indian Emperor, or the Conquest of Mexico",Incidental Music,,,pour soliste (S) avec basse continue,
+599,Z. 599,The Knight of Malta,Incidental Music,,,pour solistes (BBB),
+600,Z. 600,"The Libertine, or the Libertine Destroyed",Incidental Music,,,"pour solistes (SAB) et chœur (SATB) avec trompette, 4 trompettes à coulisse, 2 violons, alto et basse continue",
+601,Z. 601,"The Maid's Last Prayer, or Any Rather Than Fail",Incidental Music,,,pour solistes (SS) avec basse continue,
+602,Z. 602,The Marriage-Hater Match'd,Incidental Music,,,pour solistes (SB) avec basse continue,
+603,Z. 603,"The Married Beau, or the Curious Impertinent",Incidental Music,,,"pour soliste (S) avec 2 violons, alto et basse continue",
+604,Z. 604,The Massacre of Paris,Incidental Music,,,pour soliste (S ou B) avec basse continue,
+605,Z. 605,The Mock Marriage,Incidental Music,,,pour soliste (S) avec basse continue,
+606,Z. 606,"Theodosius, or the Force of Love",Incidental Music,,,pour solistes (SATB) et chœur (SATB) avec 2 flûtes et basse continue,
+607,Z. 607,The Old Bachelor,Incidental Music,,,"pour solistes (SB) avec 2 violons, alto et basse continue",
+608,Z. 608,"The Richmond Heiress, or A Woman Once in the Right",Incidental Music,,,pour solistes (SB) avec basse continue,
+609,Z. 609,"The Rival Sisters, or the Violence of Love",Incidental Music,,,"pour soliste (S) avec 2 violons, alto et basse continue",
+610,Z. 610,"The Spanish Friar, or the Double Discovery",Incidental Music,,,pour soliste (S) avec basse continue,
+611,Z. 611,"The Virtuous Wife, or Good Luck at Last",Incidental Music,,,"pour 2 violons, alto et basse continue",
+612,Z. 612,"The Wives' Excuse, or Cuckholds Make Themselves",Incidental Music,,,pour soliste (S) avec basse continue,
+613,Z. 613,"Tyrannic Love, or the Royal Martyr",Incidental Music,,,pour solistes (SB) avec basse continue,
+626,Z. 626,Dido and Aeneas,Opera,,,"solistes (SSSTB) et chœur (SATB)
+avec 2 violons, alto et basse continue",Libretto: Nahum Tate (1652–1715) d'après son oeuvre Brutus of Alba et Aeneid de Virgile
+627,Z. 627,"The Prophetess, or the History of Dioclesian",Semi-Opera,,,"solistes (SATTBB) et chœur (SATB)
+avec 2 flûtes, 2 hautbois, hautbois ténor, basson, 2 violons, alto et basse continue",Libretto: Thomas Betterton ou John Dryden (Dances arrangées par Josiah Priest)
+628,Z. 628,"King Arthur, or the British Worthy",Semi-Opera,,,"solistes (SSSATB) et chœur (SATB)
+avec 2 flûtes, 2 hautbois, 2 trompettes, 2 violons, 2 altos et basse continue",Libretto: John Dryden (Dances arrangées par Josiah Priest)
+629,Z. 629,The Fairy Queen,Semi-Opera,,,"solistes (SSAATB) et chœur (SATB)
+avec 2 flûtes, 2 hautbois, 2 trompettes, tambour, 2 violons, alto et basse continue",Texte: Elkanah Settle
+630,Z. 630,The Indian Queen,Semi-Opera,,,"solistes (SSATB) et chœur (SATB)
+avec 2 flûtes, 2 hautbois, 2 trompettes, tambour, 2 violons, alto et basse continue",Texte: John Dryden et Sir Robert Howard
+631,Z. 631,"The Tempest, or the Enchanted Isle",Semi-Opera,,,"solistes (SABB) et chœur (SATB)
+avec hautbois, 2 violons, alto et bassse continue",Texte: Thomas Shadwell d'après William Shakespeare
+632,Z. 632,"Timon of Athens, the Man-Hater",Masque,,,"solistes (SSAB) et chœur (SSATB)
+avec 2 flûtes, 2 hautbois, trompette, 2 violons, alto et basse continue",Texte: Thomas Shadwell d'après William Shakespeare
+641,Z. 641,Air,,G major,,clavecin,
+642.1,Z. 642/1,Almand,,A minor,,clavecin,
+642.2,Z. 642/2,Corant,,A minor,,clavecin,
+643,Z. 643,Almand avec division,,G major,,clavecin,[variante de 660/2]
+644,Z. 644,Corant,,G major,,clavecin,[variante de 660/3]
+645,Z. 645,Ground in Gamut,,G major,,clavecin,
+646,Z. 646,Lilliburlero (A new Irish tune),,G major,,clavecin,
+647,Z. 647,March,,C major,,clavecin,[Titre original : Lesson]
+648,Z. 648,March,,C major,,clavecin,
+649,Z. 649,Minuet,,A minor,,clavecin,[sans titre dans certaines éditions]
+650,Z. 650,Minuet,,A minor,,clavecin,
+651,Z. 651,Minuet,,G major,,clavecin,[pourrait faire partie de 660]
+652,Z. 652,Prelude,,A minor,,clavecin,[pourrait appartenir avec 654 à une Suite en la mineur]
+653,Z. 653,Rigadoon,,C major,,clavecin,
+654,Z. 654,Saraband avec division,,A minor,,clavecin,[pourrait appartenir avec 652 à une Suite en la mineur]
+655,Z. 655,Scotch tune (A new Scotch tune),,G major,,clavecin,
+656,Z. 656,Sefauchi's Farewell,,D minor,,clavecin,"[lors du départ d'Angleterre en 1688 du castrato Giovanni Francesco Grossi,connu aussi comme Siface]"
+660,Z. 660,Suite,,G major,"1. Prélude en sol majeur)
+2. Almand en sol majeur
+[variante dans 643]
+3. Corant en sol majeur
+4. Saraband en sol majeur",clavecin,
+661,Z. 661,Suite,,G minor,"1. Prelude en sol mineur
+2. Almand en sol mineur
+3. Corant en sol mineur
+4. Saraband en sol mineur",clavecin,
+662,Z. 662,Suite,,G major,"1. Prelude en sol majeur
+2. Almand en sol majeur
+3. Corant en sol majeur",clavecin,[semble incomplète puisqu'il manque la Saraband habituelle]
+663,Z. 663,Suite,,A minor,"1. Prelude en la mineur
+2. Almand en la mineur
+3. Corant en la mineur
+[connu aussi sous Hornpipe]
+4. Saraband en la mineur",clavecin,
+664,Z. 664,Suite,,B-flat major,"1. Almand en si bémol majeur
+2. Corant en si bémol majeur
+3. Saraband en si bémol majeur",clavecin,[La Suite se termine par une Jigg par Lord Byron]
+665,Z. 665,Suite,,C major,"1. Prelude en do majeur
+2. Almand en do majeur
+3. Corant en do majeur
+4. Saraband en do majeur
+5. Jigg. do majeur",clavecin,
+666,Z. 666,Suite,,C major,"1. Prelude en do majeur
+2. Almand en do majeur
+3. Corant en do majeur
+[même que 665/3]
+4. Saraband en do majeur
+[même que 665/4]",clavecin,
+667,Z. 667,Suite,,D major,"1. Prelude en ré majeur
+2. Almand en ré majeur
+3. Hornpipe en ré majeur",clavecin,
+668,Z. 668,Suite,,D minor,"1. Almand (Bell Barr) en ré mineur
+2. Corant en ré mineur
+3. Hornpipe en ré mineur",clavecin,
+669,Z. 669,Suite,,F major,"1. Prelude en fa majeur
+2. Almand en fa majeur
+3. Corant en fa majeur
+4. Minuet en fa majeur
+[adapté pour cordes, 592/3]",clavecin,
+670,Z. 670,The Queen's Dolour,,A minor,,clavecin,
+675,Z. 675,Air,,D minor,,clavecin,"[Se compare avec un autre air en version plus élaborée, 696 1/2]"
+676,Z. 676,Air,,D minor,,clavecin,"[transcription du 3e minuet de Doouble Dealer, 592/7]"
+677,Z. 677,Canary,,B-flat major,,clavecin,"[même que Curtain tune in The Indian Queen, 630/18 - Une autre version existe en la majeur]"
+678,Z. 678,Trumpet tune,,C major,,clavecin,"Chacone, avec canon, en la mineur, pour clavecin"
+679,Z. 679,Chacone avec canon,,A minor,,clavecin,"[transcrit de Dioclesian, 627/26]"
+680,Z. 680,Chacone,,G minor,,clavecin,"[même que Curtain time de Timon of Athens, 632/20]"
+681,Z. 681,Ground,,C minor,,clavecin,"[transcription de Ye tuneful Muses, 344/11]"
+682,Z. 682,A new ground,,E minor,,clavecin,"[apparaît en tant qu'alto solo dans Welcome to all the pleasures, 339/3]"
+683,Z. 683,Hornpipe,,B-flat major,,clavecin,"[transcription du Hornpipe de Abdelazer, 570/8]"
+684,Z. 684,Hornpipe ou Rondo,,D minor,,clavecin,"[transcription de la 2e pièce instrumentale de Abdelazer, 570/2]"
+685,Z. 685,Hornpipe,,E minor,,clavecin,"[même que Hornpipe de The Old Bachelor, 607/4]"
+686,Z. 686,Jig,,D minor,,clavecin,"[transcription de Jig de Abdelazer, 570/7]"
+687,Z. 687,March,,C major,,clavecin,"[transcription d'une pièce de The Married Beau, 603/8]"
+688,Z. 688,Minuet,,D minor,,clavecin,"[transcription d'un Ritornello dans Raise the voice, 334/6]"
+689,Z. 689,New Minuet,,D minor,,clavecin,"[transcription d'un chant de Timon of Athens, 632/15]"
+690,Z. 690,Ouverture,,C minor,"1. Grave (do mineur)
+[même que 630/3a]
+2. Canzona en do mineur
+[même que 630/3b]",clavecin,[même que 630/3a et 630/3b]
+691,Z. 691,Ouverture,,D major,"1. Grave (ré majeur)
+2. Canzona en ré majeur",clavecin,"[même que l'Ouverture de Timon of Athens, 632/1 ou l'Ouverture, en do majeur, 342/1]"
+692,Z. 692,Ouverture,,D major,"1. Grave (ré majeur)
+2. Canzona en ré majeur",clavecin,"[extrait de la première Symphonie de The Fairy Queen, 629/3a,b]"
+693,Z. 693,"Ouverture, Air and Jig in gamut",,G minor,"1a. Ouverture
+Grave en sol mineur
+[même que 611/1]
+1b. Canzona en sol mineur
+[même que 611/1]
+2. Air en sol mineur
+[même que 570/6]
+3. Jig en sol mineur
+[composition de Morgan]",clavecin,"[l'Ouverture provient de The Virtout Wife, 611/1, L'Air provient de Abdelazer, 570/6]"
+694,Z. 694,Song tune,,C major,,clavecin,[même que 353 et 351]
+695,Z. 695,Song tune,,C major,,clavecin,[même que 420]
+696,Z. 696,Suite,,D minor,"1. Air en ré mineur
+[version de 675/1]
+2. Air en ré mineur",clavecin,
+697,Z. 697,Trumpet tune,,C major,,clavecin,"[adaptation de Trumpet Tune de Dioclesian, 627/2]"
+698,Z. 698,Trumpet tune,,C major,,clavecin,"[contenu dans le prologue de The Indian Queen, 630/42]"
+716,Z. 716,A Verse,,F major,,Organ,
+717,Z. 717,Voluntary,,C major,,Organ,
+718,Z. 718,Voluntary,,D minor,,Organ,
+719,Z. 719,Voluntary,,D minor,,Double Organ,
+720,Z. 720,Voluntary,,G major,,Organ,
+721,Z. 721,Voluntary on the 100th Psalm,,A major,,Organ,
+730,Z. 730,Chacony à 4,,G minor,,"2 violons, alto et basse",
+731,Z. 731,"Fantasia ""3 parts upon a ground""",,F major,"1. … (fa majeur)
+2. … (fa majeur)
+3. [Four parts in two] (fa majeur)
+4. [Three parts in one] (fa majeur)
+5. … (fa majeur)
+6. [Three parts in one] (fa majeur)
+7. … (fa majeur)
+8. … (fa majeur)",3 flûtes ou violons et basse,
+732,Z. 732,Fantasia à 3,,,"1. … (ré mineur)
+2. Quick (ré mineur)
+3. … (la mineur)","violon, alto et basse",
+733,Z. 733,Fantasia à 3,,F major,"1. … (fa majeur)
+2. Brisk (fa majeur)
+3. Slow (fa majeur)","violon, alto et basse",
+734,Z. 734,Fantasia à 3,,G minor,,"violon, alto et basse",
+735,Z. 735,Fantasia à 4,,G minor,"1. … (sol mineur)
+2. Slow (sol mineur)
+3. Brisk (sol mineur)","2 violons, alto et basse",
+736,Z. 736,Fantasia à 4,,B-flat major,"1. … (si bémol majeur)
+2. Brisk (si bémol majeur)
+3. Slow (la mineur)
+4. Brisk (si bémol majeur)","2 violons, alto et basse",
+737,Z. 737,Fantasia à 4,,F major,"1. … (fa majeur)
+2. Slow (fa majeur)
+3. Quick (fa majeur)
+4. Slow (fa majeur)","2 violons, alto et basse",
+738,Z. 738,Fantasia à 4,,C minor,"1. … (do mineur)
+2. Brisk (do mineur)
+3. Slow (do mineur)
+4. Quick (do mineur)
+5. Drag (do mineur)","2 violons, alto et basse",
+739,Z. 739,Fantasia à 4,,D minor,"1. … (ré mineur)
+2. Slow (ré mineur)
+3. Brisk (ré mineur)
+4. Slow (ré mineur)","2 violons, alto et basse",
+740,Z. 740,Fantasia à 4,,A minor,"1. … (la mineur)
+2. Brisk (la mineur)
+3. Slow (fa majeur)
+4. Quick (la mineur)","2 violons, alto et basse",
+741,Z. 741,Fantasia à 4,,E minor,"1. … (mi mineur)
+2. Brisk (mi mineur)
+3. Slow (mi mineur)
+4. Quick (mi mineur)","2 violons, alto et basse",
+742,Z. 742,Fantasia à 4,,G major,"1. … (sol majeur)
+2. Drag (sol mineur)
+3. Brisk (sol majeur)","2 violons, alto et basse",
+743,Z. 743,Fantasia à 4,,,"1. … (ré mineur)
+2. Quick (ré mineur)
+3. … (la mineur)","2 violons, alto et basse",
+744,Z. 744,Fantasia à 4,,A minor,,"2 violons, basse de viole et basse",[incomplète]
+745,Z. 745,Fantasia upon one note à 5,,F major,"1. … (fa majeur)
+2. Brisk (fa majeur)
+3. Slow (fa mineur)
+4. Quick (fa majeur)","2 violons, 2 altos et basse",
+746,Z. 746,In nomine à 6,,G minor,,"4 violons, alto et basse",
+747,Z. 747,In nomine à 7,,G minor,,"4 violons, alto et 2 basses",
+748,Z. 748,Pavan à 3 pour,,A major,,2 violons et basse,
+749,Z. 749,Pavan à 3,,A minor,,2 violons et basse,
+750,Z. 750,Pavan à 3,,B-flat major,,2 violons et basse,
+751,Z. 751,Pavan in gamut à 3,,G minor,,2 violons et basse,
+752,Z. 752,Pavan à 4,,G minor,,3 violons et basse,
+770,Z. 770,Ouverture et Suite (fragment),,G major,"1a. Ouverture
+Grave (sol majeur)
+1b. Canzona
+… (sol majeur)
+1c. Adagio
+… (sol majeur)
+[même que Air, 597/4]
+2. Air
+… (sol majeur)
+3. Minuet
+… (sol majeur)
+[même que Minuet, 577/8]
+4. Jigg
+… (sol majeur)
+[même que Ritornello, 344/5c]","2 violons, alto et basse",
+771,Z. 771,Ouverture,,D minor,"1a. Ouverture
+Grave (ré mineur)
+1b. Canzona
+… (ré mineur)
+1c. Adagio
+… (ré mineur)","2 violons, alto et basse",
+772,Z. 772,Ouverture à 5,,G minor,"1a. Ouverture
+Grave (sol mineur)
+1b. Canzona
+… (sol mineur)
+1c. Adagio
+… (sol mineur)","2 violons, 2 altos et basse",
+773,Z. 773,Prélude pour,,G minor,,violon solo,
+774,Z. 774,Mr. Purcell's Jigg,,A major,,violon solo,
+780,Z. 780,Sonata,Sonata,G minor,"1a. Grave (sol mineur)
+1b. Canzona
+… (sol mineur)
+2. Largo (sol mineur)
+3. Vivace (sol mineur)","violon, basse de viole obligée et basse",
+790,Z. 790,Sonate I,Sonata,G minor,"1. Grave (sol mineur)
+2. Vivace (sol mineur)
+3. Adagio (sol mineur)
+4. Presto (sol mineur)
+5. Largo (sol mineur)","2 violons, basse de viole et basse",
+791,Z. 791,Sonate II,Sonata,B-flat major,"1. Allegro (si bémol majeur)
+2. Largo (si bémol majeur)
+3. Presto (si bémol majeur)
+4. Adagio/Vivace (si bémol majeur)
+5. Allegro (si bémol majeur)","2 violons, basse de viole et basse",
+792,Z. 792,Sonata III,Sonata,D minor,"1a. Grave/Adagio (ré mineur)
+1b. Canzona
+… (ré mineur)
+2. Poco Largo (ré mineur)
+3. Allegro (ré mineur)","2 violons, basse de viole et basse",
+793,Z. 793,Sonata IV,Sonata,F major,"1a. Grave (fa majeur)
+1b. Canzona
+… (fa majeur)
+2. Poco Largo (fa majeur)
+3. Allegro (fa majeur)
+4. Adagio (fa majeur)","2 violons, basse de viole et basse",
+794,Z. 794,Sonata V,Sonata,A minor,"1. Allegro (la mineur)
+2. Adagio (la mineur)
+3. Largo (la mineur)
+4a. Grave (la mineur)
+4b. Canzona
+Adagio (la mineur)","2 violons, basse de viole et basse",
+795,Z. 795,Sonata VI,Sonata,C major,"1a. Allegro (do majeur)
+1b. Canzona
+… (do majeur)
+2. Largo (do majeur)
+3. Allegro (do majeur)","2 violons, basse de viole et basse",
+796,Z. 796,Sonata VII,Sonata,E minor,"1a. Grave (mi mineur)
+1b. Canzona
+… (mi mineur)
+2. Largo (mi mineur)
+3. Grave (mi mineur)
+4. Vivace (mi mineur)
+5. Adagio (mi mineur)","2 violons, basse de viole et basse",
+797,Z. 797,Sonata VIII,Sonata,G major,"1. Allegro (sol majeur)
+2a. Poco Largo (sol majeur)
+2b. Allegro (sol majeur)
+3. Grave (mi mineur)
+4. Vivace (sol majeur)","2 violons, basse de viole et basse",
+798,Z. 798,Sonata IX,Sonata,C minor,"1. Grave (do mineur)
+2. Largo (do mineur)
+3. Canzona
+Adagio (do mineur)
+4. Allegro (do mineur)","2 violons, basse de viole et basse",
+799,Z. 799,Sonata X,Sonata,A major,"1. Grave (la majeur)
+2. Largo (la majeur)
+3. Grave (fa dièse mineur)
+4. Presto (la majeur)","2 violons, basse de viole et basse",
+800,Z. 800,Sonata XI,Sonata,F minor,"1a. Grave (fa mineur)
+1b. Canzona
+… (fa mineur)
+2. Adagio (fa mineur)
+3. Largo (fa mineur)","2 violons, basse de viole et basse",
+801,Z. 801,Sonata XII,Sonata,D major,"1a. Grave (ré majeur)
+1b. Canzona
+… (ré majeur)
+2. Poco Largo (ré majeur)
+3a. Grave (si mineur)
+3b. Presto (ré majeur)
+4. Allegro/Adagio (ré majeur)","2 violons, basse de viole et basse",
+802,Z. 802,Sonata I,Sonata,B minor,"1a. Adagio (si mineur)
+1b. Canzona
+… (si mineur)
+2. Largo (si mineur)
+3. Vivace (si mineur)
+4. Grave (si mineur)","2 violons, basse de viole et basse",
+803,Z. 803,Sonata II,Sonata,E-flat major,"1a. Grave (mi bémol majeur)
+1b. Canzona (mi bémol majeur)
+2. Adagio (do mineur)
+3. Largo (mi bémol majeur)
+4. Allegro (mi bémol majeur)","2 violons, basse de viole et basse",
+804,Z. 804,Sonata III,Sonata,A minor,"1. Grave (la mineur)
+2. Largo (la mineur)
+3. Adagio (la mineur)
+4. … (la mineur)
+5. Allegro (la mineur)
+6. Grave (la mineur)","2 violons, basse de viole et basse",
+805,Z. 805,Sonata IV,Sonata,D minor,"1a. Grave (ré mineur)
+1b. Canzona
+… (ré mineur)
+2. Adagio (ré mineur)
+3. Vivace (ré mineur)
+4. Largo (ré mineur)","2 violons, basse de viole et basse",
+806,Z. 806,Sonata V,Sonata,,"1a. Grave (sol mineur)
+1b. Canzona
+… (sol mineur)
+2. Largo (sol mineur)
+3. Adagio (sol mineur)
+4. Presto (sol mineur)
+5. Adagio (sol mineur)","2 violons, basse de viole et basse",
+807,Z. 807,Sonata VI,Sonata,G minor,Adagio (sol mineur),"2 violons, basse de viole et basse",
+808,Z. 808,Sonata VII,Sonata,C major,"1. Vivace (do majeur)
+2. Largo (la mineur)
+3a. Grave (la mineur)
+3b. Canzona
+… (do majeur)
+4. Allegro (do majeur)
+5. Adagio (do majeur)","2 violons, basse de viole et basse",
+809,Z. 809,Sonata VIII,Sonata,G minor,"1a. Adagio (sol mineur)
+1b. Canzona
+… (sol mineur)
+1c. Grave (sol mineur)
+2. Largo (sol mineur)
+3. Vivace (sol mineur)","2 violons, basse de viole et basse",
+810,Z. 810,"Sonata IX ""The Golden""",Sonata,F major,"1. Allegro (fa majeur)
+2a. Largo (fa mineur)
+2b. Canzona
+… (fa majeur)
+3. Grave (fa majeur)
+4. Allegro (fa majeur)","2 violons, basse de viole et basse",
+811,Z. 811,Sonata X,Sonata,D major,"1a. Grave (ré majeur)
+1b. Canzona
+… (ré majeur)
+2. Grave (si mineur)
+3. Largo (ré majeur)
+4. Allegro (ré majeur)","2 violons, basse de viole et basse",
+850,Z. 850,Sonata,Sonata,D major,"1. Allegro (ré majeur)
+2. Adagio (si mineur)
+3. Presto (ré majeur)",trompette avec cordes (2 violons et alto) et basse continue,
+860,Z. 860,March et Canzona,,C minor,"1. March. Grave (do mineur)
+2. Canzonam(do mineur)",4 trompettes et tambour (?),
+870,Z. 870,Counterpoint and Canon,,,,,
+871,Z. 871,Miscellaneous Exercises,,,,,
+999.001,Z. D1,Awake up my glory,,,,,
+999.002,Z. D2,Glory be to God on high,,,,,
+999.003,Z. D3,O be joyful,,,,,
+999.004,Z. D4,"O God, they that love Thy name",,,,,
+999.005,Z. D5,O pray for the peace,,,,,
+999.006,Z. D6,Peace be within thy walls,,,,,
+999.007,Z. D7,Sing we marrily unto God,,,,,
+999.008,Z. D8,"Turn Thee again, O Lord",,,,,
+999.015,Z. D15,Alleluia,,,,,
+999.021,Z. D21,Glory be to the Father,,,,,
+999.022,Z. D22,Laudate Dominum,,,,,
+999.03,Z. D30,,Song,A major,,,
+999.031,Z. D31,,Song,C major,,,
+999.032,Z. D32,,Song,G major,,,
+999.033,Z. D33,,Song,G minor,,,
+999.034,Z. D34,,Song,G minor,,,
+999.035,Z. D35,Venite,Song,G major,,,
+999.036,Z. D36,,Song,G minor,,,
+999.037,Z. D37,,Song,B-flat major,,,
+999.038,Z. D38,,Song,G minor,,,
+999.04,Z. D40,Far from me be all false ways,,,,,
+999.041,Z. D41,"O God, sole object of our love",,,,,
+999.042,Z. D42,O that my grief was throughly weigh'd,,,,,
+999.043,Z. D43,"Put me not to rebuke, O Lord",,,,,
+999.044,Z. D44,The gracious bounty of our God,,,,,
+999.045,Z. D45,Walsall,,,,,
+999.046,Z. D46,Westminster Abbey,,,,,
+999.069,Z. D69,"Arise, great dead, for arms renown'd",,,,,
+999.07,Z. D70,"Arise, my darkn'd melancholy soul",,,,,
+999.071,Z. D71,"It must be done, my soul",,,,,
+999.072,Z. D72,My op'ning eyes are purg'd,,,,,
+999.073,Z. D73,O give thanks unto the Lord,,,,,
+999.074,Z. D74,"O praise the Lord, laud ye the name",,,,,
+999.075,Z. D75,"Praise the Lord, O my soul, and all that is within me",,,,,
+999.076,Z. D76,"The Lord, ev'n the most mighty",,,,,
+999.077,Z. D77,The night is come,,,,,
+999.078,Z. D78,Soon as the morn salutes your eyes,,,,,
+999.09,Z. D90,Sanctus,,,,,
+999.091,Z. D91,Te Deum,,C major,,,
+999.1,Z. D100,"Fie, nay prithee, John",,,,,
+999.101,Z. D101,"Hail happy words, abodes of peace",,,,,
+999.102,Z. D102,Let's live good honest lives,,,,,
+999.103,Z. D103,"Say, good master Bacchus",,,,,
+999.104,Z. D104,Since women so false and so jiltish are grown,,,,,
+999.105,Z. D105,The glass was just tim'd,,,,,
+999.106,Z. D106,"Tom, making a mantua for a lass",,,,,
+999.107,Z. D107,"Well rung, Tom boy",,,,,

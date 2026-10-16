@@ -1,89 +1,1193 @@
-SORT,Catalogue,Date,Title,Opus,Type,Key,Workparts,Instrumentation,Note
-1,D. 1,1810/04/08–1810/05/01,,,Fantasie,,"1. Adagio - Allegro
-2. Presto - Allegretto
-3. Finale. Allegro maestoso",Piano Four Hands,
-1.1,D. 1a,?-1810?,Gesang,,,c,,Baßstimme und Klavier,
-1.2,D. 1b,1810/1811,,,Fantasie,,1. Adagio - Allegro,Piano Four Hands,[fragment]
-1.3,D. 1c,1810/1811?,,,Sonata,F,,Piano Four Hands,1st movement fragment
-2,D. 2,,Satz in G,,,G,,Streichquartett,"[fragment], Komposition Albert Satdlers"
-2.1,D. 2a,1811?,,,Ouvertüre,D,,"2 Fl, 2 Ob, 2 Cl, 2 Fg - 2 Cor, 2 Trb, 4 Trn - Timp - Archi",[fragment]
-2.2,D. 2b,1811?,,,Sinfonie,D,,"2 Fl, 2 Ob, 2 Cl, 2 Fg - 2 Cor, 2 Trb, 4 Trn - Timp - Archi",1st movement fragment
-2.3,D. 2c,1811?,Bruchstück aus einem Satz,,,d/F,,Streichquartett,
-2.4,D. 2d,1811,6 Menuette,,,,,"2 Fl, 2 Cl, 2 Fg, 2 Cor,Trb, Nr. 1-3 Partitur, Nr. 4-6 Particell-Entwürfe",
-2.5,D. 2e,1811,,,Fantasie,c,,clav,
-2.6,D. 2f,1811,Trio eines Menuetts,,,,,,Particell-Entwurf
-3,D. 3,1812 Summer,Satz in C,,,C,,Streichquartett,[fragment]
-4,D. 4,1812?,"Ouvertüre zu dem Lustspiel mit Gesang ""Der Teufel als Hydraulicus""",,,,,"2 fl, 2 cl, fg,  2 cor, archi",
-5,D. 5,1811/03/30,Hagars Klage,,Lied,,,,text: Clemens August Schücking
-6,D. 6,1811/1812,Des Mädchens Klage,,Lied,,,,"Text: Friedrich von Schiller (Wallenstein, Die Piccolomini III/7)
-1st setting"
-7,D. 7,1811?,Leichenfantasie,,Lied,,,,Text: Friedrich von Schiller
-8,D. 8,1811/06/29,,,Ouvertüre,c,,"Streichquintett: 2v, 2va, vc",
-8.1,D. 8a,1811/07/12-?,,,Ouvertüre,c,,Streichquartett,Quartett-Fassung von 8
-9,D. 9,1811/09/20,,,Fantasie,g,,Piano Four Hands,
-10,D. 10,1811/12/26,Der Vatermörder,,Lied,,,,Text: Gottlieb Conrad Pfeffel
-11,D. 11,1811/12?-,Der Spiegelritter,,Singspiel,,,,"Text: August von Kotzebue
-Fragment (only Act I preserved)"
-12,D. 12,1811/1812,,,Ouvertüre,D,,"2 Fl, 2 Ob, 2 Cl, 2 Fg - 2 Cor, 2 Trb, 3 Trn - Timp - Archi",
-13,D. 13,c. 1812,,,Fuge,d,,,vermutlich für Klavier
-14,D. 14,c. 1812,,,Ouvertüre,,,,"Klavierentwurf, Verschollen"
-15,D. 15,c. 1812,Der Geistertanz,,Lied,,,,"Text: Freidrich von Matthisson
-1st setting, fragment"
-15.1,D. 15a,c. 1812,Der Geistertanz,,Lied,,,,"Text: Freidrich von Matthisson
-2nd setting, fragment"
-16,D. 16,1823?,Kontrapunktübungen,,,,,,
-17,D. 17,1812?,"Quell' innocente figlio, Kontrapunktübungen für verschiedene Stimmen",,,,,,"Text: Pietro Metastasio
-Source: Isacco, Parte prima, Aria dell' Angelo"
-18,D. 18,1810/1811,,,,g/B,,Streichquartett,
-19,D. 19,1810/1811,,,,,,Streichquartett,
-19.1,D. 19a,1810/1811,,,,,,Streichquartett,
-19.2,D. 19b,1812/1813?,Mehrere Walzer und ein Marsch für Klävier,,,,,,verschollen
-20,D. 20,1812,,,Ouvertüre,Bb,,Streichquartett,verschollen
-21,D. 21,1812,6 Variations,,,Es,,,verschollen
-22,D. 22,1812,12 Menuette with Trios,,,,,clav,verschollen
-23,D. 23,1812,Klaglied,op. post. 131/3,Lied,,,,Text: Friedrich Rochlitz
-24,D. 24,1812?,7 Variations,,,F,,,"verschollen, see D. 3"
-24.1,D. 24a,1812 Summer,,,Fuge,C,,vermutlich fur clav oder orgel,verschollen
-24.2,D. 24b,1812 Summer,,,Fuge,G,,vermutlich fur clav oder orgel,verschollen
-24.3,D. 24c,1812 Summer,,,Fuge,d,,vermutlich fur clav oder orgel,verschollen
-24.4,D. 24d,1812 Summer,,,Fuge,C,,clav,[fragment]
-24.5,D. 24e,1812 Summer,Messe,,,F?,,"Schluß des Gloria (F) und Beginn des Credo (F). Coro (SATB)- 2 Ob, 2 Fg - 2 Trb,
-3 Trn - Timp - Archi - Organo",[fragment]
-25,D. 25,1812/06/18-,Kontrapunktübungen,,,,,,
-25.1,D. 25a,1812 Summer,Kontrapunktübungen,,,,,,
-25.2,D. 25b,1812 Summer,Kontrapunktübungen,,,,,,
-25.3,D. 25c,1812 Summer,,,Fuge,F,,2 Stimmen,[fragment]
-26,D. 26,?-1812/6/26,,,Ouvertüre,D,,"2 Fl, 2 Ob, 2 Cl, 2 Fg - 2 Cor, 2 Trb, 3 Trn - Timp - Archi",
-27,D. 27,1812/06/28,Salve Regina in F,,,F,,"Sopr, 2 ob/Cl, 2 cor, archi, organo",
-28,D. 28,1810/7/27-1812/8/28,trio in B,,,Bb,,"clav, vln,vlc",
-29,D. 29,1812/9/9,Andante,,,C,,clav,
-30,D. 30,1812/9/24,Der Jüngling am Bache,,Lied,,,,"Text: Friedrich von Schiller
-1st setting"
-31,D. 31,1812/9/25,Kyrie für eine Messe,,,d,,,"sopr, ten, SATB   coro, fl, 2 ob, 2 fg, 2 trb, timp, archi, organo"
-32,D. 32,1812/9-1812/10,,,,C,,Streichquartett,
-33,D. 33,1812/9-1812/10,Entra l'uomo allor che nasce,,,,,,"Kontrapunktübungen für verschiedene Stimmen
-Text: Pietro Metastasio
-Source: Isacco, Parte seconda, Aria di Abramo"
-34,D. 34,1812/11/5,Te solo adoro,,Quartett,,,,"Kontrapunktübungen  
-Text: Pietro Metastasio
-Source: Betulia lierata, Parte seconda, Aria di Achior"
-35,D. 35,1812/10-1810/12,"Serbate, o dei custodi",,,,,,"Kontrapunktübungen für verschiedene Stimmen
-Text: Pietro Metastasio
-Source: La clemenza di Tito, I/5"
-36,D. 36,1812/11/19-1813/2/21,,,,B,,Streichquartett,
-37,D. 37,1812/12/25-1812/12/27,Die Advokaten,op. 74,Terzett,,,"2 ten, basso, clav","after Anton Fischer
-text: Baron Engelhart"
-37.1,D. 37a,1813?,Fugenentwürfe,,,,,clav,
-38,D. 38,1813?,Totengräberlied,,Terzett,,,"2 ten, basso","text: ludwig christoph heinrich hölty
-1st setting"
-39,D. 39,early 1810,Lebenstraum,,liedentwurf,,,,txt: gabriele von baumberg
-39.1,D. 39a,1813,3 Menuette & Trios,,,,,orch,verschollen
-40,D. 40,,,,,Es,,Streichquartett,verschollen
-41,D. 41,1813,30 Menuette with Trios,,,,,clav,9/10/19/24-30 verschollen
-41.1,D. 41a,1813,,,Fuge,Es,,clav,[fragment]
-42,D. 42,1813?,Misero pargoletto,,Aria,,,"sopr, klavier","Text: Pietro Metastasio
-Source: Demofoonte, V/5, Aria di Timante
-2nd setting"
-94,D. 94,1811/1812?,,,,D,,Streichquartett,
-128,D. 128,1812?,12 Wiener Deutsche,,,,,clav,
-642,D. 642,1812?,Viel tausend Sterne prangen,,Quartett,,,,
+SORT,Catalogue,Opus,Date,Title,Type,Remarks
+1,D. 1,,1810,Fantasie in G für Klavier zu 4 Händen,Fantasia,
+1.1,D. 1A,,1810 ante,Gesang in c für Baßstimme und Klavier,Lied,
+1.2,D. 1B,,1811,Fantasie in G für Klavier zu 4 Händen,Fantasia,
+1.3,D. 1C,,1811,Sonate in F für Klavier zu 4 Händen,Sonata,
+2,D. 2,,,Satz in G für Streichquartett,Quartet,
+2.1,D. 2A,,1811 ?,Overture in D major (Ouvertüre in D),Overture,fragment; formerly D. 996
+2.2,D. 2B,,1811 ?,Symphony in D major (Sinfonie in D),Symphony,fragment; formerly D. 997
+2.3,D. 2C,,1811 ?,Bruchstück aus einem Satz in d oder F für Streichquartett,,früher D 998
+2.4,D. 2D,,1811,Sechs Menuette für Bläser,Dance,früher D 995
+2.5,D. 2E,,1811,Fantasie in c für Klavier,Fantasia,früher D 993
+2.6,D. 2F,,1811,Trio eines Menuetts,Trio,Particell-Entwurf
+3,D. 3,,1812 ?,Satz in C für Streichquartett,Quartet,Fragment
+4,D. 4,,1812 ?,"Overture to the comedy with song ""The Devil as Hydraulicus"" (Ouvertüre zu dem Lustspiel mit Gesang ""Der Teufel als Hydraulicus"")",Overture,
+5,D. 5,,1811,Hagars Klage,,
+6,D. 6,,1811 ca,Des Mädchens Klage,,
+7,D. 7,,1811 ?,Leichenfantasie,,
+8,D. 8,,1811,Ouvertüre in c für Streichquintett,Overture,
+8.1,D. 8A,,1811 post,Ouvertüre in c für Streichquartett,Overture,
+9,D. 9,,1811,Fantasie in g für Klavier zu 4 Händen,Fantasia,
+10,D. 10,,1811,Der Vatermörder,,
+11,D. 11,,1811-1812 ?,Der Spiegelritter,,
+12,D. 12,,1811,Overture in D major (Ouvertüre in D),Overture,
+13,D. 13,,1812 ca,Fuge in d,Fugue,
+14,D. 14,,1812 ca,Overture (Ouvertüre),Overture,piano draft; lost
+15,D. 15,,1812 ca,Der Geistertanz,,
+15.1,D. 15A,,1812 ca,Der Geistertanz,,
+16,D. 16,,1826 post,Kontrapunktübungen,,
+17,D. 17,,1812 ?,Quell' innocente figlio,,
+18,D. 18,,1811,Streichquartett in g/B,Quartet,
+19,D. 19,,1810 ca,Streichquartett,Quartet,
+19.1,D. 19A,,1810 ca,Streichquartett,Quartet,
+19.2,D. 19B,,1812 ca,Mehrere Walzer und ein Marsch für Klavier,,
+20,D. 20,,,Ouvertüre in B für Streichquartett,Overture,verschollen
+21,D. 21,,1812,Sechs Variationen in Es für Klavier,Keyboard Variation,verschollen
+22,D. 22,,1812,Zwölf Menuette mit Trios für Klavier,Dance,verschollen
+23,D. 23,op. posth 131/3,1812,Klaglied,Lied,Strophenlied
+24,D. 24,,1812 ?,Sieben Variationen in F für Klavier,Keyboard Variation,
+24.1,D. 24A,,1812 ?,Fuge in C,Fugue,
+24.2,D. 24B,,1812 ?,Fuge in G,Fugue,
+24.3,D. 24C,,1812 ?,Fuge in d,Fugue,
+24.4,D. 24D,,1812 ?,Fuge in C für Klavier,Fugue,Fragment
+24.5,D. 24E,,1812 ?,Messe in F (?),Mass,Fragment
+25,D. 25,,1812,Kontrapunktübungen,,
+25.1,D. 25A,,1812 ?,Kontrapunktübungen,,
+25.2,D. 25B,,1812 ?,Kontrapunktübungen,,
+25.3,D. 25C,,1812 ?,Fuge in F für 2 Stimmen,Fugue,Fragment
+26,D. 26,,1812,Overture in D major (Ouvertüre in D),Overture,
+27,D. 27,,1812,Salve Regina in F,Salve Regina,
+28,D. 28,,1812,"Trio in B für Klavier, Violine und Violoncello",Trio,einsätzig
+29,D. 29,,1812,Andante in C für Klavier,,
+30,D. 30,,1812,Der Jüngling am Bache,,
+31,D. 31,,1812,Kyrie für eine Messe in d,,
+32,D. 32,,1812,Streichquartett in C,Quartet,
+33,D. 33,,1812,Entra l'uomo allor che nasce,,
+34,D. 34,,1812,Te solo adoro,,
+35,D. 35,,1812,"Serbate, o Dei custodi",,
+36,D. 36,,1813,Streichquartett in B,Quartet,
+37,D. 37,op. 74,1812,Die Advokaten,,
+37.1,D. 37A,,1813 ?,4 Fugenentwürfe für Klavier,Fugue,früher D 967
+38,D. 38,,1813 ?,Totengräberlied,Lied,
+39,D. 39,,1810 ?,Lebenstraum,,Entwurf
+39.1,D. 39A,,1813,Drei Menuette und Trios für Orchester,Dance,lost
+40,D. 40,,,Streichquartett in Es,Quartet,verschollen
+41,D. 41,,1813,30 Menuette mit Trios für Klavier,Dance,
+41.1,D. 41A,,1813,Fuge in e für Klavier (?),Fugue,Fragment
+42,D. 42,,1813 ?,Misero pargoletto,,
+43,D. 43,,1813,Dreifach ist der Schritt der Zeit (Spruch des Konfuzius),,
+44,D. 44,,1813,Totengräberlied,Lied,
+45,D. 45,,1813,Kyrie in B,,
+46,D. 46,,1813,Streichquartett in C,Quartet,
+47,D. 47,,1813,Dithyrambe,,
+48,D. 48,,1813,Fantasie in c für Klavier zu 4 Händen,Fantasia,"""Grande Sonate"""
+49,D. 49,,1813,Kyrie für eine Messe in d,,
+50,D. 50,,1813,Die Schatten,,
+51,D. 51,,1813,Unendliche Freude durchwallet das Herz,,
+52,D. 52,,1813,Sehnsucht,,
+53,D. 53,,1813,Vorüber die stöhnende Klage,,
+54,D. 54,,1813,Unendliche Freude durchwallet das Herz,,
+55,D. 55,,1813,Selig durch die Liebe,,
+56,D. 56,,1813,Sanctus,,
+57,D. 57,,1813,Hier strecket der wallende Pilger,,
+58,D. 58,,1813,Dessen Fahne Donnerstürme wallte,,
+59,D. 59,NL 17/4,1813,Verklärung,,
+60,D. 60,,1813,Hier umarmen sich getreue Gatten,,
+61,D. 61,,1813,Ein jugendlicher Maienschwung,,
+62,D. 62,,1813,Thronend auf erhabnem Sitz,,
+63,D. 63,,1813,Wer die steile Sternenbahn,,
+64,D. 64,,1813,Majestätsche Sonnenrosse,,
+65,D. 65,,1813,Schmerz verzerret ihr Gesicht,,Entwurf
+66,D. 66,,1813,Kyrie in F,,
+67,D. 67,,1813,Frisch atmet des Morgens lebendiger Hauch,,
+68,D. 68,,1813,Streichquartett in B,Quartet,
+69,D. 69,,1813,Dreifach ist der Schritt der Zeit (Spruch des Konfuzius),,
+70,D. 70,,1813,Dreifach ist der Schritt der Zeit (Spruch des Konfuzius),,
+71,D. 71,,1813,Die zwei Tugendwege,,
+71.1,D. 71A,,1813 ?,Alleluja in F,,
+71.2,D. 71B,,1813,Fuge in e für Klavier,Fugue,Fragment
+71.3,D. 71C,,1813,Fragment of an orchestral piece in D major (Fragment eines Orchesterstücks in D),,formerly D. 966A
+72,D. 72,,1813,Oktett in F für Bläser,Octet,
+73,D. 73,,1813,Thekla (eine Geisterstimme),,
+74,D. 74,,1813,Streichquartett in D,Quartet,
+75,D. 75,NL 45/2,1813,Trinklied,Lied,
+76,D. 76,,1813,Pensa che questo istante,,
+77,D. 77,NL 12,1815,Der Taucher,,
+78,D. 78,,1813,Son fra l'onde,,
+79,D. 79,,1813,"Nonett in es für Bläser ""Franz Schuberts Begräbniß-Feyer""",,
+80,D. 80,,1813,Ertöne Leier (Auf die Namensfeier meines Vaters),,
+81,D. 81,,1813,Auf den Sieg der Deutschen,,
+82,D. 82,,1813,Symphony no. 1 in D major (Sinfonie Nr. 1 in D),Symphony,
+83,D. 83,,1813,Zur Namensfeier des Herrn Andreas Siller,,
+84,D. 84,,1814,Des Teufels Lustschloß,,
+85,D. 85,,,Offertorium in C(Clamavi ad te),Offertory,
+86,D. 86,,1813 ?,Menuett in D für Streichquartett,Dance,
+87,D. 87,op. posth 125/1,1813,Streichquartett in Es,Quartet,
+87.1,D. 87A,,1813,Andante in C für Streichquartett (?),,
+88,D. 88,,1813,Verschwunden sind die Schmerzen,,
+89,D. 89,,1813,Fünf Menuette mit sechs Trios und fünf Deutsche mit sieben Trios und einer Coda für Streichquartett,Dance,
+90,D. 90,,1813,Fünf Deutsche mit sieben Trios und einer Coda für Streichquartett,Dance,gehören zu D 89
+91,D. 91,,1813,Zwei Menuette mit je zwei Trios für Klavier,Dance,
+92,D. 92,,,Laß immer in der Jugend Glanz,,
+93.1,D. 93/1,,1815 ?,Don Gayseros Nr. 1,,
+93.2,D. 93/2,,1815 ?,Don Gayseros Nr. 2,,Fragment
+93.3,D. 93/3,,1815 ?,Don Gayseros Nr. 3,,Fragment
+94,D. 94,,1811 ca,Streichquartett in D,Quartet,
+94.1,D. 94A,,1814 ca,Fragment of an orchestral piece in B major (Fragment eines Orchesterstücks in B),,fragment
+94.2,D. 94B,,1814,Fünf Menuette und sechs Deutsche für Streichquartett und zwei Hörner,Dance,verschollen
+95,D. 95,NL 42/5,1814,Adelaide,,
+96,D. 96,,,"Quartett in G für Flöte, Bratsche, Gitarre und Violoncello",Quartet,
+97,D. 97,,1814,Trost. An Elisa,,
+98,D. 98,,1814,Erinnerungen,,
+99,D. 99,,1814,Andenken,,
+100,D. 100,,1814,Geisternähe,,
+101,D. 101,,1814,Erinnerung,,"AGA: ""Todtenopfer"""
+102,D. 102,NL 31/1,1814,Die Betende,,
+103,D. 103,,1814,Satz in c für Streichquartett,Quartet,Fragment
+104,D. 104,,1814,Die Befreier Europas in Paris,,
+105,D. 105,,1814,Messe in F,Mass,
+106,D. 106,,1814,Salve Regina in B,Salve Regina,
+107,D. 107,,1814,Lied aus der Ferne,Lied,
+108,D. 108,,1814,Der Abend,Lied,Strophenlied
+109,D. 109,,1814,Lied der Liebe,Lied,
+110,D. 110,,1814,Wer ist groß?,,
+111,D. 111,,,Der Taucher,,see D. 77
+111.1,D. 111A,,1814,Streichtrio in B,Trio,Fragment
+112,D. 112,op. posth 168,1814,Streichquartett in B,Quartet,
+113,D. 113,op. 58/2,1814,An Emma,,
+114,D. 114,,1814,Romanze,,
+115,D. 115,NL 31/3,1814,An Laura (als sie Klopstocks Auferstehungslied sang),,
+116,D. 116,NL 31/2,1814,Der Geistertanz,,
+117,D. 117,,1814,Das Mädchen aus der Fremde,,
+118,D. 118,op. 2,1814,Gretchen am Spinnrade,,"aus ""Faust"""
+119,D. 119,NL 47/4,1814,Nachtgesang,Lied,Strophenlied
+120,D. 120,NL 25/3,1814,Trost in Tränen,Lied,Strophenlied
+121,D. 121,op. 3/1,1814,Schäfers Klagelied,Lied,
+122,D. 122,,1814,Ammenlied,,
+123,D. 123,NL 37/2,1814,Sehnsucht,,
+124,D. 124,,1814,Am See,,
+125,D. 125,,1815,Symphony no. 2 in B flat major (Sinfonie Nr. 2 in B),Symphony,
+126,D. 126,NL 20/2,1814,"Szene aus ""Faust""",,
+127,D. 127,,,"Selig alle, die im Herrn entschliefen",,
+128,D. 128,,1812 ?,Zwölf Wiener Deutsche für Klavier,Dance,
+129,D. 129,,1815 ?,Mailied,Lied,
+130,D. 130,,1815 ?,Der Schnee zerrinnt,,
+131,D. 131,,1815 ?,Lacrimoso son io,,
+132,D. 132,,,Lied beim Rundetanz,Lied,"see D. Anh. I,18"
+133,D. 133,,,Lied im Freien,Lied,"see D. Anh. I,19"
+134,D. 134,op. posth 126,1815 ?,Ballade,,
+135,D. 135,,1815,Deutscher mit Trio in E für Klavier,Dance,
+136,D. 136,op. 46,1815 ?,Offertorium in C (Totus in corde),Offertory,
+137,D. 137,,1817,Adrast,,
+138,D. 138,op. 5/1,1815,Rastlose Liebe,,
+139,D. 139,,1815,Deutscher in Cis mit Trio in A für Klavier,Dance,
+140,D. 140,,1815,Klage um Ali Bey,,
+141,D. 141,op. posth 131/1,1815,Der Mondabend,Lied,Strophenlied
+142,D. 142,op. 92/3,1816,Geistes-Gruß,,
+143,D. 143,op. posth 109/2,1815,Genügsamkeit,Lied,Strophenlied
+144,D. 144,,1816,Romanze,,Entwurf
+145,D. 145,op. 18,1823 pubd,"Zwölf Walzer, siebzehn Ländler und neun Ecossaisen für Klavier",Dance,
+146,D. 146,op. posth 127,1815,Zwanzig Walzer für Klavier,Dance,
+147,D. 147,,1816,Bardengesang,Lied,
+148,D. 148,op. posth 131/2,1815,Trinklied,Lied,
+149,D. 149,op. posth 117,1815,Der Sänger,,
+150,D. 150,NL 3,1816,Lodas Gespenst,,
+151,D. 151,NL 49/2,1815,Auf einem Kirchhof,,
+152,D. 152,,1815,Minona,,
+153,D. 153,NL 39/1,1815,Als ich sie erröten sah,,
+154,D. 154,,1815,Sonate in E für Klavier,Sonata,Fragment
+155,D. 155,op. posth 165/3,1815,Das Bild,,
+156,D. 156,,1815,Zehn Variationen in F für Klavier,,
+157,D. 157,,1815,Sonate in E für Klavier,Sonata,
+158,D. 158,,1815,Ecossaise in d/F für Klavier,Dance,
+159,D. 159,op. posth 116,1816,Die Erwartung,,
+160,D. 160,,1815,Am Flusse,,
+161,D. 161,op. 19/2,1815,An Mignon,,
+162,D. 162,op. 5/2,1815,Nähe des Geliebten,,
+163,D. 163,,1815,Sängers Morgenlied,Lied,
+164,D. 164,,1815,Liebesrausch,,
+165,D. 165,,1815,Sängers Morgenlied,Lied,
+166,D. 166,,1815,Amphiaraos,,
+167,D. 167,,1815,Messe in G,Mass,
+168,D. 168,,1815,Nun laßt uns den Leib begraben,,"""Begräbnislied"""
+168.1,D. 168A,,1815,"Jesus Christus unser Heiland, der den Tod überwand",,
+169,D. 169,,1815,Trinklied vor der Schlacht,Lied,
+170,D. 170,,1815,Schwertlied,,
+171,D. 171,NL 10/7,1815,Gebet während der Schlacht,,
+172,D. 172,,1815,Der Morgenstern,,
+173,D. 173,,1815,Streichquartett in g,Quartet,
+174,D. 174,,1815,Das war ich,Lied,Strophenlied
+175,D. 175,,1815,Stabat mater in g,,
+176,D. 176,,1815,Die Sterne,Lied,Strophenlied
+177,D. 177,op. posth 173/3,1815,Vergebliche Liebe,,
+177.1,D. 177A,,1821 ante,Am ersten Mai,,verschollen
+178,D. 178,,1815,Adagio in G für Klavier,,
+179,D. 179,,1815,Liebesrausch,,
+180,D. 180,,1815,Sehnsucht der Liebe,Lied,Strophenlied
+181,D. 181,,1815,Offertorium in a (Tres sunt),Offertory,
+182,D. 182,NL 35/1,1815,Die erste Liebe,,
+183,D. 183,,1815,Freundschaft und Wein,,
+184,D. 184,op. posth 150,1815,"Graduale in C(Benedictus es, Domine)",Gradual,
+185,D. 185,,,Dona nobis pacem für die Messe in F,,
+186,D. 186,,1815,Die Sterbende,Lied,Strophenlied
+187,D. 187,,1815,Stimme der Liebe,,
+188,D. 188,,1815,Naturgenuß,,
+189,D. 189,op. posth 111/1,1815,An die Freude,,
+190,D. 190,,1815,Der vierjährige Posten,,Nr. 5 auch in IV/14
+190.5,D. 190/5,,1815 ?,Der vierjährige Posten (Auszug),,
+191,D. 191,op. 58/3,1815,Des Mädchens Klage,,
+192,D. 192,,1815,Der Jüngling am Bache,,
+193,D. 193,op. 57/3,1815,An den Mond,,
+194,D. 194,,1815,Die Mainacht,Lied,Strophenlied
+195,D. 195,op. posth 173/1,1815,Amalia,,
+196,D. 196,op. posth 172/3,1815,An die Nachtigall,Lied,Strophenlied
+197,D. 197,NL 50/1,1815,"An die Apfelbäume, wo ich Julien erblickte",,
+198,D. 198,,1815,Seufzer,,
+199,D. 199,,1815,Mailied,Lied,
+200,D. 200,,1815,Symphony no. 3 in D major (Sinfonie Nr. 3 in D),Symphony,
+201,D. 201,,1815,Auf den Tod einer Nachtigall,,
+202,D. 202,,1815,Mailied,Lied,
+203,D. 203,,1815,Der Morgenstern,,
+204,D. 204,,1815,Jägerlied,Lied,
+204.1,D. 204A,,1815,Das Traumbild,,verschollen
+205,D. 205,,1815,Lützows wilde Jagd,,
+206,D. 206,,1815,Liebeständelei,Lied,Strophenlied
+207,D. 207,,1815,Der Liebende,Lied,Strophenlied
+208,D. 208,,1815,Die Nonne,,
+209,D. 209,op. 38,1815,Der Liedler,,
+210,D. 210,NL 30/2,1815,Die Liebe,,
+211,D. 211,,1815,Adelwold und Emma,,
+212,D. 212,,,Die Nonne,,see D. 208
+213,D. 213,op. posth 172/1,1815,Der Traum,Lied,Strophenlied
+214,D. 214,op. posth 172/2,1815,Die Laube,Lied,Strophenlied
+215,D. 215,,1815,Jägers Abendlied,Lied,
+215.1,D. 215A,,1815,Meeres Stille,,
+216,D. 216,op. 3/2,1815,Meeres Stille,,
+217,D. 217,NL 2/2,1815,Kolmas Klage,,
+218,D. 218,NL 42/4,1815,Grablied,Lied,Strophenlied
+219,D. 219,NL 42/2,1815,Das Finden,Lied,Strophenlied
+220,D. 220,,1815,Fernando,,
+221,D. 221,op. posth 118/2,1815,Der Abend,Lied,Strophenlied
+222,D. 222,,1815,Lieb Minna,Lied,Strophenlied
+223,D. 223,op. 47,1815,Salve Regina in F,Salve Regina,
+224,D. 224,op. 4/3,1815,Wandrers Nachtlied,Lied,
+225,D. 225,op. 5/3,1815,Der Fischer,,
+226,D. 226,op. 5/4,1815,Erster Verlust,,
+227,D. 227,,1815,Idens Nachtgesang,Lied,Strophenlied
+228,D. 228,,1815,Von Ida,Lied,Strophenlied
+229,D. 229,op. 108/3,1815,Die Erscheinung,Lied,Strophenlied
+230,D. 230,op. posth 165/4,1815,Die Täuschung,Lied,Strophenlied
+231,D. 231,op. posth 172/4,1815,Das Sehnen,Lied,Strophenlied
+232,D. 232,op. posth 112/3,1815,Hymne an den Unendlichen,,
+233,D. 233,op. posth 118/1,1815,Geist der Liebe,Lied,Strophenlied
+234,D. 234,op. posth 118/3,1815,Tischlied,Lied,Strophenlied
+235,D. 235,,1815,Abends unter der Linde,,
+236,D. 236,,1815,Das Abendrot,,
+237,D. 237,,1815,Abends unter der Linde,,
+238,D. 238,,1815,Die Mondnacht,Lied,Strophenlied
+239,D. 239,,1815,Claudine von Villa Bella,,Fragment
+240,D. 240,,1815,Huldigung,Lied,Strophenlied
+241,D. 241,,1815,Alles um Liebe,Lied,Strophenlied
+242,D. 242,,1815,Trinklied im Winter,Lied,
+243,D. 243,,1815,Frühlingslied,Lied,
+244,D. 244,,1815,"Willkommen, lieber schöner Mai",,
+245,D. 245,,,An den Frühling,,
+246,D. 246,NL 8,1815,Die Bürgschaft,,
+247,D. 247,op. posth 118/6,1815,Die Spinnerin,Lied,Strophenlied
+248,D. 248,op. posth 118/4,1815,Lob des Tokayers,Lied,Strophenlied
+249,D. 249,,1815,Die Schlacht,,
+250,D. 250,,1815,Das Geheimnis,,
+251,D. 251,,1815,Hoffnung,,
+252,D. 252,,1815,Das Mädchen aus der Fremde,,
+253,D. 253,,1815,Punschlied. Im Norden zu singen,Lied,
+253,D. 253,,1815,Punschlied. Im Norden zu singen,Lied,
+254,D. 254,,1815,Der Gott und die Bajadere,Lied,Strophenlied
+255,D. 255,NL 47/3,1815,Der Rattenfänger,Lied,Strophenlied
+256,D. 256,,1815,Der Schatzgräber,Lied,Strophenlied
+257,D. 257,op. 3/3,1815,Heidenröslein,Lied,Strophenlied
+258,D. 258,,1815,Bundeslied,Lied,Strophenlied
+259,D. 259,NL 47/5,1815,An den Mond,,
+260,D. 260,op. posth 115/2,1815,Wonne der Wehmut,,
+261,D. 261,NL 47/2,1815,Wer kauft Liebesgötter?,Lied,Strophenlied
+262,D. 262,,1815,Die Fröhlichkeit,Lied,Strophenlied
+263,D. 263,NL 42/3,1815,Cora an die Sonne,Lied,Strophenlied
+264,D. 264,NL 45/4,1815,Der Morgenkuß,,
+265,D. 265,,1815,Abendständchen. An Lina,Lied,Strophenlied
+266,D. 266,,1815,Morgenlied,Lied,Strophenlied
+267,D. 267,,1815,Trinklied,Lied,
+268,D. 268,,1815,Bergknappenlied,Lied,
+269,D. 269,NL 44/4,1815,Das Leben,,
+270,D. 270,op. posth 118/5,1815,An die Sonne,Lied,Strophenlied
+271,D. 271,,1815,Der Weiberfreund,,
+272,D. 272,,1815,An die Sonne,Lied,Strophenlied
+273,D. 273,,1815,Lilla an die Morgenröte,Lied,Strophenlied
+274,D. 274,NL 48/7,1815,Tischlerlied,Lied,
+275,D. 275,,1815,Totenkranz für ein Kind,Lied,Strophenlied
+276,D. 276,,1815,Abendlied,Lied,Strophenlied
+277,D. 277,,1815,Punschlied,Lied,
+277.1,D. 277A,,1815,Menuett in a mit Trio in F für Klavier,Dance,
+278,D. 278,NL 4/2,1815,Ossians Lied nach dem Falle Nathos,,
+279,D. 279,,1815,Sonate in C für Klavier,Sonata,
+280,D. 280,NL 28/3,1815,Das Rosenband,Lied,Strophenlied
+281,D. 281,NL 4/3,1815,Das Mädchen von Inistore,,
+282,D. 282,NL 2/1,1815,Cronnan,,
+283,D. 283,op. posth 172/5,1815,An den Frühling,,
+284,D. 284,,1815,Lied (Es ist so angenehm),Lied,Strophenlied
+285,D. 285,,1815,Furcht der Geliebten / An Cidli,,
+286,D. 286,NL 28/2,1815,Selma und Selmar,,
+287,D. 287,,1815,Vaterlandslied,Lied,
+288,D. 288,,1815,An Sie,Lied,Strophenlied
+289,D. 289,,1815,Die Sommernacht,,
+290,D. 290,NL 28/5,1815,Die frühen Gräber,Lied,Strophenlied
+291,D. 291,NL 10/1,1815,Dem Unendlichen,,
+292,D. 292,,,Klage,,
+293,D. 293,NL 4/1,1815,Shilric und Vinvela,,
+294,D. 294,,1815,Namensfeier,,
+295,D. 295,,1820-1827 ?,Hoffnung,,
+296,D. 296,,1820 ?,An den Mond,,
+297,D. 297,NL 50/3,1817 ?,Augenlied,,
+298,D. 298,,1815,Liane,,
+299,D. 299,op. 18,1815,Zwölf Ecossaisen für Klavier,Dance,
+300,D. 300,NL 36/1,1816 ?,Der Jüngling an der Quelle,,
+301,D. 301,NL 36/2,1815,Lambertine,,
+302,D. 302,,1815,Labetrank der Liebe,Lied,Strophenlied
+303,D. 303,,1815,An die Geliebte,Lied,Strophenlied
+304,D. 304,,1815,Wiegenlied,Lied,Strophenlied
+305,D. 305,,1815,Mein Gruß an den Mai,Lied,Strophenlied
+306,D. 306,,1815,Skolie,Lied,Strophenlied
+307,D. 307,,1815,Die Sternwelten,Lied,Strophenlied
+308,D. 308,,1815,Die Macht der Liebe,Lied,Strophenlied
+309,D. 309,,1815,Das gestörte Glück,Lied,Strophenlied
+309.1,D. 309A,,1815,Rondo in C,Rondo,Fragment
+310,D. 310,,1815,Sehnsucht,,
+311,D. 311,,1815,An den Mond,,Entwurf ohne Text
+312,D. 312,op. 58/1,1815,Hektors Abschied,,
+313,D. 313,,1815,Die Sterne,Lied,Strophenlied
+314,D. 314,,1815,Nachtgesang,Lied,Strophenlied
+315,D. 315,,1815,An Rosa I,,
+316,D. 316,,1815,An Rosa II,,
+317,D. 317,,1815,Idens Schwanenlied,,
+318,D. 318,,1815,Schwangesang,Lied,Strophenlied
+319,D. 319,,1815,Luisens Antwort,Lied,Strophenlied
+320,D. 320,,1815,Der Zufriedene,Lied,Strophenlied
+321,D. 321,NL 20/3,1815,Mignon,,
+322,D. 322,NL 28/1,1815,Hermann und Thusnelda,,
+323,D. 323,,1816,Klage der Ceres,,
+324,D. 324,op. posth 141,1815,Messe in B,Mass,
+325,D. 325,,1815,Harfenspieler,,
+326,D. 326,,1815,Die Freunde von Salamanka,,
+327,D. 327,,1815,Lorma,,
+328,D. 328,op. 1,1815,Erlkönig,,
+329,D. 329,,1815,Die drei Sänger,,Fragment
+329.1,D. 329A,,1815,Das Grab,,
+330,D. 330,,1815,Das Grab,,
+331,D. 331,,1816 ca,Der Entfernten,,
+332,D. 332,,,Der Entfernten,,see D. 331
+333,D. 333,,,Laß dein Vertrauen nicht schwinden,,"see D. 796, Nr. 21"
+334,D. 334,,1815,Menuett in A mit Trio in E für Klavier,Dance,
+335,D. 335,,1813 ?,Menuett mit zwei Trios in E für Klavier,Dance,
+336,D. 336,,,Menuett mit Trio in D für Klavier,Dance,
+337,D. 337,,1816 ca,Die Einsiedelei,,
+338,D. 338,,1816 ca,An den Frühling,,
+339,D. 339,,,Amors Macht,,see D. Anh. I/20
+340,D. 340,,,Badelied,Lied,see D. Anh. I/21
+341,D. 341,,,Sylphen,,see D. Anh. I/22
+342,D. 342,,1816 ca,An mein Klavier,Lied,Strophenlied
+343,D. 343,NL 10/5,1816,Am Tage Aller Seelen,,
+344,D. 344,,1816 ?,Am ersten Maimorgen,Lied,Strophenlied
+345,D. 345,,1816,Concerto in D major for violin and orchestra (Concerto in D für Violine und Orchester),Concerto,concert piece
+346,D. 346,,1816 ?,Allegretto in C für Klavier,,Fragment
+347,D. 347,,1813 ?,Allegro moderato in C für Klavier,,Fragment
+348,D. 348,,1816 ?,Andantino in C für Klavier,,Fragment
+349,D. 349,,1816 ?,Adagio in C für Klavier,,Fragment
+350,D. 350,,1816 ?,Der Entfernten,,
+351,D. 351,,1816 ?,Fischerlied,Lied,
+352,D. 352,NL 41/1,1816 ?,Licht und Liebe (Nachtgesang),,
+353,D. 353,op. posth 125/2,1816,Streichquartett in E,Quartet,
+354,D. 354,,1816,Vier komische Ländler in D für 2 Violinen,Dance,
+355,D. 355,,1816,Acht Ländler in fis für Violine (?),,
+356,D. 356,,1816,Trinklied,Lied,Fragment
+357,D. 357,,1816,Goldner Schein,,
+358,D. 358,NL 44/2,1816,Die Nacht,,
+359,D. 359,,1816,Sehnsucht,,
+360,D. 360,op. 65/1,1816,Lied eines Schiffers an die Dioskuren,Lied,
+361,D. 361,op. posth 109/1,1816,Am Bach im Frühlinge,,
+362,D. 362,,1816 ?,Zufriedenheit,,
+363,D. 363,,1816,An Chloen,,
+364,D. 364,,1816 ?,Fischerlied,Lied,
+365,D. 365,op. 9,1821 pubd,36 Originaltänze für Klavier,Dance,
+366,D. 366,,1824,Siebzehn Ländler für Klavier,Dance,
+367,D. 367,op. 5/5,1816,Der König in Thule,,
+368,D. 368,op. 3/4,1816 ?,Jägers Abendlied,Lied,
+369,D. 369,op. 19/1,1816,An Schwager Kronos,,
+370,D. 370,,1816,Neun Ländler in D für Violine (?),,auch für 2 Violinen?
+371,D. 371,,1816,Klage,,
+372,D. 372,,1816,An die Natur,,
+373,D. 373,,1816 ?,Lied (Mutter geht durch ihre Kammern),Lied,Strophenlied
+374,D. 374,,1816,Elf Ländler in B für Violine,,
+375,D. 375,NL 5,1816,Der Tod Oskars,,
+376,D. 376,,1816,Lorma,,
+377,D. 377,,1816,Das Grab,,
+378,D. 378,,1816,Acht Ländler in B für Klavier,Dance,
+379,D. 379,,1816,Deutsches Salve Regina in F,,
+380,D. 380,,1816,Drei Menuette mit je zwei Trios für Klavier,Dance,
+381,D. 381,,1816,Morgenlied,,
+382,D. 382,,1816,Abendlied,Lied,
+383,D. 383,,1816,Stabat mater(Jesus Christus schwebt am Kreuze),,
+384,D. 384,op. posth 137/1,1816,Sonate in D für Violine und Klavier,Sonata,
+385,D. 385,op. posth 137/2,1816,Sonate in a für Violine und Klavier,Sonata,
+386,D. 386,,1816,Salve Regina in B für Chor,Salve Regina,
+387,D. 387,,1816,Die Schlacht,,
+388,D. 388,,1816,Laura am Klavier,,
+389,D. 389,,1816,Des Mädchens Klage,,
+390,D. 390,,1816,Entzückung an Laura,,
+391,D. 391,op. posth 111/3,1816,Die vier Weltalter,Lied,Strophenlied
+392,D. 392,,1816,Pflügerlied,Lied,Strophenlied
+393,D. 393,NL 38/1,1816,Die Einsiedelei,,
+394,D. 394,,1816,An die Harmonie,Lied,Strophenlied
+395,D. 395,op. posth 111/2,1816,Lebens-Melodien,,
+396,D. 396,,1816,Gruppe aus dem Tartarus,,
+397,D. 397,NL 19/2,1816,Ritter Toggenburg,,
+398,D. 398,,1816,Frühlingslied,Lied,
+399,D. 399,,1816,Auf den Tod einer Nachtigall,,
+400,D. 400,,1816,Die Knabenzeit,Lied,Strophenlied
+401,D. 401,,1816,Winterlied,Lied,Strophenlied
+402,D. 402,,1816,Der Flüchtling,,
+403,D. 403,NL 39/3,1816,Lied (Ins stille Land),Lied,
+404,D. 404,,1816,Die Herbstnacht,,
+405,D. 405,,1816,Der Herbstabend,,
+406,D. 406,,1816,Abschied von der Harfe,,
+407,D. 407,,1816,Beitrag zur fünfzigjährigen Jubelfeier des Herrn von Salieri,,
+408,D. 408,op. posth 137/3,1816,Sonate in g für Violine und Klavier,Sonata,
+409,D. 409,,1816,Die verfehlte Stunde,,
+410,D. 410,op. posth 115/3,1816,Sprache der Liebe,,
+411,D. 411,,1816,Daphne am Bach,Lied,Strophenlied
+412,D. 412,NL 29/1,1816,Stimme der Liebe,,
+413,D. 413,,1816,Entzückung,,
+414,D. 414,,1816,Geist der Liebe,,
+415,D. 415,,1816,Klage,,Fragment
+416,D. 416,,1816,Lied in der Abwesenheit,Lied,Fragment
+417,D. 417,,1816,Symphony no. 4 in c minor (Sinfonie Nr. 4 in c),Symphony,"""Tragic Symphony"""
+418,D. 418,,1816,Stimme der Liebe,,
+419,D. 419,,1816,Julius an Theone,,
+420,D. 420,,1816,Zwölf Deutsche für Klavier,Dance,
+421,D. 421,,1816,Sechs Ecossaisen für Klavier,Dance,
+422,D. 422,op. 16/2,1822 ?,Naturgenuß,,
+423,D. 423,,1816,Andenken,,
+424,D. 424,,1816,Erinnerungen,,
+425,D. 425,,1816,Lebensbild,,
+426,D. 426,,1816,Trinklied,Lied,verschollen
+427,D. 427,,1816,Trinklied im Mai,Lied,
+428,D. 428,,1816,Widerhall,,
+429,D. 429,,1816,Minnelied,Lied,
+430,D. 430,,1816,Die frühe Liebe,,
+431,D. 431,,1816,Blumenlied,Lied,Strophenlied
+432,D. 432,NL 50/2,1816,Der Leidende,,
+433,D. 433,,1816,Seligkeit,Lied,Strophenlied
+434,D. 434,NL 48/2,1816,Erntelied,Lied,Strophenlied
+435,D. 435,,1816,Die Bürgschaft,,
+435.13,D. 435/13,,1816,Räuberlied,Lied,
+436,D. 436,NL 48/3,1816,Klage,,
+437,D. 437,,,Klage,,
+438,D. 438,,1816,Rondo in A major for violin and string orchestra (Rondo in A für Violine und Streichorchester),Rondo,
+439,D. 439,,1816,An die Sonne,,
+440,D. 440,,1816,Chor der Engel,,
+441,D. 441,,,"Gütigster, Bester, Weisester",,"see D. 407, Nr. 1"
+442,D. 442,NL 41/2,1816,Das große Halleluja,,
+442,D. 442,NL 41/2,1816,Das große Halleluja,,
+443,D. 443,,1816,Schlachtgesang,Lied,
+443,D. 443,,1816,Schlachtgesang,Lied,
+444,D. 444,NL 10/2,1816,Die Gestirne,,
+445,D. 445,NL 28/4,1816?,Edone,,
+446,D. 446,,1816,Die Liebesgötter,Lied,Strophenlied
+447,D. 447,,1816,An den Schlaf,,
+448,D. 448,,1816,Gott im Frühlinge,,
+449,D. 449,,1816,Der gute Hirt,,
+450,D. 450,NL 14/2,1816,Fragment aus dem Aeschylus,,
+451,D. 451,,1816,Prometheus,,verschollen
+452,D. 452,op. 48,1816,Messe in C,Mass,
+453,D. 453,,1816,Requiem in c,Requiem,Fragment
+454,D. 454,,1816,Grablied auf einen Soldaten,Lied,Strophenlied
+455,D. 455,,1816,Freude der Kinderjahre,Lied,Strophenlied
+456,D. 456,,1816,Das Heimweh,Lied,Strophenlied
+457,D. 457,op. 44,1817,An die untergehende Sonne,,Entwurf 1816
+458,D. 458,,1816,Aus Diego Manzanares. Almerine,,
+459,D. 459,,1816,Sonate in E für Klavier,Sonata,
+459.1,D. 459A,,1816 ?,Drei Klavierstücke,,
+460,D. 460,,1816,Tantum ergo in C,,
+461,D. 461,,1816,Tantum ergo in C,,
+462,D. 462,,1816,An Chloen,Lied,Strophenlied
+463,D. 463,,1816,Hochzeit-Lied,Lied,Strophenlied
+464,D. 464,,1816,In der Mitternacht,Lied,Strophenlied
+465,D. 465,,1816,Trauer der Liebe,,
+466,D. 466,,1816,Die Perle,Lied,Strophenlied
+467,D. 467,,1816,Pflicht und Liebe,,Fragment
+468,D. 468,,1816,An den Mond,Lied,Strophenlied
+469,D. 469,,1816,Mignon,,
+470,D. 470,,1816,Overture in B flat major (Ouvertüre in B),Overture,"belongs to D. 472 ?; fragment of a string quartet version, formerly D. 601"
+471,D. 471,,1816,Streichtrio in B,Trio,Fragment
+472,D. 472,op. posth 128,1816,Kantate zu Ehren von Josef Spendou,Cantata,hierzu auch D 470?
+473,D. 473,NL 23/2,1816,Liedesend,,
+474,D. 474,NL 19/1,1816,"Lied des Orpheus, als er in die Hölle ging",Lied,
+475,D. 475,,1816,Abschied,,
+476,D. 476,,1816,Rückweg,Lied,Strophenlied
+477,D. 477,,1816,Alte Liebe rostet nie,Lied,Strophenlied
+478,D. 478,op. 12,1816,Gesänge des Harfners aus ›Wilhelm Meister‹,Lied,
+478.1,D. 478/1,op. 12/1,1816,Wer sich der Einsamkeit ergibt,,
+478.2,D. 478/2,op. 12/2,1816,Wer nie sein Brot mit Tränen aß,,
+478.3,D. 478/3,op. 12/3,1816,An die Türen will ich schleichen,,
+479,D. 479,,,An die Türen will ich schleichen,,see D. 478/3
+480,D. 480,,,Wer nie sein Brot mit Tränen aß,,see D. 478/2
+481,D. 481,,1816,Sehnsucht,,
+482,D. 482,,1816,Der Sänger am Felsen,Lied,Strophenlied
+483,D. 483,,1816,Ferne von der großen Stadt,Lied,Strophenlied
+484,D. 484,,1816,Gesang der Geister über den Wassern,Lied,
+485,D. 485,,1816,Symphony no. 5 in B flat major (Sinfonie Nr. 5 in B),Symphony,
+486,D. 486,,1816,Magnificat in C,Magnificat,
+487,D. 487,,1816,Adagio e Rondo concertante in F für Klavierquartett,,
+487,D. 487,,1816,Adagio e Rondo concertante in F major for piano quartet (Adagio e Rondo concertante in F für Klavierquartett),,
+488,D. 488,,1816,Offertorium(Auguste jam coelestium),Offertory,
+489,D. 489,op. 4/1,1816,Der Wanderer,,
+490,D. 490,,1816,Der Hirt,Lied,Strophenlied
+491,D. 491,,1816,Geheimnis,,
+492,D. 492,NL 44/3,1816,Zum Punsche,Lied,Strophenlied
+493,D. 493,,,Der Wanderer,,see D. 489
+494,D. 494,,1816,Der Geistertanz,,
+495,D. 495,,1816,Abendlied der Fürstin,Lied,
+496,D. 496,,1816,Bei dem Grabe meines Vaters,Lied,Strophenlied
+496.1,D. 496A,,1816,Klage um Ali Bey,,
+497,D. 497,op. 98/1,1816,An die Nachtigall,,
+498,D. 498,op. 98/2,1816,Wiegenlied,Lied,Strophenlied
+499,D. 499,,1816,Abendlied,Lied,Strophenlied
+500,D. 500,,1816,Phidile,Lied,Strophenlied
+501,D. 501,,1816,Zufriedenheit,,
+502,D. 502,,1816,Herbstlied,Lied,Strophenlied
+503,D. 503,,1816,Mailied,Lied,
+504,D. 504,op. 6/3,1816,Am Grabe Anselmos,,
+505,D. 505,,1818 ?,Adagio in Des für Klavier,,
+506,D. 506,op. posth 145,1817 ?,Rondo in E für Klavier,Rondo,
+507,D. 507,,1816,Skolie,Lied,Strophenlied
+508,D. 508,NL 38/2,1816,Lebenslied,Lied,Strophenlied
+509,D. 509,,1816,Leiden der Trennung,,
+510,D. 510,,1816,Vedi quanto adoro,,
+511,D. 511,,1817 ca,Ecossaise in Es für Klavier,Dance,
+512,D. 512,,,Klage,,
+513,D. 513,,1817 ?,La pastorella al prato,,
+513.1,D. 513A,,1817 ?,Nur wer die Liebe kennt,,Entwurf
+514,D. 514,op. 7/1,1817 ?,Die abgeblühte Linde,,
+515,D. 515,op. 7/2,1817 ?,Der Flug der Zeit,,
+516,D. 516,op. 8/2,1816 ?,Sehnsucht,,
+517,D. 517,op. 13/1,1817,Der Schäfer und der Reiter,,
+518,D. 518,NL 17/3,1817 ?,An den Tod,,
+519,D. 519,op. posth 173/5,1817 ?,Die Blumensprache,,
+520,D. 520,NL 45/1,1817,Frohsinn,,
+521,D. 521,,1817,Jagdlied,Lied,
+522,D. 522,,1817,Die Liebe,Lied,Strophenlied
+523,D. 523,,1817,Trost,Lied,Strophenlied
+524,D. 524,op. 13/3,1817,Der Alpenjäger,,
+525,D. 525,op. 21/3,1817,Wie Ulfru fischt,,
+526,D. 526,NL 18/3,1817,Fahrt zum Hades,,
+527,D. 527,op. 24/2,1817,Schlaflied,Lied,
+528,D. 528,,1817,La pastorella al prato,,
+529,D. 529,,1817,Acht Ecossaisen für Klavier,Dance,
+530,D. 530,op. posth 109/3,1817,An eine Quelle,,
+531,D. 531,op. 7/3,1817,Der Tod und das Mädchen,,
+532,D. 532,,1817,Das Lied vom Reifen,Lied,Strophenlied
+533,D. 533,,1817,Täglich zu singen,Lied,Strophenlied
+534,D. 534,NL 1,1817,Die Nacht,,
+535,D. 535,,1817,"Lied (Brüder, schrecklich brennt die Träne)",Lied,
+536,D. 536,op. 21/2,1817 ?,Der Schiffer,,
+537,D. 537,op. posth 164,1817,Sonate in a für Klavier,Sonata,
+538,D. 538,,1817,Gesang der Geister über den Wassern,Lied,
+539,D. 539,op. 8/4,1817,Am Strome,,
+540,D. 540,NL 11/3,1817,Philoktet,,
+541,D. 541,op. 6/1,1817,Memnon,,
+542,D. 542,op. 6/2,1817,Antigone und Oedip,,
+543,D. 543,op. 92/2,1817,Auf dem See,,
+544,D. 544,op. 19/3,1817,Ganymed,,
+545,D. 545,,1817,Der Jüngling und der Tod,,
+546,D. 546,op. posth 101/3,1817,Trost im Liede,,
+547,D. 547,op. 88/4,1817,An die Musik,,
+548,D. 548,NL 11/1,1817,Orest,,
+549,D. 549,,1817,Mahomets Gesang,,
+550,D. 550,op. 32,1817,Die Forelle,,
+551,D. 551,NL 10/6,1817,Pax vobiscum,Lied,Strophenlied
+552,D. 552,op. 20/3,1817,Hänflings Liebeswerbung,,
+553,D. 553,op. 21/1,1817,Auf der Donau,,
+554,D. 554,,1817,Uraniens Flucht,,
+555,D. 555,,1817 ?,Liedentwurf in a ohne Text,Lied,
+556,D. 556,,1817,Overture in D major (Ouvertüre in D),Overture,
+557,D. 557,,1817,Sonate in As für Klavier,Sonata,
+558,D. 558,,1817,Liebhaber in allen Gestalten,Lied,Strophenlied
+559,D. 559,,1817,Schweizerlied,Lied,Strophenlied
+560,D. 560,NL 48/6,1817,Der Goldschmiedsgesell,Lied,Strophenlied
+561,D. 561,,1817,Nach einem Gewitter,Lied,Strophenlied
+562,D. 562,,1817,Fischerlied,Lied,
+563,D. 563,,1817,Die Einsiedelei,,
+564,D. 564,NL 29/3,1817,Gretchen im Zwinger,,
+565,D. 565,,1817,Der Strom,,
+566,D. 566,,1817,Sonate in e für Klavier,Sonata,
+567,D. 567,,,Sonate in Des für Klavier,Sonata,see D. 568
+568,D. 568,op. posth 122,1817,Sonate in Es für Klavier,Sonata,
+569,D. 569,,1817,Das Grab,,
+570,D. 570,,1817 ?,Scherzo in D und Allegro in fis für Klavier,,
+571,D. 571,,1817,Sonate in fis für Klavier,Sonata,Fragment
+572,D. 572,,1817,Lied im Freien,Lied,
+573,D. 573,op. 98/3,1817,Iphigenia,,
+574,D. 574,op. posth 162,1817,Sonate in A für Violine und Klavier,Sonata,
+575,D. 575,op. posth 147,1817,Sonate in H für Klavier,Sonata,
+576,D. 576,,1817,13 Variationen über ein Thema von Anselm Hüttenbrenner in a für Klavier,Keyboard Variation,
+577,D. 577,,1817,Entzückung an Laura,,
+578,D. 578,NL 29/4,1817,Abschied,Lied,Strophenlied
+579,D. 579,,1817,Der Knabe in der Wiege,,
+579.1,D. 579A,,1817,Vollendung,,
+579.2,D. 579B,,1817,Die Erde,,
+580,D. 580,,1817,Polonaise in B flat major for violin and orchestra (Polonaise in B für Violine und Orchester),,
+581,D. 581,,1817,Streichtrio in B,Trio,
+582,D. 582,,,Augenblicke im Elysium,,see D. 990B
+583,D. 583,op. 24/1,1817,Gruppe aus dem Tartarus,,
+584,D. 584,NL 6,1817,Elysium,,
+585,D. 585,NL 22/2,1817,Atys,,
+586,D. 586,op. 8/3,1817,Erlafsee,,
+587,D. 587,,1817,An den Frühling,,
+588,D. 588,op. 37/2,1817,Der Alpenjäger,,
+589,D. 589,,1818,Symphony no. 6 in C major (Sinfonie Nr. 6 in C),Symphony,composed 1817-1818
+590,D. 590,,1817,"Overture ""in the Italian style"" in D major (Ouvertüre ""im italienischen Stile"" in D)",Overture,
+591,D. 591,op. posth 170,1817,"Overture ""in the Italian style"" in C major (Ouvertüre ""im italienischen Stile"" in C)",Overture,
+592,D. 592,,1817,"Ouvertüre ""im italienischen Stile"" in D für Klavier zu 4 Händen",Overture,
+593,D. 593,,1817,Zwei Scherzi in B und Des für Klavier,,
+594,D. 594,op. posth 110,1817,Der Kampf,,
+595,D. 595,op. 88/2,1817,Thekla (eine Geisterstimme),,
+596,D. 596,,1817,Lied eines Kindes,Lied,Fragment
+597,D. 597,,1817,"Ouvertüre ""im italienischen Stile"" in C für Klavier zu 4 Händen",Overture,
+597.1,D. 597A,,1817,Variationen in A für Violine,,Entwurf; verschollen
+598,D. 598,op. 11/1,1817,Das Dörfchen,,
+598.1,D. 598A,,,Generalbaßübungen,,see D. Anh. I/32
+599,D. 599,op. 75,1818,Vier Polonaisen für Klavier zu 4 Händen,Dance,
+600,D. 600,,1814,Menuett in cis für Klavier,Dance,
+601,D. 601,,,Ouvertüre in B für Streichquartett,Overture,see D. 470
+602,D. 602,op. 27,1824 pubd,Trois Marches Héroiques für Klavier zu 4 Händen,March,
+603,D. 603,,,"Introduktion, vier Variationen über ein Originalthema und Finale in B für Klavier zu 4 Händen",,see D. 968A
+604,D. 604,,1817 ?,Klavierstück in A,,
+605,D. 605,,1823 ?,Fantasie in C für Klavier,Fantasia,
+605.1,D. 605A,,1818 ?,Fantasie in C für Klavier,Fantasia,"""Grazer Fantasie"""
+606,D. 606,,1818 ?,Marsch in E für Klavier,,
+607,D. 607,,1818,Evangelium Johannis,,
+608,D. 608,op. posth 138,1818,Rondo in D für Klavier zu 4 Händen,Rondo,
+609,D. 609,,1818,Die Geselligkeit,,
+610,D. 610,,1818,Trio in E für Klavier,Trio,
+611,D. 611,NL 49/1,1818,Auf der Riesenkoppe,,
+612,D. 612,,1818,Adagio in E für Klavier,,
+613,D. 613,,1818,Sonate in C für Klavier,Sonata,Fragment
+614,D. 614,NL 18/2,1818,An den Mond in einer Herbstnacht,,
+615,D. 615,,1818,Drafts for a symphony in D major (Entwürfe zu einer Sinfonie in D),Symphony,draft
+616,D. 616,NL 30/3,1818,Grablied für die Mutter,,
+617,D. 617,op. 30,1818,Sonate in B für Klavier zu 4 Händen,Sonata,
+618,D. 618,,1818,Deutscher in G mit zwei Trios und zwei Ländler in E für Klavier zu 4 Händen,Dance,
+618.1,D. 618A,,1818,Polonaise in B für Klavier zu 4 Händen,,Entwurf
+619,D. 619,,1818,Singübungen,,
+619,D. 619,,1818,Singübungen,,
+620,D. 620,NL 32,1818,Einsamkeit,,
+621,D. 621,,1818,"Deutsches Requiem in g (""Trauermesse"")",Mass,
+622,D. 622,NL 21/1,1818,Der Blumenbrief,Lied,Strophenlied
+623,D. 623,NL 10/3,1818,Das Marienbild,,
+624,D. 624,op. 10,1818,Acht Variationen über ein französisches Lied in e für Klavier zu 4 Händen,Keyboard Variation,
+625,D. 625,,1818,Sonate in f für Klavier,Sonata,Fragment
+626,D. 626,NL 34/2,1818,Blondel zu Marien,,
+627,D. 627,op. posth 173/6,1818,Das Abendrot,,
+628,D. 628,,1818,"Sonett(Apollo, lebet noch dein hold Verlangen)",,
+629,D. 629,,1818,"Sonett(Allein, nachdenklich)",,
+630,D. 630,,1818,"Sonett(Nunmehr, da Himmel, Erde schweigt)",,
+631,D. 631,,1818,Blanka,,"auch ""Das Mädchen"""
+632,D. 632,NL 10/4,1818,Vom Mitleiden Mariä,Lied,Strophenlied
+633,D. 633,op. 57/1,1823 ?,Der Schmetterling,,
+634,D. 634,op. 57/2,1823 ?,Die Berge,,
+635,D. 635,,1819,"Leise, leise laßt uns singen",,
+636,D. 636,op. 39,1821 ?,Sehnsucht,,
+637,D. 637,op. 87/2,1819 ca,Hoffnung,,
+638,D. 638,op. 87/3,1819,Der Jüngling am Bache,,
+639,D. 639,NL 15/1,1820,Widerschein,,
+640,D. 640,,,Zwei Tänze,Dance,see D. 980A
+641,D. 641,,,Das Dörfchen,,see D. 598
+642,D. 642,,1812 ?,Viel tausend Sterne prangen,,
+643,D. 643,,1819,Deutscher in cis und Ecossaise in Des für Klavier,Dance,
+643.1,D. 643A,,1819,Das Grab,,
+644,D. 644,,1820,Die Zauberharfe,,
+644.9,D. 644/9,,1823,Romanze des Palmerin,,
+645,D. 645,,1819,Abend,Lied,Entwurf
+646,D. 646,,1819,Die Gebüsche,,
+647,D. 647,,1819,Die Zwillingsbrüder,,
+648,D. 648,,1819,Overture in e minor (Ouvertüre in e),Overture,
+649,D. 649,op. 65/2,1819,Der Wanderer,,
+650,D. 650,NL 9/3,1819,Abendbilder,Lied,
+651,D. 651,NL 10/8,1819,Himmelsfunken,Lied,Strophenlied
+652,D. 652,NL 40/1,1819,Das Mädchen,,
+653,D. 653,NL 40/2,1819,Bertas Lied in der Nacht,,
+654,D. 654,NL 40/3,1819,An die Freunde,,
+655,D. 655,,1819,Sonate in cis für Klavier,Sonata,Fragment
+656,D. 656,,1819,Sehnsucht,,
+657,D. 657,,1819,"Ruhe, schönstes Glück der Erde",,
+658,D. 658,,1819 ?,Geistliches Lied,,"früher ""Marie"""
+659,D. 659,,1819,Hymne,,
+660,D. 660,,1819,Geistliches Lied,Lied,Strophenlied
+661,D. 661,,1819,Geistliches Lied,Lied,Strophenlied
+662,D. 662,,1819,Geistliches Lied,Lied,Strophenlied
+663,D. 663,,1819,Der 13. Psalm,Psalm,Fragment
+664,D. 664,op. posth 120,1825 ?,Sonate in A für Klavier,Sonata,
+665,D. 665,,,Im traulichen Kreise,,see D. 609
+666,D. 666,op. posth 158,1819,Kantate zum Geburtstag des Sängers Johann Michael Vogl,Cantata,
+667,D. 667,op. posth 114,1819 ?,Quintett in A,Quintet,"""Forellenquintett"""
+668,D. 668,,1819,Ouvertüre in g für Klavier zu 4 Händen,Overture,
+669,D. 669,NL 22/3,1819,Beim Winde,,
+670,D. 670,op. posth 165/2,1819,Die Sternennächte,,
+671,D. 671,NL 44/1,1819,Trost,Lied,Strophenlied
+672,D. 672,op. 36/2,1819,Nachtstück,,
+673,D. 673,op. posth 165/1,1819,Die Liebende schreibt,,
+674,D. 674,NL 47/1,1819,Prometheus,,
+675,D. 675,op. 34,1819 ?,Ouvertüre in F für Klavier zu 4 Händen,Overture,
+676,D. 676,op. posth 153,1819,Salve Regina in A,Salve Regina,
+677,D. 677,NL 42/1,1819,"Strophe aus ""Die Götter Griechenlands""",,
+678,D. 678,,1822,Messe in As,Mass,
+679,D. 679,,,Zwei Ländler in Es für Klavier,Dance,see D. 980B
+680,D. 680,,,Zwei Ländler in Des für Klavier,Dance,see D. 980C
+681,D. 681,,1815 ca,Zwölf Ländler für Klavier,Dance,Nr. 1-4 verschollen
+682,D. 682,,1820 ?,Über allen Zauber Liebe,,
+683,D. 683,,,Die Wolkenbraut,,"see D. 732, Nr. 11"
+684,D. 684,NL 48/1,1820,Die Sterne,Lied,Strophenlied
+685,D. 685,op. 4/2,1820,Morgenlied,,
+686,D. 686,op. 20/2,1820,Frühlingsglaube,,
+687,D. 687,,1820,Nachthymne,,
+688,D. 688,,1820,Vier Canzonen,,
+688.1,D. 688/1,,1820,Non t'accostar all'Urna,,
+688.2,D. 688/2,,1820,"Guarda, che bianca luna",,
+688.3,D. 688/3,,1820,Da quel sembiante appresi,Lied,Strophenlied
+688.4,D. 688/4,,1820,"Mio ben, ricordati",Lied,Strophenlied
+689,D. 689,,1820,"Lazarus, oder: Die Feier der Auferstehung",,Fragment
+690,D. 690,NL 7/3,1823,Abendröte,,
+691,D. 691,op. posth 172/6,1820,Die Vögel,,
+692,D. 692,,1820,Der Knabe,,
+693,D. 693,,1820,Der Fluß,Lied,Strophenlied
+694,D. 694,NL 33/1,1820,Der Schiffer,,
+695,D. 695,,1820 perf,Namenstagslied,Lied,Strophenlied
+696,D. 696,op. posth 113,1820,Sechs Antiphonen zum Palmsonntag,Antiphon,
+696.1,D. 696/1,op. posth 113,1820,Hosanna filio David,,
+696.2,D. 696/2,op. posth 113,1820,In monte Oliveti,,
+696.3,D. 696/3,op. posth 113,1820,Sanctus,,
+696.4,D. 696/4,op. posth 113,1820,Pueri Hebraeorum,,
+696.5,D. 696/5,op. posth 113,1820,Cum angelis et pueris,,
+696.6,D. 696/6,op. posth 113,1820,Ingrediente Domino,,
+697,D. 697,,1820,Sechs Ecossaisen in As für Klavier,Dance,
+698,D. 698,NL 15/2,1820,Des Fräuleins Liebeslauschen,,
+699,D. 699,NL 11/2,1820,Der entsühnte Orest,,
+700,D. 700,NL 11/4,1820,Freiwilliges Versinken,,
+701,D. 701,,1820,Sakontala,,Entwurf
+702,D. 702,op. 8/1,1820,Der Jüngling auf dem Hügel,,
+703,D. 703,,1820,Streichquartett in c,Quartet,
+704,D. 704,,,Gesang der Geister über den Wassern,Lied,see D. 714
+705,D. 705,,1820,Gesang der Geister über den Wassern,Lied,
+706,D. 706,op. posth 132,1820,Psalm 23,Psalm,
+707,D. 707,op. 36/1,1820,Der zürnenden Diana,,
+708,D. 708,NL 16,1820,Im Walde,,
+708.1,D. 708A,,1820 post,Drafts for a symphony in D major (Entwürfe zu einer Sinfonie in D),Symphony,draft
+709,D. 709,,1822 perf,Frühlingsgesang,Lied,
+710,D. 710,NL 43,1821 ?,Im Gegenwärtigen Vergangenes,,
+711,D. 711,op. 13/2,1818 ?,Lob der Tränen,,
+712,D. 712,NL 33/2,1821,Die gefangenen Sänger,,
+713,D. 713,op. 87/1,1821,Der Unglückliche,,
+714,D. 714,op. posth 167,1821,Gesang der Geister über den Wassern,Lied,
+715,D. 715,NL 38/3,1821,Versunken,,
+716,D. 716,NL 14/1,1821,Grenzen der Menschheit,,
+717,D. 717,op. 31,1821,Suleika II,,
+718,D. 718,,1821,Variation in c über einen Walzer von Anton Diabelli für Klavier,Keyboard Variation,
+719,D. 719,op. 14/2,1821,Geheimes,,
+720,D. 720,op. 14/1,1821,Suleika I,,
+721,D. 721,,1821,Mahomets Gesang,,
+722,D. 722,,1821,Deutscher in Ges für Klavier,Dance,
+723.1,D. 723/1,,1821,"Duett zu Hérolds ""Das Zauberglöckchen""",,
+723.2,D. 723/2,,1821,"Arie zu Hérolds ""Das Zauberglöckchen""",,
+724,D. 724,op. 11/2,1821,Die Nachtigall,,
+725,D. 725,,1821,Linde Weste wehen,,
+726,D. 726,,1821,Mignon I,,
+727,D. 727,NL 48/5,1821,Mignon II,,
+728,D. 728,,1821,Johanna Sebus,,Fragment
+729,D. 729,,1821,Symphony in E major (Sinfonie in E),Symphony,draft
+730,D. 730,,1821,Tantum ergo in B,,
+731,D. 731,op. posth 173/4,1821,Der Blumen Schmerz,,
+732,D. 732,,1822,Alfonso und Estrella,,
+732.13,D. 732/13,,1822 ?,Alfonso und Estrella (Auszug),,
+732.8,D. 732/8,,1822 ?,Alfonso und Estrella (Auszug),,
+733,D. 733,op. 51,1818 ?,Trois Marches Militaires für Klavier zu 4 Händen,March,
+734,D. 734,op. 67,1826 pubd,Sechzehn Ländler und zwei Ecossaisen für Klavier,Dance,
+735,D. 735,op. 49,1825 pubd,Galopp und acht Ecossaisen für Klavier,,
+736,D. 736,NL 36/3,1822 ?,Ihr Grab,,
+737,D. 737,op. 56/2,1823 ?,An die Leier,,
+738,D. 738,op. 56/3,1823 ?,Im Haine,,
+739,D. 739,op. 45,1814,Tantum ergo in C,,
+740,D. 740,op. 16/1,1822,Frühlingsgesang,Lied,
+741,D. 741,op. 20/1,1822,Sei mir gegrüßt,,
+742,D. 742,op. 68,1822 pubd,Der Wachtelschlag,,
+743,D. 743,op. 23/2,1822,Selige Welt,,
+744,D. 744,op. 23/3,1822,Schwanengesang,Lied,
+745,D. 745,op. 73,1822,Die Rose,,
+746,D. 746,NL 9/2,1822 oder 1823 ?,Am See,,
+747,D. 747,op. 11/3,1822,Geist der Liebe,,
+748,D. 748,op. posth 157,1822,Am Geburtstage des Kaisers,,
+749,D. 749,NL 46,1822,"Herrn Josef Spaun, Assessor in Linz",,
+750,D. 750,,1822,Tantum ergo in D,,
+751,D. 751,op. 23/1,1822,Die Liebe hat gelogen,,
+752,D. 752,,1822,Nachtviolen,,
+753,D. 753,op. 65/3,1822,Heliopolis I,,
+754,D. 754,NL 37/1,1822,Heliopolis II,,
+755,D. 755,,1822,Kyrie für eine Messe in a,,Entwurf
+756,D. 756,op. 59/1,1822,Du liebst mich nicht,,
+757,D. 757,op. posth 133,1822,Gott in der Natur,,
+757.1,D. 757A,,1822,Marsch in h,,
+758,D. 758,op. 108/2,1822,Todesmusik,,
+759,D. 759,,1822,Symphony no. 7 in b minor (Sinfonie Nr. 7 in h),Symphony,"two movements and a fragment of a third movement; called ""The Unfinished"""
+759.1,D. 759A,op. 69,1822,"Ouvertüre zu der Oper ""Alfonso und Estrella"" für Klavier zu 2 Händen",Overture,
+760,D. 760,op. 15,1822,Fantasie in C für Klavier,Fantasia,"""Wandererfantasie"""
+761,D. 761,op. 23/4,1822,Schatzgräbers Begehr,,
+762,D. 762,NL 23/1,1822,Schwestergruß,,
+763,D. 763,op. posth 146,1822,"Schicksalslenker, blicke nieder",,"""Des Tages Weihe"""
+764,D. 764,op. 92/1,1822,Der Musensohn,,
+765,D. 765,,1822,An die Entfernte,,
+766,D. 766,,1822,Am Flusse,,
+767,D. 767,op. 56/1,1822,Willkommen und Abschied,,
+768,D. 768,op. 96/3,1824,Wandrers Nachtlied,Lied,
+769,D. 769,,1824,Zwei Deutsche in A und D für Klavier,Dance,
+769.1,D. 769A,,1823 ca,Sonate in e für Klavier,Sonata,
+770,D. 770,op. 71,1823,Drang in die Ferne,,
+771,D. 771,op. 22/1,1822 ?,Der Zwerg,,
+772,D. 772,op. 22/2,1822 ?,Wehmut,,
+773,D. 773,op. 69,1823,"Ouvertüre zu der Oper ""Alfonso und Estrella"" für Klavier zu 4 Händen",Overture,
+774,D. 774,op. 72,1823,Auf dem Wasser zu singen,Lied,Strophenlied
+775,D. 775,op. 59/2,1823 ?,Daß sie hier gewesen,,
+776,D. 776,op. 59/3,1823,Du bist die Ruh,Lied,Strophenlied
+777,D. 777,op. 59/4,1823 ?,Lachen und Weinen,,
+778,D. 778,op. 60/1,1823,Greisengesang,Lied,
+778.1,D. 778A,,1823 ?,Die Wallfahrt,,
+778.2,D. 778B,,1827 ?,Ich hab in mich gesogen,,Fragment
+779,D. 779,op. 50,1825 pubd,34 Valses sentimentales für Klavier,Dance,
+780,D. 780,op. 94,1828 pubd,Moments musicaux für Klavier,,
+781,D. 781,,1823,Zwölf Ecossaisen für Klavier,Dance,
+782,D. 782,,1824 pubd,Ecossaise in D für Klavier,Dance,
+783,D. 783,op. 33,1825 pubd,16 Deutsche und zwei Ecossaisen für Klavier,Dance,
+783,D. 783,,1824,2 Deutsche für Klavier,Dance,
+784,D. 784,op. posth 143,1823,Sonate in a für Klavier,Sonata,
+785,D. 785,NL 9/1,1823,Der zürnende Barde,,
+786,D. 786,op. posth 123,1823,Viola,,
+787,D. 787,,1823,Die Verschwornen,,
+788,D. 788,NL 29/2,1823,Lied (Des Lebens Tag ist schwer und schwül),Lied,
+789,D. 789,NL 18/1,1823,Pilgerweise,,
+790,D. 790,op. posth 171,1823,Zwölf Deutsche für Klavier,Dance,
+791,D. 791,,1823,Rüdiger,,
+792,D. 792,NL 21/2,1823,Vergißmeinnicht,,
+793,D. 793,op. posth 173/2,1823,Das Geheimnis,,
+794,D. 794,op. 37/1,1823,Der Pilgrim,,
+795,D. 795,op. 25,1823,Die schöne Müllerin,,
+795.01,D. 795/1,op. 25/1,1823,Das Wandern,Lied,Strophenlied
+795.02,D. 795/2,op. 25/2,1823,Wohin?,,
+795.03,D. 795/3,op. 25/3,1823,Halt!,,
+795.04,D. 795/4,op. 25/4,1823,Danksagung an den Bach,,
+795.05,D. 795/5,op. 25/5,1823,Am Feierabend,,
+795.06,D. 795/6,op. 25/6,1823,Der Neugierige,,
+795.07,D. 795/7,op. 25/7,1823,Ungeduld,Lied,Strophenlied
+795.08,D. 795/8,op. 25/8,1823,Morgengruß,Lied,Strophenlied
+795.09,D. 795/9,op. 25/9,1823,Des Müllers Blumen,Lied,Strophenlied
+795.1,D. 795/10,op. 25/10,1823,Tränenregen,Lied,Strophenlied
+795.11,D. 795/11,op. 25/11,1823,Mein!,,
+795.12,D. 795/12,op. 25/12,1823,Pause,,
+795.13,D. 795/13,op. 25/13,1823,Mit dem grünen Lautenbande,Lied,Strophenlied
+795.14,D. 795/14,op. 25/14,1823,Der Jäger,Lied,Strophenlied
+795.15,D. 795/15,op. 25/15,1823,Eifersucht und Stolz,,
+795.16,D. 795/16,op. 25/16,1823,Die liebe Farbe,Lied,Strophenlied
+795.17,D. 795/17,op. 25/17,1823,Die böse Farbe,,
+795.18,D. 795/18,op. 25/18,1823,Trockne Blumen,,
+795.19,D. 795/19,op. 25/19,1823,Der Müller und der Bach,,
+795.2,D. 795/20,op. 25/20,1823,Des Baches Wiegenlied,Lied,Strophenlied
+796,D. 796,,1823,Fierabras,,
+797,D. 797,,1823,"Rosamunde, Fürstin von Zypern",,
+797.32,D. 797/3b,op. 26/1,1824,Ariette,,
+797.4,D. 797/4,op. 26/3,1823,Chor aus der Tiefe (Geister-Chor),,
+797.7,D. 797/7,op. 26/4,1823,Hirtenchor,,
+797.8,D. 797/8,op. 26/2,1823,Jägerchor,,
+798,D. 798,,1827,"Ouvertüre zu der Oper ""Fierabras"" für Klavier zu 4 Händen",Overture,
+799,D. 799,NL 20/1,1825,Im Abendrot,,
+800,D. 800,op. 41,1825,Der Einsame,,
+801,D. 801,op. 60/2,1826 pubd,Dithyrambe,,
+802,D. 802,op. posth 160,1824,Variationen in e für Flöte und Klavier,,
+803,D. 803,op. posth 166,1824,Oktett in F,Octet,
+804,D. 804,op. 29,1824,Streichquartett in a,Quartet,
+805,D. 805,NL 22/1,1824,Der Sieg,,
+806,D. 806,NL 22/4,1824,Abendstern,,
+807,D. 807,NL 34/1,1824,Auflösung,,
+808,D. 808,,1824,Gondelfahrer,,
+809,D. 809,op. 28,1824 pubd,Gondelfahrer,,
+810,D. 810,,1824,Streichquartett in d,Quartet,
+811,D. 811,op. posth 149,1824,Salve Regina in C,Salve Regina,
+812,D. 812,op. posth 140,1824,Sonate in C für Klavier zu 4 Händen,Sonata,"""Grand Duo"""
+813,D. 813,op. 35,1824,Acht Variationen über ein eigenes Thema in As für Klavier zu 4 Händen,Keyboard Variation,
+814,D. 814,,1824,Vier Ländler für Klavier zu 4 Händen,Dance,
+815,D. 815,op. posth 139,1824,Gebet,,
+816,D. 816,,1824,Drei Ecossaisen für Klavier,Dance,
+817,D. 817,,1824,Ungarische Melodie in h für Klavier,,
+818,D. 818,op. 54,1824,Divertissement à la hongroise in g für Klavier zu 4 Händen,Divertimento,
+819,D. 819,op. 40,1825 pubd,Six Grandes Marches für Klavier zu 4 Händen,March,
+820,D. 820,,1824,Sechs Deutsche für Klavier,Dance,
+821,D. 821,,1824,Sonate in a für Arpeggione und Klavier,Sonata,
+822,D. 822,NL 35/2,1824,Lied eines Kriegers,Lied,
+823,D. 823,op. 63,1826 pubd,Divertissement sur des motifs originaux français in e für Klavier zu 4 Händen,Divertimento,
+823,D. 823,op. 84,1827 pubd,Divertissement sur des motifs originaux français in e für Klavier zu 4 Händen,Divertimento,
+824,D. 824,op. 61,1826,Sechs Polonaisen für Klavier zu 4 Händen,Dance,
+825,D. 825,op. 64/1,1826 pubd,Wehmut,,
+825.1,D. 825A,op. 64/2,1826 pubd,Ewige Liebe,,
+825.2,D. 825B,op. 64/3,1825 perf,Flucht,,
+826,D. 826,,1828,Der Tanz,,
+827,D. 827,op. 43/2,1823,Nacht und Träume,,
+828,D. 828,op. 43/1,1825,Die junge Nonne,,
+829,D. 829,,1826,"Leb wohl, du schöne Erde",,
+830,D. 830,op. 85/1,1825,Lied der Anne Lyle,Lied,
+831,D. 831,op. 85/2,1825,Gesang der Norna,Lied,
+832,D. 832,NL 7/1,1825,Des Sängers Habe,,
+833,D. 833,op. posth 101/2,1825,Der blinde Knabe,,
+834,D. 834,op. 93/1,1825,Im Walde,,
+835,D. 835,op. 52/3,1825,Bootgesang,,
+836,D. 836,op. 52/4,1825,Coronach (Totengesang der Frauen und Mädchen),,
+837,D. 837,op. 52/1,1825,Ellens Gesang I,,
+838,D. 838,op. 52/2,1825,Ellens Gesang II,,
+839,D. 839,op. 52/6,1825,Ellens Gesang III: Hymne an die Jungfrau,,
+840,D. 840,,1825,Sonate in C für Klavier,Sonata,"""Reliquie""; Fragment"
+841,D. 841,,1825,Zwei Deutsche in F und G für Klavier,Dance,
+842,D. 842,NL 24/2,1825,Totengräbers Heimwehe,,
+843,D. 843,op. 52/7,1825,Lied des gefangenen Jägers,Lied,
+844,D. 844,,1825,Walzer in G für Klavier,Dance,"""Albumblatt"""
+845,D. 845,op. 42,1825,Sonate in a für Klavier,Sonata,
+846,D. 846,op. 52/5,1825,Normans Gesang,,
+847,D. 847,op. posth 155,1825,Trinklied aus dem 16. Jahrhundert,Lied,
+848,D. 848,op. posth 156,1825,Nachtmusik,,
+849,D. 849,,,Sinfonie,Symphony,
+850,D. 850,op. 53,1825,Sonate in D für Klavier,Sonata,
+851,D. 851,op. 79/1,1825,Das Heimweh,,
+852,D. 852,op. 79/2,1825,Die Allmacht,,
+853,D. 853,op. 93/2,1825,Auf der Bruck,,
+854,D. 854,NL 25/1,1825,Fülle der Liebe,,
+855,D. 855,,1825,Wiedersehn,,
+856,D. 856,op. 88/1,1825,Abendlied für die Entfernte,Lied,
+857,D. 857,op. posth 124,1825,"Zwei Szenen aus dem Schauspiel ""Lacrimas""",,
+857.1,D. 857/1,op. posth 124/1,1825,Lied der Delphine,Lied,
+857.2,D. 857/2,op. posth 124/2,1825,Lied des Florio,Lied,
+858,D. 858,,,Marsch für zwei Klaviere zu 8 Händen,,verschollen
+859,D. 859,op. 55,1825,Grande Marche Funèbre in c für Klavier zu 4 Händen,March,
+860,D. 860,NL 13/1,1825,An mein Herz,,
+861,D. 861,NL 13/2,1825,Der liebliche Stern,,
+862,D. 862,op. 88/3,1825,Um Mitternacht,,
+863,D. 863,,1827 ?,An Gott,,verschollen
+864,D. 864,,1827?,Das Totenhemdchen,,verschollen
+865,D. 865,op. 105/1,1828,Widerspruch,,
+865,D. 865,op. 105/1,1828,Widerspruch,,
+866,D. 866,op. 95,1828,Vier Refrainlieder,Lied,
+866.1,D. 866/1,op. 95/1,1828,Die Unterscheidung,Lied,Strophenlied
+866.2,D. 866/2,op. 95/2,1828,Bei dir allein!,,
+866.3,D. 866/3,op. 95/3,1828,Die Männer sind mechant!,,
+866.4,D. 866/4,op. 95/4,1828,Irdisches Glück,Lied,Strophenlied
+867,D. 867,op. 105/2,1828 pubd,Wiegenlied,Lied,
+868,D. 868,,,Das Echo,,see D. 990C
+869,D. 869,NL 15/3,1826,Totengräber-Weise,,
+870,D. 870,op. 80/1,1826,Der Wanderer an den Mond,,
+871,D. 871,op. 80/2,1826,Das Zügenglöcklein,,
+872,D. 872,,1827,"Gesänge zur Feier des heiligen Opfers der Messe. Nebst einem Anhange, enthaltend: Das Gebet des Herr",Lied,
+873,D. 873,,1826,Kanon zu 6 Stimmen in A,Canon,Entwurf ohne Text
+873.1,D. 873A,,1826,Nachklänge,,Entwurf ohne Text
+874,D. 874,,1826 ?,"O Quell, was strömst du rasch und wild",,Entwurf; Fragment
+875,D. 875,op. 102,1826,Mondenschein,,
+875.1,D. 875A,,1826,Die Allmacht,,
+876,D. 876,NL 30/1,1826,Im Jänner 1817,,
+877,D. 877,op. 62,1826,"Gesänge aus ""Wilhelm Meister""",Lied,
+877.1,D. 877/1,op. 62/1,1826,Mignon und der Harfner,,
+877.2,D. 877/2,op. 62/2,1826,Lied der Mignon,Lied,
+877.3,D. 877/3,op. 62/3,1826,Lied der Mignon,Lied,
+877.4,D. 877/4,op. 62/4,1826,Lied der Mignon,Lied,
+878,D. 878,op. 105/3,1826,Am Fenster,,
+879,D. 879,op. 105/4,1826,Sehnsucht,,
+880,D. 880,op. 80/3,1826,Im Freien,,
+881,D. 881,op. 96/4,1826,Fischerweise,,
+882,D. 882,op. posth 101/1,1826,Im Frühling,,
+883,D. 883,NL 17/1,1826,Lebensmut,Lied,Strophenlied
+884,D. 884,op. 108/1,1826,Über Wildemann,,
+885,D. 885,op. 66,1826 pubd,Grande Marche Héroique in a für Klavier zu 4 Händen,March,
+886,D. 886,,,Deux Marches Caractéristiques in C für Klavier zu 4 Händen,March,see D. 968B
+887,D. 887,op. posth 161,1826,Streichquartett in G,Quartet,
+888,D. 888,NL 48/4,1826,Trinklied,Lied,
+889,D. 889,NL 7/4,1826,Ständchen,,
+890,D. 890,NL 7/2,1826,Hippolits Lied,,
+891,D. 891,op. 106/4,1826,An Silvia,,
+892,D. 892,op. posth 134,1826,Nachthelle,,
+893,D. 893,,1826,Grab und Mond,,
+894,D. 894,op. 78,1826,Sonate in G für Klavier,Sonata,
+895,D. 895,op. 70,1826,Rondo in h für Violine und Klavier,Rondo,
+896,D. 896,,1828 ?,Fröhliches Scheiden,,
+896.1,D. 896A,,1828 ?,Sie in jedem Liede,,
+896.2,D. 896B,,1828 ?,Wolke und Quelle,,
+897,D. 897,op. posth 148,1828 ?,"Trio in Es für Klavier, Violine und Violoncello",Trio,"""Notturno"""
+898,D. 898,op. posth 99,1828 ?,"Trio in B für Klavier, Violine und Violoncello",Trio,
+899,D. 899,op. 90,1827,Vier Impromptus für Klavier,,
+900,D. 900,,1822 post,Allegretto in c für Klavier,,Fragment; 1822–1823?
+901,D. 901,,1827,Wein und Liebe,,
+902,D. 902,op. 83,1827,Drei Gesänge für Baßstimme mit Klavier,Lied,
+902.1,D. 902/1,op. 83/1,1827,L'incanto degli occhi; Die Macht der Augen,,
+902.2,D. 902/2,op. 83/2,1827,Il traditor deluso; Der getäuschte Verräter,,italienisch/deutsch
+902.3,D. 902/3,op. 83/3,1827,Il modo di prender moglie; Die Art ein Weib zu nehmen,,
+903,D. 903,op. 81/3,1827,Zur guten Nacht,,
+903,D. 903,op. 81/3,1827,Zur guten Nacht,,
+904,D. 904,op. 81/1,1827,Alinde,,
+905,D. 905,op. 81/2,1827,An die Laute,Lied,Strophenlied
+906,D. 906,NL 17/2,1827,Der Vater mit dem Kind,,
+907,D. 907,op. 86,1826 ?,Romanze des Richard Löwenherz,,
+908,D. 908,op. 82/1,1827,"Acht Variationen über ein Thema aus der Oper ""Marie"" von Hérold für Klavier zu 4 Händen",Keyboard Variation,
+909,D. 909,op. 96/2,1827,Jägers Liebeslied,Lied,Strophenlied
+910,D. 910,NL 24/1,1827,Schiffers Scheidelied,,
+911,D. 911,op. 89,1827,Winterreise,,
+911.01,D. 911/1,op. 89/1,1827,Gute Nacht,,
+911.02,D. 911/2,op. 89/2,1827,Die Wetterfahne,,
+911.03,D. 911/3,op. 89/3,1827,Gefrorne Tränen,,
+911.04,D. 911/4,op. 89/4,1827,Erstarrung,,
+911.05,D. 911/5,op. 89/5,1827,Der Lindenbaum,,
+911.06,D. 911/6,op. 89/6,1827,Wasserflut,Lied,Strophenlied
+911.07,D. 911/7,op. 89/7,1827,Auf dem Flusse,,
+911.08,D. 911/8,op. 89/8,1827,Rückblick,,
+911.09,D. 911/9,op. 89/9,1827,Irrlicht,,
+911.1,D. 911/10,op. 89/10,1827,Rast,,
+911.11,D. 911/11,op. 89/11,1827,Frühlingstraum,,
+911.12,D. 911/12,op. 89/12,1827,Einsamkeit,,
+911.13,D. 911/13,op. 89/13,1827,Die Post,Lied,Strophenlied
+911.14,D. 911/14,op. 89/14,1827,Der greise Kopf,,
+911.15,D. 911/15,op. 89/15,1827,Die Krähe,,
+911.16,D. 911/16,op. 89/16,1827,Letzte Hoffnung,,
+911.17,D. 911/17,op. 89/17,1827,Im Dorfe,,
+911.18,D. 911/18,op. 89/18,1827,Der stürmische Morgen,,
+911.19,D. 911/19,op. 89/19,1827,Täuschung,,
+911.2,D. 911/20,op. 89/20,1827,Der Wegweiser,,
+911.21,D. 911/21,op. 89/21,1827,Das Wirtshaus,,
+911.22,D. 911/22,op. 89/22,1827,Mut,,
+911.23,D. 911/23,op. 89/23,1827,Die Nebensonnen,,
+911.24,D. 911/24,op. 89/24,1827,Der Leiermann,,
+912,D. 912,op. posth 151,1827,Schlachtlied,Lied,
+913,D. 913,op. posth 139,1827,Nachtgesang im Walde,,
+914,D. 914,,1827,Frühlingslied,Lied,
+915,D. 915,,1827,Allegretto in c für Klavier,,
+916,D. 916,,1827,Das stille Lied,,
+916.1,D. 916A,,1827 ?,Liedentwurf in C ohne Text,Lied,
+916.2,D. 916B,,1827,Klavierstück in C,,Entwurf
+916.3,D. 916C,,1827,Klavierstück in c,,Entwurf
+917,D. 917,op. posth 115/1,1827,Das Lied im Grünen,,
+918,D. 918,,1827,Der Graf von Gleichen,,Entwurf
+919,D. 919,,1827,Frühlingslied,Lied,
+920,D. 920,op. posth 135,1827,Ständchen,,
+921,D. 921,,,Ständchen,,see D. 920
+922,D. 922,op. 106/1,1827,Heimliches Lieben,,
+923,D. 923,op. posth 165/5,1827,Eine altschottische Ballade,,
+923,D. 923,,1827,Eine altschottische Ballade,,
+924,D. 924,op. 91,1828 pubd,Zwölf Grazer Walzer für Klavier,Dance,
+925,D. 925,,1828 pubd,Grazer Galopp in C für Klavier,,
+926,D. 926,op. 106/2,1828,Das Weinen,Lied,Strophenlied
+927,D. 927,op. 106/3,1828 ?,Vor meiner Wiege,,
+928,D. 928,,1827,Marsch in G für Klavier zu 4 Händen,,"""Kindermarsch"""
+929,D. 929,op. 100,1827,"Trio in Es für Klavier, Violine und Violoncello",Trio,
+930,D. 930,op. posth 104,1827,Der Hochzeitsbraten,,
+931,D. 931,NL 27/1,1827,Der Wallensteiner Lanzknecht beim Trunk,,
+932,D. 932,NL 27/2,1827,Der Kreuzzug,,
+933,D. 933,NL 27/3,1827,Des Fischers Liebesglück,Lied,Strophenlied
+934,D. 934,op. posth 159,1827,Fantasie in C für Violine und Klavier,Fantasia,
+935,D. 935,op. posth 142,1827,Vier Impromptus für Klavier,,
+936,D. 936,,1827,Kantate für Irene Kiesewetter,Cantata,
+936.1,D. 936A,,1828,Drafts for a symphony in D major (Entwürfe zu einer Sinfonie in D),Symphony,draft
+937,D. 937,,1828,Lebensmut,,Fragment
+938,D. 938,NL 26,1828,Der Winterabend,,
+939,D. 939,op. 96/1,1828,Die Sterne,,
+940,D. 940,op. 103,1828,Fantasie in f für Klavier zu 4 Händen,Fantasia,
+941,D. 941,,,Hymnus an den heiligen Geist,,
+942,D. 942,op. posth 136,1828,Mirjams Siegesgesang,,
+943,D. 943,op. posth 119,1828,Auf dem Strom,,
+944,D. 944,,1826 ?,Symphony no. 8 in C major (Sinfonie Nr. 8 in C),Symphony,composed 1825–1826; counted earlier as no. 7 or no. 9
+944.1,D. 944A,,1828,Deutscher für Klavier,Dance,verschollen
+945,D. 945,,1828,Herbst,Lied,Strophenlied
+946,D. 946,,1828,Drei Klavierstücke,,
+947,D. 947,op. posth 144,1828,Allegro in a für Klavier zu 4 Händen,,"""Lebensstürme"""
+948,D. 948,op. posth 154,1828,Hymnus an den heiligen Geist,,
+949,D. 949,,,Widerschein,,see D. 639
+950,D. 950,,1828,Messe in Es,Mass,
+951,D. 951,op. 107,1828,Rondo in A für Klavier zu 4 Händen,Rondo,
+952,D. 952,op. posth 152,1828,Fuge in e zu 4 Händen für Orgel oder Klavier,Fugue,
+953,D. 953,,1828,Der 92. Psalm,Psalm,
+954,D. 954,,1828,"Glaube, Hoffnung und Liebe",,
+954,D. 954,,1828,"Glaube, Hoffnung und Liebe",,
+955,D. 955,op. 97,1828,"Glaube, Hoffnung und Liebe",Lied,Strophenlied
+956,D. 956,op. posth 163,1828,Streichquintett in C,Quintet,
+957,D. 957,,1828,13 Lieder nach Gedichten von Rellstab und Heine,Lied,
+957.01,D. 957/1,,1828,Liebesbotschaft,,
+957.02,D. 957/2,,1828,Kriegers Ahnung,,
+957.03,D. 957/3,,1828,Frühlingssehnsucht,,
+957.04,D. 957/4,,1828,Ständchen,,
+957.05,D. 957/5,,1828,Aufenthalt,,
+957.06,D. 957/6,,1828,In der Ferne,,
+957.07,D. 957/7,,1828,Abschied,,
+957.08,D. 957/8,,1828,Der Atlas,,
+957.09,D. 957/9,,1828,Ihr Bild,,
+957.1,D. 957/10,,1828,Das Fischermädchen,,
+957.11,D. 957/11,,1828,Die Stadt,,
+957.12,D. 957/12,,1828,Am Meer,,
+957.13,D. 957/13,,1828,Der Doppelgänger,,
+958,D. 958,,1828,Sonate in c für Klavier,Sonata,
+959,D. 959,,1828,Sonate in A für Klavier,Sonata,
+960,D. 960,,1828,Sonate in B für Klavier,Sonata,
+961,D. 961,,,Benedictus für die Messe in C,,see D. 452
+962,D. 962,,1828,Tantum ergo in Es,,
+963,D. 963,,1828,Offertorium (Intende voci),Offertory,
+964,D. 964,,,Hymnus an den heiligen Geist,,
+965,D. 965,op. posth 129,1828,Der Hirt auf dem Felsen,,
+965.1,D. 965A,,1828,Die Taubenpost,,
+965.2,D. 965B,,1828,Fugenübungen,Fugue,
+966,D. 966,,,Orchesterzwischenspiel,,"see D. 11, Nr. 3"
+966.1,D. 966A,,,Orchesterstück in D,,see D. 71C
+966.2,D. 966B,,1819 post,Drafts for an orchestral piece in A major (Entwürfe für ein Orchesterstück in A),,draft
+967,D. 967,,,Fugenentwürfe für Klavier,Fugue,see D. 37A
+968,D. 968,,?,Allegro moderato und Andante für Klavier zu 4 Händen,,
+968.1,D. 968A,op. posth 82/2,?,"Introduktion, vier Variationen über ein Originalthema und Finale in B für Klavier zu 4 Händen",,früher D. 603
+968.2,D. 968B,op. posth 121,?,Deux Marches Caractéristiques in C für Klavier zu 4 Händen,March,früher D 886
+969,D. 969,op. 77,1827 pubd,Zwölf Walzer für Klavier,Dance,"""Valses nobles"""
+970,D. 970,,?,Sechs Ländler für Klavier,Dance,
+971,D. 971,,1823 pubd,Drei Deutsche für Klavier,Dance,
+972,D. 972,,1817 ante,Drei Deutsche für Klavier,Dance,
+973,D. 973,,1823 ?,Drei Deutsche für Klavier,Dance,
+974,D. 974,,1822 ?,Zwei Deutsche in Des für Klavier,Dance,
+975,D. 975,,1824 ?,Deutscher in D für Klavier,Dance,
+976,D. 976,,1825 pubd,Cotillon in Es für Klavier,,
+977,D. 977,,1816 ?,Acht Ecossaisen für Klavier,Dance,
+978,D. 978,,1825 pubd,Walzer in As für Klavier,Dance,
+979,D. 979,,1826 pubd,Walzer in G für Klavier,Dance,
+980,D. 980,,1826 pubd,Zwei Walzer in G und h für Klavier,Dance,
+980.1,D. 980A,,1821 ante,Zwei Entwürfe für Tänze,Dance,
+980.2,D. 980B,,1816 ?,Zwei Ländler in Es für Klavier,Dance,früher D 679
+980.3,D. 980C,,1821 ante,Zwei Ländler in Des für Klavier,Dance,
+980.4,D. 980D,,1828 pubd,Walzer in C für Klavier,Dance,
+980.5,D. 980E,,1818 post,Zwei Entwürfe für Tänze,Dance,
+980.6,D. 980F,,?,Marsch in G für Klavier,,
+981,D. 981,,?,Der Minnesänger,,verschollen
+982,D. 982,,1820 ?,Entwürfe für eine Oper,,
+983,D. 983,op. 17/1,1823 pubd,Jünglingswonne,,
+983.1,D. 983A,op. 17/2,1823 pubd,Liebe,,
+983.2,D. 983B,op. 17/3,1823 pubd,Zum Rundetanz,,
+983.3,D. 983C,op. 17/4,1823 pubd,Die Nacht,,
+984,D. 984,op. posth 169,1820 post,Der Wintertag,,Fragment
+985,D. 985,op. posth 112/1,1816 ?,Gott im Ungewitter,,
+986,D. 986,op. posth 112/2,1816 ?,Gott der Weltschöpfer,,
+987,D. 987,,,"Jesus Christus unser Heiland, der den Tod überwand",,
+988,D. 988,,1815 ?,Liebe säuseln die Blätter,,
+988.1,D. 988A,,1820 post,Begleitung für Klavier in B,,
+989,D. 989,,,Vollendung,,siehe D. 579A
+989.1,D. 989A,,,Die Erde,,siehe D. 579B
+990,D. 990,,1818 ca,Der Graf von Habsburg,Lied,Strophenlied
+990.1,D. 990A,,1818 ca,Kaiser Maximilian auf der Martinswand,Lied,Strophenlied
+990.2,D. 990B,,,Augenblicke im Elysium,,verschollen
+990.3,D. 990C,op. posth 130,1828 ?,Das Echo,,
+990.4,D. 990D,,,Die Schiffende,,verschollen
+990.5,D. 990E,,1816 ?,L'incanto degli occhi,,
+990.6,D. 990F,,1816 ?,Ombre amene,,Fragment
+991,D. 991,,,O so laßt euch froh begrüßen,,siehe D. 323
+992,D. 992,,,Wer wird sich nicht innig freuen,,siehe D. 383
+993,D. 993,,,Fantasie in c für Klavier,Fantasia,siehe D. 2E
+994,D. 994,,,Sonate in e für Klavier,Sonata,siehe D. 769A
+995,D. 995,,,Sechs Menuette für Bläser,Dance,siehe D. 2D
+996,D. 996,,,Ouvertüre in D,Overture,siehe D. 2A
+997,D. 997,,,Sinfonie in D,Symphony,siehe D. 2B
+998,D. 998,,,Bruchstück aus einem Satz in d oder F für Streichquartett,,siehe D. 2C

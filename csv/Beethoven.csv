@@ -1,0 +1,441 @@
+SORT,Opus,Title,Type,Key,Instrumentation
+1 ,op. 1,3 Piano Trios,Trio,,"Piano, Violin, Cello"
+1 ,op.1/1,3 Piano Trios #1,Trio,E-flat major,"Piano, Violin, Cello"
+1 ,op.1/2,3 Piano Trios #2,Trio,G major,"Piano, Violin, Cello"
+1 ,op.1/3,3 Piano Trios #3,Trio,C minor,"Piano, Violin, Cello"
+2 ,op. 2,3 Piano Sonatas,Sonata,,Piano
+2 ,op. 2/1,3 Piano Sonatas #1,Sonata,F minor,Piano
+2 ,op. 2/2,3 Piano Sonatas #2,Sonata,A major,Piano
+2 ,op. 2/3,3 Piano Sonatas #3,Sonata,C major,Piano
+3 ,op. 3,,Trio,E-flat major,"Violin, Viola, Cello"
+4 ,op. 4,,Quintet,E-flat major,"2 Violins, 2 Violas, Cello"
+5 ,op. 5,2 Sonatas,Sonata,,"Piano, Cello"
+5 ,op. 5/1,2 Sonatas #1,Sonata,F major,"Piano, Cello"
+5 ,op. 5/2,2 Sonatas #2,Sonata,G minor,"Piano, Cello"
+6 ,op. 6,,Sonata,D major,Piano Four Hands
+7 ,op. 7,,Sonata,E-flat major,Piano
+8 ,op. 8,,Serenade,D major,"Violin, Viola, Cello"
+9 ,op. 9,3 Trios,Trio,,"Violin, Viola, Cello"
+9 ,op. 9/1,3 Trios #1,Trio,G major,"Violin, Viola, Cello"
+9 ,op. 9/2,3 Trios #2,Trio,D major,"Violin, Viola, Cello"
+9 ,op. 9/3,3 Trios #3,Trio,C minor,"Violin, Viola, Cello"
+10 ,op. 10,3 Piano Sonatas,Sonata,,Piano
+10 ,op. 10/1,3 Piano Sonatas #1,Sonata,C minor,Piano
+10 ,op. 10/2,3 Piano Sonatas #2,Sonata,F major,Piano
+10 ,op. 10/3,3 Piano Sonatas #3,Sonata,D major,Piano
+11 ,op. 11,,Trio,B-flat major,"Piano, Clarinet/Violin, Cello"
+12 ,op. 12,3 Sonatas,Sonata,,"Piano, Violin"
+12 ,op. 12/1,3 Sonatas #1,Sonata,D major,"Piano, Violin"
+12 ,op. 12/2,3 Sonatas #2,Sonata,A major,"Piano, Violin"
+12 ,op. 12/3,3 Sonatas #3,Sonata,E-flat major,"Piano, Violin"
+13 ,op. 13,Sonata “Pathétique”,Sonata,C minor,Piano
+14 ,op. 14,2 Piano Sonatas,Sonata,,Piano
+14 ,op. 14/1,2 Piano Sonatas #1,Sonata,E major,Piano
+14 ,op. 14/2,2 Piano Sonatas #2,Sonata,G major,Piano
+15 ,op. 15,Concerto No. 1,Concerto,C major,"Piano, Orchestra"
+16 ,op. 16,,Quintet,E-flat major,"Piano, Oboe, Clarinet, Horn, Bassoon"
+16 ,op. 16a,,Quartet,E-flat major,"Piano, Violin, Viola, Cello"
+17 ,op. 17,,Sonata,F major,"Piano, Horn/Viola/Cello"
+18 ,op. 18,6 String Quartets,Quartet,,"2 Violins, Viola, Cello"
+18 ,op. 18/1,6 String Quartets #1,Quartet,F major,"2 Violins, Viola, Cello"
+18 ,op. 18/2,6 String Quartets #2,Quartet,G major,"2 Violins, Viola, Cello"
+18 ,op. 18/3,6 String Quartets #3,Quartet,D major,"2 Violins, Viola, Cello"
+18 ,op. 18/4,6 String Quartets #4,Quartet,C minor,"2 Violins, Viola, Cello"
+19 ,op. 18/5,6 String Quartets #5,Quartet,A minor,"2 Violins, Viola, Cello"
+19 ,op. 18/6,6 String Quartets #6,Quartet,B-flat major,"2 Violins, Viola, Cello"
+19 ,op. 19,Concerto No. 2,Concerto,B-flat major,"Piano, Orchestra"
+20 ,op. 20,,Septet,E-flat major,"Violin, Viola, Cello, Double Bass, Clarinet, Horn, Bassoon"
+21 ,op. 21,Symphony No. 1,Symphony,C major,Orchestra
+22 ,op. 22,,Sonata,B-flat major,Piano
+23 ,op. 23,,Sonata,A minor,"Piano, Violin"
+24 ,op. 24,,Sonata,F major,"Piano, Violin"
+25 ,op. 25,,Serenade,D major,"Flute, Violin, Viola"
+26 ,op. 26,,Sonata,A-flat major,Piano
+27 ,op. 27,2 Sonatas “Quasi una Fantasia”,Sonata,,Piano
+27 ,op. 27/1,Sonata “Quasi una Fantasia” #1,Sonata,E-flat major,Piano
+27 ,op. 27/2,Sonata “Quasi una Fantasia” #2,Sonata,C minor,Piano
+28 ,op. 28,,Sonata,D major,Piano
+29 ,op. 29,,Quintet,C major,"2 Violins, 2 Violas, Cello"
+30 ,op. 30,3 Sonatas,Sonata,,"Piano, Violin"
+30 ,op. 30/1,3 Sonatas #1,Sonata,A major,"Piano, Violin"
+30 ,op. 30/2,3 Sonatas #2,Sonata,C minor,"Piano, Violin"
+30 ,op. 30/3,3 Sonatas #3,Sonata,G major,"Piano, Violin"
+31 ,op. 31,3 Sonatas,Sonata,,Piano
+31 ,op. 31/1,3 Sonatas #1,Sonata,G major,Piano
+31 ,op. 31/2,3 Sonatas #2,Sonata,D minor,Piano
+31 ,op. 31/3,3 Sonatas #3,Sonata,E-flat major,Piano
+32 ,op. 32,"“An die Hoffnung”, “Die du so gern”",Lied,,"Voice, Piano"
+33 ,op. 33,7 Bagatelles,Bagatelle,,Piano
+34 ,op. 34,6 Variations on an Original Theme,Keyboard Variation,,Piano
+35 ,op. 35,15 Variations and a Fugue,Keyboard Variation,E-flat major,Piano
+36 ,op. 36,Symphony No. 2,Symphony,D major,Orchestra
+37 ,op. 37,Concerto No. 3,Concerto,C minor,"Piano, Orchestra"
+38 ,op. 38,Trio (from the Septet op. 20),Trio,E-flat major,"Piano, (Clarinet), Violin, Cello"
+39 ,op. 39,2 Preludes in the 12 major keys,Prelude,,Piano/Organ
+40 ,op. 40,1st Romance,Romance,G major,"Violin, Orchestra"
+41 ,op. 41,Serenade (from Serenade op. 25),Serenade,D major,"Piano, Flute"
+42 ,op. 42,Nocturne (from Serenade op. 8),Nocturne,D major,"Piano, Viola"
+43 ,op. 43,the Creatures of Prometheus,Ballet,,
+44 ,op. 44,"14 Variations on “Ja, Ich Muß Mich Von Ihr Scheiden”",Keyboard Variation,,"Piano, Violin, Cello"
+45 ,op. 45,3 Marches,March,,Piano Four Hands
+45 ,op. 45/1,3 Marches #1,March,C major,Piano Four Hands
+45 ,op. 45/2,3 Marches #2,March,E-flat major,Piano Four Hands
+45 ,op. 45/3,3 Marches #3,March,D major,Piano Four Hands
+46 ,op. 46,Adelaïde,Cantata,,"Voice, Piano"
+47 ,op. 47,Sonata “Kreutzer”,Sonata,A major,"Piano, Violin"
+48 ,op. 48,6 Songs of Gellert,Lied,,"Voice, Piano"
+49 ,op. 49,2 Sonatas,Sonata,,Piano
+49 ,op. 49/1,2 Sonatas #1,Sonata,G minor,Piano
+49 ,op. 49/2,2 Sonatas #2,Sonata,G major,Piano
+50 ,op. 50,2nd Romance,Romance,F major,"Violin, Orchestra"
+51 ,op. 51,2 Rondos,Rondo,,Piano
+51 ,op. 51/1,Rondo,Rondo,C major,Piano
+51 ,op. 51/2,Rondo,Rondo,G major,Piano
+52 ,op. 52,8 Songs,Lied,,"Voice, Piano"
+53 ,op. 53,Sonata “Waldstein” / “L’Aurore”,Sonata,C major,Piano
+54 ,op. 54,,Sonata,F major,Piano
+55 ,op. 55,Symphony No. 3 “Eroica”,Symphony,E-flat major,Orchestra
+56 ,op. 56,Concerto “Triple Concerto”,Concerto,C major,"Piano, Violin, Cello, Orchestra"
+57 ,op. 57,Sonata “Appassionata”,Sonata,F minor,Piano
+58 ,op. 58,Concerto No. 4,Concerto,G major,"Piano, Orchestra"
+59 ,op. 59,3 Quartets “Rasumowsky Quartets”,Quartet,,"2 Violins, Viola, Cello"
+59 ,op. 59/1,3 Quartets “Rasumowsky Quartets” #1,Quartet,F major,"2 Violins, Viola, Cello"
+59 ,op. 59/2,3 Quartets “Rasumowsky Quartets” #2,Quartet,E minor,"2 Violins, Viola, Cello"
+59 ,op. 59/3,3 Quartets “Rasumowsky Quartets” #3,Quartet,C major,"2 Violins, Viola, Cello"
+60 ,op. 60,Symphony No. 4,Symphony,B-flat major,Orchestra
+61 ,op. 61,,Concerto,D major,"Violin, Orchestra"
+61 ,op. 61a,"transcription of the Concerto, op. 61",Concerto,D major,"Piano, Orchestra"
+62 ,op. 62,Overture to “Coriolanus” by H. J. Von Collin,Overture,C minor,
+63 ,op. 63,arrangement of the String Quintet op. 4,Trio,E-flat major,"Piano, Violin, Cello"
+64 ,op. 64,Transcription of the Trio op. 3,Sonata,E-flat major,"Piano, Cello"
+65 ,op. 65,"“Ah, Perfido!”",Aria,,"Soprano, Orchestra"
+66 ,op. 66,12 Variations“Ein Mädchen oder Weibchen”,Keyboard Variation,F major,"Piano, Cello"
+67 ,op. 67,Symphony No. 5,Symphony,C minor,Orchestra
+68 ,op. 68,Symphony No. 6 “Pastoral”,Symphony,F major,Orchestra
+69 ,op. 69,,Sonata,A major,"Piano, Cello"
+70 ,op. 70,2 Trios,Trio,,"Piano, Violin, Cello"
+70 ,op. 70/1,2 Trios #1,Trio,D major,
+70 ,op. 70/2,2 Trios #2,Trio,E-flat major,
+71 ,op. 71,,Sextet,E-flat major,"2 Clarinets, 2 Bassoons, 2 Horns"
+72 ,op. 72,Fidelio (3rd version),Opera,,"Soloists, Choir, Orchestra"
+73 ,op. 73,Concerto No. 5 “Emperor”,Concerto,E-flat major,"Piano, Orchestra"
+74 ,op. 74,Quartet “Harp Quartet”,Quartet,E-flat major,"2 Violins, Viola, Cello"
+75 ,op. 75,6 Lieder/Gesänge,Lied,,"Voice, Piano"
+76 ,op. 76,6 Variations on an Original Theme,Keyboard Variation,D major,Piano
+77 ,op. 77,Fantasia,Fantasia,G minor,Piano
+78 ,op. 78,,Sonata,F-sharp major,Piano
+79 ,op. 79,Sonata “Sonatina”,Sonata,G major,Piano
+80 ,op. 80,Choral Fantasy,Fantasia,C minor,"Piano, Choir, Orchestra"
+81 ,op. 81a,Sonata “Les Adieux”,Sonata,B-flat major,Piano
+81 ,op. 81b,,Sextet,E-flat major,"2 Horns, 2 Violins, Viola, Cello"
+82 ,op. 82,4 Ariettes and a Duet,Aria,,"Voice, Piano"
+83 ,op. 83,3 Songs on Texts by Goethe,Lied,,"Voice, Piano"
+84 ,op. 84,Egmont,Incidental Music,,
+85 ,op. 85,Christ on the Mount of Olives,Oratorio,,"Soloists, Choir, Orchestra"
+86 ,op. 86,,Mass,C major,"Soloists, Choir, Orchestra"
+87 ,op. 87,,Trio,C major,2 Oboes and English Horn
+88 ,op. 88,Das Glück der Freundschaft,Lied,,"Voice, Piano"
+89 ,op. 89,Polonaise,Dance,C major,Piano
+90 ,op. 90,,Sonata,E minor,Piano
+91 ,op. 91,"Wellington’s Victory, or the Battle of Vitoria",,,Orchestra
+92 ,op. 92,Symphony No. 7,Symphony,A major,Orchestra
+93 ,op. 93,Symphony No. 8,Symphony,F major,Orchestra
+94 ,op. 94,“An Die Hoffnung”,Lied,,"Voice, Piano"
+95 ,op. 95,String Quartet “Serioso”,Quartet,F minor,"2 Violins, Viola, Cello"
+96 ,op. 96,,Sonata,G major,"Piano, Violin"
+97 ,op. 97,Trio “Archduke”,Trio,B-flat major,"Piano, Violin, Cello"
+98 ,op. 98,“An Die Ferne Geliebte” (Liederkreis),Lied,,"Voice, Piano"
+99 ,op. 99,Der Mann von Wort,Lied,,"Voice, Piano"
+100 ,op. 100,Merkenstein,Lied,,"2 Voices, Piano"
+101 ,op. 101,,Sonata,A major,Piano
+102 ,op. 102,2 Sonatas,Sonata,,"Piano, Cello"
+102 ,op. 102/1,2 Sonatas #1,Sonata,C major,
+102 ,op. 102/2,2 Sonatas #2,Sonata,D major,
+103 ,op. 103,,Octet,E-flat major,Winds
+104 ,op. 104,,Quintet,C minor,"2 Violins, 2 Violas, Cello"
+105 ,op. 105,6 Varied Themes,Keyboard Variation,,Piano with Optional Flute or Violin
+106 ,op. 106,Piano Sonata “Hammerklavier”,Sonata,B-flat major,Piano
+107 ,op. 107,10 Varied Themes,Keyboard Variation,,Piano with Optional Flute or Violin
+108 ,op. 108,25 “Schottische Lieder”,Lied,,"Voice(s), Piano, Violin, Cello"
+109 ,op. 109,,Sonata,E major,Piano
+110 ,op. 110,,Sonata,A-flat major,Piano
+111 ,op. 111,,Sonata,C minor,Piano
+112 ,op. 112,Meeresstille und glückliche Fahrt,,,"Choir, Orchestra"
+113 ,op. 113,The Ruins of Athens,Overture,,
+114 ,op. 114,March with Chorus from “Die Ruinen von Athen”,March,E-flat major,
+115 ,op. 115,Overture “Zur Namensfeier”,Overture,C major,
+116 ,op. 116,"“Tremate, Empi, Tremate”",Terzett,,"Soprano, Tenor, Bass, Orchestra"
+117 ,op. 117,König Stephan,Incidental Music,,
+118 ,op. 118,Elegiac Song “Sanft Wie Du Lebtest”,Lied,,"4 Voices, 2 Violins, Viola, Cello"
+119 ,op. 119,11 Bagatelles,Bagatelle,,Piano
+120 ,op. 120,33 Variations on a Waltz by Diabelli,Keyboard Variation,C major,
+121 ,op. 121a,10 Variations on “Ich Bin Der Schneider Kakadu”,Keyboard Variation,D major,"Piano, Violin, Cello"
+121 ,op. 121b,“Opferlied” (4th version),Lied,,"Soloists, Choir, Orchestra"
+122 ,op. 122,“Bundeslied”,Lied,,"Soloists, Four‐Part Choir, Orchestra"
+123 ,op. 123,“Missa Solemnis”,Mass,,"Soloists, Choir, Orchestra, Organ"
+124 ,op. 124,Overture “Die Weihe Des Hauses”,Overture,C major,
+125 ,op. 125,Symphony No. 9 “Choral”,Symphony,D minor,Orchestra
+126 ,op. 126,6 Bagatelles,Bagatelle,,Piano
+127 ,op. 127,,Quartet,E-flat major,"2 Violins, Viola, Cello"
+128 ,op. 128,“Der Kuss”: “Ich War Bei Chloen Ganz Allein”,Lied,,"Voice, Piano"
+129 ,op. 129,"Rondo a Capriccio “Alla Ingharese, Quasi un Capriccio”",Rondo,G major,Piano
+130 ,op. 130,,Quartet,B-flat major,"2 Violins, Viola, Cello"
+131 ,op. 131,,Quartet,,"2 Violins, Viola, Cello"
+132 ,op. 132,,Quartet,A minor,"2 Violins, Viola, Cello"
+133 ,op. 133,“Grosse Fuge”,Quartet,B-flat major,String Quartet
+134 ,op. 134,"reduction of the Great Fugue, op. 133",Fugue,B-flat major,Piano Four Hands
+135 ,op. 135,,Quartet,F major,"2 Violins, Viola, Cello"
+136 ,op. 136,Der Glorreiche Augenblick,Cantata,,"Soloists, Choir, Orchestra"
+137 ,op. 137,Fugue,Quintet,D major,"2 Violins, 2 Violas, Cello"
+138 ,op. 138,Overture No. 1 “Fidelio (Leonora)”,Overture,D major,
+999 ,WoO 1,Musik zu einem Ritterballet,Ballet,,Orchestra
+999 ,WoO 2a,Triumphal March for Kuffner’s tragedy “Tarpeia”,March,,
+999 ,WoO 2b,Introduction to Act II (“Introduzione del II atto”),Incidental Music,D major,
+999 ,WoO 3,“Gratulations-Menuet”,Dance,E-flat major,Orchestra
+999 ,WoO 4,,Concerto,E-flat major,"Piano, Orchestra"
+999 ,WoO 5,First Unfinished Movement of a Concerto,Concerto,C major,"Violin, Orchestra"
+999 ,WoO 6,Rondo,Rondo,B-flat major,"Piano, Orchestra"
+999 ,WoO 7,12 Minuets,Dance,,Orchestra
+999 ,WoO 8,12 German Dances,Dance,,Orchestra
+999 ,WoO 9,6 Minuets,Dance,,"2 Violins, Basso"
+999 ,WoO 10,6 Minuets,Dance,,"1. Piano
+2. 2 Violins, Basso"
+999 ,WoO 11,7 Ländlerische Tänze (Piano version),Dance,,Piano
+999 ,WoO 12,12 Minuets,Dance,,Orchestra
+999 ,WoO 13,12 German Dances (Piano reduction),Dance,,Piano
+999 ,WoO 14,12 Contredanses,Dance,,"2 Violins, Basso, Optional Flute"
+999 ,WoO 15,6 Ländlers (Piano version),Dance,,Piano
+999 ,WoO 16a,12 Scottish Dances (Piano reduction),Dance,,Piano
+999 ,WoO 16b,12 Waltzes,Dance,,Small Orchestra
+999 ,WoO 17,“Mödlinger Tänze”,Dance,,7 or 8 string and wind instruments
+999 ,WoO 18,2 Marches #1,March,F major,Military Orchestra
+999 ,WoO 19,2 Marches #2,March,F major,Military Orchestra
+999 ,WoO 20,,March,C major,Military Band
+999 ,WoO 21,Polonaise,Dance,D major,Military Orchestra
+999 ,WoO 22,Ecossaise,Dance,D major,Military Orchestra
+999 ,WoO 23,Ecossaise (after a lost wind original),Dance,G major,Piano
+999 ,WoO 24,,March,D major,Military Band
+999 ,WoO 25,Rondino,Rondo,E-flat major,Wind Octet
+999 ,WoO 26,Duet (Allegro and Minuet),Duo,G major,2 Flutes
+999 ,WoO 27,3 Duets,Duo,,"Clarinet, Bassoon"
+999 ,WoO 27/1,3 Duets #1,Duo,C major,"Clarinet, Bassoon"
+999 ,WoO 27/2,3 Duets #2,Duo,F major,"Clarinet, Bassoon"
+999 ,WoO 27/3,3 Duets #3,Duo,B-flat major,"Clarinet, Bassoon"
+999 ,WoO 28,8 Variations on “Là ci darem la mano”,,C major,"2 Oboes, English Horn"
+999 ,WoO 29,,March,B-flat major,"2 Clarinets, 2 Horns, 2 Bassoons"
+999 ,WoO 30,3 Equali,,,4 Trombones
+999 ,WoO 31,Two-part Fugue,Fugue,D major,organ (fortepiano)
+999 ,WoO 32,Duet (“mit zwei obligaten Augengläsern”),Duo,E-flat major,"Viola, Cello"
+999 ,WoO 33,5 Pieces,,,Flute Clock or Mechanical Instrument
+999 ,WoO 34,Little Piece (for Alexandre‑Jean Boucher),Duo,A major,2 Violins
+999 ,WoO 35,Canon (for Samson de Boer),Canon,A major,2 Cellos
+999 ,WoO 36,3 Quartets,Quartet,,"Piano, Violin, Viola, Cello"
+999 ,WoO 36/1,3 Quartets #1,Quartet,E-flat major,"Piano, Violin, Viola, Cello"
+999 ,WoO 36/2,3 Quartets #2,Quartet,D major,"Piano, Violin, Viola, Cello"
+999 ,WoO 36/3,3 Quartets #3,Quartet,C major,"Piano, Violin, Viola, Cello"
+999 ,WoO 37,,Trio,G major,"Harpsichord, Flute, Bassoon"
+999 ,WoO 38,,Trio,E-flat major,"Piano, Violin, Cello"
+999 ,WoO 39,,Trio,B-flat major,"Piano, Violin, Cello"
+999 ,WoO 40,12 Variations on “Se vuol ballare”,Keyboard Variation,F major,"Piano, Violin"
+999 ,WoO 41,Rondo,Rondo,G major,"Piano, Violin Obbligato"
+999 ,WoO 42,6 Allemandes,Dance,,"Piano, Violin"
+999 ,WoO 43a,Adagio,,C minor,"Mandolin, Piano"
+999 ,WoO 43b,Adagio,,E-flat major,"Mandolin, Piano"
+999 ,WoO 44a,Sonatina (Allegro/Sonatensatz),Sonata,C major,"Mandolin, Piano"
+999 ,WoO 44b,Andante with Variations,,D major,"Mandolin, Piano"
+999 ,WoO 45,12 Variations on Handel’s Judas Maccabaeus,Keyboard Variation,G major,"Piano, Cello"
+999 ,WoO 46,"7 Variations on “Bei Männern, welche Liebe fühlen”",Keyboard Variation,E-flat major,"Piano, Cello"
+999 ,WoO 47,3 Piano Sonatas,Sonata,,
+999 ,WoO 47/1,3 Piano Sonatas #1,Sonata,E-flat major,
+999 ,WoO 47/2,3 Piano Sonatas #2,Sonata,F minor,
+999 ,WoO 47/3,3 Piano Sonatas #3,Sonata,D major,
+999 ,WoO 48,Rondo,Rondo,C major,
+999 ,WoO 49,Rondo,Rondo,A major,
+999 ,WoO 50,2 Movements of a Sonatina,Sonata,F major,Piano
+999 ,WoO 51,Sonata (Allegro – Adagio),Sonata,C major,Piano
+999 ,WoO 52,,Bagatelle,C minor,Piano
+999 ,WoO 53,Allegretto,Piano Piece,C minor,Piano
+999 ,WoO 54,Lustig – traurig Klavierstück in C and c,Piano Piece,,Piano
+999 ,WoO 55,Prelude,Prelude,F minor,Piano/Organ
+999 ,WoO 56,Bagatelle No. 5,Bagatelle,C major,Piano
+999 ,WoO 57,Andante “Andante favori”,Piano Piece,F major,Piano
+999 ,WoO 58,2 Cadenzas for Mozart’s  K.466,,D minor,"Piano, Orchestra"
+999 ,WoO 59,Bagatelle “Für Elise”,Bagatelle,A minor,Piano
+999 ,WoO 60,Piano Piece,Piano Piece,B-flat major,Piano
+999 ,WoO 61,Allegretto for Ferdinand Piringer,Piano Piece,B minor,Piano
+999 ,WoO 61a,Piano Piece (Bagatelle) for Sarah Burney Payne,Piano Piece,G minor,Piano
+999 ,WoO 62,Fragment and Sketches of a Quintet,Quintet,C major,Strings
+999 ,WoO 63,9 Variations on a March by Ernst Christoph Dressler,Keyboard Variation,C minor,Piano
+999 ,WoO 64,6 Variations on a Swiss theme,Keyboard Variation,F major,Piano/Harp
+999 ,WoO 65,24 Variations on the theme “Venni amore” by Righini,Keyboard Variation,D major,Piano
+999 ,WoO 66,13 Variations on “Es war einmal ein alter Mann”,Keyboard Variation,A major,Piano
+999 ,WoO 67,8 Variations on a theme by Count Waldstein,Keyboard Variation,C major,Piano Four Hands
+999 ,WoO 68,12 Variations on the “Minuetto alla Viganò”,Keyboard Variation,C major,Piano
+999 ,WoO 69,9 Variations on “Quant’è bello L’amor contadino”,Keyboard Variation,A major,Piano
+999 ,WoO 70,6 Variations on “Nel cor più non mi sento” from Paisiello’s “Bella Molinara”,Keyboard Variation,G major,Piano
+999 ,WoO 71,12 Variations on Russian dance from “Das Waldmädchen” by Paul Wranitzky,Keyboard Variation,A major,Piano
+999 ,WoO 72,8 Variations on “Une fièvre brûlante” from Richard Coeur de Lion by Grétry,Keyboard Variation,C major,Piano
+999 ,WoO 73,"10 Variations on “La stessa, la stessissima” from “Falstaff” by Salieri",Keyboard Variation,B-flat major,Piano
+999 ,WoO 74,6 Variations on “Ich denke dein”,Keyboard Variation,D major,"Voice, Piano Four Hands"
+999 ,WoO 75,"7 Variations on “Kind, willst du ruhig schlafen”",Keyboard Variation,F major,Piano
+999 ,WoO 76,8 Variations on the Trio “Tändeln und Scherzen”,Keyboard Variation,F major,Piano
+999 ,WoO 77,6 Variations on an Original Theme,Keyboard Variation,G major,Piano
+999 ,WoO 78,7 Variations on the Theme of “God Save the King”,Keyboard Variation,C major,Piano
+999 ,WoO 79,5 Variations on the theme of “Rule Britannia”,Keyboard Variation,D major,Piano
+999 ,WoO 80,32 Variations on an original theme,Keyboard Variation,C minor,Piano
+999 ,WoO 81,Allemande,Dance,A major,Piano
+999 ,WoO 82,Minuet,Dance,E-flat major,Piano
+999 ,WoO 83,6 Ecossaises,Dance,E-flat major,Piano
+999 ,WoO 84,Waltz,Dance,E-flat major,Piano
+999 ,WoO 85,Waltz,Dance,D major,Piano
+999 ,WoO 86,Ecossaise,Dance,E-flat major,Piano
+999 ,WoO 87,Cantata on the Death of Emperor Joseph II,Cantata,,"soloists, choir and orchestra"
+999 ,WoO 88,Cantata on the Elevation of Leopold II to the Imperial Throne,Cantata,,"soloists, choir and orchestra"
+999 ,WoO 89,2 Arias #1,Aria,,"Bass, Orchestra"
+999 ,WoO 90,2 Arias #2,Aria,,"Bass, Orchestra"
+999 ,WoO 91,2 Arias for the Singspiel “Die schöne Schusterin” by Umlauf,Aria,,voice and orchestra
+999 ,WoO 92,"“Primo amore, piacere del ciel”",Aria,,soprano and orchestra
+999 ,WoO 92a,"No, non turbarti",Aria,,soprano and string orchestra
+999 ,WoO 93,“Nei giorni tuoi felici”,Duetto,,"soprano, tenor, and orchestra"
+999 ,WoO 94,“Germanias Wiedergeburt”,Chorus,,"bass, choir, and orchestra"
+999 ,WoO 95,“Chor auf die verbündeten Fürsten”,Chorus,,Choir and Orchestra
+999 ,WoO 96,“Leonore Prohaska”,Incidental Music,,"soloists, chorus, and orchestra"
+999 ,WoO 97,“Es ist vollbracht!”,,,"bass, choir and orchestra"
+999 ,WoO 98,“Wo sich die Pulse”,Chorus,,Soprano and orchestra
+999 ,WoO 99,Italian Songs “a cappella”,Lied,,
+999 ,WoO 100,“Lob auf den Dicken”,Musical Joke,,male voices
+999 ,WoO 101,"“Graf, Graf, liebster Graf, bestes Schaf”",Musical Joke,,
+999 ,WoO 102,“Abschiedsgesang”,Lied,,three men’s voices a cappella
+999 ,WoO 103,“Un lieto brindisi”,Cantata,,"four voices soprano, two tenors, bass and piano"
+999 ,WoO 104,“Gesang der Mönche”,Lied,,three male voices a cappella
+999 ,WoO 105,“Hochzeitslied”,Lied,,"solo voice, chorus and piano"
+999 ,WoO 106,"“Lobkowitz-Kantate”: “Es lebe, unser teurer Fürst!”",Cantata,,"soprano, choir, with piano..."
+999 ,WoO 107,Schilderung eines Mädchens,Lied,,"Voice, Piano"
+999 ,WoO 108,An einen Säugling: “Noch weisst du nicht”,Lied,,"Voice, Piano"
+999 ,WoO 109,Trinklied,Lied,,"Solo Voice, Unison Choir, Piano"
+999 ,WoO 110,Elegie auf den Tod eines Pudels,Lied,,"Voice, Piano"
+999 ,WoO 111,“Punschlied”,Lied,,"Solo Voice, Unison Choir, Piano"
+999 ,WoO 112,An Laura,Lied,,"Voice, Piano"
+999 ,WoO 113,Klage: “Dein Silber schien”,Lied,,"Voice, Piano"
+999 ,WoO 114,"Selbstgespracht: “Ich, der mit flatterndem Sinn…”",Lied,,"Voice, Piano"
+999 ,WoO 115,An Minna: Nur bei dir…,Lied,,"Voice, Piano"
+999 ,WoO 116,Que le temps me dure (2 sketches in c and C),Lied,,"Voice, Piano"
+999 ,WoO 117,Der freie Mann,Lied,,"Choir in unison, Voice and Piano"
+999 ,WoO 118,Seufzer einer umgeliebten und gegenliebe,Lied,,"Voice, Piano"
+999 ,WoO 119,"O care selve, Canzonetta",Lied,,Unison Choir with Solo response and Piano
+999 ,WoO 120,Man strebt die Flamme zu verhehlen,Lied,,"Voice, Piano"
+999 ,WoO 121,Abschiedsgesang an Wiens Bürger,Lied,,"Voice, Choir, Piano"
+999 ,WoO 122,Kriegslied der Österreicher,Lied,,Voice (with Unison Choral Refrain) and Piano
+999 ,WoO 123,“Zärtliche Liebe”: “Ich liebe dich”,Lied,,"Voice, Piano"
+999 ,WoO 124,La partenza(Canzonetta),Lied,,"Voice, Piano"
+999 ,WoO 125,“La Tiranna”: “Ah grief to Think!”,Lied,,"Voice, Piano"
+999 ,WoO 126,Opferlied: “Die Flamme lodert” (2nd version),Lied,,"Voice, Piano"
+999 ,WoO 127,"Neue Liebe, neues Leben (1st version of op. 75 no. 2)",Lied,,"Voice, Piano"
+999 ,WoO 128,“Plaisir d’aimer” (sketch),Lied,,"Voice, Piano"
+999 ,WoO 129,“Der Wachtelschlag”,Lied,,"Voice, Piano"
+999 ,WoO 130,“Gedenke mein!”,Lied,,"Voice, Piano"
+999 ,WoO 131,"Erlkönig, (sketch)",Lied,,"Voice, Piano"
+999 ,WoO 132,“Als die Geliebte sich trennen wollte”,Lied,,"Voice, Piano"
+999 ,WoO 133,“In questa tomba oscura”,Aria,,"Voice, Piano"
+999 ,WoO 134,“Sehnsucht”: “Nur wer die Sehnsucht kennt”...,Lied,,"Voice, Piano"
+999 ,WoO 135,"“Die laute Klage”: “Turteltaube, du klagest so laut”",Lied,,"Voice, Piano"
+999 ,WoO 136,“Andenken”: “Ich denke dein”,Lied,,"Voice, Piano"
+999 ,WoO 137,“Lied aus der Ferne”,Lied,,"Voice, Piano"
+999 ,WoO 138,“Der Jüngling in der Fremde”: “Der Frühling entbluhet”,Lied,,"Voice, Piano"
+999 ,WoO 139,“Der Liebende”,Lied,,"Voice, Piano"
+999 ,WoO 140,“An die Geliebte”,Lied,,"Voice, Piano"
+999 ,WoO 141,“Der Gesang der Nachtigall”,Lied,,"Voice, Piano"
+999 ,WoO 142,“Der Bardengeist”,Lied,,"Voice, Piano"
+999 ,WoO 143,“Des Kriegers Abschied”,Lied,,"Voice, Piano"
+999 ,WoO 144,“Merkenstein” (1st version),Lied,,"Voice, Piano"
+999 ,WoO 145,“Das Geheimnis”,Lied,,"Voice, Piano"
+999 ,WoO 146,“Sehnsucht”,Lied,,"Voice, Piano"
+999 ,WoO 147,“Ruf vom Berge”,Lied,,"Voice, Piano"
+999 ,WoO 148,“So oder so”,Lied,,"Voice, Piano"
+999 ,WoO 149,“Resignation”,Lied,,"Voice, Piano"
+999 ,WoO 150,“Abendlied unterm gestirnten Himmel”,Lied,,"Voice, Piano"
+999 ,WoO 151,“Der edle Mensch sei hulfreich und gut”,Lied,,"Voice, Piano"
+999 ,WoO 152,29 Irische Lieder (1 – 29),Lied,,"Voice, Piano, Violin, Cello"
+999 ,WoO 153,20 Irische Lieder (30 – 59),Lied,,"Voice, Piano, Violin, Cello"
+999 ,WoO 154,4 Irische Lieder (60 – 63),Lied,,"Voice, Piano, Violin, Cello"
+999 ,WoO 155,26 Walisische Lieder,Lied,,"Voice, Piano, Violin, Cello"
+999 ,WoO 156,22 Schottische Lieder,Lied,,"Voice, Piano, Violin, Cello"
+999 ,WoO 157,4 Englische Lieder,Lied,,"Voice, Piano, Violin, Cello"
+999 ,WoO 158,29 Lieder Verschiedener Völker,Lied,,"Voice(s), Piano, Violin, Cello"
+999 ,WoO 159,Im Arm der Liebe ruht,Canon,,3 Voices
+999 ,WoO 160,2 Canons without Words (G major & C major),Canon,,
+999 ,WoO 161,“Ewig dein”,Canon,,3 Voices
+999 ,WoO 162,“Ta ta ta lieber Mälzel”,Canon,,
+999 ,WoO 163,“Kurz ist der Schmerz”,Canon,,3 Voices
+999 ,WoO 164,“Freundschaft ist die Quelle wahrer Glückseligkeit”,Canon,,
+999 ,WoO 165,“Glück zum neuen Jahr”,Canon,,
+999 ,WoO 166,“Kurz ist der Schmerz”,Canon,,3 Voices
+999 ,WoO 167,Brauchle–Linke in C major,Canon,C major,
+999 ,WoO 168,2 Canons: “Das Schweigen” – “Das Reden”,Canon,,
+999 ,WoO 169,“Ich küsse Sie”,Canon,,
+999 ,WoO 170,"“Ars longa, vita brevis” (1st version)",Canon,,
+999 ,WoO 171,“Glück fehl’ dir… niemalen”,Canon,,
+999 ,WoO 172,“Ich bitt’ dich”,Canon,,
+999 ,WoO 173,"“Hol’euch der Teufel!”, enigmatic canon",Canon,,
+999 ,WoO 174,"“Glaube und hoffe!”, principle of a canon",Canon,,
+999 ,WoO 175,"“Sanct Petrus war ein Fels! Bernardus war ein Sanct?”, ideas for a canon",Canon,,
+999 ,WoO 176,"“Glück, Glück zum neuen Jahr!”",Canon,,
+999 ,WoO 177,“Bester Magistrat”,Canon,,"Men’s Voices, Cello/Double Bass"
+999 ,WoO 178,“Signor Abate!”,Canon,,
+999 ,WoO 179,“Seiner Kaiserlichen Hoheit… Alles Gute”,Canon,,
+999 ,WoO 180,"“Hofmann, Hofmann”",Canon,,
+999 ,WoO 181,"3 Canons: “Gedenket heute an Baden”, “Gehabt euch wohl”, “Tugend ist kein leerer Name”",Canon,,
+999 ,WoO 182,“O Tobias!”,Canon,,
+999 ,WoO 183,"“Bester Herr Graf, Sie sind ein Schaf”",Canon,,
+999 ,WoO 184,"“Falstafferel, lass’ dich sehen!”",Canon,,
+999 ,WoO 185,“Edel sei der Mensch”,Canon,,
+999 ,WoO 186,“Te solo adoro”,Canon,,
+999 ,WoO 187,“Schwenke dich ohne Schwänke!”,Canon,,
+999 ,WoO 188,“Gott ist eine feste Burg”,Canon,,
+999 ,WoO 189,“Doktor sperrt das Tor dem Tod”,Canon,,
+999 ,WoO 190,"“Ich war hier, Doktor, ich war hier!”",Canon,,
+999 ,WoO 191,“Kühl nicht Lau”,Canon,,
+999 ,WoO 192,"“Ars longa, vita brevis” (2nd version)",Canon,,
+999 ,WoO 193,"“Ars longa, vita brevis” (3rd version)",Canon,,
+999 ,WoO 194,"“Si non per portas, per muros”",Canon,,
+999 ,WoO 195,"“Freud’ dich des Lebens”, Two-part canon",Canon,,
+999 ,WoO 196,"“Es muss sein!”, scherzo or idea for a canon",Canon,,
+999 ,WoO 197,“Da ist das Werk”,Canon,,
+999 ,WoO 198,“Wir irren allesamt”,Canon,,
+999 ,WoO 199,"“Ich bin der Herr von ‘zu'”, 8 playful bars",Musical Joke,,
+999 ,WoO 200,"“O Hoffnung!”, Theme for Variation for Archduke Rudolf",Keyboard Variation,,
+999 ,WoO 201,“Ich bin bereit… Amen!”,Musical Joke,,
+999 ,WoO 202,"“Das Schöne zum Guten”, Albumblatt",Lied,,
+999 ,WoO 203,“Das Schöne zu dem Guten”,Canon,,
+999 ,WoO 204,“Holz geigt die Quartette…”,Musical Joke,,
+999 ,WoO 205,Jokes and Notes on Letters,Musical Joke,,
+999 ,WoO 206,,Concerto,F major,"Oboe, Orchestra"
+999 ,WoO 207,Cantabile Romance (unfinished),Romance,E minor,
+999 ,WoO 208,,Quintet,E-flat major,"Oboe, 3 Horns, Bassoon"
+999 ,WoO 209,Minuet,Dance,A-flat major,"2 Violins, Viola, Cello"
+999 ,WoO 210,String Quartet “Pencarrow Quartet” (Allegretto),Quartet,B minor,"2 Violins, Viola, Cello"
+999 ,WoO 211,Andante,Piano Piece,C major,Piano
+999 ,WoO 212,Anglaise,Dance,D major,Piano
+999 ,WoO 213,4 Bagatelles,Bagatelle,,Piano
+999 ,WoO 213/1,4 Bagatelles #1,Bagatelle,D-flat major,Piano
+999 ,WoO 213/2,4 Bagatelles #2,Bagatelle,G major,Piano
+999 ,WoO 213/3,4 Bagatelles #3,Bagatelle,A major,Piano
+999 ,WoO 213/4,4 Bagatelles #4,Bagatelle,A major,Piano
+999 ,WoO 214,Allegretto,Piano Piece,C minor,Piano
+999 ,WoO 215,Fugue,Fugue,C major,Piano/Organ
+999 ,WoO 216,2 Bagatelles,Bagatelle,,Piano
+999 ,WoO 216/1,2 Bagatelles #1,Bagatelle,C major,Piano
+999 ,WoO 216/2,2 Bagatelles #2,Bagatelle,E-flat major,Piano
+999 ,WoO 217,Minuet,Dance,F major,Piano
+999 ,WoO 218,Minuet,Dance,C major,Piano
+999 ,WoO 219,Little Waltz (Ländler),Dance,C minor,
+999 ,WoO 220,“Kriegslied für die zum keiligen Krieg verbundeten deutschen Heere”,Lied,,
+999 ,WoO 221,"“Herr Graf, ich komme zu fragen, wie Sie sich befinden”",Canon,,
+999 ,WoO 222,Piece,Canon,A-flat major,2 Voices
+999 ,WoO 223,“Thut auf”,Canon,C major,Voice
+999 ,WoO 224,“Cacatum non est pictum”,Canon,B-flat major,3 Voices
+999 ,WoO 225,“Grossen Dank”  (sketch) for Archduke Rudolf,Canon,,
+999 ,WoO 226,"“Fettluemerl, Bankert haben triumphirt”, sketch of Canon",Canon,,
+999 ,WoO 227,“Esel aller Esel”,Canon,,"2 Voices, ostinato voice"
+999 ,WoO 228a,“Ah Tobias”,Musical Joke,,
+999 ,WoO 228b,“Tobias”,Musical Joke,,

@@ -1,24 +1,25 @@
-1,SV 1,Qual si può dir maggiore,Canzonette
-2,SV 2,Canzonette d'amore che m'uscite del cuore,Canzonette
-3,SV 3,La fiera vista e'l velenoso sguardo,Canzonette
-4,SV 4,Raggi dovè il mio bene non mi date più pene,Canzonette
-5,SV 5,Vita de l'alma mia,Canzonette
-6,SV 6,Il mio martir tengo celat al cuore,Canzonette
-7,SV 7,Son questi i crespi crini e questo il viso,Canzonette
-8,SV 8,Io mi vivea com' Aquila mirando,Canzonette
-9,SV 9,Su ch'el giorno è fore,Canzonette
-10,SV 10,Quando sperai del mio servir mercede,Canzonette
-11,SV 11,Come farò cuor mio quando mi parto,Canzonette
-12,SV 12,Corse a la morte il povero Narciso,Canzonette
-13,SV 13,Tu ridi sempre mai per darmi pene,Canzonette
-14,SV 14,Chi vuol veder d'inverno un dolc' aprile,Canzonette
-15,SV 15,Già mi credev' un sol esser in cielo,Canzonette
-16,SV 16,Godi pur del bel sen felice pulce,Canzonette
-17,SV 17,Giulia quel petto giace un bel giardino,Canzonette
-18,SV 18,Sì come crescon alla terra i fiori,Canzonette
-19,SV 19,Io son Fenice e voi sete la fiamma,Canzonette
-20,SV 20,Chi vuol veder un bosco folto e spesso,Canzonette
-21,SV 21,Hor care canzonette sicuramente andrete,Canzonette
+SORT,Catalogue,Title,Type
+1,SV 1,Qual si può dir maggiore,Canzonetta
+2,SV 2,Canzonette d'amore che m'uscite del cuore,Canzonetta
+3,SV 3,La fiera vista e'l velenoso sguardo,Canzonetta
+4,SV 4,Raggi dovè il mio bene non mi date più pene,Canzonetta
+5,SV 5,Vita de l'alma mia,Canzonetta
+6,SV 6,Il mio martir tengo celat al cuore,Canzonetta
+7,SV 7,Son questi i crespi crini e questo il viso,Canzonetta
+8,SV 8,Io mi vivea com' Aquila mirando,Canzonetta
+9,SV 9,Su ch'el giorno è fore,Canzonetta
+10,SV 10,Quando sperai del mio servir mercede,Canzonetta
+11,SV 11,Come farò cuor mio quando mi parto,Canzonetta
+12,SV 12,Corse a la morte il povero Narciso,Canzonetta
+13,SV 13,Tu ridi sempre mai per darmi pene,Canzonetta
+14,SV 14,Chi vuol veder d'inverno un dolc' aprile,Canzonetta
+15,SV 15,Già mi credev' un sol esser in cielo,Canzonetta
+16,SV 16,Godi pur del bel sen felice pulce,Canzonetta
+17,SV 17,Giulia quel petto giace un bel giardino,Canzonetta
+18,SV 18,Sì come crescon alla terra i fiori,Canzonetta
+19,SV 19,Io son Fenice e voi sete la fiamma,Canzonetta
+20,SV 20,Chi vuol veder un bosco folto e spesso,Canzonetta
+21,SV 21,Hor care canzonette sicuramente andrete,Canzonetta
 22,SV 22,Lamento d'Arianna,Madrigal
 23,SV 23,Ch'ami la vita mia nel tuo bel nome,Madrigal
 24,SV 24,Se per havervi ohimè donato il core,Madrigal
@@ -179,20 +180,20 @@
 177,SV 177,Su pastorelli vezzosi,Madrigal
 178,SV 178,"O mio bene, o mia vita",Madrigal
 190,SV 190,Messa a 4 voci da capella,Mass
-191,SV 191,"Dixit dominus I, a  8",
-192,SV 192,"Dixit dominus II, a  8",
-193,SV 193,"Confitebor tibi domine I, a  1",
-194,SV 194,"Confitebor tibi domine II, a  2",
-195,SV 195,Beatus vir,
-196,SV 196,Laudate pueri dominum,
-197,SV 197,Laudate dominum omnes gentes,
-197.1,SV 197a,Laudate dominum omnes gentes,
-198,SV 198,"Laetatus sum I, a  6",
-199,SV 199,"Laetatus sum II, a  5",
-200,SV 200,"Nisi dominus I, a  3",
-201,SV 201,"Nisi dominus II, a  6",
-202,SV 202,"Lauda Jerusalem dominum I, a  3",
-203,SV 203,"Lauda Jerusalem dominum II, a  5",
+191,SV 191,"Dixit dominus I, a  8",Psalm
+192,SV 192,"Dixit dominus II, a  8",Psalm
+193,SV 193,"Confitebor tibi domine I, a  1",Psalm
+194,SV 194,"Confitebor tibi domine II, a  2",Psalm
+195,SV 195,Beatus vir,Psalm
+196,SV 196,Laudate pueri dominum,Psalm
+197,SV 197,Laudate dominum omnes gentes,Psalm
+197.1,SV 197a,Laudate dominum omnes gentes,Psalm
+198,SV 198,"Laetatus sum I, a  6",Psalm
+199,SV 199,"Laetatus sum II, a  5",Psalm
+200,SV 200,"Nisi dominus I, a  3",Psalm
+201,SV 201,"Nisi dominus II, a  6",Psalm
+202,SV 202,"Lauda Jerusalem dominum I, a  3",Psalm
+203,SV 203,"Lauda Jerusalem dominum II, a  5",Psalm
 204,SV 204,Letanie della Beata Vergine,
 205,SV 205,"Missa a 6 voci da capella ""In illo tempore""",Mass
 205.1,SV 205a,"Missa a 6 voci da capella ""In illo tempore""",Mass
@@ -214,7 +215,7 @@
 220,SV 220,Pater venit hora clarifica filium tuum,
 221,SV 221,In tua patientia possedisti animam tuam,
 222,SV 222,Angelus ad pastores ait,
-223,SV 223,Salve crux pretiosa,
+223,SV 223,Salve crux pretiosa,Motet
 224,SV 224,Quia vidisti me Thoma credidisti,
 225,SV 225,Lauda Syon salvatorem,
 226,SV 226,O bone Iesu illumina oculos meos,
@@ -236,12 +237,12 @@
 242,SV 242,Dolci miei sospiri,
 243,SV 243,Clori amorosa damor rubella,
 244,SV 244,Lidia spina del mio core,
-245,SV 245,Balletto: De la bellezza le dovute lodi,
+245,SV 245,Balletto: De la bellezza le dovute lodi,Balletto
 246,SV 246,Maledetto sia laspetto,
 247,SV 247,Quel sguardo sdegnosetto,
 248,SV 248,Era già tutta mia,
-249,SV 249,Ecco di dolci raggi il sol armato,
-249.1,SV 249a,Ecco di dolci raggi il sol armato,
+249,SV 249,Ecco di dolci raggi il sol armato,Canzonetta
+249.1,SV 249a,Ecco di dolci raggi il sol armato,Canzonetta
 250,SV 250,Et è pur dunque verò,
 251,SV 251,Zefiro torna e di soavi accenti,
 252,SV 252,O ciechi il tanto affaticar che giova,
@@ -255,45 +256,45 @@
 259,SV 259,Crucifixus,
 260,SV 260,Et resurrexit,
 261,SV 261,Et iterum venturus est,
-262,SV 262,Ab aeterno ordinata sum,
-263,SV 263,"Dixit dominus I, a 8 in g",
-264,SV 264,"Dixit dominus II, a 8 in d",
-265,SV 265,"Confitebor tibi domine I, a  8",
-266,SV 266,"Confitebor tibi domine II, a  3",
-267,SV 267,"Confitebor tibi domine III, a  5",
-267.1,SV 267a,"Confitebor tibi domine IIIa, a  1",
-268,SV 268,"Beatus vir I, a  6",
-269,SV 269,"Beatus vir II, a  5",
-270,SV 270,"Laudate pueri dominum I, a  5",
-271,SV 271,"Laudate pueri dominum II, a  5",
-272,SV 272,"Laudate dominum omnes gentes I, a  8",
-272.1,SV 272a,"Laudate dominum omnes gentes Ia, a  5",
-273,SV 273,Laudate dominum omnes gentes II,
-274,SV 274,Laudate dominum omnes gentes III,
+262,SV 262,Ab aeterno ordinata sum,Motet
+263,SV 263,"Dixit dominus I, a 8 in g",Psalm
+264,SV 264,"Dixit dominus II, a 8 in d",Psalm
+265,SV 265,"Confitebor tibi domine I, a  8",Psalm
+266,SV 266,"Confitebor tibi domine II, a  3",Psalm
+267,SV 267,"Confitebor tibi domine III, a  5",Psalm
+267.1,SV 267a,"Confitebor tibi domine IIIa, a  1",Psalm
+268,SV 268,"Beatus vir I, a  6",Psalm
+269,SV 269,"Beatus vir II, a  5",Psalm
+270,SV 270,"Laudate pueri dominum I, a  5",Psalm
+271,SV 271,"Laudate pueri dominum II, a  5",Psalm
+272,SV 272,"Laudate dominum omnes gentes I, a  8",Psalm
+272.1,SV 272a,"Laudate dominum omnes gentes Ia, a  5",Psalm
+273,SV 273,Laudate dominum omnes gentes II,Psalm
+274,SV 274,Laudate dominum omnes gentes III,Psalm
 275,SV 275,Credidi propter quod locutus sum,
 276,SV 276,Memento domine David,
-277,SV 277,Sanctorum meritis I,
-278,SV 278,Sanctorum meritis II,
-278.1,SV 278a,"Deus tuorum militum I, a  1",
-278.2,SV 278b,"Iste confessor I, a  1",
-279,SV 279,"Iste confessor II, a  2",
+277,SV 277,Sanctorum meritis I,Hymn
+278,SV 278,Sanctorum meritis II,Hymn
+278.1,SV 278a,"Deus tuorum militum I, a  1",Hymn
+278.2,SV 278b,"Iste confessor I, a  1",Hymn
+279,SV 279,"Iste confessor II, a  2",Hymn
 279.1,SV 279a,Ut queant laxis,
-280,SV 280,"Deus tuorum militum II, a  3",
-281,SV 281,"Magnificat I, a  6",
-282,SV 282,"Magnificat II, a  4",
-283,SV 283,Salve Regina I,
-284,SV 284,Salve Regina II,
-285,SV 285,Salve Regina III,
+280,SV 280,"Deus tuorum militum II, a  3",Hymn
+281,SV 281,"Magnificat I, a  6",Magnificat
+282,SV 282,"Magnificat II, a  4",Magnificat
+283,SV 283,Salve Regina I,Motet
+284,SV 284,Salve Regina II,Motet
+285,SV 285,Salve Regina III,Motet
 286,SV 286,Jubilet tota civitas,
-287,SV 287,Laudate dominum in sanctis eius,
+287,SV 287,Laudate dominum in sanctis eius,Motet
 288,SV 288,Pianto della Madonna,
 294,SV 294,Christe adoramus te,
-295,SV 295,Confitebor tibi domine a  4,
-296,SV 296,Confitebor tibi domine a  1,
+295,SV 295,Confitebor tibi domine a  4,Psalm
+296,SV 296,Confitebor tibi domine a  1,Psalm
 297,SV 297,"Currite populi, psallite timpanis",
 298,SV 298,Domine ne in furore tuo,
-299,SV 299,Ecce sacrum paratum convivium,
-299.1,SV 299a,Ecce sacrum paratum convivium,
+299,SV 299,Ecce sacrum paratum convivium,Motet
+299.1,SV 299a,Ecce sacrum paratum convivium,Motet
 300,SV 300,Ego dormio et cor meum vigilat,
 301,SV 301,Ego flos campi,
 302,SV 302,En gratulemur hodie,
@@ -301,25 +302,25 @@
 304,SV 304,Exultent caeli et gaudeant angeli,
 305,SV 305,Fuge anima mea mundum,
 307,SV 307,Gloria a  8,
-308,SV 308,L'Incoronazione di Poppea,
+308,SV 308,L'Incoronazione di Poppea,Opera
 309,SV 309,"Io ardo sì, ma'l foco è di tal sorte",
 310,SV 310,La mia Turca che d'Amor non ha fè,
-311,SV 311,Laudate pueri dominum a  6,
+311,SV 311,Laudate pueri dominum a  6,Psalm
 312,SV 312,O beatae viae,
 313,SV 313,"O bone Jesu, o piissime Jesu",
 314,SV 314,Occhi miei se mirar più non debb' io,
 315,SV 315,"O come vaghi, o come cari sono Lidia",
 316,SV 316,Ohimè ch'io cado,
 317,SV 317,O quam pulchra es amica mea,
-318,SV 318,L'Orfeo,
+318,SV 318,L'Orfeo,Opera
 320,SV 320,Perchè se m'odiavi,
 321,SV 321,Più lieto il guardo,
 322,SV 322,Prima vedrò ch'in questi prati nascano,
 324,SV 324,Quante son stelle in ciel,
-325,SV 325,Il Ritorno d'Ulisse in patria,
-326,SV 326,Salve o Regina,
-327,SV 327,Salve Regina,
-328,SV 328,Sancta Maria succurre miseris,
+325,SV 325,Il Ritorno d'Ulisse in patria,Opera
+326,SV 326,Salve o Regina,Motet
+327,SV 327,Salve Regina,Motet
+328,SV 328,Sancta Maria succurre miseris,Motet
 331,SV 331,Se non mi date aita,
 332,SV 332,Sì dolce è'l tormento,
 333,SV 333,Su le penne de' venti,
@@ -327,4 +328,4 @@
 335,SV 335,Venite sitientes ad aquas domini,
 336,SV 336,Venite videte martirem,
 337,SV 337,Voglio di vita uscir,
-999.1,SV A2,Lamento di Olimpia,
+999.2,SV A2,Lamento di Olimpia,

@@ -287,101 +287,401 @@ SORT,Opus,Title,Type,Key,,Instrumentation
 53 ,op. 53,Sonata “Waldstein” / “L’Aurore”,Sonata,C major,"1. Allegro con brio
 2. Introduzione. Adagio molto (fa majeur)
 3. Rondo. Allegretto moderato",Piano
-54 ,op. 54,,Sonata,F major,,Piano
-55 ,op. 55,Symphony No. 3 “Eroica”,Symphony,E-flat major,,Orchestra
-56 ,op. 56,Concerto “Triple Concerto”,Concerto,C major,,"Piano, Violin, Cello, Orchestra"
-57 ,op. 57,Sonata “Appassionata”,Sonata,F minor,,Piano
-58 ,op. 58,Concerto No. 4,Concerto,G major,,"Piano, Orchestra"
+54 ,op. 54,,Sonata,F major,"1. In tempo d'un Menuetto
+2. Allegretto",Piano
+55 ,op. 55,Symphony No. 3 “Eroica”,Symphony,E-flat major,"1. Allegro con brio
+2. Marcia funebre. Adagio assai (do mineur)
+3. Scherzo. Allegro vivace
+4. Allegro molto","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 3 cors, 2 trompettes, timbales, 2 violons, alto et basse"
+56 ,op. 56,Concerto “Triple Concerto”,Concerto,C major,"1. Allegro
+2. Largo (la bémol majeur)
+3. Rondo alla Polacca","Piano, Violin, Cello, flûte, 2 hautbois, 2 clarinettes, 2 cors, 2 bassons, trompette, timbales, 2 violons, alto et basse"
+57 ,op. 57,Sonata “Appassionata”,Sonata,F minor,"1. Allegro assai
+2. Andante con moto (ré bémol majeur)
+3. Allegro ma non troppo",Piano
+58 ,op. 58,Concerto No. 4,Concerto,G major,"1. Allegro moderato
+2. Andante con moto (mi mineur)
+3. Rondo. Vivace","Piano, flûte, 2 hautbois, 2 clarinettes, 2 cors, 2 bassons, trompette, timbales, 2 violons, alto, violoncelle et basse"
 59 ,op. 59,3 Quartets “Rasumowsky Quartets”,Quartet,,,"2 Violins, Viola, Cello"
-59 ,op. 59/1,3 Quartets “Rasumowsky Quartets” #1,Quartet,F major,,"2 Violins, Viola, Cello"
-59 ,op. 59/2,3 Quartets “Rasumowsky Quartets” #2,Quartet,E minor,,"2 Violins, Viola, Cello"
-59 ,op. 59/3,3 Quartets “Rasumowsky Quartets” #3,Quartet,C major,,"2 Violins, Viola, Cello"
-60 ,op. 60,Symphony No. 4,Symphony,B-flat major,,Orchestra
-61 ,op. 61,,Concerto,D major,,"Violin, Orchestra"
+59 ,op. 59/1,3 Quartets “Rasumowsky Quartets” #1,Quartet,F major,"1. Allegro
+2. Allegretto vivace e sempre scherzando (si bémol majeur)
+3. Adagio molto (fa mineur)
+4. Allegro","2 Violins, Viola, Cello"
+59 ,op. 59/2,3 Quartets “Rasumowsky Quartets” #2,Quartet,E minor,"1. Allegro
+2. Molto Adagio (mi majeur)
+3. Allegretto
+4. Presto","2 Violins, Viola, Cello"
+59 ,op. 59/3,3 Quartets “Rasumowsky Quartets” #3,Quartet,C major,"1. Introduzione. Andante con moto
+2. Allegro vivace
+3. Andante con moto quasi Allegretto (la mineur)
+4. Minuetto. Grazioso
+5. Allegro molto","2 Violins, Viola, Cello"
+60 ,op. 60,Symphony No. 4,Symphony,B-flat major,"1. Adagio / Allegro vivace
+2. Adagio (mi bémol majeur)
+3. Allegro vivace
+4. Allegro ma non troppo","flûte, 2 hautbois, 2 clarinettes, 2 cors, 2 bassons, trompette, timbales, 2 violons, alto, violoncelle et basse"
+61 ,op. 61,,Concerto,D major,"1. Allegro ma non troppo
+2. Larghetto (sol majeur)
+3. Rondo","Violin, flûte, 2 hautbois, 2 clarinettes, cor, basson, tompette, timbales, 2 violons, alto, violoncelle et basse"
 61 ,op. 61a,"transcription of the Concerto, op. 61",Concerto,D major,,"Piano, Orchestra"
-62 ,op. 62,Overture to “Coriolanus” by H. J. Von Collin,Overture,C minor,,
+62 ,op. 62,Overture to “Coriolanus” by H. J. Von Collin,Overture,C minor,Allegro con brio,"2 flûtes, 2 hautbois, 2 clarinettes, 2 cors, 2 bassons, trompette, timbales, 2 violons, alto, violoncelle et basse"
 63 ,op. 63,arrangement of the String Quintet op. 4,Trio,E-flat major,,"Piano, Violin, Cello"
 64 ,op. 64,Transcription of the Trio op. 3,Sonata,E-flat major,,"Piano, Cello"
-65 ,op. 65,"“Ah, Perfido!”",Aria,,,"Soprano, Orchestra"
-66 ,op. 66,12 Variations“Ein Mädchen oder Weibchen”,Keyboard Variation,F major,,"Piano, Cello"
-67 ,op. 67,Symphony No. 5,Symphony,C minor,,Orchestra
-68 ,op. 68,Symphony No. 6 “Pastoral”,Symphony,F major,,Orchestra
-69 ,op. 69,,Sonata,A major,,"Piano, Cello"
+65 ,op. 65,"“Ah, Perfido!”",Aria,,"1. Ah! perfido! Allegro con brio (sol majeur)
+2. Per pieta, non dirmi addio Arie - Adagio (mi bémol majeur)","Soprano, Orchestra"
+66 ,op. 66,"12 Variations on “Ein Mädchen oder Weibchen” from ""Die Zauberflote"" by Mozart",Keyboard Variation,F major,,"Piano, Cello"
+67 ,op. 67,Symphony No. 5,Symphony,C minor,"1. Allegro con brio
+2. Andante con moto (la bémol majeur)
+3. Allegro
+4. Allegro (do majeur)","2 flûtes, piccolo, 2 hautbois, 2 clarinettes, 2 bassons, contre-basson, 2 cors, 2 trompettes, 3 trombones, timbales, 2 violons, 2 altos, violoncelle, contre-basse"
+68 ,op. 68,Symphony No. 6 “Pastorale”,Symphony,F major,"1. Erwachen heiterer Empfindungen bei der Aukunft auf dem Lande
+Allegro ma non troppo
+2. Scene am Bach
+Andante molto moto (si bémol majeur)
+3. Lestiges Zusammensein der Landleute
+Allegro
+4. Gewitter. Sturm
+Allegro (fa mineur)
+5. Hirtengesang. Frohe und dankbare Gefuhle nach dem Sturm
+Allegretto","2 flûtes, piccolo, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 2 trombones, timbales, 2 violons, 2 altos, violoncelle et contre-basse"
+69 ,op. 69,,Sonata,A major,"1. Allegro ma non tanto
+2. Scherzo. Allegro molto (la mineur)
+3. Adagio cantabile (mi majeur)
+4. Allegro vivace","Piano, Cello"
 70 ,op. 70,2 Trios,Trio,,,"Piano, Violin, Cello"
-70 ,op. 70/1,2 Trios #1,Trio,D major,,
-70 ,op. 70/2,2 Trios #2,Trio,E-flat major,,
-71 ,op. 71,,Sextet,E-flat major,,"2 Clarinets, 2 Bassoons, 2 Horns"
-72 ,op. 72,Fidelio (3rd version),Opera,,,"Soloists, Choir, Orchestra"
-73 ,op. 73,Concerto No. 5 “Emperor”,Concerto,E-flat major,,"Piano, Orchestra"
-74 ,op. 74,Quartet “Harp Quartet”,Quartet,E-flat major,,"2 Violins, Viola, Cello"
+70 ,op. 70/1,2 Trios #1 “Ghost Trio”,Trio,D major,"1. Allegro vivace e con brio
+2. Largo assai (ré mineur)
+3. Presto",
+70 ,op. 70/2,2 Trios #2,Trio,E-flat major,"1. Poco sostenuto
+2. Allegro ma non troppo
+3. Allegretto (do majeur)
+4. Allegretto ma non troppo (la bémol majeur)
+5. Allegro",
+71 ,op. 71,,Sextet,E-flat major,"1. Adagio
+2. Allegro
+3. Adagio (si bémol majeur)
+4. Menuetto. Quasi Allegretto
+5. Rondo. ALlegro","2 Clarinets, 2 Bassoons, 2 Horns"
+72 ,op. 72a,Leonore (1st and 2nd version),Opera,,"0. Ouverture # 1, en do majeur, pour orchestre (Voir Op. 138)
+0. Ouverture # 2, en do majeur, pour orchestre (Adagio / Allegro)
+0. Ouverture # 3, en do majeur, pour orchestre (Adagio / Allegro)
+1. Air (Marzelline) Voir 72b # 2
+2. Duet (Marzelline, Jaquino) Voir 72b # 1
+3. Trio (Marzelline, Jaquino, Rocco): Ein Mann ist bald genommen
+Andante con moto e scherzando (mi bémol majeur)
+
+4. Quatuor (Marzelline, Leonore, Jaquino, Rocco) Voir 72b # 3
+5. Air (Rocco) Voir 72b # 4
+6. Trio (Marzelline, Leonore, Rocco) Voir 72b # 5
+7. Marche, Voir 72b # 6
+8. Air avec choeur (Pizarro) Voir 72b # 7
+9. Duet (Pizarro, Rocco) Voir 72b # 8
+10. Duet (Marzelline, Leonore): Um in der Ehe froh zu leben
+Allegretto (do majeur) avec violon solo et violoncelle obligé
+
+11. Récitatif et air (Leonore): Ach, brich noch nicht, du mattes Herz!
+Allegro (si mineur) / Adagio (mi majeur)
+
+12. Finale (Die Gefangenen, Marzelline, Leonore, Pizarro, Rocco): O Welche Lust!
+Allegretto con moto (si bémol majeur) / Maestoso (si bémol majeur)
+
+13. Introduction, récitatif et air (Florestan): Gott! welch Dunkel hier!
+Grave (fa mineur) / Adagio la bémol majeur)
+
+14. Duet (Leonore, Rocco): Non hurtig fort, nur frisch gegraben
+Andante con moto (la mineur)
+
+15. Trio (Leonore, Florestan, Rocco) Voir 72b # 13
+16. Quatuor (Leonore, Florestan, Pizarro, Rocco) Voir 72b # 14
+17. Duet (Leonore, Florestan): Ich kann mich noch nicht fassen
+Allegro ma non troppo (do majeur) / Récitatif / Allegro vivace (sol majeur)
+
+18. Finale (Marzelline, Jaquino, Fernando, Rocco et choeur): Wer ein holdes Weib errungen
+Allegro molto (do mineur) / Maestoso vivace (do majeur)
+
+Supplément (autre version de l'air # 1): O war' ich schon mit dir vereint
+Andante con moto (do majeur)","Soloists, Choir, Orchestra"
+72 ,op. 72b,Fidelio (3rd version),,,"0. Ouverture # 4, en mi majeur, pour orchestre (Allegro / Adagio)
+1. Duet (Marzelline, Jaquino): Jetzt, Schatzchen, jetzt sind wir allein
+Allegro (la majeur)
+
+2. Air (Marzelline): O war' ich schon mit dir vereint
+Andante con moto (do mineur)
+
+3. Quatuor (Marzelline, Leonore, Jaquino, Rocco): Mir ist so wunderbar
+Andante sostenuto (sol majeur)
+
+4. Air (Rocco): Hat man nicht auch Gold beineben
+Allegro moderato (si bémol majeur)
+
+5. Trio (Marzelline, Leonore, Rocco): Gut, Sohnchen, gut
+Allegro, ma non troppo (ré mineur)
+
+6. Marche pour orchestre
+Vivace (si bémol majeur)
+
+7. Air avec choeur (Pizarro): Ha! Ha!
+Allegro agitato (ré mineur)
+
+8. Duet (Pizarro, Rocco): Jetzt, Alter
+Allegro con brio (la majeur)
+
+9. Récitatif et air (Leonore): Abscheulilcher! wo eilst du hin? / Komm, Hoffnug, lass den letzten Stern
+Allegro agitato / Adagio (mi majeur)
+
+10. Finale (Die Gefangenen, Marzelline, LEonore, Jaquino, Pizarro, Rocco): O welche Lust!
+Allegro ma non troppo (si bémol majeur) / Allegretto vivace
+
+11. Introduction, récitatif et air (Florestan): Gott! welch Dunkel hier!
+Grave (fa mineur) / Adagio cantabile (la mineur)
+
+12. Mélodramme et duet (Leonore, Rocco): Nur hurtig fort, nur frisch gegraben
+Poco sostenuto (la mineur) / Andante con moto
+
+13. Trio (Leonore, Florestan, Rocco): Euch werde Lohn in
+Moderato (la majeur)
+
+14. Quatuor (Leonore, Florestan, Pizarro, Rocco): Er sterbe!
+Allegro (ré majeur)
+
+15. Duet (Leonore, Florestan): O namenlose Freude!
+Allegro vivace (sol majeur)
+
+16. Finale (Die Gefangenen, Volk, Leonore, Marzelline, Florestan, Rocco, Pizarro, Fernando): Heil! Heil sei dem Tag
+Allegro vivace (do majeur) / Allegro ma non troppo)",
+73 ,op. 73,Concerto No. 5 “Emperor”,Concerto,E-flat major,"1. Allegro
+2. Adagio un poco mosso (si majeur)
+3. Rondo. Allegro","Piano, 2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 4 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et contre-basse"
+74 ,op. 74,Quartet “Harp”,Quartet,E-flat major,"1. Poco Adagio
+2. Allegro (do majeur)
+3. Adagio ma non troppo (la bémol majeur)
+4. Presto (do mineur)
+5. Allegretto con variazioni","2 Violins, Viola, Cello"
 75 ,op. 75,6 Lieder/Gesänge,Lied,,,"Voice, Piano"
 76 ,op. 76,6 Variations on an Original Theme,Keyboard Variation,D major,,Piano
 77 ,op. 77,Fantasia,Fantasia,G minor,,Piano
-78 ,op. 78,,Sonata,F-sharp major,,Piano
-79 ,op. 79,Sonata “Sonatina”,Sonata,G major,,Piano
-80 ,op. 80,Choral Fantasy,Fantasia,C minor,,"Piano, Choir, Orchestra"
-81 ,op. 81a,Sonata “Les Adieux”,Sonata,B-flat major,,Piano
-81 ,op. 81b,,Sextet,E-flat major,,"2 Horns, 2 Violins, Viola, Cello"
+78 ,op. 78,,Sonata,F-sharp major,"1. Adagio cantabile
+2. Allegro ma non troppo (do majeur)
+3. Allegro assai",Piano
+79 ,op. 79,Sonata “Sonatina”,Sonata,G major,"1. Presto alla tedesca
+2. Andante espressivo (sol mineur)
+3. Vivace",Piano
+80 ,op. 80,Choral Fantasy,Fantasia,C minor,"1. Adagio / Allegro
+2. Meno Allegro (do majeur
+3. Allegretto ma non troppo (do majeur) Choeur: Schmeichelnd hold","Piano, Choir, Orchestra"
+81 ,op. 81a,Sonata “Les Adieux”,Sonata,B-flat major,"1. Das Lebewohl [Adagio / Allegro]
+2. Die Abwesenheit [In gehender Bewegung] (do mineur)
+3. Das Wiedersehn [Im lebhaftesten Zeitmasse]",Piano
+81 ,op. 81b,,Sextet,E-flat major,"1. Allegro con brio
+2. Adagio (la bémol majeur)
+3. Rondo. Allegro","2 Horns, 2 Violins, Viola, Cello"
 82 ,op. 82,4 Ariettes and a Duet,Aria,,,"Voice, Piano"
 83 ,op. 83,3 Songs on Texts by Goethe,Lied,,,"Voice, Piano"
-84 ,op. 84,Egmont,Incidental Music,,,
-85 ,op. 85,Christ on the Mount of Olives,Oratorio,,,"Soloists, Choir, Orchestra"
-86 ,op. 86,,Mass,C major,,"Soloists, Choir, Orchestra"
-87 ,op. 87,,Trio,C major,,2 Oboes and English Horn
-88 ,op. 88,Das Glück der Freundschaft,Lied,,,"Voice, Piano"
-89 ,op. 89,Polonaise,Dance,C major,,Piano
-90 ,op. 90,,Sonata,E minor,,Piano
-91 ,op. 91,"Wellington’s Victory, or the Battle of Vitoria",,,,Orchestra
-92 ,op. 92,Symphony No. 7,Symphony,A major,,Orchestra
-93 ,op. 93,Symphony No. 8,Symphony,F major,,Orchestra
-94 ,op. 94,“An Die Hoffnung”,Lied,,,"Voice, Piano"
-95 ,op. 95,String Quartet “Serioso”,Quartet,F minor,,"2 Violins, Viola, Cello"
-96 ,op. 96,,Sonata,G major,,"Piano, Violin"
-97 ,op. 97,Trio “Archduke”,Trio,B-flat major,,"Piano, Violin, Cello"
+84 ,op. 84,Egmont,Incidental Music,,"0. Ouverture, en fa mineur, pour orchestre
+Sostenuto, ma non troppo / Allegro
+
+1. Lied: Die Trommel geruhret (Vivace, fa mineur)
+2. Entracte I: Andante (mi majeur)
+3. Entracte II: Larghetto (mi bémol majeur)
+4. Lied: Freudvoll und liedvoll, gedankenvoll sein (Andante con moto, la majeur)
+5. Entracte III: Allegro (do majeur)
+6. Entracte IV: Poco sostenuto e risoluto (mi bémol majeur)
+7. Mort de Clarchen: Larghetto (ré mineur)
+8. Mélodrame: Poco sostenuto (mi bémol majeur)
+9. Symphonie de la victoire: Allegro con brio (fa majeur)",
+85 ,op. 85,Christus am Oelberge,Oratorio,,"1. Introduction, récitatif et air (Jésus): Jehovah, du mein Vater / Meine Seele ist erschuttert
+Grave (mi bémol mineur) / Adagio (do majeur) / Récitatif / Allegro (do majeur)
+
+2. Récitatif et air (Séraphin): Erzittre Erde! / Preist des Erlosers Gute / O Heil euch!
+Récitatif / Larghetto (sol majeur) / Allegro (sol majeur) avec le choeur des anges
+
+3. Récitatif et duo (Jésus, Séraphin): Verkundet, Seraph, mir dein Mund / So ruhe denn mit ganzer Schwere
+Récitatif / Adagio molto (la bémol majeur)
+
+4. Récitatif (Jésus): Willkommen Tod / Wir haben ihn gesehen
+
+5. Récitatif (Jésus): Die mich zu fangen ausgezogen sind / Hier ist er, der Verbannte
+L'istesso tempo della marcia / Allegro molto (ré majeur) avec le choeur des guerriers et des jeunes
+
+6a. Récitatif (Pierre, Jésus): Nicht ungestraft soll der Verwegnen Schaar
+Récitatif
+
+6b. Trio (Séraphin, Jésus, Pierre avec choeur): In meinen Adern wuhlen
+(en si bémol majeur)
+
+6c. Choeur des anges: Welten singen
+Maestoso (do majeur)","Soloists, Choir, Orchestra"
+86 ,op. 86,,Mass,C major,"1. Kyrie, en do majeur (Andante con moto assai vivace)
+2. Gloria, en do majeur (Allegro con brio)
+3. Credo, en do majeur (Allegro con brio)
+4. Sanctus, en la majeur (Adagio)
+5. Benedictus, en fa majeur (Allegretto ma non troppo)
+6. Agnus Dei, en do mineur (Poco Andante)","Soloists, Choir, Orchestra"
+87 ,op. 87,,Trio,C major,"1. Allegro
+2. Adagio (fa majeur)
+3. Menuetto. Allegro Molto. Scherzo
+4. Presto",2 Oboes and English Horn
+88 ,op. 88,Das Glück der Freundschaft,Lied,,Andante quasi allegretto,"Voice, Piano"
+89 ,op. 89,Polonaise,Dance,C major,"Alla Polacca, vivace",Piano
+90 ,op. 90,,Sonata,E minor,"1. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck
+2. Nicht zu geschwind und seht singbar vorzutragen (mi majeur)",Piano
+91 ,op. 91,"Wellingtons Sieg, oder Die Schlacht bei Vittoria",,,"1. Abtheilung. Marcia: Rule Britania (mi bémol majeur)
+2. Abtheilung. Marcia: Marlborough (do majeur)
+3. Schlacht. Allegro (si majeur)
+4. Sieges Symphonie. Intrada. Allegro ma non troppo (ré majeur)
+5. Sieges Symphonie. Allegro con brio (do majeur)","piccolo, flûte, hautbois, clarinette, basson, contre-basson, cor, trompette, trombone, tymbale"
+92 ,op. 92,Symphony No. 7,Symphony,A major,"1. Poco sostenuto / Vivace
+2. Allegretto (la mineur)
+3. Presto (fa majeur)
+4. Allegro con brio","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, 2 timbales, 2 violons, alto, violoncelle et basse"
+93 ,op. 93,Symphony No. 8,Symphony,F major,"1. Allegro vivace e con brio
+2. Allegro scherzando (si bémol majeur)
+3. Tempo di Menuetto
+4. Allegro vivace","2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, 2 cors, 2 trompettes, timbales, 2 violons, alto, violoncelle et basse"
+94 ,op. 94,“An Die Hoffnung”,Lied,,"1. Ob ein Gott sei? Poco sostenuto
+2. Die du so gern in heil'gen Nachten feierst Larghetto (sol majeur)","Voice, Piano"
+95 ,op. 95,String Quartet “Serioso”,Quartet,F minor,"1. Allegro con brio
+2. Allegretto ma non troppo (ré majeur)
+3. Allegro assai vivace, ma serioso
+4. Larghetto espressivo
+5. Allegretto agitato","2 Violins, Viola, Cello"
+96 ,op. 96,,Sonata,G major,"1. Allegro moderato
+2. Adagio espressivo (do mineur)
+3. Scherzo. Allegro (sol mineur)
+4. Poco Allegretto","Piano, Violin"
+97 ,op. 97,Trio “Archduke”,Trio,B-flat major,"1. Allegro moderato
+2. Scherzo. Allegro
+3. Andante cantabile me pero con moto (ré majeur)
+4. Allegro moderato","Piano, Violin, Cello"
 98 ,op. 98,“An Die Ferne Geliebte” (Liederkreis),Lied,,,"Voice, Piano"
 99 ,op. 99,Der Mann von Wort,Lied,,,"Voice, Piano"
-100 ,op. 100,Merkenstein,Lied,,,"2 Voices, Piano"
-101 ,op. 101,,Sonata,A major,,Piano
+100 ,op. 100,Merkenstein,Lied,,"Massig, jedoch nicht schleppend","2 Voices, Piano"
+101 ,op. 101,,Sonata,A major,"1. Etwas lebhaft, und mit der innigsten Empfindung
+2. Lebhaft, marschmassig (fa majeur)
+3. Langsam und sehnsuchtsvoll (la mineur)
+4. Geschwind, doch nicht zu sehr und mit Entschlossenheit",Piano
 102 ,op. 102,2 Sonatas,Sonata,,,"Piano, Cello"
-102 ,op. 102/1,2 Sonatas #1,Sonata,C major,,
-102 ,op. 102/2,2 Sonatas #2,Sonata,D major,,
-103 ,op. 103,,Octet,E-flat major,,Winds
+102 ,op. 102/1,2 Sonatas #1,Sonata,C major,"1. Andante
+2. Allegro vivace
+3. Adagio (sol majeur)
+4. Allegro vivace",
+102 ,op. 102/2,2 Sonatas #2,Sonata,D major,"1. Allegro con brio
+2. Adagio (ré mineur)
+3. Allegro
+4. Allegro fugato",
+103 ,op. 103,,Octet,E-flat major,,"2 hautbois, 2 clarinettes, 2 cors et 2 bassons"
+103 ,op. 103a,,Quintet,E-flat major,,"2 Violins, 2 Violas, Cello"
 104 ,op. 104,,Quintet,C minor,,"2 Violins, 2 Violas, Cello"
 105 ,op. 105,6 Varied Themes,Keyboard Variation,,,Piano with Optional Flute or Violin
-106 ,op. 106,Piano Sonata “Hammerklavier”,Sonata,B-flat major,,Piano
+106 ,op. 106,Piano Sonata “Hammerklavier”,Sonata,B-flat major,"1. Allegro
+2. Scherzo. Assai vivace
+3. Adagio sostenuto. Appasionato e con molto sentimento (la majeur)
+4. Largo (fa majeur)
+5. Allegro risoluto",Piano
 107 ,op. 107,10 Varied Themes,Keyboard Variation,,,Piano with Optional Flute or Violin
 108 ,op. 108,25 “Schottische Lieder”,Lied,,,"Voice(s), Piano, Violin, Cello"
-109 ,op. 109,,Sonata,E major,,Piano
-110 ,op. 110,,Sonata,A-flat major,,Piano
-111 ,op. 111,,Sonata,C minor,,Piano
-112 ,op. 112,Meeresstille und glückliche Fahrt,,,,"Choir, Orchestra"
-113 ,op. 113,The Ruins of Athens,Overture,,,
+109 ,op. 109,,Sonata,E major,"1. Vivace, ma non troppo
+2. Prestissimo (mi mineur)
+3. Andante con variazioni. Gesangvoll, mit innigster Empfindung",Piano
+110 ,op. 110,,Sonata,A-flat major,"1. Moderato cantabile, molto espressivo
+2. Allegro molto (fa mineur)
+3. Adagio, ma non troppo (si bémol mineur)
+4. Fuga. Allegro, ma non troppo",Piano
+111 ,op. 111,,Sonata,C minor,"1. Maestoso
+2. Allegro con brio ed appassionato
+3. Arietta. Adagio molto semplice cantabile (do majeur)",Piano
+112 ,op. 112,Meeresstille und glückliche Fahrt,,,"1. Meeresstille: Tiefe Stille
+Sostenuto (ré majeur)
+2. Gluckliche Fahrt: Die Nebel zerreissen
+Allegro vivace (ré majeur)","Choir, Orchestra"
+113 ,op. 113,Die Ruinen von Athen,Overture,,"0. Ouverture. Andante con moto (sol mineur) / Allegro, ma non troppo (sol majeur)
+1. Choeur: Tochter des machtigen Zeus (Andante poco sostenuto - mi bémol majeur)
+2. Duet (un grec et une grecque): Ohne Verschulden Knechtschaft dulden (Andante con moto / Poco piu mosso - sol mineur)
+3. Choeur des Derwische: Du hast in deines Aermels Felten (Allegro, ma non troppo - sol majeur)
+4. Marcia alla turca (Vivace - si bémol majeur)
+5. Musique d'arrière scène (Allegro assai ma non troppo - do majeur)
+6. Marche avec choeur: Schmuckt die Altare (Assai moderato - mi bémol majeur)
+7a. Récitatif (grand-prêtre): Mit reger Freude
+7b. Choeur: Wir tragen empfangliche Herzen im Busen (Allegretto ma non troppo - sol majeur)
+7c. Aria (grand-prêtre): Will unser Genius noch einen Wunsch gewahren? (Adagio - do majeur)
+7d. Aria (grand-prêtre avec choeur): Er ist's! Wir sind erhort! (Allegro con brio - do majeur)
+8. Choeur: Heil unserm Konig! (Allegro con fuoco - la majeur)",
 114 ,op. 114,March with Chorus from “Die Ruinen von Athen”,March,E-flat major,,
-115 ,op. 115,Overture “Zur Namensfeier”,Overture,C major,,
+115 ,op. 115,Overture “Zur Namensfeier”,Overture,C major,"1. Maestoso
+2. Allegro assai vivace",
 116 ,op. 116,"“Tremate, Empi, Tremate”",Terzett,,,"Soprano, Tenor, Bass, Orchestra"
-117 ,op. 117,König Stephan,Incidental Music,,,
-118 ,op. 118,Elegiac Song “Sanft Wie Du Lebtest”,Lied,,,"4 Voices, 2 Violins, Viola, Cello"
-119 ,op. 119,11 Bagatelles,Bagatelle,,,Piano
-120 ,op. 120,33 Variations on a Waltz by Diabelli,Keyboard Variation,C major,,
-121 ,op. 121a,10 Variations on “Ich Bin Der Schneider Kakadu”,Keyboard Variation,D major,,"Piano, Violin, Cello"
-121 ,op. 121b,“Opferlied” (4th version),Lied,,,"Soloists, Choir, Orchestra"
-122 ,op. 122,“Bundeslied”,Lied,,,"Soloists, Four‐Part Choir, Orchestra"
-123 ,op. 123,“Missa Solemnis”,Mass,,,"Soloists, Choir, Orchestra, Organ"
-124 ,op. 124,Overture “Die Weihe Des Hauses”,Overture,C major,,
-125 ,op. 125,Symphony No. 9 “Choral”,Symphony,D minor,,Orchestra
+117 ,op. 117,König Stephan,Incidental Music,,"0. Ouverture. Andante con moto / Presto (mi bémol majeur)
+1. Choeur des hommes: Ruhend von seinen Thaten (Andante maestoso e con moto - do majeur)
+2. Choeur des hommes: Auf dunkelm in finstern Hainen Wandelten (Allegro con brio - do mineur)
+3. Siegesmarsch (Feurig und stolz - sol majeur)
+4. Choeur des femmes: Wo die Unschuld Blumen streute (Andante con moto all'Ongarese - la majeur)
+5. Mélodramme (Stéphan): Du hast dein Vaterland
+6. Choeur: Eine neue strahlende Sonne (Vivace - fa majeur)
+7. Mélodramme (Stéphan): Ihr edlen Ungarn! (Maestoso con moto - ré majeur)
+8a. Geistlicher Marsch (Moderato - si bémol majeur)
+8b. Mélodramme avec choeur: Heil unserm Konige! (Allegro vivace e con brio - si bémol majeur)
+9. Schlusschor: Heil! Heil unserm Enkeln (Presto - ré majeur)",
+118 ,op. 118,Elegiac Song “Sanft wir du lebtest”,Lied,,Langsam und sanft,"4 Voices, 2 Violins, Viola, Cello"
+119 ,op. 119,12 Bagatelles,Bagatelle,,,Piano
+120 ,op. 120,33 Variations on a Waltz by Diabelli,Keyboard Variation,C major,Vivace,
+121 ,op. 121a,10 Variations on “Ich Bin Der Schneider Kakadu”,Keyboard Variation,D major,"1. Introduzione. Adagio assai (sol mineur)
+2. Tema. Allegretto","Piano, Violin, Cello"
+121 ,op. 121b,"Opferlied: Die Flamme lodert, milder Schein",Lied,,"Mit innigem andachtigem Gefuhl, in ziemlich langsamer Bewegung","Soloists, Choir, Orchestra"
+122 ,op. 122,Bundeslied: In allen guten Stunden,Lied,,In rascher geschwinder Bewegung,"Soloists, Four‐Part Choir, Orchestra"
+123 ,op. 123,“Missa Solemnis”,Mass,,"1. Kyrie, en ré majeur (Assai sostenuto. Mit Andacht)
+2. Gloria, en ré majeur (Allegro vivace)
+3. Credo, en sol mineur (Allegro, ma non troppo)
+4. Sanctus, en ré majeur (Adagio. Mit Andacht)
+5. Prélude, en sol majeur (Sostenuto, ma non troppo)
+6. Benedictus, en sol majeur (Andante molto cantabile)
+7. Agnus Dei, en ré majeur (Adagio)","Soloists, Choir, Orchestra, Organ"
+124 ,op. 124,Overture “Die Weihe des Hauses”,Overture,C major,"1. Maestoso e sostenuto
+2. Allegro con brio","2 flûtes, 2 clarinettes, 2 hautbois, 2 bassons, 4 cors, 2 trompettes, 3 trombones, timbales, 2 violons, alto, violoncelle et basse"
+125 ,op. 125,Symphony No. 9 “Choral”,Symphony,D minor,"1. Allegro ma non troppo, un poco maestoso
+2.Molto vivace
+3.Adagio molto e cantabile (si bémol majeur) / Presto (fa majeur)
+4a. Allegro assai (ré majeur)
+4b. Récitatif pour baryton: O Freunde, nicht diese Tone (fa majeur)
+4c. Choeur: Freude, schoner Gotterfunken (Allegro assai - ré majeur)","soloists, choir, 2 flûtes, 2 hautbois, 2 clarinettes, 2 bassons, contre-basson, 4 cors, 2 trompettes, 3 trombones, timbales, triangle, cymbale, 2 violons, alto, violoncelle et basse"
 126 ,op. 126,6 Bagatelles,Bagatelle,,,Piano
-127 ,op. 127,,Quartet,E-flat major,,"2 Violins, Viola, Cello"
-128 ,op. 128,“Der Kuss”: “Ich War Bei Chloen Ganz Allein”,Lied,,,"Voice, Piano"
-129 ,op. 129,"Rondo a Capriccio “Alla Ingharese, Quasi un Capriccio”",Rondo,G major,,Piano
-130 ,op. 130,,Quartet,B-flat major,,"2 Violins, Viola, Cello"
-131 ,op. 131,,Quartet,,,"2 Violins, Viola, Cello"
-132 ,op. 132,,Quartet,A minor,,"2 Violins, Viola, Cello"
-133 ,op. 133,“Grosse Fuge”,Quartet,B-flat major,,String Quartet
+127 ,op. 127,,Quartet,E-flat major,"1. Maestoso
+2. Allegro teneramente (do majeur)
+3. Adagio, ma non troppo e molto cantabile (la bémol majeur)
+4. Scherzando vivace
+5. Allegro","2 Violins, Viola, Cello"
+128 ,op. 128,“Der Kuss”: “Ich War Bei Chloen Ganz Allein”,Lied,,"Mit Lebhaftigkeit, jedoch nicht in geschwindem Zeitmasse, und scherzend vorgetragen","Voice, Piano"
+129 ,op. 129,"Rondo a Capriccio “Alla Ingharese, Quasi un Capriccio”",Rondo,G major,Allegro vivace,Piano
+130 ,op. 130,,Quartet,B-flat major,"1. Adagio ma non troppo
+2. Allegro
+3. Presto (ré bémol majeur)
+4. Andante con moto ma non troppo. Poco scherzando (si bémol mineur)
+5. Alla danza tedesca. Allegro assai (sol majeur)
+6. Cavatine. Adagio molto espressivo (mi bémol majeur)
+7. Allegro","2 Violins, Viola, Cello"
+131 ,op. 131,,Quartet,,"1. Adagio ma non troppo e molto espressivo
+2. Allegro molto vivace (ré majeur)
+3. Allegro moderato (fa dièse mineur)
+4. Andante ma non troppo e molto cantabile (la majeur)
+5. Presto
+6. Adagio quasi un poco andante (sol dièse mineur)
+7. Allegro","2 Violins, Viola, Cello"
+132 ,op. 132,,Quartet,A minor,"1. Assai sostenuto
+2. Allegro
+3. Allegro ma non tanto (la majeur)
+4. Canzona di ringraziamento in modo lidico, offerta alla divinita da un guarito. Molto Adagio
+5. Alla marcia,assai vivace (la majeur)
+6. Allegro appassionato","2 Violins, Viola, Cello"
+133 ,op. 133,“Grosse Fuge”,Quartet,B-flat major,"1. Ouverture. Allegro (sol majeur)
+2. Allegro / Fugue",String Quartet
 134 ,op. 134,"reduction of the Great Fugue, op. 133",Fugue,B-flat major,,Piano Four Hands
-135 ,op. 135,,Quartet,F major,,"2 Violins, Viola, Cello"
+135 ,op. 135,,Quartet,F major,"1. Allegretto
+2. Vivace
+3. Lento assai, cantante e tranquillo (ré bémol majeur)
+4. Grave ma non troppo tratto (fa mineur)
+5. Allegro","2 Violins, Viola, Cello"
 136 ,op. 136,Der Glorreiche Augenblick,Cantata,,,"Soloists, Choir, Orchestra"
-137 ,op. 137,Fugue,Quintet,D major,,"2 Violins, 2 Violas, Cello"
-138 ,op. 138,Overture No. 1 “Fidelio (Leonora)”,Overture,D major,,
+137 ,op. 137,Fugue,Quintet,D major,Allegretto,"2 Violins, 2 Violas, Cello"
+138 ,op. 138,Overture No. 1 “Fidelio (Leonora)”,Overture,D major,Andante con moto; Allegro con brio,
 999 ,WoO 1,Musik zu einem Ritterballet,Ballet,,"1. Marsch (ré majeur)
 2. Deutscher Gesang. Allegro moderato (ré majeur)
 3. Jagdlied. Allegretto (ré majeur)
@@ -471,9 +771,15 @@ SORT,Opus,Title,Type,Key,,Instrumentation
 999 ,WoO 45,12 Variations on Handel’s Judas Maccabaeus,Keyboard Variation,G major,,"Piano, Cello"
 999 ,WoO 46,"7 Variations on “Bei Männern, welche Liebe fühlen”",Keyboard Variation,E-flat major,,"Piano, Cello"
 999 ,WoO 47,3 Piano Sonatas,Sonata,,,
-999 ,WoO 47/1,3 Piano Sonatas #1,Sonata,E-flat major,,
-999 ,WoO 47/2,3 Piano Sonatas #2,Sonata,F minor,,
-999 ,WoO 47/3,3 Piano Sonatas #3,Sonata,D major,,
+999 ,WoO 47/1,3 Piano Sonatas #1,Sonata,E-flat major,"1. Allegro cantabile
+2. Andante (si bémol majeur)
+3. Rondo. Vivace",
+999 ,WoO 47/2,3 Piano Sonatas #2,Sonata,F minor,"1. Larghetto maestoso / Allegro assai
+2. Andante (la bémol majeur)
+3. Presto",
+999 ,WoO 47/3,3 Piano Sonatas #3,Sonata,D major,"1. Allegro
+2. Menuetto. Sostenuto (la majeur)
+3. Scherzando. Allegro, ma non troppo",
 999 ,WoO 48,Rondo,Rondo,C major,,
 999 ,WoO 49,Rondo,Rondo,A major,,
 999 ,WoO 50,2 Movements of a Sonatina,Sonata,F major,,Piano
@@ -516,8 +822,8 @@ SORT,Opus,Title,Type,Key,,Instrumentation
 999 ,WoO 86,Ecossaise,Dance,E-flat major,,Piano
 999 ,WoO 87,Cantata on the Death of Emperor Joseph II,Cantata,,,"soloists, choir and orchestra"
 999 ,WoO 88,Cantata on the Elevation of Leopold II to the Imperial Throne,Cantata,,,"soloists, choir and orchestra"
-999 ,WoO 89,2 Arias #1,Aria,,,"Bass, Orchestra"
-999 ,WoO 90,2 Arias #2,Aria,,,"Bass, Orchestra"
+999 ,WoO 89,Prufung des Kussens: Meine weise Mutter spricht,Aria,,,"Bass, Orchestra"
+999 ,WoO 90,Mit Madeln sich vertragen: Mit Madeln sich vertragen,Aria,,,"Bass, Orchestra"
 999 ,WoO 91,2 Arias for the Singspiel “Die schöne Schusterin” by Umlauf,Aria,,,voice and orchestra
 999 ,WoO 92,"“Primo amore, piacere del ciel”",Aria,,,soprano and orchestra
 999 ,WoO 92a,"No, non turbarti",Aria,,,soprano and string orchestra
@@ -546,8 +852,13 @@ SORT,Opus,Title,Type,Key,,Instrumentation
 999 ,WoO 115,An Minna: Nur bei dir…,Lied,,,"Voice, Piano"
 999 ,WoO 116,Que le temps me dure (2 sketches in c and C),Lied,,,"Voice, Piano"
 999 ,WoO 117,Der freie Mann,Lied,,,"Choir in unison, Voice and Piano"
-999 ,WoO 118,Seufzer einer umgeliebten und gegenliebe,Lied,,,"Voice, Piano"
-999 ,WoO 119,"O care selve, Canzonetta",Lied,,,Unison Choir with Solo response and Piano
+999 ,WoO 118,Seufzer einer umgeliebten und gegenliebe,Lied,,"1. Récitatif: Hast du nicht Liebe zugemessen
+Moderato (do mineur))
+2. Wo lebte wohl in Forst und Hurde
+Andantino (mi bémol majeur)
+3. Wusst ich, dass du mich
+Allegretto (do majeur)","Voice, Piano"
+999 ,WoO 119,"O care selve, Canzonetta",Lied,,Allegretto,Unison Choir with Solo response and Piano
 999 ,WoO 120,Man strebt die Flamme zu verhehlen,Lied,,,"Voice, Piano"
 999 ,WoO 121,Abschiedsgesang an Wiens Bürger,Lied,,,"Voice, Choir, Piano"
 999 ,WoO 122,Kriegslied der Österreicher,Lied,,,Voice (with Unison Choral Refrain) and Piano

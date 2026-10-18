@@ -1,0 +1,753 @@
+SORT,Catalogue,Opus,Czech Title,Title,Type,Key,Workparts,Instrumentation
+1,B1,,Polka Pomněnka,Forget-me-not Polka,,,,
+2,B2,,Mše B dur,Mass in B flat major,Mass,Bb major,,
+3,B3,,Polka,Polka,Dance,E major,,
+4,B4,,Polka Harfenice,"""The Woman Harpist"" Polka",Dance,,,
+5,B5,,Polka,Polka,Dance,,,
+6,B6,,Kvapík,Gallop,Dance,,,
+7,B7,op. 1,Smyčcový kvintet č. 1,String Quintet No. 1,Quintet,A minor,"1. Adagio. Allegro ma non troppo
+2. Lento
+3. Finale. Allegro con brio",
+8,B8,op. 2,Smyčcový kvartet č. 1,String Quartet No. 1,Quartet,A major,"1. Andante. Allegro
+2. Adagio affettuoso ed appassionato
+3. Allegro scherzando
+4. Allegro animato",
+9,B9,,Symfonie č. 1 „Zlonické zvony“,"Symphony No. 1 ""The Bells of Zlonice""",Symphony,C minor,"1. (Allegro)
+2. Adagio di molto
+3. Allegretto
+4. Finale. Allegro animato","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, violins, violas, cellos, double basses"
+10,B10,,Koncert pro violoncello a klavír,Concerto for Cello and Piano,Concerto,A major,"1. Andante (att.)
+2. Andante cantabile (att.)
+3. Allegro risoluto",
+11,B11,,Cypřiše,Cypresses,Song-cycle,,"1. Vy vroucí písně spějte
+2. V té sladké moci očí tvých
+3. V tak mnohém srdci mrtvo jest
+4. Ó duše drahá jedinká
+5. Ó byl to krásný zlatý sen
+6. Já vím, že v sladké naději
+7. Ó zlatá růže spanilá
+8. Ó naší lásce nekvete
+9. Kol domu se teď potácím
+10. Mne často týrá pochyba
+11. Mé srdce často v bolesti
+12. Zde hledím na ten drahý list
+13. Na horách ticho
+14. Zde v lese u potoka
+15. Mou celou duší
+16. Tam stojí stará skála
+17. Nad krajem vévodí lehký spánek
+18. Ty se ptáš, proč moje zpěvy",
+12,B12,op. 4,Symfonie č. 2,Symphony No. 2,Symphony,Bb major,"1. Allegro con moto
+2. Poco Adagio
+3. Scherzo. Allegro con brio
+4. Finale. Allegro con fuoco","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, violins, violas, cellos, double basses"
+13,B13,,Dvě písně pro baryton,2 Songs for Baritone,Song,,"1. Kdybys, milé děvče, sedalo na trůnu
+2. A kdybys písní stvořená",
+14,B14,,Kvintet s klarinetem,Clarinet Quintet,Quintet,Bb minor,,
+15,B15,,Sedm skladeb pro malý orchestr (Meziaktní skladby),7 Pieces for Small Orchestra (Interludes),,,"1. Capriccio (Allegro risouluto)
+2. (Andante sostenuto)
+3. Con molta espressione
+4. Allegro con brio
+5. (Allegro assai)
+6. Serenade
+7. Allegro animato","1 flute, 1 oboe, 1 clarinet, 1 bassoon, 2 horns, 2 trumpets, timpani, violins, violas, cellos, double basses"
+15.9,B15bis,,"Serenáda pro flétnu, housle, violu a triangl","Serenade for Flute, Violin, Viola and Triangle",Serenade,,,
+16,B16,,Alfred,Alfred,Opera,,"1. dějství: Tábor Dánů
+2. dějství: Pustá lesní krajina
+3. dějství: Skalnaté místo v lese","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, cymbals, bass drum, harp, violins, violas, cellos, double basses + mixed choir + soloists"
+16.1,B16a,,Tragická ouvertura/Dramatická ouvertura,Tragic Overture/Dramatic Overture,Overture,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses"
+17,B17,,Smyčcový kvartet č. 2,String Quartet No. 2,Quartet,Bb major,"1. Allegro ma non troppo
+2. Largo
+3. Allegro con brio
+4. Finale: Andante – Allegro giusto – Allegro con fuoco",
+18,B18,,Smyčcový kvartet č. 3,String Quartet No. 3,Quartet,D major,"1. Allegro con brio
+2. Andantino
+3. Allegro energico. Trio
+4. Finale. Allegretto",
+19,B19,,Smyčcový kvartet č. 4,String Quartet No. 4,Quartet,E minor,"1. Velmi pohyblivě a rázně (Assai con moto ed energico)
+2. Andante religioso
+(3. Allegro con brio)",
+20,B20,,Sonáta f moll pro violoncello a klavír,Sonata for Cello and Piano,Sonata,F minor,"I. Allegro molto
+II. Andante maestoso
+III. Allegro molto",
+21,B21,,Král a uhlíř – 1. zhudebnění,"King and Collier, 1st setting",,,"1. dějství: Palouk v lese
+2. dějství. Lesnatá krajina
+3. dějství: Sál na hradě pražském","2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, harp, violins, violas, cellos, double basses + mixed choir + soloists"
+21.1,B21a,,koncertní ouvertura,Overture in F major,Overture,F major,,
+22,B22,,Motivy z opery Král a uhlíř,Potpourri from the Opera King and Charcoal Burner,,,,
+23,B23,,Písně na slova Elišky Krásnohorské,Songs on Words by Eliška Krásnohorská,Song,,"1. Lípy
+2. Proto
+3. Překážky
+4. Přemítání
+5. Vzpomínání",
+24,B24,op. 5,Sirotek,The Orphan,Ballade,,,
+24.1,B24a,,Rozmarýna,Rosmarine,Song,,,
+25,B25,,Dvě klavírní tria #1,2 Piano Trios #1,Trio,,,
+26,B26,,Dvě klavírní tria #2,2 Piano Trios #2,Trio,,,
+27,B27,,Hymnus z básně Dědicové Bílé hory,"Hymn ""The Heirs of White Mountain"", 1st version",,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 1 trombone, timpani, violins, violas, cellos, double basses + mixed choir"
+28,B28,op. 5,Klavírní kvintet č. 1,Piano Quintet No. 1,Quartet,A major,"1. Allegro ma non troppo
+2. Andante sostenuto
+3. Finale. Allegro con brio",
+29,B29,op. 6,Čtyři písně na slova srbské lidové poezie,4 Songs on the Words of Serbian Folk Poems,,,"1. Panenka a tráva
+2. Připamatování
+3. Výklad znamení
+4. Lásce neujdeš",
+30,B30,op. 7,Písně na slova z Rukopisu královédvorského,Songs on the Words of the Dvůr Králové Manuscript,Song,,"1. Zezhulice
+2. Opuščená
+3. Skřivánek
+4. Róže
+5. Kytice
+6. Jahody",
+31,B31,,Tři nokturna pro orchestr (č. 2 „Májová noc“),"3 Nocturnes # 2 ""May Night""",Nocturne,,,
+32,B32,,Silhouety,Silhouettes,,,,
+33,B33,,Sonáta a moll pro housle a klavír,Sonata for Violin and Piano,Sonata,A minor,,
+34,B34,op. 10,Symfonie č. 3,Symphony No. 3,Symphony,Eb major,"1. Allegro moderato
+2. Adagio molto, tempo di marcia
+3. Finale. Allegro vivace","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, triangle, harp, violins, violas, cellos, double basses"
+35,B35,,"Romeo a Julie, předehra","Romeo and Juliet, overture",Overture,,,
+36,B36,,Oktet (serenáda),Octet (Serenade),Octet,,,"piano, two violins, viola, double bass, clarinet, bassoon and French horn"
+37,B37,op. 9,Smyčcový kvartet č. 5,String Quartet No. 5,Quartet,F minor,"1. Moderato
+2. Andante con moto quasi allegretto
+3. Tempo di valse
+4. Finale. Allegro molto",
+38,B38,op. 11,Romance pro housle a klavír,Romance for Violin and Piano,Romance,F minor,,
+39,B39,op. 11,Romance pro housle a orchestr,Romance for Violin and Orchestra,Romance,F minor,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, violins, violas, cellos, double basses + violin solo"
+40,B40,op. 12,Smyčcový kvartet č. 6,String Quartet No. 6,Quartet,A minor,"1. Allegro ma non troppo
+2. Poco allegro
+3. Poco adagio
+4. Finale. Allegro molto",
+40.1,B40a,,Andante appassionato,Andante appassionato,,,,
+41,B41,op. 13,Symfonie č. 4,Symphony No. 4,Symphony,D minor,"1. Allegro
+2. Andante sostenuto e molto cantabile
+3. Allegro feroce
+4. Allegro con brio","2 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, triangle, cymbals, harp, violins, violas, cellos, double basses"
+42,B42,,Král a uhlíř – 2. zhudebnění,"King and Collier, 2nd setting",Opera,o,,
+43,B43,,Směs z opery Král a uhlíř,Potpourri from the Opera King and Charcoal Burner,,,,
+44,B44,op. 14,Rapsodie (Symfonická báseň),Rhapsody in A minor (Symphonic Poem),Rhapsody,A minor,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses"
+45,B45,op. 16,Smyčcový kvartet č. 7,String Quartet No. 7,Quartet,A minor,"1. Allegro ma non troppo
+2. Andante cantabile
+3. Allegro scherzando
+4. Allegro ma non troppo",
+46,B46,op. 17,Tvrdé palice,The Stubborn Lovers,,,,"1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, triangle, violins, violas, cellos, double basses + mixed choir + soloists"
+47,B47,op. 40,Nokturno H dur,Nocturne for orchestra,Nocturne,B major,,"violins, violas, cellos, double basses"
+48.1,B48a,op. 40,Nokturno H dur,Nocturne for violin and piano,Nocturne,B major,,
+48.2,B48b,op. 40,Nokturno H dur,Nocturne for piano four hands,Nocturne,B major,,
+49,B49,op. 77,Smyčcový kvintet č. 2,String Quintet No. 2,Quintet,G major,"1. Allegro con fuoco
+2. Scherzo. Allegro vivace
+3. Poco andante
+4. Finale. Allegro assai",
+50,B50,op. 20,Moravské dvojzpěvy,Moravian Duets,,,,
+51,B51,op. 21,Klavírní trio č. 1,Piano Trio No. 1,Trio,Bb major,"1. Allegro molto
+2. Adagio molto e mesto
+3. Allegretto scherzando
+4. Finale. Allegro vivace",
+52,B52,op. 22,Serenáda pro smyčcové nástroje,Serenade for Strings,Serenade,D minor,"1. Moderato
+2. Menuetto. Allegro con moto
+3. Scherzo
+4. Larghetto
+5. Finale. Allegro vivace","violins, violas, cellos, double basses"
+53,B53,op. 23,Klavírní kvartet č. 1,Piano Quartet No. 1,Quartet,D major,"1. Allegro moderato
+2. Andantino
+3. Finale. Allegretto scherzando",
+54,B54,op. 76,Symfonie č. 5,Symphony No. 5,Symphony,F major,"1. Moderato
+2. Andante con moto quasi allegretto
+3. Tempo di valse
+4. Finale. Allegro molto","2 flutes, 2 oboes, 2 clarinets, 1 bass clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, triangle, violins, violas, cellos, double basses"
+55,B55,op. 25,Vanda,Vanda,Opera,,"1. dějství: Rovina před Wawelem
+2. dějství: Táž scéna
+3. dějství: Pusté skály, v pozadí jeskyně
+4. dějství: Vnitřek pohanské modlitebny
+5. dějství: Taras před Wawelem","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, harp, violins, violas, cellos, double basses + mixed choir + soloists"
+56,B56,op. 26,Klavírní trio č. 2,Piano Trio No. 2,Trio,G minor,"1. Allegro moderato
+2. Largo
+3. Scherzo. Presto
+4. Finale. Allegro non tanto",
+57,B57,op. 80,Smyčcový kvartet č. 8,String Quartet No. 8,Quartet,E major,"1. Allegro
+2. Andante con moto
+3. Allegro scherzando
+4. Finale. Allegro con brio",
+58,B58,op. 28,Dva menuety,2 Minuets,Dance,,"1. A flat major (Moderato)
+2. F major (Moderato)",
+59,B59,op. 29,Čtyři sbory,4 Choruses,,,,
+60,B60,op. 29,Moravské dvojzpěvy,Moravian Duets,,,,
+61,B61,op. 3,Večerní písně,Evening Songs,Song,,"(op. 3):
+1. Ty hvězdičky
+2. Mně zdálo se
+3. Já jsem ten rytíř
+4. Když bůh byl nejvíc rozkochán
+(op. 9):
+5. Umlklo stromů šumění
+6. Přilítlo jaro zdaleka
+(op. 31):
+7. Když jsem se díval do nebe
+8. Vy malí, drobní ptáčkové
+9. Jsem jako lípa košatá
+10. Vy všichni, kdo jste stísněni
+11. Ten ptáček
+(bez op. čísla):
+12. Tak jak ten měsíc",
+62,B62,op. 32,Moravské dvojzpěvy,Moravian Duets,,,,
+63,B63,op. 33,Koncert pro klavír a orchestr,Concerto for Piano and Orchestra,Concerto,G minor,"1. Allegro agitato
+2. Andante sostenuto
+3. Finale. Allegro con fuoco","2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, violins, violas, cellos, double basses + piano solo"
+64,B64,op. 35,Dumka,Dumka,,,,
+65,B65,op. 36,Tema con variazioni,Tema con variazioni,,,,
+66,B66,,Sborové písně pro mužské hlasy,Choral Songs for Male Voices,Song,,,
+67,B67,op. 37,Šelma sedlák,The Cunning Peasant,,,"1. dějství: Zahrada v knížecím zámku
+2. dějství: Dvůr na Martinově statku","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, triangle, harp, violins, violas, cellos, double basses + mixed choir + soloists"
+68,B68,op. 19b,Ave Maria,Ave Maria,,,,
+69,B69,op. 38,Moravské dvojzpěvy,Moravian Duets,,,,
+70,B70,op. 78,Symfonické variace,Symphonic Variations,,,,"1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, triangle, violins, violas, cellos, double basses"
+71,B71,op. 58,Stabat mater,Stabat Mater,,,"1. Stabat mater dolorosa, B minor (Andante con moto)
+2. Qui est homo, E minor (Andante sostenuto)
+3. Eja mater, C minor (Andante con moto)
+4. Fac, ut ardeat cor meum, Bb minor (Largo)
+5. Tui nati vulnerati, Eb major (Andante con moto, quasi allegretto)
+6. Fac me vere, tecum flere, B major (Andante con moto)
+7. Virgo virginum, A major (Largo)
+8. Fac ut portem Christi mortem, D major (Larghetto)
+9. Inflammatus, D minor (Andante maestoso)
+10. Quando corpus morietur, B minor/D major (Andante con moto)","2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, organ (harmonium), violins, violas, cellos, double basses + mixed choir + soloists (soprano, contralto, tenor, bass)"
+72,B72,op. 41,Kytice z českých národních písní,Bouquet of Czech Folk Songs,Song,,,
+73,B73,,Píseň Čecha,The Song of a Czech,,,,
+74,B74,op. 41,Skotské tance,Scottish Dances,,,,
+75,B75,op. 34,Smyčcový kvartet č. 9,String Quartet No. 9,Quartet,D minor,"1. Allegro
+2. Alla polka. Allegreto scherzando
+3. Adagio
+4. Poco Allegro",
+76,B76,op. 43,Z kytice národních písní slovanských,From the Bouquet of Slavonic Folk Songs,Song,,,
+77,B77,op. 44,Serenáda pro dechové nástroje,Serenade for Winds,Serenade,E major,"1. Moderato quasi marcia
+2. Menuetto. Tempo di minuetto
+3. Andante con moto
+4. Finale. Allegro molto","2 oboes, 2 clarinets, 2 bassoons, 1 contrabassoon (ad libitum), 3 horns, 1 cello, 1 double bass"
+78,B78,op. 46,"Slovanské tance I. řada, op.46","Slavonic Dances, series I",Dance,,=B83,piano four hands
+79,B79,op. 47,"Maličkosti pro dvoje housle, violoncello a harmonium",Bagatelles,,,"1. Allegretto scherzando
+2. Tempo di minuetto. Grazioso
+3. Allegretto scherzando
+4. Canon. Andante con moto
+5. Poco Allegro","2vl, vlc, harmonium"
+80,B80,op. 48,Smyčcový sextet,String Sextet,Sextet,A major,"1. Allegro moderato
+2. Dumka. Poco allegretto
+3. Furiant. Presto
+4. Finale. Tema con variazioni. Allegretto grazioso, quasi andantino",
+81,B81,,Capriccio pro housle a klavír,Capriccio for Violin and Piano,,,,
+82,B82,,Hymnus k Nejsvětější Trojici,Hymn to the Most Holy Trinity,Hymn,,"1. Dobrú noc, má milá
+2. Žalo dievča, žalo trávu
+3. Ach není, není tu
+4. Ej, mám já koňa faku",
+83,B83,op. 46,Slovanské tance I. řada,"Slavonic Dances, series I",Dance,,"No. 1 - Presto, C major (furiant)
+No. 2 - Allegretto scherzando, C minor (dumka)
+No. 3 - Poco allegro, A flat major (polka)
+No. 4 - Tempo di minuetto, F major (sousedská)
+No. 5 - Allegro vivace, A major (skočná)
+No. 6 - Allegretto scherzando, D major (sousedská)
+No. 7 - Allegro assai, C minor (skočná)
+No. 8 - Presto, G minor (furiant)","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, violins, violas, cellos, double basses"
+84,B84,op. 50,Tři novořecké básně,3 Modern Greek Poems for voice and piano,,,"1. Koljas
+2. Nereidy
+3. Žalozpěv Pargy",
+84.1,B84a,op. 50,Tři novořecké básně,3 Modern Greek Poems for voice and orchestra,,,=B84,
+85,B85,op. 42,Furianty,Furiants,Dance,,"1. D major (Allegro con fuoco)
+2. F major (Allegro con fuoco)",
+86,B86,op. 45,Slovanské rapsodie,Slavonic Rhapsodies,Rhapsody,,"Slavonic Rhapsody No. 1 in D major
+Slavonic Rhapsody No. 2 in G minor
+Slavonic Rhapsody No. 3 in Ab major","No. 1: 1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, triangle, violins, violas, cellos, double basses
+No. 2: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses
+No. 3: 2 piccolos, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses"
+87,B87,op. 27,Pět mužských sborů na texty litevských národních písní,Folk-Song Texts,Song,,,
+88,B88,op. 54,Slavnostní pochod,Festival March,March,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, triangle, harp, violins, violas, cellos, double basses"
+89,B89,op. 49,Mazurek pro housle a klavír,Mazurek for Violin and Piano in E minor,Mazurka,E minor,,
+90,B90,op. 49,Mazurek pro housle a orchestr,Mazurek for Violin and Orchestra in E minor,Mazurka,E minor,,"2 clarinets, 2 bassoons, 2 horns, timpani, violins, violas, cellos, double basses + violin solo"
+91,B91,op. 52,Žalm 149,"Psalm 149, 1st version",Psalm,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, violins, violas, cellos, double basses + male choir"
+92,B92,op. 51,Smyčcový kvartet č. 10 „Slovanský“,"String Quartet No. 10 ""Slavonic""",Quartet,Eb major,"1. Allegro ma non troppo
+2. Dumka (Elegia). Andante con moto
+3. Romanza. Andante con moto
+4. Finale. Allegro assai",
+93,B93,op. 39,Česká suita,Czech Suite,Suite,,"1. Preludio (Pastorale). Allegro moderato
+2. Polka. Allegretto grazioso
+3. Sousedska (Minuetto). Allegro giusto
+4. Romanza. Andante con moto
+5. Finale (Furiant). Presto",
+94,B94,,Polonéza pro violoncello a klavír,Polonaise for Cello and Piano,Dance,A major,,
+95,B95,op. 19b,Ave maris stella,Ave Maris Stella for voice and organ,Song,,,
+95.2,B95a,op. 19a,O sanctissima,"O Sanctissima for alto, baritone, organ",,,,
+96,B96,op. 53,Koncert pro housle a orchestr,"Concerto for Violin and Orchestra, 2 versions",Concerto,A minor,,
+97,B97,op. 25,Vanda (předehra),Vanda (overture),Overture,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, violins, violas, cellos, double basses"
+98,B98,op. 8,Silhouety,Silhouettes,,,"1. Allegro feroce
+2. Andantino
+3. Allegretto
+4. Vivace
+5. Presto
+6. Poco sostenuto
+7. Allegro
+8. Allegretto
+9. Allegro
+10. Allegretto grazioso
+11. Allegro moderato
+12. Allegro feroce",
+99,B99,,Pražské valčíky,Prague Waltzes,Dance,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, violins, violas, cellos, double basses"
+100,B100,,Polonéza,Polonaise,Dance,Eb major,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, cymbals, triangle, violins, violas, cellos, double basses"
+101,B101,op. 54,Valčíky,Waltzes,Dance,,"1. Moderato
+2. Allegro con fuoco
+3. Poco allegro
+4. Allegro vivace
+5. Allegro
+6. Allegro
+7. Allegro
+8. Allegro vivace",
+102,B102,op. 30,Hymnus z básně Dědicové Bílé hory,"Hymn ""The Heirs of White Mountain"", 2nd version",Hymn,,=B27,=B27
+103,B103,op. 56,Eklogy,Eclogues,,,"1. Allegro non tanto (Quasi polka)
+2. Quasi allegretto
+3. Moderato
+4. Allegretto",
+104,B104,op. 55,Cigánské melodie,Gypsy Melodies,Song,,"1. Má píseň zas mi láskou zní
+2. Aj, kterak trojhranec můj
+3. A les je tichý kolem kol
+4. Když mne stará matka
+5. Struna naladěna
+6. Široké rukávy
+7. Dejte klec jestřábu",
+105,B105,op. 54,Dva valčíky,2 Waltzes,Dance,,"No. 1. A major (Moderato)
+No. 2. D major (Allegro vivace)",
+106,B106,op. 57,Sonáta pro housle a klavír,Sonata for Violin and Piano,Sonata,F major,"1. Allegro, ma non troppo
+2. Poco sostenuto
+3. Allegro molto",
+107,B107,,Moravské dvojzpěvy (a cappella),Moravian Duets (a cappella),,,,
+108,B108,op. 53,Koncert pro housle a orchestr,Concerto for Violin and Orchestra,Concerto,A minor,"1. Allegro ma non troppo (att.)
+2. Adagio ma non troppo
+3. Finale. Allegro giocoso, ma non troppo","2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, violins, violas, cellos, double basses + violin solo"
+109,B109,,Lístky do památníku,Album Leaves,Piece,,"1. [...] (D)
+2. Allegretto con moto (f#)
+3. Allegro molto (F)
+4. Allegretto (G)",
+110,B110,op. 52,Klavírní skladby,Piano Pieces,Piece,,"1. Impromptu. Presto
+2. Intermezzo. Largetto
+3. Gigue
+4. Eclogue. Poco allegro
+5. Allegro molto
+6. Tempo di marcia",
+111,B111,op. 56,Mazurky,Mazurkas,Mazurka,,"1. Allegro non tanto
+2. Vivo e risoluto
+3. Allegro
+4. Lento ma non troppo
+5. Allegro non troppo
+6. Allegro",
+112,B112,op. 60,Symfonie č. 6,Symphony No. 6,Symphony,D major,"1. Allegro non tanto
+2. Adagio
+3. Scherzo (Furiant)
+4. Finale. Allegro con spirito","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, violins, violas, cellos, double basses"
+113,B113,,Dětská píseň,Children's Song,Song,,,
+114,B114,op. 53/A/1,Polka „Pražským akademikům“,"Polka ""For Prague Students""",Dance,,,"1 piccolo, 1 flute, 2 clarinets, 4 horns, 2 trumpets, 1 trombone, timpani, triangle, violins, violas, cellos, double basses"
+115,B115,,Balada krále matyáše,Ballad of King Matthias,Ballade,,,
+116,B116,,Moderato,Moderato,,A major,,
+117,B117,op. 59,Legendy,Legends,,,"No. 1 – Allegretto non troppo, quasi andantino, D minor
+No. 2 – Molto moderato, G major
+No. 3 – Allegro giusto, G minor
+No. 4 – Molto maestoso, C major
+No. 5 – Allegro giusto, Ab major
+No. 6 – Allegro con moto, C# minor
+No. 7 – Allegretto grazioso, A major
+No. 8 – Un poco allegretto, F major
+No. 9 – Andante con moto, D major
+No.10 – Andante, Bb minor",piano four hands
+118,B118,,Na tej našej střeše,There on Our Roof,,,,
+119,B119,op. 53/A/2,Kvapík,Gallop,Dance,E major,,
+120,B120,,Kvartetní věta,Quartet Movement in F major,Quartet,F major,,
+121,B121,op. 61,Smyčcový kvartet č. 11,String Quartet No. 11,Quartet,C major,"1. Allegro
+2. Poco adagio e molto cantabile
+3. Scherzo. Allegro vivo
+4. Finale. Vivace",
+122,B122,op. 59,Legendy,"Legends, for orch",,,=B117,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, triangle, harp, violins, violas, cellos, double basses"
+123,B123,op. 2/1,Písně č. 1,Songs #1,Song,,"1. Vy vroucí písně spějte
+2. Ó byl to krásný zlatý sen
+3. Kol domu se teď potácím
+4. Ó naší lásce nekvete
+5. Na horách ticho
+6. Mé srdce často v bolesti",
+124,B124,op. 2/2,Písně č. 2,Songs #2,Song,,"1. Vy vroucí písně spějte
+2. Ó byl to krásný zlatý sen
+3. Mé srdce často v bolesti
+4. Na horách ticho",
+125,B125,op. 62,Josef Kajetán Tyl – scénická hudba,Josef Kajetán Tyl,,,"1. Allegretto quasi polka
+2. –
+3. Enter'acte I (Allegro scherzando)
+4. Andante con moto
+5. –
+6. Enter'acte II
+7. Andante
+8. -","2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, violins, violas, cellos, double basses"
+125.1,B125a,op. 62,Můj domov,My Home,,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, triangle, violins, violas, cellos, double basses"
+126,B126,op. 63,V přírodě,In Nature's Realm,,,,
+127,B127,,Dimitrij,"Dimitrij, 1st version",Opera,,=B186,=B186
+128,B128,op. 3,Dvě z večerních písní,2 of the Evening Songs,Song,,,
+128.1,B128a,,Otázka,Question for piano,,,,
+129,B129,,Impromptu,Impromptu,,D minor,,
+130,B130,op. 65,Klavírní trio č. 3,Piano Trio No. 3,Trio,F minor,"1. Allegro ma non troppo
+2. Allegretto grazioso – Meno mosso
+3. Poco adagio
+4. Finale. Allegro con brio",
+131,B131,op. 66,Scherzo capriccioso,Scherzo capriccioso,,,,"1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses"
+132,B132,op. 67,Husitská,Hussite Overture,,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp (ad libitum), violins, violas, cellos, double basses"
+133,B133,op. 68,Ze Šumavy,From the Bohemian Forest,,,"1. Na přástkách (Allegro molto)
+2. U Černého jezera (Lento)
+3. Noc filipojakubská (Molto vivace)
+4. Na čekání (Allegro comodo)
+5. Klid (Lento e molto cantabile)
+6. Z bouřlivých dob (Allegro con fuoco)",
+134,B134,op. 30,Hymnus „Dědicové Bílé hory“,"Hymn ""The Heirs of White Mountain"", 3rd version",Hymn,,=B27,=B27
+135,B135,op. 69,Svatební košile,The Spectre's Bride,,,"0. Introduction
+1. Coro (""Už jedenáctá odbila"")
+2. Soprano solo (""Žel bohu, žel, kde můj tatíček?"")
+3. Tenore e Basso solo e Coro (""Pohnul se obraz na stěně"")
+4. Duetto. Soprano e Tenore solo (""Hoj, má panenko, tu jsem již!"")
+5. Basso solo e Coro (""Byla noc, byla hluboká"")
+6. Basso solo e Coro (""A on tu napřed skok a skok"")
+7. Duetto. Soprano e Tenore solo (""Pěkná noc, jasná"")
+8. Basso solo e Coro (""Knížky jí vzal a zahodil"")
+9. Basso solo e Coro (""A on vždy napřed - skok a skok"")
+10. Duetto. Soprano e Tenore solo (""Pěkná noc, jasná v tento čas"")
+11. Basso solo e Coro (""A byla cesta nížinou"")
+12. Duetto. Soprano e Tenore solo (""Pěkná noc, jasná v tu dobu"")
+13. Basso solo e Coro (""Tu na planině široké"")
+14. Duetto. Soprano e Tenore solo (""Hoj, má panenko, tu jsme již"")
+15. Basso solo e Coro (""Skokem přeskočil ohradu"")
+16. Basso solo e Coro (""A tu na dvéře: buch, buch, buch!"")
+17. Soprano solo (""Maria Panno, při mně stůj"")
+18. Basso solo e Coro (""A slyš, tu právě nablízce"")","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, triangle, tam-tam, bells, harp, violins, violas, cellos, double basses + mixed choir + soloists (soprano, tenor, bass)"
+136,B136,op. 12/1,Dumka,Dumka,,,,
+137,B137,op. 12/2,Furiant,Furiant,,,,
+138,B138,,Humoreska,Humoresque,,F# major,,
+139,B139,op. 15/1,Balada pro housle a klavír,Ballade for Violin and Piano,,D minor,,
+140,B140,,Kačena divoká,The Wild Duck,,,,
+141,B141,op. 70,Symfonie č. 7,Symphony No. 7,Symphony,D minor,"1. Allegro maestoso
+2. Poco Adagio
+3. Scherzo. Vivace
+4. Finale. Allegro","2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, violins, violas, cellos, double basses"
+142,B142,,Dvě písně na lidové texty,2 Songs on Folk Poems,Song,,"1. Spi, mé dítě, spi (Ukolébavka)
+2. Když tě vidím, má panenko (Překážka v pobožnosti)",
+143,B143,op. 28,Hymna českého rolnictva,Hymn of the Czech Peasants,Hymn,,,
+144,B144,op. 71,Svatá Ludmila,Saint Ludmila,Oratorio,,"1. Na nádvoří hradu mělnického
+2. V lesích berounských
+3. V chrámu velehradském","2 flutes, 2 oboes, 1 English horn, 2 clarinets, 1 bass clarinet, 2 bassoons, 1 contrabassoon, 4 horns, 3 trumpets, 3 trombones, 1 tuba, timpani, triangle, harp, organ, violins, violas, cellos, double basses + mixed choir + soloists"
+145,B145,op. 72,Slovanské tance II. řada,"Slavonic Dances, series II",Dance,,"No. 1 (9) - Molto vivace, B major (odzemek)
+No. 2 (10) - Allegretto grazioso, E minor (dumka)
+No. 3 (11) - Allegro, F major (skočná)
+No. 4 (12) - Allegretto grazioso, D flat major (dumka)
+No. 5 (13) - Poco adagio, B flat minor (špacírka)
+No. 6 (14) - Moderato, quasi minuetto, B flat major (polonaise)
+No. 7 (15) - Allegro vivace, C major (kolo)
+No. 8 (16) - Grazioso e lento ma non troppo, quasi tempo di valse, A flat major (sousedská)","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, ""campanello"" in A-flat² (No. 8 only), violins, violas, cellos, double basses"
+146,B146,op. 73,V národním tónu,In Folk Tone,,,,
+147,B147,op. 72,Slovanské tance II. řada,"Slavonic Dances, series II",Dance,,=B145,piano four hands
+148,B148,op. 74,Tercet pro dvoje housle a violu,Terzetto for 2 Violins and Viola,Trio,C major,,
+149,B149,op. 75a,Drobnosti pro dvoje housle a violu,Miniatures for 2 Violins and Viola,,,"1. Cavatina. Moderato
+2. Capriccio. Poco allegro
+3. Romanza. Allegro
+4. Elegia. Larghetto",
+150,B150,op. 75,Romantické kusy pro housle a klavír,Romantic Pieces for Violin and Piano,,,"1. Allegro moderato (Cavatina)
+2. Allegro maestoso (Capriccio)
+3. Allegro appassionato (Romanza)
+4. Larghetto (Elegia)",
+151,B151,op. 14,Král a uhlíř – 2. zhudebnění,"King and Collier, 2nd setting",,,,
+152,B152,,Cypřiše (pro smyčcové kvarteto),Cypresses,Quartet,,"1. Já vím, že v sladké naději (Moderato)
+2. V tak mnohém srdci mrtvo jest (Allegro ma non troppo)
+3. V té sladké moci očí tvých (Andante con moto)
+4. Ó, naší lásce nekvete to vytoužené štěstí (Poco adagio)
+5. Zde hledím na tvůj drahý list (Andante)
+6. Ó, zlatá růže spanilá (Andante moderato)
+7. Kol domu se teď potácím (Andante con moto)
+8. Zde v lese u potoka (Lento)
+9. Ó, duše drahá, jedinká (Moderato)
+10. Tam stojí stará skála (Andante maestoso)
+11. Nad krajem vévodí lehký spánek (Allegro scherzando)
+12. Ty se ptáš, proč moje zpěvy bouří (Allegro animato)",
+153,B153,op. 86,Mše D-Dur,"Mass in D major, 1st version, for soli, coro ms., org.",Mass,D major,,
+154,B154,op. 79,Žalm 149,"Psalm 149, 2nd version",Psalm,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, violins, violas, cellos, double basses + mixed choir"
+155,B155,op. 81,Klavírní kvintet č. 2,Piano Quintet No. 2,Quartet,A major,"1. Allegro ma non tanto
+2. Dumka. Andante con moto
+3. Scherzo (Furiant)
+4. Finale. Allegro",
+156,B156,,Dvě perličky,2 Little Pearls,,,"1. Do kola (Vivace)
+2. Dědeček tančí s babičkou (Allegretto grazioso)",
+157,B157,op. 82,Čtyři písně,4 Songs,Song,,"1. Kéž duch můj sám
+2. Při vyšívání
+3. Jaro
+4. U potoka",
+158,B158,,Lístek do památníku,Album Leaf,Piece,,,
+159,B159,,Jakobín,"The Jacobin, 1st version 3 acts",Opera,,"1. dějství: Náměstí venkovského městečka
+2. dějství: Síň u učitele Bendy
+3. dějství: Klenutý skvostný sál se sloupovím","3 piccolos, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp, organ, violins, violas, cellos, double basses + small orchestra behind the stage (2 piccolos, 2 trumpets, 1 trombone, triangle, cymbals, bass drum, strings) + mixed choir + children's choir + soloists"
+160,B160,op. 83,Písně milostné,Love Songs,Song,,"1. Ó naší lásce nekvete to vytoužené štěstí
+2. V tak mnohém srdci mrtvo jest
+3. Kol domu se teď potácím
+4. Já vím, že v sladké naději
+5. Nad krajem vévodí lehký spánek
+6. Zde v lese u potoka
+7. V té sladké moci očí tvých
+8. Ó duše drahá jedinká",
+161,B161,op. 85,Poetické nálady,Poetic Tone Pictures,,,"1. Noční cestou (Allegro moderato)
+2. Žertem (Allegretto leggiero)
+3. Na starém hradě (Lento)
+4. Jarní (Poco allegro)
+5. Selská balada (Allegro giusto)
+6. Vzpomínaní (Andante)
+7. Furiant (Allegro feroce)
+8. Rej skřítků (Allegretto)
+9. Serenáda (Moderato e molto cantabile)
+10. Bakchanale (Vivacissimo)
+11. Na táčkách (Andante con moto)
+12. U mohyly (Grave. Tempo di marcia)
+13. Na Svaté hoře (Poco lento)",
+162,B162,op. 87,Klavírní kvartet č. 2,Piano Quartet No. 2,Quartet,Eb major,"1. Allegro con fuoco
+2. Lento
+3. Allegro moderato, grazioso
+4. Finale. Allegro ma non troppo",
+163,B163,op. 88,Symfonie č. 8,Symphony No. 8,Symphony,G major,"1. Allegro con brio
+2. Adagio
+3. Allegretto grazioso
+4. Allegro ma non troppo","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, violins, violas, cellos, double basses"
+164,B164,,Gavota pro troje housle,Gavotte for 3 Violins,Dance,,,
+165,B165,op. 89,Requiem,Requiem,,,"1. Requiem aeternam, Bb minor (Poco lento)
+2. Graduale, Bb minor (Andante)
+3. Dies irae, Bb minor (Allegro impetuoso att.)
+4. Tuba mirum, E minor (Moderato)
+5. Quid sum miser, F minor (Lento)
+6. Recordare, D major (Andante)
+7. Confutatis maledictis, G minor (Moderato maestoso)
+8. Lacrimosa, A minor
+9. Offertorium, F major (Andante con moto)
+10. Hostias, F minor (Andante)
+11. Sanctus, Bb major (Andante maestoso)
+12. Pie Jesu, G minor (Poco adagio)
+13. Agnus Dei, Bb minor (Lento)","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 4 trumpets, 3 trombones, 1 tuba, timpani, tam-tam, bells, harp, organ, violins, violas, cellos, double basses + mixed choir + soloists (soprano, contralto, tenor, bass)"
+166,B166,op. 90,Klavírní trio č. 4 „Dumky“,"Piano Trio No. 4 ""Dumky""",Trio,,"1. Lento maestoso, E minor
+2. Poco adagio, C sharp minor
+3. Andante, A major
+4. Andante moderato, D minor
+5. Allegro, E flat major
+6. Lento maestoso, C minor",
+167,B167,,Fanfáry,Fanfares,,,,"4 trumpets, timpani"
+168,B168,op. 91,V přírodě,In Nature's Realm,,,,"2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, cymbals, triangle, violins, violas, cellos, double basses"
+169,B169,op. 92,Karneval,Carnival,,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, cymbals, triangle, tambourine, harp, violins, violas, cellos, double basses"
+170,B170,op. 46/2,Slovanský tanec č. 2 pro housle a klavír,Slavonic Dance No. 2 for Violin and Piano,Dance,E minor,,
+171,B171,op. 94,Rondo pro violoncello a klavír,Rondo for Cello and Piano,Rondo,G minor,,
+172,B172,op. 46/8,Slovanský tanec č. 8 pro violoncello a klavír,Slavonic Dance No. 8 for Cello and Piano,Dance,G minor,,
+173,B173,op. 68/5,Klid pro violoncello a klavír,Silent Woods for Cello and Piano,,,,
+174,B174,op. 93,Othello,Othello,,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, harp, violins, violas, cellos, double basses"
+175,B175,op. 86,Mše D dur („Lužanská“),"Mass in D major (""The Lužany Mass"")",Mass,D major,"1. Kyrie (Andante con moto)
+2. Gloria (Allegro vivace)
+3. Credo (Allegro ma non troppo)
+4. Sanctus (Allegro maestoso)
+5. Benedictus (Lento)
+6. Agnus Dei (Andante)","organ version: organ, mixed choir, soloists (soprano, contralto, tenor, bass)
+
+orchestral version: 2 oboes, 2 bassoons, 3 horns, 2 trumpets, 3 trombones, timpani, organ, violins, violas, cellos, double basses + mixed choir + soloists (soprano, contralto, tenor, bass)"
+176,B176,op. 103,Te Deum,Te Deum,,,"1. Allegro moderato, maestoso (att.)
+2. Lento maestoso (att.)
+3. Vivace (att.)
+4. Lento","2 flutes, 2 oboes, 1 English horn, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, organ, violins, violas, cellos, double basses + mixed choir + soloists (soprano and bass)"
+177,B177,op. 102,Americký prapor,The American Flag,,,"1. Lento maestoso (The Colors of the Flag)
+2. Allegro con fuoco (Apostrophe to the Eagle)
+3. Allegro giusto, tempo di marcia (Three Apostrophes to the Flag)
+4. Finale. Lento maestoso (Prophetic)","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, 1 tuba, timpani, bass drum, harp, violins, violas, cellos, double basses + mixed choir + soloists (contralto, tenor, baritone)"
+178,B178,op. 95,Symfonie č. 9 „Z Nového světa“,"Symphony No. 9 ""From the New World""",Symphony,E minor,"1. Adagio. Allegro molto
+2. Largo
+3. Molto vivace
+4. Allegro con fuoco","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, triangle, cymbals, violins, violas, cellos, double basses"
+179,B179,op. 96,Smyčcový kvartet č. 12 „Americký“,"String Quartet No. 12 ""American""",Quartet,F major,"1. Allegro ma non troppo
+2. Lento
+3. Molto vivace
+4. Finale. Vivace ma non troppo",
+180,B180,op. 97,Smyčcový kvintet č. 3,String Quintet No. 3,Quintet,Eb major,"1. Allegro non tanto
+2. Allegro vivo
+3. Larghetto
+4. Finale. Allegro giusto",
+181,B181,op. 94,Rondo pro violoncello a orchestr,Rondo for Cello and Orchestra,Rondo,G minor,,"2 oboes, 2 bassoons, timpani, violins, violas, cellos, double basses + cello solo"
+182,B182,op. 68/5,Klid pro violoncello a orchestr,Silent Woods for Cello and Orchestra,,,,"1 flute, 2 clarinets, 2 bassoons, 1 horn, violins, violas, cellos, double basses + cello solo"
+183,B183,op. 100,Sonatina pro housle a klavír,Sonatina for Violin and Piano,Sonata,G major,"1. Allegro risoluto
+2. Larghetto
+3. Scherzo. Molto vivace
+4. Finale. Allegro",
+184,B184,op. 98,Suita A dur,Suite in A major,Suite,A major,"1. Moderato
+2. Molto vivace
+3. Allegretto
+4. Andante
+5. Allegro",
+185,B185,op. 99,Biblické písně,Biblical Songs,Song,,"1. Oblak a mrákota jest vůkol něho, psalm 97, verse 2 - 6
+2. Skrýše má a pavéza má Ty jsi, psalm 119, verse 114, 115, 117, 120
+3. Slyš, ó Bože! Slyš modlitbu mou, psalm 55, verse 2 - 3, 5 - 9
+4. Hospodin jest můj pastýř, psalm 23, verse 1 - 4
+5. Bože! Bože! Píseň novou, psalm 144, verse 9 and psalm 145, verse 2, 3, 5, 6
+6. Slyš, ó Bože, volání mé, psalm 61, verse 2, 4, 5 and psalm 63, verse 2, 5 a 6
+7. Při řekách babylónských, psalm 137, verse 1 - 5
+8. Popatřiž na mne a smiluj se nade mnou, psalm 25, verse 16 - 18, 20
+9. Pozdvihuji očí svých k horám, psalm 121, verse 1 - 4
+10. Zpívejte Hospodinu píseň novou, psalm 96, verse 12 and psalm 98, verse 1, 4, 7, 8",
+186,B186,op. 64,Dimitrij,"Dimitrij, 1st version",,,"1. dějství: Náměstí v Moskvě před Kremlem
+2. dějství: Síň v Kremlu
+3. dějství: Jiná síň v Kremlu
+4. dějství: Nádvoří u domu Šujského","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets (+ 2 clarinets ad libitum), 2 bassoons, 4 horns, 2 trumpets (+ 2 trumpets on the stage), 3 trombones, 1 tuba, timpani, cymbals, triangle, bass drum, 2 harps, violins, violas, cellos, double basses + mixed choir + soloists"
+187,B187,op. 101,Humoresky,Humoresques,,,"1. Vivace
+2. Poco andante
+3. Poco andante e molto cantabile
+4. Poco andante
+5. Vivace
+6. Poco allegretto
+7. Poco lento e grazioso
+8. Poco andante",
+188,B188,,Dvě klavírní skladby (Ukolébavka a capriccio),2 Piano Pieces (Lullaby and Capriccio),Piece,,"1. Berceuse (Molto moderato)
+2. Capriccio (Allegretto scherzando)",
+189,B189,op. 99,Biblické písně,"Biblical Songs for v, orch",Song,,,
+190,B190,op. 98b,Suita A dur,Suite in A major,Suite,A major,"1. Andante con moto
+2. Allegro
+3. Moderato alla polacca
+4. Andante
+5. Allegro","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, violins, violas, cellos, double basses"
+191,B191,op. 104,Koncert pro violoncello a orchestr,Concerto for Cello and Orchestra,Concerto,B minor,"1. Allegro
+2. Adagio ma non troppo
+3. Finale. Allegro moderato","1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 3 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, triangle, violins, violas, cellos, double basses + cello solo"
+192,B192,op. 106,Smyčcový kvartet č. 13,String Quartet No. 13,Quartet,G major,"1. Allegro moderato
+2. Adagio ma non troppo
+3. Molto vivace
+4. Andante sostenuto. Allegro con fuoco",
+193,B193,op. 105,Smyčcový kvartet č. 13,String Quartet No. 14,Quartet,Ab major,"1. Adagio ma non troppo. Allegro appassionato
+2. Molto vivace
+3. Lento e molto cantabile
+4. Allegro non tanto",
+194,B194,,Ukolébavka,Lullaby,Song,,,
+195,B195,op. 107,Vodník,Water Goblin,,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba (2nd tuba ad libitum), timpani, bass drum, cymbals, triangle, tam-tam, bell, violins, violas, cellos, double basses"
+196,B196,op. 108,Polednice,The Noon Witch,,,,"1 piccolo, 2 flutes, 2 oboes, 3 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, bell, violins, violas, cellos, double basses"
+197,B197,op. 109,Zlatý kolovrat,The Golden Spinning Wheel,,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses"
+198,B198,op. 110,Holoubek,The Wild Dove,,,,"1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, tambourine, harp, violins, violas, cellos, double basses"
+199,B199,op. 111,Píseň bohatýrská,A Hero's Song,Song,,,"2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, violins, violas, cellos, double basses"
+200,B200,op. 84,Jakobín,The Jacobin,,,=B159,=B159
+201,B201,op. 112,Čert a Káča,The Devil and Kate,,,"1. dějství: Venkovská hospoda
+2. dějství: V pekle
+3. dějství: Síň v zámku","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 1 contrabass clarinet, 2 bassoons, 1 contrabassoon, 4 horns, 2 trumpets, 3 trombones, 2 tubas, timpani, bass drum, cymbals, triangle, snare drum, tam-tam, 2 harps, violins, violas, cellos, double basses + mixed choir + soloists"
+202,B202,op. 113,Slavnostní zpěv,Festival Song,Song,,,"1 piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, triangle, violins, violas, cellos, double basses + mixed choir"
+203,B203,op. 114,Rusalka,Rusalka,,,"1. dějství: Palouk na pokraji lesa
+2. dějství: Sad na zámku
+3. dějství: Jako poprvé","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, tam-tam, harp, violins, violas, cellos, double basses + 2 horns and harmonium behind the stage + mixed choir + soloists"
+204,B204,,Zpěv z Lešetínského kováře,Song from The Smith of Lešetín,Song,,,
+205,B205,op. 71,Svatá Ludmila,Saint Ludmila,,,=B144,=B144
+206,B206,op. 115,Armida,Armida,,,"1. dějství: Zahrady královského paláce v Damašku
+2. dějství: Křesťanský tábor u Damašku
+3. dějství: Čarovné zahrady Armidiny
+4. dějství: Oáza na poušti","1 piccolo, 2 flutes, 2 oboes, 1 English horn, 3 clarinets, 2 bassoons, 1 contrabassoon, 4 horns, 4 trumpets (2 behind the stage), 3 trombones, 1 tuba, timpani, bass drum, cymbals, triangle, harp, violins, violas, cellos, double basses + mixed choir + soloists"
+301,B301,,Úlohy z harmonie,Exercises in Harmony,,,,
+302,B302,,Preludia a fugy,Preludes and Fugues,,,"1. Prelude in D major
+2. Prelude in G major
+3. Prelude in A minor
+4. Prelude in Bb major
+5. Prelude in D major
+6. Fughetta in D major
+7. Fugue in D major
+8. Fugue in G minor",
+303,B303,,Thema k variacím Oskara Nedbala,Theme for Variations for Oskar Nedbal,,,,
+401,B401,,Smyčcový kvartet,String Quartet,Quartet,C major,,
+402,B402,,Smyčcový kvartet,String Quartet,Quartet,Bb major,,
+403,B403,,Serenáda pro orchestr,Serenade for Orchestra,Serenade,A major,,
+404,B404,,Valčík,Waltz,Dance,,,
+405,B405,,Valčík,Waltz,Dance,,,
+406,B406,,Ecossaisen,Ecossaisen,Dance,,,
+407,B407,,Allegretto,Allegretto,,A minor,,
+408,B408,,Klavírní kvartet,Piano Quartet,Quartet,Bb major,,
+409,B409,,Motivy,Themes,,,,
+410,B410,,Klavírní skladba,Piano Piece,Piece,E minor,,
+411,B411,,Americká hymna,American Anthem,,,,
+412,B412,,Symfonie h moll,Symphony in B minor,Symphony,B minor,,
+413,B413,,Koncert pro orchestr,Concerto for Orchestra,Concerto,,,
+414,B414,,Válečná předehra,War (Martial) Overture,Overture,,,
+415,B415,,Rapsodie,Rhapsody in A major,Rhapsody,A major,,
+416,B416,,Smyčcové kvartety,String Quartets,Quartet,,,
+417,B417,,Smyčcový kvartet,String Quartet,Quartet,,,
+418,B418,,Koncert pro housle (symfonie),Concerto for Violin (Symphony?),Concerto,G minor,,
+419,B419,,Sonáta pro violoncello a klavír,Sonata for Cello and Piano,Sonata,,,
+420,B420,,Symfonie „Oceán“ („Neptun“),"""Ocean"" Symphony (""Neptune"")",Symphony,,,
+421,B421,,Capriccio,Capriccio,,,,
+422,B422,,Suita d moll,Suite in D minor,Suite,D minor,,
+423,B423,,Skici,Sketches,,,,
+424,B424,,Rapsodie,Rhapsody in F minor,Rhapsody,F minor,,
+425,B425,,Koncert (?),Concerto (?),Concerto,,,
+426,B426,,Klavírní sonáta,Piano Sonata,Sonata,,,
+427,B427,,Andante cantabile,Andante cantabile,,,,
+428,B428,,Sonatina pro violoncello a klavír,Sonatina for Cello and Piano,Sonata,,,
+429,B429,,Orchestrální suita,Suite for Orchestra,Suite,,,
+430,B430,,Hiawatha,Hiawatha,,,,
+431,B431,,Symfonie A-Dur,Symphony in A major,Symphony,A major,,
+432,B432,,Zjevení sv. Jana,The Revelation of St. John,,,,
+433,B433,,Klavírní skladby,Piano Pieces,Piece,,,
+434,B434,,Andante pro violoncello a klavír,Andante for Cello and Piano,,,,
+435,B435,,Svatojanská muška,The Firefly,,,,
+436,B436,,Šárka,Šárka,Opera,,,
+437,B437,,Příchod ženichův,The Bridegroom's Arrival (a liturgical drama),Oratorio,,,
+438,B438,,Job,Job,,,,
+439,B439,,Píseň písní,Song of Songs,Oratorio,,,
+440,B440,,Vlasty skon (Vlasta),Vlasta's Death,Opera,,,
+441,B441,,Horymír,Horymír,Opera,,,
+501,B501,,Hymnus z básně Dědicové Bílé hory,"Hymn ""The Heirs of White Mountain"", for v, klav-2-ms",,,,
+502,B502,,Tvrdé palice,"The Stubborn Lovers, for v, klav-2-ms",,,,
+503,B503,,Zpěv lenky,"Lenka's Song, for v, klav-2-ms",,,,
+504,B504,,Serenáda E-Dur,"Serenade in E major, for v, klav-2-ms",,,,
+505,B505,,Zpěv knížete,"Song of The Prince,for v, klav-2-ms",,,,
+506,B506,,Slovanské rapsodie,"Slavonic Rhapsodies, for klav-4-ms",,,,
+507,B507,op. 54,Slavnostní pochod,"Festival March, for klav-2-ms",,,,
+507,B507,op. 51,Smyčcový kvartet,"String Quartet, for klav-4-ms",,Eb major,,
+507,B507,op. 48,Smyčcový sextet,"String Sextet, for klav-4-ms",,A major,,
+508,B508,,Pražské valčíky,"Prague Waltzes, for klav-2-ms",,,,
+508,B508,op. 64,Dimitrij,,,,,
+509,B509,op. 40,Nokturno H-Dur,"Nocturne, for klav-4-ms",,B major,,
+510,B510,op. 66,Scherzo capriccioso,"Scherzo capriccioso, for klav-4-ms",,,,
+511,B511,op. 67,Husitská,"Husitská, for klav-4-ms",,,,
+512,B512,op. 70,Symfonie č. 7,"Symphony No. 7, for klav-4-ms",,,,
+513,B513,op. 52,Klavírní skladby,"Piano Pieces, for klav-4-ms",,,,
+514,B514,op. 78,Symfonické variace,"Symphonic Variations, for klav-4-ms",,,,
+515,B515,op. 80,Smyčcový kvartet,String Quartet,,E major,,
+516,B516,,koncertní ouvertura,"Concert overture, for klav-4-ms",,,,
+517,B517,op. 89,Requiem,"Requiem, for v, klav-2-ms",,,,
+518,B518,op. 88,Smyčcový kvartet č. 8,"Symphony No. 8, for klav-4-ms",,,,
+519,B519,op. 102,Americký prapor,"The American Flag, for v, klav-2-ms",,,,
+520,B520,op. 90,Klavírní trio č. 4 „Dumky“,"Piano Trio No. 4 ""Dumky"", for klav-4-ms",,,,
+521,B521,op. 95,Symfonie č. 9 „Z Nového světa“,"Symphony No. 9 ""From the New World"", for klav-4-ms",,,,
+522,B522,op. 104,Koncert pro violoncello a orchestr,"Concerto for Cello and Orchestra, for klav-2-ms",,B minor,,
+523,B523,,Dimitrij,"Dimitrij, for v, klav-2-ms",,,,
+524,B524,op. 110,Holoubek,"The Wild Dove, for klav-4-ms",,,,
+525,B525,,Jakobín,"The Jacobin, 2nd version",,,,
+526,B526,,Na podzim v ořeší,"Terinka's Song from ""The Jacobin"", op. 84",,,,
+527,B527,op. 111,Píseň bohatýrská,"A Hero's Song, for klav-4-ms",,,,
+528,B528,op. 64,Dimitrij,"Dimitrij, 2nd version",,,,
+529,B529,op. 64,Dimitrij,"Dimitrij, for v, klav",,,,
+530,B530,op. 112,Čert a Káča,"The Devil and Kate, for (v), klav-2-ms",,,,
+531,B531,op. 14,Král a uhlíř,"The King and Charcoal Burner, 2nd, 3rd version,  for v, klav-2-ms",,,,
+532,B532,op. 115,Armida,"Armida, for piano",,,,
+601,B601,,Dvě irské písně,2 Irish Songs,Song,,,
+602,B602,,Uherské tance č. 17–21,Hungarian Dances Nos. 17–21,,,,
+603,B603,,Ruské písně,Russian Songs,Song,,,
+604,B604,,"Ha, ta láska","Ah, the Love",Song,,,
+605,B605,,Old Folks at Home,Old Folks at Home,,,,
+605.9,B605bis,,Tisíckrát pozdravujeme tebe,A Thousand Times We Greet Thee,Song,,,
+606,B606,,Vysocká polka,Vysoká Polka,Dance,,,
+701,B701,,Smyčcový kvartet,String Quartet,,Bb major,,
+702,B702,,Smyčcový kvartet,String Quartet,,D major,,
+703,B703,,Smyčcový kvartet,String Quartet,,E minor,,
+703.1,B703a,,Sonáta pro violoncello a klavír,Sonata for Cello and Piano,,F minor,,
+704,B704,op. 12,Smyčcový kvartet,String Quartet,,A minor,,
+705,B705,op. 26,Klavírní trio,Piano Trio,,G minor,,
+706,B706,op. 47,Maličkosti,Bagatelles,,,,
+707,B707,op. 54,2 Valčíky,2 Waltzes,,,,
+708,B708,,Moravské dvojzpěvy,"Moravian Duets, for 2 sopr, 2 alt",,,,
+801,B801,,Franz Joseph Marsch,,,,,
+802,B802,,Sokolský pochod,,,,,
+803,B803,,Polka „Bitva u novary“,The Battle of Novara,,,,
+804,B804,,"Mazurek ""Mezi čtyřma očima""",Between You and Me,,,,
+805,B805,,"French Polka ""Oči lásky""",Eyes of Love,,,,
+806,B806,,Mše f-Moll,Mass in F minor,,,,
+807,B807,,Ouverura e-Moll,,,,,
+808,B808,,Ouverura f-Moll,,,,,
+809,B809,,Smyčcový kvartet h-Moll,,,,,
+809.9,B809bis,,Smuteční pochod,Funeral March,March,,,
+810,B810,,Dvojzpěvy,Duets,,,,
+811,B811,,Jarní píseň,"Spring Song, for 2 voice, clav",,,,
+812,B812,,"Kantáta ""Lesní kaple"" by Josef Lepold Zvonař","Cantata ""Chaple in the Woods"" by Josef Lepold Zvonař, arr for v, clav",,,,
+813,B813,,Dvě polky od Könemanna,"2 Polkas by Könamann, for orch",,,,
+,,,,Per Pedes Polka,Dance,,,

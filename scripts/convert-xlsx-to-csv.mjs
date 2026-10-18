@@ -71,14 +71,26 @@ async function convertXlsxToCsv(xlsxPath, csvPath) {
 async function main() {
   const dataDir = join(__dirname, '..');
   const xlsxDir = join(dataDir, 'xlsx');
-  const csvDir = join(dataDir, 'csv');
+  const args = process.argv.slice(2);
+  let csvDir = join(dataDir, 'csv');
+
+  const outputDirIndex = args.indexOf('--output-dir');
+  if (outputDirIndex !== -1) {
+    const outputDir = args[outputDirIndex + 1];
+    if (!outputDir) {
+      throw new Error('--output-dir requires a directory path');
+    }
+    csvDir = isAbsolute(outputDir) ? outputDir : join(dataDir, outputDir);
+    args.splice(outputDirIndex, 2);
+  }
 
   // Get all XLSX files
-  const xlsxFiles = process.argv.slice(2);
+  const xlsxFiles = args;
 
   if (xlsxFiles.length === 0) {
     console.log('Usage: node convert-xlsx-to-csv.mjs <xlsx-file> [<xlsx-file> ...]');
     console.log('Or convert all XLSX files in xlsx directory');
+    console.log('Optional: --output-dir <directory> (defaults to ../csv)');
     console.log('Converting all XLSX files in xlsx...');
   }
 
